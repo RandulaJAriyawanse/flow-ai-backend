@@ -1,0 +1,759 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 11**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "# Joint Arrangements  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2019. Earlier application is\npermitted for annual periods beginning on or after 1 January 2014 but before 1 January 2019. It incorporates relevant\namendments made up to and including 14 February 2018.  \nPrepared on 29 March 2019 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 1  \nCompilation date: 31 December 2018  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "page_number": 0,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\n[on the AASB website: www.aasb.gov.au.](http://www.aasb.gov.au/)  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2019  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The National Director, Australian Accounting Standards Board, PO Box 204,\nCollins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce for commercial purposes outside Australia should be addressed to the IFRS Foundation at\nwww.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IFRS 11  \n**ACCOUNTING STANDARD**\nAASB 11 JOINT ARRANGEMENTS\nOBJECTIVE\nMeeting the objective\nSCOPE\nJOINT ARRANGEMENTS\nJoint control\n_from paragraph_\nTypes of joint arrangement** **14  \n**FINANCIAL STATEMENTS OF PARTIES TO A JOINT ARRANGEMENT**\nJoint operations** **20\nJoint ventures** **24\nSEPARATE FINANCIAL STATEMENTS** **26\nCOMMENCEMENT OF THE LEGISLATIVE INSTRUMENT** **Aus27.1\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus27.2  \n**APPENDICES**\n**A Defined terms**\n**B Application guidance**\n**C Effective date, transition and withdrawal of other IFRSs**\n**ILLUSTRATIVE EXAMPLES**\n**COMPILATION DETAILS**\nDELETED IFRS 11 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\n**Introduction to IFRS 11**\nBasis for conclusions on IFRS 11\nAustralian Accounting Standard AASB 11 Joint Arrangements (as amended) is set out in paragraphs 1 \u2013 Aus27.2 and\nAppendices A \u2013 C. All the paragraphs have equal authority. Paragraphs in **bold type state the main principles.**\nTerms defined in Appendix A are in italics the first time they appear in the Standard. AASB 11 is to be read in the\ncontext of other Australian Accounting Standards, including AASB 1048 Interpretation of Standards, which identifies\nthe Australian Accounting Interpretations, and AASB 1057 Application of Australian Accounting Standards. In the\nabsence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors provides\na basis for selecting and applying accounting policies.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IFRS 11  \nAASB 11 Joint Arrangements incorporates IFRS 11 Joint Arrangements as issued and amended by the International\nAccounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IFRS 11) are\nidentified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying their limited\napplicability.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Comparison with IFRS 11",
+            "page_number": 3,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 11 also comply with IFRS 11.  \nNot-for-profit entities\u2019 compliance with IFRS 11 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIFRS 11.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 11  \nThe Australian Accounting Standards Board made Accounting Standard AASB 11 _Joint Arrangements under_\nsection 334 of the Corporations Act 2001 on 24 July 2015.  \nThis compiled version of AASB 11 applies to annual periods beginning on or after 1 January 2019. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 14 February 2018\n(see Compilation Details).",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Accounting Standard AASB 11",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 11 Joint Arrangements  \nObjective  \n**1** **The objective of this Standard is to establish principles for financial reporting by entities that have an**\n**interest in arrangements that are controlled jointly (ie joint arrangements).**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Accounting Standard AASB 11 Joint Arrangements",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Meeting the objective  \n2 To meet the objective in paragraph 1, this Standard defines _joint control and requires an entity that is a_\n_party to a joint arrangement to determine the type of joint arrangement in which it is involved by assessing_\nits rights and obligations and to account for those rights and obligations in accordance with that type of joint\narrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Meeting the objective",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n**3** **This Standard shall be applied by all entities that are a party to a joint arrangement.**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint arrangements  \n**4** **A joint arrangement is an arrangement of which two or more parties have joint control.**  \n**5** **A joint arrangement has the following characteristics:**  \n**(a)** **The parties are bound by a contractual arrangement (see paragraphs B2\u2013B4).**  \n**(b)** **The contractual arrangement gives two or more of those parties joint control of the**\n**arrangement (see paragraphs 7\u201313).**  \n**6** **A joint arrangement is either a joint operation or a joint venture.**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint arrangements",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint control  \n**7** **Joint control is the contractually agreed sharing of control of an arrangement, which exists only when**\n**decisions about the relevant activities require the unanimous consent of the parties sharing control.**  \n8 An entity that is a party to an arrangement shall assess whether the contractual arrangement gives all the\nparties, or a group of the parties, control of the arrangement collectively. All the parties, or a group of the\nparties, control the arrangement collectively when they must act together to direct the activities that\nsignificantly affect the returns of the arrangement (ie the relevant activities).  \n9 Once it has been determined that all the parties, or a group of the parties, control the arrangement\ncollectively, joint control exists only when decisions about the relevant activities require the unanimous\nconsent of the parties that control the arrangement collectively.  \n10 In a joint arrangement, no single party controls the arrangement on its own. A party with joint control of an\narrangement can prevent any of the other parties, or a group of the parties, from controlling the\narrangement.  \n-----  11 An arrangement can be a joint arrangement even though not all of its parties have joint control of the\narrangement. This Standard distinguishes between parties that have joint control of a joint arrangement\n(joint operators or joint venturers) and parties that participate in, but do not have joint control of, a joint\narrangement.  \n12 An entity will need to apply judgement when assessing whether all the parties, or a group of the parties,\nhave joint control of an arrangement. An entity shall make this assessment by considering all facts and\ncircumstances (see paragraphs B5\u2013B11).  \n13 If facts and circumstances change, an entity shall reassess whether it still has joint control of the\narrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control",
+            "page_number": 4,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Types of joint arrangement  \n**14** **An entity shall determine the type of joint arrangement in which it is involved. The classification of a**\n**joint arrangement as a joint operation or a joint venture depends upon the rights and obligations of**\n**the parties to the arrangement.**  \n**15** **A joint operation is a joint arrangement whereby the parties that have joint control of the**\n**arrangement have rights to the assets, and obligations for the liabilities, relating to the arrangement.**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Types of joint arrangement",
+            "page_number": 5,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Those parties are called joint operators.  \n**16** **A joint venture is a joint arrangement whereby the parties that have joint control of the arrangement**\n**have rights to the net assets of the arrangement. Those parties are called joint venturers.**  \n17 An entity applies judgement when assessing whether a joint arrangement is a joint operation or a joint\nventure. An entity shall determine the type of joint arrangement in which it is involved by considering its\nrights and obligations arising from the arrangement. An entity assesses its rights and obligations by\nconsidering the structure and legal form of the arrangement, the terms agreed by the parties in the\ncontractual arrangement and, when relevant, other facts and circumstances (see paragraphs B12\u2013B33).  \n18 Sometimes the parties are bound by a framework agreement that sets up the general contractual terms for\nundertaking one or more activities. The framework agreement might set out that the parties establish\ndifferent joint arrangements to deal with specific activities that form part of the agreement. Even though\nthose joint arrangements are related to the same framework agreement, their type might be different if the\nparties\u2019 rights and obligations differ when undertaking the different activities dealt with in the framework\nagreement. Consequently, joint operations and joint ventures can coexist when the parties undertake\ndifferent activities that form part of the same framework agreement.  \n19 If facts and circumstances change, an entity shall reassess whether the type of joint arrangement in which it\nis involved has changed.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Types of joint arrangement",
+            "Header 3": "Those parties are called joint operators.",
+            "page_number": 5,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Financial statements of parties to a joint arrangement  \nJoint operations  \n**20** **A joint operator shall recognise in relation to its interest in a joint operation:**  \n**(a)** **its assets, including its share of any assets held jointly;**  \n**(b)** **its liabilities, including its share of any liabilities incurred jointly;**  \n**(c)** **its revenue from the sale of its share of the output arising from the joint operation;**  \n**(d)** **its share of the revenue from the sale of the output by the joint operation; and**  \n**(e)** **its expenses, including its share of any expenses incurred jointly.**  \n21 A joint operator shall account for the assets, liabilities, revenues and expenses relating to its interest in a\njoint operation in accordance with the Standards applicable to the particular assets, liabilities, revenues and\nexpenses.  \n21A When an entity acquires an interest in a joint operation in which the activity of the joint operation\nconstitutes a business, as defined in AASB 3 Business Combinations, it shall apply, to the extent of its share\nin accordance with paragraph 20, all of the principles on business combinations accounting in AASB 3, and\nother Australian Accounting Standards, that do not conflict with the guidance in this Standard and disclose\nthe information that is required in those Australian Accounting Standards in relation to business\ncombinations. This applies to the acquisition of both the initial interest and additional interests in a joint  \n-----  operation in which the activity of the joint operation constitutes a business. The accounting for the\nacquisition of an interest in such a joint operation is specified in paragraphs B33A\u2013B33D.  \n22 The accounting for transactions such as the sale, contribution or purchase of assets between an entity and a\njoint operation in which it is a joint operator is specified in paragraphs B34\u2013B37.  \n23 A party that participates in, but does not have joint control of, a joint operation shall also account for its\ninterest in the arrangement in accordance with paragraphs 20\u201322 if that party has rights to the assets, and\nobligations for the liabilities, relating to the joint operation. If a party that participates in, but does not have\njoint control of, a joint operation does not have rights to the assets, and obligations for the liabilities,\nrelating to that joint operation, it shall account for its interest in the joint operation in accordance with the\nStandards applicable to that interest.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Financial statements of parties to a joint arrangement",
+            "page_number": 5,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint ventures  \n**24** **A joint venturer shall recognise its interest in a joint venture as an investment and shall account for**\n**that investment using the equity method in accordance with AASB 128 Investments in Associates and**\n**_Joint Ventures unless the entity is exempted from applying the equity method as specified in that_**\n**standard.**  \n25 A party that participates in, but does not have joint control of, a joint venture shall account for its interest in\nthe arrangement in accordance with AASB 9 Financial Instruments, unless it has significant influence over\nthe joint venture, in which case it shall account for it in accordance with AASB 128.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint ventures",
+            "page_number": 6,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Separate financial statements  \n**26** **In its separate financial statements, a joint operator or joint venturer shall account for its interest in:**  \n**(a)** **a joint operation in accordance with paragraphs 20\u201322;**  \n**(b)** **a joint venture in accordance with paragraph 10 of AASB 127** **_Separate Financial_**\n**_Statements._**  \n**27** **In its separate financial statements, a party that participates in, but does not have joint control of, a**\n**joint arrangement shall account for its interest in:**  \n**(a)** **a joint operation in accordance with paragraph 23;**  \n**(b)** **a joint venture in accordance with AASB 9, unless the entity has significant influence over**\n**the joint venture, in which case it shall apply paragraph 10 of AASB 127.**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Separate financial statements",
+            "page_number": 6,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus27.1 For legal purposes, this legislative instrument commences on 31 December 2015.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 6,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus27.2 This Standard repeals AASB 11 Joint Arrangements issued in August 2011. Despite the repeal,\nafter the time this Standard starts to apply under section 334 of the Corporations Act (either\ngenerally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 6,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Defined terms  \n_This appendix is an integral part of the Standard._  \n**joint arrangement** An arrangement of which two or more parties have joint control.  \n**joint control** The contractually agreed sharing of control of an arrangement, which exists only when\ndecisions about the relevant activities require the unanimous consent of the parties\nsharing control.  \n**joint operation** A joint arrangement whereby the parties that have joint control of the arrangement\nhave rights to the assets, and obligations for the liabilities, relating to the arrangement.  \n**joint operator** A party to a joint operation that has joint control of that joint operation.  \n**joint venture** A joint arrangement whereby the parties that have joint control of the arrangement\nhave rights to the net assets of the arrangement.  \n**joint venturer** A party to a joint venture that has joint control of that joint venture.  \n**party to a joint**\n**arrangement**  \nAn entity that participates in a joint arrangement, regardless of whether that entity\nhas joint control of the arrangement.  \n**separate vehicle** A separately identifiable financial structure, including separate legal entities or entities\nrecognised by statute, regardless of whether those entities have a legal personality.  \nThe following terms are defined in AASB 127, AASB 128 or AASB 10 Consolidated Financial Statements and are\nused in this Standard with the meanings specified in those Standards:  \n-  control of an investee  \n-  equity method  \n-  power  \n-  protective rights  \n-  relevant activities  \n-  separate financial statements  \n-  significant influence.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Appendix A Defined terms",
+            "page_number": 7,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Appendix B Application guidance  \n_This appendix is an integral part of the Standard. It describes the application of paragraphs 1\u201327 and has the same_\n_authority as the other parts of the Standard._  \nB1 The examples in this appendix portray hypothetical situations. Although some aspects of the examples may\nbe present in actual fact patterns, all relevant facts and circumstances of a particular fact pattern would need\nto be evaluated when applying AASB 11.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Appendix B Application guidance",
+            "page_number": 8,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint arrangements  \nContractual arrangement (paragraph 5)  \nB2 Contractual arrangements can be evidenced in several ways. An enforceable contractual arrangement is\noften, but not always, in writing, usually in the form of a contract or documented discussions between the\nparties. Statutory mechanisms can also create enforceable arrangements, either on their own or in\nconjunction with contracts between the parties.  \nB3 When joint arrangements are structured through a _separate vehicle (see paragraphs B19\u2013B33), the_\ncontractual arrangement, or some aspects of the contractual arrangement, will in some cases be incorporated\nin the articles, charter or by-laws of the separate vehicle.  \nB4 The contractual arrangement sets out the terms upon which the parties participate in the activity that is the\nsubject of the arrangement. The contractual arrangement generally deals with such matters as:  \n(a) the purpose, activity and duration of the joint arrangement.  \n(b) how the members of the board of directors, or equivalent governing body, of the joint\narrangement, are appointed.  \n(c) the decision-making process: the matters requiring decisions from the parties, the voting rights of\nthe parties and the required level of support for those matters. The decision-making process\nreflected in the contractual arrangement establishes joint control of the arrangement (see\nparagraphs B5\u2013B11).  \n(d) the capital or other contributions required of the parties.  \n(e) how the parties share assets, liabilities, revenues, expenses or profit or loss relating to the joint\narrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint arrangements",
+            "page_number": 8,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint control (paragraphs 7\u201313)  \nB5 In assessing whether an entity has joint control of an arrangement, an entity shall assess first whether all the\nparties, or a group of the parties, control the arrangement. AASB 10 defines control and shall be used to\ndetermine whether all the parties, or a group of the parties, are exposed, or have rights, to variable returns\nfrom their involvement with the arrangement and have the ability to affect those returns through their power\nover the arrangement. When all the parties, or a group of the parties, considered collectively, are able to\ndirect the activities that significantly affect the returns of the arrangement (ie the relevant activities), the\nparties control the arrangement collectively.  \nB6 After concluding that all the parties, or a group of the parties, control the arrangement collectively, an entity\nshall assess whether it has joint control of the arrangement. Joint control exists only when decisions about\nthe relevant activities require the unanimous consent of the parties that collectively control the arrangement.\nAssessing whether the arrangement is jointly controlled by all of its parties or by a group of the parties, or\ncontrolled by one of its parties alone, can require judgement.  \nB7 Sometimes the decision-making process that is agreed upon by the parties in their contractual arrangement\nimplicitly leads to joint control. For example, assume two parties establish an arrangement in which each\nhas 50 per cent of the voting rights and the contractual arrangement between them specifies that at least 51\nper cent of the voting rights are required to make decisions about the relevant activities. In this case, the\nparties have implicitly agreed that they have joint control of the arrangement because decisions about the\nrelevant activities cannot be made without both parties agreeing.  \n-----  B8 In other circumstances, the contractual arrangement requires a minimum proportion of the voting rights to\nmake decisions about the relevant activities. When that minimum required proportion of the voting rights\ncan be achieved by more than one combination of the parties agreeing together, that arrangement is not a\njoint arrangement unless the contractual arrangement specifies which parties (or combination of parties) are\nrequired to agree unanimously to decisions about the relevant activities of the arrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "page_number": 8,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Application examples",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "Header 3": "Application examples",
+            "page_number": 9,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Example 1\nAssume that three parties establish an arrangement: A has 50 per cent of the voting rights in the\narrangement, B has 30 per cent and C has 20 per cent. The contractual arrangement between A, B and C\nspecifies that at least 75 per cent of the voting rights are required to make decisions about the relevant\nactivities of the arrangement. Even though A can block any decision, it does not control the arrangement\nbecause it needs the agreement of B. The terms of their contractual arrangement requiring at least 75 per\ncent of the voting rights to make decisions about the relevant activities imply that A and B have joint\ncontrol of the arrangement because decisions about the relevant activities of the arrangement cannot be\nmade without both A and B agreeing.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "Header 3": "Example 1",
+            "page_number": 9,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Example 2\nAssume an arrangement has three parties: A has 50 per cent of the voting rights in the arrangement and B\nand C each have 25 per cent. The contractual arrangement between A, B and C specifies that at least 75\nper cent of the voting rights are required to make decisions about the relevant activities of the\narrangement. Even though A can block any decision, it does not control the arrangement because it needs\nthe agreement of either B or C. In this example, A, B and C collectively control the arrangement.\nHowever, there is more than one combination of parties that can agree to reach 75 per cent of the voting\nrights (ie either A and B or A and C). In such a situation, to be a joint arrangement the contractual\narrangement between the parties would need to specify which combination of the parties is required to\nagree unanimously to decisions about the relevant activities of the arrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "Header 3": "Example 2",
+            "page_number": 9,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Example 3\nAssume an arrangement in which A and B each have 35 per cent of the voting rights in the arrangement\nwith the remaining 30 per cent being widely dispersed. Decisions about the relevant activities require\napproval by a majority of the voting rights. A and B have joint control of the arrangement only if the\ncontractual arrangement specifies that decisions about the relevant activities of the arrangement require\nboth A and B agreeing.  \nB9 The requirement for unanimous consent means that any party with joint control of the arrangement can\nprevent any of the other parties, or a group of the parties, from making unilateral decisions (about the\nrelevant activities) without its consent. If the requirement for unanimous consent relates only to decisions\nthat give a party protective rights and not to decisions about the relevant activities of an arrangement, that\nparty is not a party with joint control of the arrangement.  \nB10 A contractual arrangement might include clauses on the resolution of disputes, such as arbitration. These\nprovisions may allow for decisions to be made in the absence of unanimous consent among the parties that\nhave joint control. The existence of such provisions does not prevent the arrangement from being jointly\ncontrolled and, consequently, from being a joint arrangement.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "Header 3": "Example 3",
+            "page_number": 9,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Assessing joint control\nOutside the  \nDoes the contractual arrangement give all No  \nscope of  \nthe parties, or a group of the parties, control  \nAASB 11  \nof the arrangement collectively  \nYes  \nDo decisions about the relevant activities Outside the  \nrequire the unanimous consent of all the No scope of  \nparties, or of a group of the parties, that AASB 11  \ncollectively control the arrangement?  \nYes  \nThe arrangement is jointly controlled:  \nthe arrangement is a joint arrangement.  \nB11 When an arrangement is outside the scope of AASB 11, an entity accounts for its interest in the\narrangement in accordance with relevant Australian Accounting Standards, such as AASB 10, AASB 128 or\nAASB 9.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint control (paragraphs 7\u201313)",
+            "Header 3": "Assessing joint control",
+            "page_number": 10,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Types of joint arrangement (paragraphs 14\u201319)  \nB12 Joint arrangements are established for a variety of purposes (eg as a way for parties to share costs and risks,\nor as a way to provide the parties with access to new technology or new markets), and can be established\nusing different structures and legal forms.  \nB13 Some arrangements do not require the activity that is the subject of the arrangement to be undertaken in a\nseparate vehicle. However, other arrangements involve the establishment of a separate vehicle.  \nB14 The classification of joint arrangements required by this Standard depends upon the parties\u2019 rights and\nobligations arising from the arrangement in the normal course of business. This Standard classifies joint\narrangements as either joint operations or joint ventures. When an entity has rights to the assets, and\nobligations for the liabilities, relating to the arrangement, the arrangement is a joint operation. When an\nentity has rights to the net assets of the arrangement, the arrangement is a joint venture. Paragraphs B16\u2013\nB33 set out the assessment an entity carries out to determine whether it has an interest in a joint operation or\nan interest in a joint venture.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Types of joint arrangement (paragraphs 14\u201319)",
+            "page_number": 10,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Classification of a joint arrangement  \nB15 As stated in paragraph B14, the classification of joint arrangements requires the parties to assess their rights\nand obligations arising from the arrangement. When making that assessment, an entity shall consider the\nfollowing:  \n(a) the structure of the joint arrangement (see paragraphs B16\u2013B21).  \n(b) when the joint arrangement is structured through a separate vehicle:  \n(i) the legal form of the separate vehicle (see paragraphs B22\u2013B24);  \n(ii) the terms of the contractual arrangement (see paragraphs B25\u2013B28); and  \n(iii) when relevant, other facts and circumstances (see paragraphs B29\u2013B33).",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "page_number": 10,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Structure of the joint arrangement\n_Joint arrangements not structured through a separate vehicle_  \nB16 A joint arrangement that is not structured through a separate vehicle is a joint operation. In such cases, the\ncontractual arrangement establishes the parties\u2019 rights to the assets, and obligations for the liabilities,  \n-----  relating to the arrangement, and the parties\u2019 rights to the corresponding revenues and obligations for the\ncorresponding expenses.  \nB17 The contractual arrangement often describes the nature of the activities that are the subject of the\narrangement and how the parties intend to undertake those activities together. For example, the parties to a\njoint arrangement could agree to manufacture a product together, with each party being responsible for a\nspecific task and each using its own assets and incurring its own liabilities. The contractual arrangement\ncould also specify how the revenues and expenses that are common to the parties are to be shared among\nthem. In such a case, each joint operator recognises in its financial statements the assets and liabilities used\nfor the specific task, and recognises its share of the revenues and expenses in accordance with the\ncontractual arrangement.  \nB18 In other cases, the parties to a joint arrangement might agree, for example, to share and operate an asset\ntogether. In such a case, the contractual arrangement establishes the parties\u2019 rights to the asset that is\noperated jointly, and how output or revenue from the asset and operating costs are shared among the parties.\nEach joint operator accounts for its share of the joint asset and its agreed share of any liabilities, and\nrecognises its share of the output, revenues and expenses in accordance with the contractual arrangement.  \n_Joint arrangements structured through a separate vehicle_  \nB19 A joint arrangement in which the assets and liabilities relating to the arrangement are held in a separate\nvehicle can be either a joint venture or a joint operation.  \nB20 Whether a party is a joint operator or a joint venturer depends on the party\u2019s rights to the assets, and\nobligations for the liabilities, relating to the arrangement that are held in the separate vehicle.  \nB21 As stated in paragraph B15, when the parties have structured a joint arrangement in a separate vehicle, the\nparties need to assess whether the legal form of the separate vehicle, the terms of the contractual\narrangement and, when relevant, any other facts and circumstances give them:  \n(a) rights to the assets, and obligations for the liabilities, relating to the arrangement (ie the\narrangement is a joint operation); or  \n(b) rights to the net assets of the arrangement (ie the arrangement is a joint venture).",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Structure of the joint arrangement",
+            "page_number": 10,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Classification of a joint arrangement: assessment of the  \n**parties\u2019 rights and obligations arising from the arrangement**  \nStructure of the joint arrangement  \nNot structured through Structured through a  \na separate vehicle separate vehicle  \nAn entity shall consider:  \n(i) The legal form of the separate  \nvehicle;  \n(ii) The terms of the contractual  \narrangement; and  \n(iii) When relevant, other facts  \nand circumstances.  \nJoint operation Joint venture",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Classification of a joint arrangement: assessment of the",
+            "page_number": 11,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### The legal form of the separate vehicle\nB22 The legal form of the separate vehicle is relevant when assessing the type of joint arrangement. The legal\nform assists in the initial assessment of the parties\u2019 rights to the assets and obligations for the liabilities held  \n-----  in the separate vehicle, such as whether the parties have interests in the assets held in the separate vehicle\nand whether they are liable for the liabilities held in the separate vehicle.  \nB23 For example, the parties might conduct the joint arrangement through a separate vehicle, whose legal form\ncauses the separate vehicle to be considered in its own right (ie the assets and liabilities held in the separate\nvehicle are the assets and liabilities of the separate vehicle and not the assets and liabilities of the parties). In\nsuch a case, the assessment of the rights and obligations conferred upon the parties by the legal form of the\nseparate vehicle indicates that the arrangement is a joint venture. However, the terms agreed by the parties\nin their contractual arrangement (see paragraphs B25\u2013B28) and, when relevant, other facts and\ncircumstances (see paragraphs B29\u2013B33) can override the assessment of the rights and obligations\nconferred upon the parties by the legal form of the separate vehicle.  \nB24 The assessment of the rights and obligations conferred upon the parties by the legal form of the separate\nvehicle is sufficient to conclude that the arrangement is a joint operation only if the parties conduct the joint\narrangement in a separate vehicle whose legal form does not confer separation between the parties and the\nseparate vehicle (ie the assets and liabilities held in the separate vehicle are the parties\u2019 assets and\nliabilities).",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "The legal form of the separate vehicle",
+            "page_number": 11,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Assessing the terms of the contractual arrangement\nB25 In many cases, the rights and obligations agreed to by the parties in their contractual arrangements are\nconsistent, or do not conflict, with the rights and obligations conferred on the parties by the legal form of\nthe separate vehicle in which the arrangement has been structured.  \nB26 In other cases, the parties use the contractual arrangement to reverse or modify the rights and obligations\nconferred by the legal form of the separate vehicle in which the arrangement has been structured.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Assessing the terms of the contractual arrangement",
+            "page_number": 12,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Application example",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Application example",
+            "page_number": 12,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Example 4\nAssume that two parties structure a joint arrangement in an incorporated entity. Each party has a 50 per\ncent ownership interest in the incorporated entity. The incorporation enables the separation of the entity\nfrom its owners and as a consequence the assets and liabilities held in the entity are the assets and\nliabilities of the incorporated entity. In such a case, the assessment of the rights and obligations conferred\nupon the parties by the legal form of the separate vehicle indicates that the parties have rights to the net\nassets of the arrangement.  \nHowever, the parties modify the features of the corporation through their contractual arrangement so that\neach has an interest in the assets of the incorporated entity and each is liable for the liabilities of the\nincorporated entity in a specified proportion. Such contractual modifications to the features of a\ncorporation can cause an arrangement to be a joint operation.  \nB27 The following table compares common terms in contractual arrangements of parties to a joint operation and\ncommon terms in contractual arrangements of parties to a joint venture. The examples of the contractual\nterms provided in the following table are not exhaustive.  \n|Assessing the terms of the contractual arrangement|Col2|Col3|\n|---|---|---|\n||Joint operation|Joint venture|\n|The terms of the contractual arrangement|The contractual arrangement provides the parties to the joint arrangement with rights to the assets, and obligations for the liabilities, relating to the arrangement.|The contractual arrangement provides the parties to the joint arrangement with rights to the net assets of the arrangement (ie it is the separate vehicle, not the parties, that has rights to the assets, and obligations for the liabilities, relating to the arrangement).|  \n-----  |Assessing the terms of the contractual arrangement|Col2|Col3|\n|---|---|---|\n||Joint operation|Joint venture|\n|Rights to assets|The contractual arrangement establishes that the parties to the joint arrangement share all interests (eg rights, title or ownership) in the assets relating to the arrangement in a specified proportion (eg in proportion to the parties\u2019 ownership interest in the arrangement or in proportion to the activity carried out through the arrangement that is directly attributed to them).|The contractual arrangement establishes that the assets brought into the arrangement or subsequently acquired by the joint arrangement are the arrangement\u2019s assets. The parties have no interests (ie no rights, title or ownership) in the assets of the arrangement.|\n|Obligations for liabilities|The contractual arrangement establishes that the parties to the joint arrangement share all liabilities, obligations, costs and expenses in a specified proportion (eg in proportion to the parties\u2019 ownership interest in the arrangement or in proportion to the activity carried out through the arrangement that is directly attributed to them).|The contractual arrangement establishes that the joint arrangement is liable for the debts and obligations of the arrangement.|\n|||The contractual arrangement establishes that the parties to the joint arrangement are liable to the arrangement only to the extent of their respective investments in the arrangement or to their respective obligations to contribute any unpaid or additional capital to the arrangement, or both.|\n||The contractual arrangement establishes that the parties to the joint arrangement are liable for claims raised by third parties.|The contractual arrangement states that creditors of the joint arrangement do not have rights of recourse against any party with respect to debts or obligations of the arrangement.|\n|Revenues, expenses, profit or loss|The contractual arrangement establishes the allocation of revenues and expenses on the basis of the relative performance of each party to the joint arrangement. For example, the contractual arrangement might establish that revenues and expenses are allocated on the basis of the capacity that each party uses in a plant operated jointly, which could differ from their ownership interest in the joint arrangement. In other instances, the parties might have agreed to share the profit or loss relating to the arrangement on the basis of a specified proportion such as the parties\u2019 ownership interest in the arrangement. This would not prevent the arrangement from being a joint operation if the parties have rights to the assets, and obligations for the liabilities, relating to the arrangement.|The contractual arrangement establishes each party\u2019s share in the profit or loss relating to the activities of the arrangement.|  \n-----  |Assessing the terms of the contractual arrangement|Col2|Col3|\n|---|---|---|\n||Joint operation|Joint venture|\n|Guarantees|The parties to joint arrangements are often required to provide guarantees to third parties that, for example, receive a service from, or provide financing to, the joint arrangement. The provision of such guarantees, or the commitment by the parties to provide them, does not, by itself, determine that the joint arrangement is a joint operation. The feature that determines whether the joint arrangement is a joint operation or a joint venture is whether the parties have obligations for the liabilities relating to the arrangement (for some of which the parties might or might not have provided a guarantee).||  \nB28 When the contractual arrangement specifies that the parties have rights to the assets, and obligations for the\nliabilities, relating to the arrangement, they are parties to a joint operation and do not need to consider other\nfacts and circumstances (paragraphs B29\u2013B33) for the purposes of classifying the joint arrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Example 4",
+            "page_number": 12,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Assessing other facts and circumstances\nB29 When the terms of the contractual arrangement do not specify that the parties have rights to the assets, and\nobligations for the liabilities, relating to the arrangement, the parties shall consider other facts and\ncircumstances to assess whether the arrangement is a joint operation or a joint venture.  \nB30 A joint arrangement might be structured in a separate vehicle whose legal form confers separation between\nthe parties and the separate vehicle. The contractual terms agreed among the parties might not specify the\nparties\u2019 rights to the assets and obligations for the liabilities, yet consideration of other facts and\ncircumstances can lead to such an arrangement being classified as a joint operation. This will be the case\nwhen other facts and circumstances give the parties rights to the assets, and obligations for the liabilities,\nrelating to the arrangement.  \nB31 When the activities of an arrangement are primarily designed for the provision of output to the parties, this\nindicates that the parties have rights to substantially all the economic benefits of the assets of the\narrangement. The parties to such arrangements often ensure their access to the outputs provided by the\narrangement by preventing the arrangement from selling output to third parties.  \nB32 The effect of an arrangement with such a design and purpose is that the liabilities incurred by the\narrangement are, in substance, satisfied by the cash flows received from the parties through their purchases\nof the output. When the parties are substantially the only source of cash flows contributing to the continuity\nof the operations of the arrangement, this indicates that the parties have an obligation for the liabilities\nrelating to the arrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Assessing other facts and circumstances",
+            "page_number": 14,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Application example",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Application example",
+            "page_number": 14,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Example 5\nAssume that two parties structure a joint arrangement in an incorporated entity (entity C) in which each\nparty has a 50 per cent ownership interest. The purpose of the arrangement is to manufacture materials\nrequired by the parties for their own, individual manufacturing processes. The arrangement ensures that\nthe parties operate the facility that produces the materials to the quantity and quality specifications of the\nparties.  \nThe legal form of entity C (an incorporated entity) through which the activities are conducted initially\nindicates that the assets and liabilities held in entity C are the assets and liabilities of entity C. The\ncontractual arrangement between the parties does not specify that the parties have rights to the assets or\nobligations for the liabilities of entity C. Accordingly, the legal form of entity C and the terms of the\ncontractual arrangement indicate that the arrangement is a joint venture.  \nHowever, the parties also consider the following aspects of the arrangement:  \n-  The parties agreed to purchase all the output produced by entity C in a ratio of 50:50. Entity C\ncannot sell any of the output to third parties, unless this is approved by the two parties to the\narrangement. Because the purpose of the arrangement is to provide the parties with output they  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Example 5",
+            "page_number": 14,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Application example\nrequire, such sales to third parties are expected to be uncommon and not material.  \n-  The price of the output sold to the parties is set by both parties at a level that is designed to\ncover the costs of production and administrative expenses incurred by entity C. On the basis of\nthis operating model, the arrangement is intended to operate at a break-even level.  \nFrom the fact pattern above, the following facts and circumstances are relevant:  \n-  The obligation of the parties to purchase all the output produced by entity C reflects the\nexclusive dependence of entity C upon the parties for the generation of cash flows and, thus,\nthe parties have an obligation to fund the settlement of the liabilities of entity C.  \n-  The fact that the parties have rights to all the output produced by entity C means that the\nparties are consuming, and therefore have rights to, all the economic benefits of the assets of\nentity C.  \nThese facts and circumstances indicate that the arrangement is a joint operation. The conclusion about\nthe classification of the joint arrangement in these circumstances would not change if, instead of the\nparties using their share of the output themselves in a subsequent manufacturing process, the parties sold\ntheir share of the output to third parties.  \nIf the parties changed the terms of the contractual arrangement so that the arrangement was able to sell\noutput to third parties, this would result in entity C assuming demand, inventory and credit risks. In that\nscenario, such a change in the facts and circumstances would require reassessment of the classification of\nthe joint arrangement. Such facts and circumstances would indicate that the arrangement is a joint\nventure.  \nB33 The following flow chart reflects the assessment an entity follows to classify an arrangement when the joint\narrangement is structured through a separate vehicle:  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Application example",
+            "page_number": 15,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Classification of a joint arrangement structured through  \n**a separate vehicle**  \n|Legal form of the separate vehicle|Col2|Does the legal form of the separate vehicle give the parties rights to the assets, and obligations for the liabilities, relating to the arrangement?|\n|---|---|---|  \nNo  \n|Terms of the contractual arrangement|Col2|Do the terms of the contractual arrangement specify that the parties have rights to the assets, and obligations for the liabilities, relating to the arrangement?|\n|---|---|---|  \nNo  \n|Other facts and circumstances|Col2|Have the parties designed arrangement so that: (a) its activities primarily aim to provide the parties with an output (ie the parties have rights to substantially all of the economic benefits of the assets held in the separate vehicle) and (b) it depends on the parties on a continuous basis for settling the liabilities relating to the activity conducted through the arrangement?|\n|---|---|---|  \nYes  \nYes  \nJoint  \noperation  \nYes  \nNo  \nJoint venture",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Classification of a joint arrangement",
+            "Header 3": "Classification of a joint arrangement structured through",
+            "page_number": 16,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Financial statements of parties to a joint arrangement  (paragraphs 21A\u201322)  \nAccounting for acquisitions of interests in joint operations  \nB33A When an entity acquires an interest in a joint operation in which the activity of the joint operation\nconstitutes a business, as defined in AASB 3, it shall apply, to the extent of its share in accordance with\nparagraph 20, all of the principles on business combinations accounting in AASB 3, and other Australian\nAccounting Standards, that do not conflict with the guidance in this Standard and disclose the information\nrequired by those Australian Accounting Standards in relation to business combinations. The principles on\nbusiness combinations accounting that do not conflict with the guidance in this Standard include but are not\nlimited to:  \n(a) measuring identifiable assets and liabilities at fair value, other than items for which exceptions\nare given in AASB 3 and other Australian Accounting Standards;  \n-----  (b) recognising acquisition-related costs as expenses in the periods in which the costs are incurred\nand the services are received, with the exception that the costs to issue debt or equity securities\nare recognised in accordance with AASB 132 Financial Instruments: Presentation and AASB 9;[1]  \n(c) recognising deferred tax assets and deferred tax liabilities that arise from the initial recognition of\nassets or liabilities, except for deferred tax liabilities that arise from the initial recognition of\ngoodwill, as required by AASB 3 and AASB 112 Income Taxes for business combinations;  \n(d) recognising the excess of the consideration transferred over the net of the acquisition-date\namounts of the identifiable assets acquired and the liabilities assumed, if any, as goodwill; and  \n(e) testing for impairment a cash-generating unit to which goodwill has been allocated at least\nannually, and whenever there is an indication that the unit may be impaired, as required by\nAASB 136 Impairment of Assets for goodwill acquired in a business combination.  \nB33B Paragraphs 21A and B33A also apply to the formation of a joint operation if, and only if, an existing\nbusiness, as defined in AASB 3, is contributed to the joint operation on its formation by one of the parties\nthat participate in the joint operation. However, those paragraphs do not apply to the formation of a joint\noperation if all of the parties that participate in the joint operation only contribute assets or groups of assets\nthat do not constitute businesses to the joint operation on its formation.  \nB33C A joint operator might increase its interest in a joint operation in which the activity of the joint operation\nconstitutes a business, as defined in AASB 3, by acquiring an additional interest in the joint operation. In\nsuch cases, previously held interests in the joint operation are not remeasured if the joint operator retains\njoint control.  \nB33CA A party that participates in, but does not have joint control of, a joint operation might obtain joint control of\nthe joint operation in which the activity of the joint operation constitutes a business as defined in AASB 3.\nIn such cases, previously held interests in the joint operation are not remeasured.  \nB33D Paragraphs 21A and B33A\u2013B33C do not apply on the acquisition of an interest in a joint operation when the\nparties sharing joint control, including the entity acquiring the interest in the joint operation, are under the\ncommon control of the same ultimate controlling party or parties both before and after the acquisition, and\nthat control is not transitory.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Financial statements of parties to a joint arrangement  (paragraphs 21A\u201322)",
+            "page_number": 16,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Accounting for sales or contributions of assets to a joint operation  \nB34 When an entity enters into a transaction with a joint operation in which it is a joint operator, such as a sale\nor contribution of assets, it is conducting the transaction with the other parties to the joint operation and, as\nsuch, the joint operator shall recognise gains and losses resulting from such a transaction only to the extent\nof the other parties\u2019 interests in the joint operation.  \nB35 When such transactions provide evidence of a reduction in the net realisable value of the assets to be sold or\ncontributed to the joint operation, or of an impairment loss of those assets, those losses shall be recognised\nfully by the joint operator.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Accounting for sales or contributions of assets to a joint operation",
+            "page_number": 17,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Accounting for purchases of assets from a joint operation  \nB36 When an entity enters into a transaction with a joint operation in which it is a joint operator, such as a\npurchase of assets, it shall not recognise its share of the gains and losses until it resells those assets to a third\nparty.  \nB37 When such transactions provide evidence of a reduction in the net realisable value of the assets to be\npurchased or of an impairment loss of those assets, a joint operator shall recognise its share of those losses.  \n1 If an entity applies these amendments but does not yet apply AASB 9, the reference in these amendments to AASB 9 shall be read as a\nreference to AASB 139 Financial Instruments: Recognition and Measurement.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Accounting for purchases of assets from a joint operation",
+            "page_number": 17,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Appendix C Effective date, transition and withdrawal of other IFRSs  \n_This appendix is an integral part of the Standard and has the same authority as the other parts of the Standard._",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Appendix C Effective date, transition and withdrawal of other IFRSs",
+            "page_number": 18,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Effective date  \nC1 An entity shall apply this Standard for annual periods beginning on or after 1 January 2016. Earlier\napplication is permitted for periods beginning on or after 1 January 2014 but before 1 January 2016. If an\nentity applies this Standard earlier, it shall disclose that fact and apply AASB 10, AASB 12 Disclosure of\n_Interests in Other Entities, AASB 127 and AASB 128 at the same time._  \nC1A [Deleted by the AASB]  \nC1AA AASB 2014-3 Amendments to Australian Accounting Standards \u2013 Accounting for Acquisitions of Interests\n_in Joint Operations, issued in August 2014, amended the previous version of this Standard as follows:_\namended the heading after paragraph B33 and added paragraphs 21A, B33A\u2013B33D and C14A and their\nrelated headings. An entity shall apply those amendments prospectively in annual periods beginning on or\nafter 1 January 2016. Earlier application is permitted. If an entity applies those amendments in an earlier\nperiod it shall disclose that fact.  \nC1AB AASB 2018-1 Amendments to Australian Accounting Standards \u2013 Annual Improvements 2015\u20132017 Cycle,\nissued in February 2018, added paragraph B33CA. An entity shall apply those amendments to transactions\nin which it obtains joint control on or after the beginning of the first annual reporting period beginning on or\nafter 1 January 2019. Earlier application is permitted. If an entity applies those amendments earlier, it shall\ndisclose that fact.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Effective date",
+            "page_number": 18,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Transition  \nC1B Notwithstanding the requirements of paragraph 28 of AASB 108 _Accounting Policies, Changes in_\n_Accounting Estimates and Errors, when this Standard is first applied, an entity need only present the_\nquantitative information required by paragraph 28(f) of AASB 108 for the annual period immediately\npreceding the first annual period for which AASB 11 is applied (the \u2018immediately preceding period\u2019). An\nentity may also present this information for the current period or for earlier comparative periods, but is not\nrequired to do so.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Transition",
+            "page_number": 18,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint ventures\u2014transition from proportionate consolidation to the equity method  \nC2 When changing from proportionate consolidation to the equity method, an entity shall recognise its\ninvestment in the joint venture as at the beginning of the immediately preceding period. That initial\ninvestment shall be measured as the aggregate of the carrying amounts of the assets and liabilities that the\nentity had previously proportionately consolidated, including any goodwill arising from acquisition. If the\ngoodwill previously belonged to a larger cash-generating unit, or to a group of cash-generating units, the\nentity shall allocate goodwill to the joint venture on the basis of the relative carrying amounts of the joint\nventure and the cash-generating unit or group of cash-generating units to which it belonged.  \nC3 The opening balance of the investment determined in accordance with paragraph C2 is regarded as the\ndeemed cost of the investment at initial recognition. An entity shall apply paragraphs 40\u201343 of AASB 128\nto the opening balance of the investment to assess whether the investment is impaired and shall recognise\nany impairment loss as an adjustment to retained earnings at the beginning of the immediately preceding\nperiod. The initial recognition exception in paragraphs 15 and 24 of AASB 112 _Income Taxes does not_\napply when the entity recognises an investment in a joint venture resulting from applying the transition\nrequirements for joint ventures that had previously been proportionately consolidated.  \nC4 If aggregating all previously proportionately consolidated assets and liabilities results in negative net assets,\nan entity shall assess whether it has legal or constructive obligations in relation to the negative net assets\nand, if so, the entity shall recognise the corresponding liability. If the entity concludes that it does not have\nlegal or constructive obligations in relation to the negative net assets, it shall not recognise the\ncorresponding liability but it shall adjust retained earnings at the beginning of the immediately preceding\nperiod. The entity shall disclose this fact, along with its cumulative unrecognised share of losses of its joint  \n-----  ventures as at the beginning of the immediately preceding period and at the date at which this Standard is\nfirst applied.  \nC5 An entity shall disclose a breakdown of the assets and liabilities that have been aggregated into the single\nline investment balance as at the beginning of the immediately preceding period. That disclosure shall be\nprepared in an aggregated manner for all joint ventures for which an entity applies the transition\nrequirements referred to in paragraphs C2\u2013C6.  \nC6 After initial recognition, an entity shall account for its investment in the joint venture using the equity\nmethod in accordance with AASB 128.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint ventures\u2014transition from proportionate consolidation to the equity method",
+            "page_number": 18,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Joint operations\u2014transition from the equity method to accounting for assets and liabilities  \nC7 When changing from the equity method to accounting for assets and liabilities in respect of its interest in a\njoint operation, an entity shall, at the beginning of the immediately preceding period, derecognise the\ninvestment that was previously accounted for using the equity method and any other items that formed part\nof the entity\u2019s net investment in the arrangement in accordance with paragraph 38 of AASB 128 and\nrecognise its share of each of the assets and the liabilities in respect of its interest in the joint operation,\nincluding any goodwill that might have formed part of the carrying amount of the investment.  \nC8 An entity shall determine its interest in the assets and liabilities relating to the joint operation on the basis of\nits rights and obligations in a specified proportion in accordance with the contractual arrangement. An entity\nmeasures the initial carrying amounts of the assets and liabilities by disaggregating them from the carrying\namount of the investment at the beginning of the immediately preceding period on the basis of the\ninformation used by the entity in applying the equity method.  \nC9 Any difference arising from the investment previously accounted for using the equity method together with\nany other items that formed part of the entity\u2019s net investment in the arrangement in accordance with\nparagraph 38 of AASB 128, and the net amount of the assets and liabilities, including any goodwill,\nrecognised shall be:  \n(a) offset against any goodwill relating to the investment with any remaining difference adjusted\nagainst retained earnings at the beginning of the immediately preceding period, if the net amount\nof the assets and liabilities, including any goodwill, recognised is higher than the investment (and\nany other items that formed part of the entity\u2019s net investment) derecognised.  \n(b) adjusted against retained earnings at the beginning of the immediately preceding period, if the net\namount of the assets and liabilities, including any goodwill, recognised is lower than the\ninvestment (and any other items that formed part of the entity\u2019s net investment) derecognised.  \nC10 An entity changing from the equity method to accounting for assets and liabilities shall provide a\nreconciliation between the investment derecognised, and the assets and liabilities recognised, together with\nany remaining difference adjusted against retained earnings, at the beginning of the immediately preceding\nperiod.  \nC11 The initial recognition exception in paragraphs 15 and 24 of AASB 112 does not apply when the entity\nrecognises assets and liabilities relating to its interest in a joint operation.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Joint operations\u2014transition from the equity method to accounting for assets and liabilities",
+            "page_number": 19,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Transition provisions in an entity\u2019s separate financial statements  \nC12 An entity that, in accordance with paragraph 10 of AASB 127, was previously accounting in its separate\nfinancial statements for its interest in a joint operation as an investment at cost or in accordance with\nAASB 9 shall:  \n(a) derecognise the investment and recognise the assets and the liabilities in respect of its interest in\nthe joint operation at the amounts determined in accordance with paragraphs C7\u2013C9.  \n(b) provide a reconciliation between the investment derecognised, and the assets and liabilities\nrecognised, together with any remaining difference adjusted in retained earnings, at the beginning\nof the immediately preceding period.  \nC13 The initial recognition exception in paragraphs 15 and 24 of AASB 112 does not apply when the entity\nrecognises assets and liabilities relating to its interest in a joint operation in its separate financial statements\nresulting from applying the transition requirements for joint operations referred to in paragraph C12.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Transition provisions in an entity\u2019s separate financial statements",
+            "page_number": 19,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## References to the \u2018immediately preceding period\u2019  \nC13A Notwithstanding the references to the \u2018immediately preceding period\u2019 in paragraphs C2\u2013C12, an entity may\nalso present adjusted comparative information for any earlier periods presented, but is not required to do so.\nIf an entity does present adjusted comparative information for any earlier periods, all references to the\n\u2018immediately preceding period\u2019 in paragraphs C2\u2013C12 shall be read as the \u2018earliest adjusted comparative\nperiod presented\u2019.  \nC13B If an entity presents unadjusted comparative information for any earlier periods, it shall clearly identify the\ninformation that has not been adjusted, state that it has been prepared on a different basis, and explain that\nbasis.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "References to the \u2018immediately preceding period\u2019",
+            "page_number": 20,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## References to AASB 9  \nC14 If an entity applies this Standard but does not yet apply AASB 9, any reference to AASB 9 shall be read as\na reference to AASB 139 Financial Instruments: Recognition and Measurement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "References to AASB 9",
+            "page_number": 20,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Accounting for acquisitions of interests in joint operations  \nC14A AASB 2014-3, issued in August 2014, amended the previous version of this Standard as follows: amended\nthe heading after paragraph B33 and added paragraphs 21A, B33A\u2013B33D, C1AA and their related\nheadings. An entity shall apply those amendments prospectively for acquisitions of interests in joint\noperations in which the activities of the joint operations constitute businesses, as defined in AASB 3, for\nthose acquisitions occurring from the beginning of the first period in which it applies those amendments.\nConsequently, amounts recognised for acquisitions of interests in joint operations occurring in prior periods\nshall not be adjusted.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Accounting for acquisitions of interests in joint operations",
+            "page_number": 20,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of other IFRSs  \nC15 [Deleted by the AASB]  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Withdrawal of other IFRSs",
+            "page_number": 20,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Illustrative examples AASB 11 Joint Arrangements  \n_These examples accompany, but are not part of, AASB 11. They illustrate aspects of AASB 11 but are not intended to_\n_provide interpretative guidance._  \nIE1 These examples portray hypothetical situations illustrating the judgements that might be used when\napplying AASB 11 in different situations. Although some aspects of the examples may be present in actual\nfact patterns, all relevant facts and circumstances of a particular fact pattern would need to be evaluated\nwhen applying AASB 11.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Illustrative examples AASB 11 Joint Arrangements",
+            "page_number": 21,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 1 \u2013 Construction services  \nIE2 A and B (the parties) are two companies whose businesses are the provision of many types of public and\nprivate construction services. They set up a contractual arrangement to work together for the purpose of\nfulfilling a contract with a government for the design and construction of a road between two cities. The\ncontractual arrangement determines the participation shares of A and B and establishes joint control of the\narrangement, the subject matter of which is the delivery of the road.  \nIE3 The parties set up a separate vehicle (entity Z) through which to conduct the arrangement. Entity Z, on\nbehalf of A and B, enters into the contract with the government. In addition, the assets and liabilities\nrelating to the arrangement are held in entity Z. The main feature of entity Z\u2019s legal form is that the parties,\nnot entity Z, have rights to the assets, and obligations for the liabilities, of the entity.  \nIE4 The contractual arrangement between A and B additionally establishes that:  \n(a) the rights to all the assets needed to undertake the activities of the arrangement are shared by the\nparties on the basis of their participation shares in the arrangement;  \n(b) the parties have several and joint responsibility for all operating and financial obligations relating\nto the activities of the arrangement on the basis of their participation shares in the arrangement;\nand  \n(c) the profit or loss resulting from the activities of the arrangement is shared by A and B on the basis\nof their participation shares in the arrangement.  \nIE5 For the purposes of co-ordinating and overseeing the activities, A and B appoint an operator, who will be an\nemployee of one of the parties. After a specified time, the role of the operator will rotate to an employee of\nthe other party. A and B agree that the activities will be executed by the operator\u2019s employees on a \u2018no gain\nor loss\u2019 basis.  \nIE6 In accordance with the terms specified in the contract with the government, entity Z invoices the\nconstruction services to the government on behalf of the parties.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 1 \u2013 Construction services",
+            "page_number": 21,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE7 The joint arrangement is carried out through a separate vehicle whose legal form does not confer separation\nbetween the parties and the separate vehicle (ie the assets and liabilities held in entity Z are the parties\u2019\nassets and liabilities). This is reinforced by the terms agreed by the parties in their contractual arrangement,\nwhich state that A and B have rights to the assets, and obligations for the liabilities, relating to the\narrangement that is conducted through entity Z. The joint arrangement is a joint operation.  \nIE8 A and B each recognise in their financial statements their share of the assets (eg property, plant and\nequipment, accounts receivable) and their share of any liabilities resulting from the arrangement (eg\naccounts payable to third parties) on the basis of their agreed participation share. Each also recognises its\nshare of the revenue and expenses resulting from the construction services provided to the government\nthrough entity Z.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 21,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 2 \u2013 Shopping centre operated jointly  \nIE9 Two real estate companies (the parties) set up a separate vehicle (entity X) for the purpose of acquiring and\noperating a shopping centre. The contractual arrangement between the parties establishes joint control of the\nactivities that are conducted in entity X. The main feature of entity X\u2019s legal form is that the entity, not the  \n-----  parties, has rights to the assets, and obligations for the liabilities, relating to the arrangement. These\nactivities include the rental of the retail units, managing the car park, maintaining the centre and its\nequipment, such as lifts, and building the reputation and customer base for the centre as a whole.  \nIE10 The terms of the contractual arrangement are such that:  \n(a) entity X owns the shopping centre. The contractual arrangement does not specify that the parties\nhave rights to the shopping centre.  \n(b) the parties are not liable in respect of the debts, liabilities or obligations of entity X. If entity X is\nunable to pay any of its debts or other liabilities or to discharge its obligations to third parties, the\nliability of each party to any third party will be limited to the unpaid amount of that party\u2019s\ncapital contribution.  \n(c) the parties have the right to sell or pledge their interests in entity X.  \n(d) each party receives a share of the income from operating the shopping centre (which is the rental\nincome net of the operating costs) in accordance with its interest in entity X.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 2 \u2013 Shopping centre operated jointly",
+            "page_number": 21,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE11 The joint arrangement is carried out through a separate vehicle whose legal form causes the separate vehicle\nto be considered in its own right (ie the assets and liabilities held in the separate vehicle are the assets and\nliabilities of the separate vehicle and not the assets and liabilities of the parties). In addition, the terms of the\ncontractual arrangement do not specify that the parties have rights to the assets, or obligations for the\nliabilities, relating to the arrangement. Instead, the terms of the contractual arrangement establish that the\nparties have rights to the net assets of entity X.  \nIE12 On the basis of the description above, there are no other facts and circumstances that indicate that the\nparties have rights to substantially all the economic benefits of the assets relating to the arrangement, and\nthat the parties have an obligation for the liabilities relating to the arrangement. The joint arrangement is a\njoint venture.  \nIE13 The parties recognise their rights to the net assets of entity X as investments and account for them using the\nequity method.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 22,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 3 \u2013 Joint manufacturing and distribution of a product  \nIE14 Companies A and B (the parties) have set up a strategic and operating agreement (the framework\nagreement) in which they have agreed the terms according to which they will conduct the manufacturing\nand distribution of a product (product P) in different markets.  \nIE15 The parties have agreed to conduct manufacturing and distribution activities by establishing joint\narrangements, as described below:  \n(a) Manufacturing activity: the parties have agreed to undertake the manufacturing activity through a\njoint arrangement (the manufacturing arrangement). The manufacturing arrangement is structured\nin a separate vehicle (entity M) whose legal form causes it to be considered in its own right (ie the\nassets and liabilities held in entity M are the assets and liabilities of entity M and not the assets\nand liabilities of the parties). In accordance with the framework agreement, the parties have\ncommitted themselves to purchasing the whole production of product P manufactured by the\nmanufacturing arrangement in accordance with their ownership interests in entity M. The parties\nsubsequently sell product P to another arrangement, jointly controlled by the two parties\nthemselves, that has been established exclusively for the distribution of product P as described\nbelow. Neither the framework agreement nor the contractual arrangement between A and B\ndealing with the manufacturing activity specifies that the parties have rights to the assets, and\nobligations for the liabilities, relating to the manufacturing activity.  \n(b) Distribution activity: the parties have agreed to undertake the distribution activity through a joint\narrangement (the distribution arrangement). The parties have structured the distribution\narrangement in a separate vehicle (entity D) whose legal form causes it to be considered in its\nown right (ie the assets and liabilities held in entity D are the assets and liabilities of entity D and\nnot the assets and liabilities of the parties). In accordance with the framework agreement, the\ndistribution arrangement orders its requirements for product P from the parties according to the\nneeds of the different markets where the distribution arrangement sells the product. Neither the\nframework agreement nor the contractual arrangement between A and B dealing with the  \n-----  distribution activity specifies that the parties have rights to the assets, and obligations for the\nliabilities, relating to the distribution activity.  \nIE16 In addition, the framework agreement establishes:  \n(a) that the manufacturing arrangement will produce product P to meet the requirements for product\nP that the distribution arrangement places on the parties;  \n(b) the commercial terms relating to the sale of product P by the manufacturing arrangement to the\nparties. The manufacturing arrangement will sell product P to the parties at a price agreed by A\nand B that covers all production costs incurred. Subsequently, the parties sell the product to the\ndistribution arrangement at a price agreed by A and B.  \n(c) that any cash shortages that the manufacturing arrangement may incur will be financed by the\nparties in accordance with their ownership interests in entity M.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 3 \u2013 Joint manufacturing and distribution of a product",
+            "page_number": 22,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE17 The framework agreement sets up the terms under which parties A and B conduct the manufacturing and\ndistribution of product P. These activities are undertaken through joint arrangements whose purpose is\neither the manufacturing or the distribution of product P.  \nIE18 The parties carry out the manufacturing arrangement through entity M whose legal form confers separation\nbetween the parties and the entity. In addition, neither the framework agreement nor the contractual\narrangement dealing with the manufacturing activity specifies that the parties have rights to the assets, and\nobligations for the liabilities, relating to the manufacturing activity. However, when considering the\nfollowing facts and circumstances the parties have concluded that the manufacturing arrangement is a joint\noperation:  \n(a) The parties have committed themselves to purchasing the whole production of product P\nmanufactured by the manufacturing arrangement. Consequently, A and B have rights to\nsubstantially all the economic benefits of the assets of the manufacturing arrangement.  \n(b) The manufacturing arrangement manufactures product P to meet the quantity and quality needs of\nthe parties so that they can fulfil the demand for product P of the distribution arrangement. The\nexclusive dependence of the manufacturing arrangement upon the parties for the generation of\ncash flows and the parties\u2019 commitments to provide funds when the manufacturing arrangement\nincurs any cash shortages indicate that the parties have an obligation for the liabilities of the\nmanufacturing arrangement, because those liabilities will be settled through the parties\u2019 purchases\nof product P or by the parties\u2019 direct provision of funds.  \nIE19 The parties carry out the distribution activities through entity D, whose legal form confers separation\nbetween the parties and the entity. In addition, neither the framework agreement nor the contractual\narrangement dealing with the distribution activity specifies that the parties have rights to the assets, and\nobligations for the liabilities, relating to the distribution activity.  \nIE20 There are no other facts and circumstances that indicate that the parties have rights to substantially all the\neconomic benefits of the assets relating to the distribution arrangement or that the parties have an obligation\nfor the liabilities relating to that arrangement. The distribution arrangement is a joint venture.  \nIE21 A and B each recognise in their financial statements their share of the assets (eg property, plant and\nequipment, cash) and their share of any liabilities resulting from the manufacturing arrangement (eg\naccounts payable to third parties) on the basis of their ownership interest in entity M. Each party also\nrecognises its share of the expenses resulting from the manufacture of product P incurred by the\nmanufacturing arrangement and its share of the revenues relating to the sales of product P to the distribution\narrangement.  \nIE22 The parties recognise their rights to the net assets of the distribution arrangement as investments and\naccount for them using the equity method.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 23,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Variation  \nIE23 Assume that the parties agree that the manufacturing arrangement described above is responsible not only\nfor manufacturing product P, but also for its distribution to third-party customers.  \nIE24 The parties also agree to set up a distribution arrangement like the one described above to distribute product\nP exclusively to assist in widening the distribution of product P in additional specific markets.  \n-----  IE25 The manufacturing arrangement also sells product P directly to the distribution arrangement. No fixed\nproportion of the production of the manufacturing arrangement is committed to be purchased by, or to be\nreserved to, the distribution arrangement.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Variation",
+            "page_number": 23,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE26 The variation has affected neither the legal form of the separate vehicle in which the manufacturing activity\nis conducted nor the contractual terms relating to the parties\u2019 rights to the assets, and obligations for the\nliabilities, relating to the manufacturing activity. However, it causes the manufacturing arrangement to be a\nself-financed arrangement because it is able to undertake trade on its own behalf, distributing product P to\nthird-party customers and, consequently, assuming demand, inventory and credit risks. Even though the\nmanufacturing arrangement might also sell product P to the distribution arrangement, in this scenario the\nmanufacturing arrangement is not dependent on the parties to be able to carry out its activities on a\ncontinuous basis. In this case, the manufacturing arrangement is a joint venture.  \nIE27 The variation has no effect on the classification of the distribution arrangement as a joint venture.  \nIE28 The parties recognise their rights to the net assets of the manufacturing arrangement and their rights to the\nnet assets of the distribution arrangement as investments and account for them using the equity method.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 24,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 4 \u2013 Bank operated jointly  \nIE29 Banks A and B (the parties) agreed to combine their corporate, investment banking, asset management and\nservices activities by establishing a separate vehicle (bank C). Both parties expect the arrangement to\nbenefit them in different ways. Bank A believes that the arrangement could enable it to achieve its strategic\nplans to increase its size, offering an opportunity to exploit its full potential for organic growth through an\nenlarged offering of products and services. Bank B expects the arrangement to reinforce its offering in\nfinancial savings and market products.  \nIE30 The main feature of bank C\u2019s legal form is that it causes the separate vehicle to be considered in its own\nright (ie the assets and liabilities held in the separate vehicle are the assets and liabilities of the separate\nvehicle and not the assets and liabilities of the parties). Banks A and B each have a 40 per cent ownership\ninterest in bank C, with the remaining 20 per cent being listed and widely held. The shareholders\u2019\nagreement between bank A and bank B establishes joint control of the activities of bank C.  \nIE31 In addition, bank A and bank B entered into an irrevocable agreement under which, even in the event of a\ndispute, both banks agree to provide the necessary funds in equal amount and, if required, jointly and\nseverally, to ensure that bank C complies with the applicable legislation and banking regulations, and\nhonours any commitments made to the banking authorities. This commitment represents the assumption by\neach party of 50 per cent of any funds needed to ensure that bank C complies with legislation and banking\nregulations.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 4 \u2013 Bank operated jointly",
+            "page_number": 24,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE32 The joint arrangement is carried out through a separate vehicle whose legal form confers separation\nbetween the parties and the separate vehicle. The terms of the contractual arrangement do not specify that\nthe parties have rights to the assets, or obligations for the liabilities, of bank C, but it establishes that the\nparties have rights to the net assets of bank C. The commitment by the parties to provide support if bank C\nis not able to comply with the applicable legislation and banking regulations is not by itself a determinant\nthat the parties have an obligation for the liabilities of bank C. There are no other facts and circumstances\nthat indicate that the parties have rights to substantially all the economic benefits of the assets of bank C and\nthat the parties have an obligation for the liabilities of bank C. The joint arrangement is a joint venture.  \nIE33 Both banks A and B recognise their rights to the net assets of bank C as investments and account for them\nusing the equity method.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 24,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 5 \u2013 Oil and gas exploration, development and production activities  \nIE34 Companies A and B (the parties) set up a separate vehicle (entity H) and a Joint Operating Agreement\n(JOA) to undertake oil and gas exploration, development and production activities in country O. The main\nfeature of entity H\u2019s legal form is that it causes the separate vehicle to be considered in its own right (ie the  \n-----  assets and liabilities held in the separate vehicle are the assets and liabilities of the separate vehicle and not\nthe assets and liabilities of the parties).  \nIE35 Country O has granted entity H permits for the oil and gas exploration, development and production\nactivities to be undertaken in a specific assigned block of land (fields).  \nIE36 The shareholders\u2019 agreement and JOA agreed by the parties establish their rights and obligations relating to\nthose activities. The main terms of those agreements are summarised below.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 5 \u2013 Oil and gas exploration, development and production activities",
+            "page_number": 24,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Shareholders\u2019 agreement\nIE37 The board of entity H consists of a director from each party. Each party has a 50 per cent shareholding in\nentity H. The unanimous consent of the directors is required for any resolution to be passed.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 5 \u2013 Oil and gas exploration, development and production activities",
+            "Header 3": "Shareholders\u2019 agreement",
+            "page_number": 25,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Joint Operating Agreement (JOA)\nIE38 The JOA establishes an Operating Committee. This Committee consists of one representative from each\nparty. Each party has a 50 per cent participating interest in the Operating Committee.  \nIE39 The Operating Committee approves the budgets and work programmes relating to the activities, which also\nrequire the unanimous consent of the representatives of each party. One of the parties is appointed as\noperator and is responsible for managing and conducting the approved work programmes.  \nIE40 The JOA specifies that the rights and obligations arising from the exploration, development and production\nactivities shall be shared among the parties in proportion to each party\u2019s shareholding in entity H. In\nparticular, the JOA establishes that the parties share:  \n(a) the rights and the obligations arising from the exploration and development permits granted to\nentity H (eg the permits, rehabilitation liabilities, any royalties and taxes payable);  \n(b) the production obtained; and  \n(c) all costs associated with all work programmes.  \nIE41 The costs incurred in relation to all the work programmes are covered by cash calls on the parties. If either\nparty fails to satisfy its monetary obligations, the other is required to contribute to entity H the amount in\ndefault. The amount in default is regarded as a debt owed by the defaulting party to the other party.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 5 \u2013 Oil and gas exploration, development and production activities",
+            "Header 3": "Joint Operating Agreement (JOA)",
+            "page_number": 25,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE42 The parties carry out the joint arrangement through a separate vehicle whose legal form confers separation\nbetween the parties and the separate vehicle. The parties have been able to reverse the initial assessment of\ntheir rights and obligations arising from the legal form of the separate vehicle in which the arrangement is\nconducted. They have done this by agreeing terms in the JOA that entitle them to rights to the assets (eg\nexploration and development permits, production, and any other assets arising from the activities) and\nobligations for the liabilities (eg all costs and obligations arising from the work programmes) that are held\nin entity H. The joint arrangement is a joint operation.  \nIE43 Both company A and company B recognise in their financial statements their own share of the assets and of\nany liabilities resulting from the arrangement on the basis of their agreed participating interest. On that\nbasis, each party also recognises its share of the revenue (from the sale of their share of the production) and\nits share of the expenses.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 25,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 6 \u2013 Liquefied natural gas arrangement  \nIE44 Company A owns an undeveloped gas field that contains substantial gas resources. Company A determines\nthat the gas field will be economically viable only if the gas is sold to customers in overseas markets. To do\nso, a liquefied natural gas (LNG) facility must be built to liquefy the gas so that it can be transported by ship\nto the overseas markets.  \nIE45 Company A enters into a joint arrangement with company B in order to develop and operate the gas field\nand the LNG facility. Under that arrangement, companies A and B (the parties) agree to contribute the gas\nfield and cash, respectively, to a new separate vehicle, entity C. In exchange for those contributions, the\nparties each take a 50 per cent ownership interest in entity C. The main feature of entity C\u2019s legal form is\nthat it causes the separate vehicle to be considered in its own right (ie the assets and liabilities held in the\nseparate vehicle are the assets and liabilities of the separate vehicle and not the assets and liabilities of the\nparties).  \n-----  IE46 The contractual arrangement between the parties specifies that:  \n(a) companies A and B must each appoint two members to the board of entity C. The board of\ndirectors must unanimously agree the strategy and investments made by entity C.  \n(b) day-to-day management of the gas field and LNG facility, including development and\nconstruction activities, will be undertaken by the staff of company B in accordance with the\ndirections jointly agreed by the parties. Entity C will reimburse B for the costs it incurs in\nmanaging the gas field and LNG facility.  \n(c) entity C is liable for taxes and royalties on the production and sale of LNG as well as for other\nliabilities incurred in the ordinary course of business, such as accounts payable, site restoration\nand decommissioning liabilities.  \n(d) companies A and B have equal shares in the profit from the activities carried out in the\narrangement and, as such, are entitled to equal shares of any dividends distributed by entity C.  \nIE47 The contractual arrangement does not specify that either party has rights to the assets, or obligations for the\nliabilities, of entity C.  \nIE48 The board of entity C decides to enter into a financing arrangement with a syndicate of lenders to help fund\nthe development of the gas field and construction of the LNG facility. The estimated total cost of the\ndevelopment and construction is CU1,000 million.[2]  \nIE49 The lending syndicate provides entity C with a CU700 million loan. The arrangement specifies that the\nsyndicate has recourse to companies A and B only if entity C defaults on the loan arrangement during the\ndevelopment of the field and construction of the LNG facility. The lending syndicate agrees that it will not\nhave recourse to companies A and B once the LNG facility is in production because it has assessed that the\ncash inflows that entity C should generate from LNG sales will be sufficient to meet the loan repayments.\nAlthough at this time the lenders have no recourse to companies A and B, the syndicate maintains\nprotection against default by entity C by taking a lien on the LNG facility.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 6 \u2013 Liquefied natural gas arrangement",
+            "page_number": 25,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE50 The joint arrangement is carried out through a separate vehicle whose legal form confers separation\nbetween the parties and the separate vehicle. The terms of the contractual arrangement do not specify that\nthe parties have rights to the assets, or obligations for the liabilities, of entity C, but they establish that the\nparties have rights to the net assets of entity C. The recourse nature of the financing arrangement during the\ndevelopment of the gas field and construction of the LNG facility (ie companies A and B providing separate\nguarantees during this phase) does not, by itself, impose on the parties an obligation for the liabilities of\nentity C (ie the loan is a liability of entity C). Companies A and B have separate liabilities, which are their\nguarantees to repay that loan if entity C defaults during the development and construction phase.  \nIE51 There are no other facts and circumstances that indicate that the parties have rights to substantially all the\neconomic benefits of the assets of entity C and that the parties have an obligation for the liabilities of entity\nC. The joint arrangement is a joint venture.  \nIE52 The parties recognise their rights to the net assets of entity C as investments and account for them using the\nequity method.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 26,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 7\u2014Accounting for acquisitions of interests in joint operations in which the activity constitutes a business  \nIE53 Companies A, B and C have joint control of Joint Operation D whose activity constitutes a business, as\ndefined in AASB 3 Business Combinations.  \nIE54 Company E acquires company A\u2019s 40 per cent ownership interest in Joint Operation D at a cost of CU300\nand incurs acquisition-related costs of CU50.  \nIE55 The contractual arrangement between the parties that Company E joined as part of the acquisition\nestablishes that Company E\u2019s shares in several assets and liabilities differ from its ownership interest in\nJoint Operation D. The following table sets out Company E\u2019s share in the assets and liabilities related to\nJoint Operation D as established in the contractual arrangement between the parties:  \n2 In these examples monetary amounts are denominated in \u2018currency units (CU)\u2019.  \n-----  **_Company E\u2019s share in the assets_**  \n**_and liabilities related to Joint_**  \n**_Operation D_**  \nProperty, plant and equipment 48%  \nIntangible assets (excluding goodwill) 90%  \nAccounts receivable 40%  \nInventory 40%  \nRetirement benefit obligations 15%  \nAccounts payable 40%  \nContingent liabilities 56%",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 7\u2014Accounting for acquisitions of interests in joint operations in which the activity constitutes a business",
+            "page_number": 26,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE56 Company E recognises in its financial statements its share of the assets and liabilities resulting from the\ncontractual arrangement (see paragraph 20).  \nIE57 It applies the principles on business combinations accounting in AASB 3 and other Australian Accounting\nStandards for identifying, recognising, measuring and classifying the assets acquired, and the liabilities\nassumed, on the acquisition of the interest in Joint Operation D. This is because Company E acquired an\ninterest in a joint operation in which the activity constitutes a business (see paragraph 21A).  \nIE58 However, Company E does not apply the principles on business combinations accounting in AASB 3 and\nother Australian Accounting Standards that conflict with the guidance in this Standard. Consequently, in\naccordance with paragraph 20, Company E recognises, and therefore measures, in relation to its interest in\nJoint Operation D, only its share in each of the assets that are jointly held and in each of the liabilities that\nare incurred jointly, as stated in the contractual arrangement. Company E does not include in its assets and\nliabilities the shares of the other parties in Joint Operation D.  \nIE59 AASB 3 requires the acquirer to measure the identifiable assets acquired and the liabilities assumed at their\nacquisition-date fair values with limited exceptions; for example, deferred tax assets and deferred tax\nliabilities are not measured at fair value but are measured in accordance with AASB 112 _Income Taxes._\nSuch measurement does not conflict with this Standard and thus those requirements apply.  \nIE60 Consequently, Company E determines the fair value, or other measure specified in AASB 3, of its share in\nthe identifiable assets and liabilities related to Joint Operation D. The following table sets out the fair value\nor other measure specified by AASB 3 of Company E\u2019s shares in the identifiable assets and liabilities\nrelated to Joint Operation D:  \n**_Fair value or other measure_**  \n**_specified by AASB 3 for Company_**  \n**_E\u2019s shares in the identifiable_**  \n**_assets and liabilities of Joint_**  \n**_Operation D_**",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 27,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### CU\nProperty, plant and equipment 138  \nIntangible assets (excluding goodwill) 72  \nAccounts receivable 84  \nInventory 70  \nRetirement benefit obligations (12)  \nAccounts payable (48)  \nContingent liabilities (52)  \nDeferred tax liability (24)",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "Header 3": "CU",
+            "page_number": 27,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Net assets** **228\n-----  IE61 In accordance with AASB 3, the excess of the consideration transferred over the amount allocated to\nCompany E\u2019s shares in the net identifiable assets is recognised as goodwill:  \nConsideration transferred CU300  \nCompany E\u2019s shares in the identifiable assets and liabilities relating to its\ninterest in the joint operation CU228",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "Header 3": "Net assets** **228",
+            "page_number": 27,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "### Goodwill** **CU72\nIE62 Acquisition-related costs of CU50 are not considered to be part of the consideration transferred for the\ninterest in the joint operation. They are recognised as expenses in profit or loss in the period that the costs\nare incurred and the services are received (see paragraph 53 of AASB 3).",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "Header 3": "Goodwill** **CU72",
+            "page_number": 28,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Example 8\u2014Contributing the right to use know-how to a joint operation in which the activity constitutes a business  \nIE63 Companies A and B are two companies whose business is the construction of high performance batteries for\ndiverse applications.  \nIE64 In order to develop batteries for electric vehicles they set up a contractual arrangement (Joint Operation Z)\nto work together. Companies A and B share joint control of Joint Operation Z. This arrangement is a joint\noperation in which the activity constitutes a business, as defined in AASB 3.  \nIE65 After several years, the joint operators (Companies A and B) concluded that it is feasible to develop a\nbattery for electric vehicles using Material M. However, processing Material M requires specialist knowhow and thus far, Material M has only been used in the production of cosmetics.  \nIE66 In order to get access to existing know-how in processing Material M, Companies A and B arrange for\nCompany C to join as another joint operator by acquiring an interest in Joint Operation Z from Companies\nA and B and becoming a party to the contractual arrangements.  \nIE67 Company C\u2019s business so far has been solely the development and production of cosmetics. It has longstanding and extensive knowledge in processing Material M.  \nIE68 In exchange for its share in Joint Operation Z, Company C pays cash to Companies A and B and grants the\nright to use its know-how in processing Material M for the purposes of Joint Operation Z. In addition,\nCompany C seconds some of its employees who are experienced in processing Material M to Joint\nOperation Z. However, Company C does not transfer control of the know-how to Companies A and B or\nJoint Operation Z because it retains all the rights to it. In particular, Company C is entitled to withdraw the\nright to use its know-how in processing Material M and to withdraw its seconded employees without any\nrestrictions or compensation to Companies A and B or Joint Operation Z if it ceases its participation in Joint\nOperation Z.  \nIE69 The fair value of Company C\u2019s know-how on the date of the acquisition of the interest in the joint operation\nis CU1,000. Immediately before the acquisition, the carrying amount of the know-how in the financial\nstatements of Company C was CU300.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Example 8\u2014Contributing the right to use know-how to a joint operation in which the activity constitutes a business",
+            "page_number": 28,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Analysis  \nIE70 Company C has acquired an interest in Joint Operation Z in which the activity of the joint operation\nconstitutes a business, as defined in AASB 3.  \nIE71 In accounting for the acquisition of its interest in the joint operation, Company C applies all the principles\non business combinations accounting in AASB 3 and other Australian Accounting Standards that do not\nconflict with the guidance in this Standard (see paragraph 21A). Company C therefore recognises in its\nfinancial statements its share of the assets and liabilities resulting from the contractual arrangement (see\nparagraph 20).  \nIE72 Company C granted the right to use its know-how in processing Material M to Joint Operation Z as part of\njoining Joint Operation Z as a joint operator. However, Company C retains control of this right because it is\nentitled to withdraw the right to use its know-how in processing Material M and to withdraw its seconded  \n-----  employees without any restrictions or any compensation to Companies A and B or Joint Operation Z if it\nceases its participation in Joint Operation Z.  \nIE73 Consequently, Company C continues to recognise the know-how in processing Material M after the\nacquisition of the interest in Joint Operation Z because it retains all the rights to it. This means that\nCompany C will continue to recognise the know-how based on its carrying amount of CU300. As a\nconsequence of retaining control of the right to use the know-how that it granted to the joint operation,\nCompany C has granted the right to use the know-how to itself. Consequently, Company C does not\nremeasure the know-how, and it does not recognise a gain or loss on the grant of the right to use it.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Analysis",
+            "page_number": 28,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 11 Joint Arrangements (as amended)  \n_Compilation details are not part of AASB 11._  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2019. It takes into account\namendments up to and including 14 February 2018 and was prepared on 29 March 2019 by the staff of the Australian\nAccounting Standards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 11 (July 2015) as amended by other Accounting Standards, which are listed in the Table below.",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Compilation details Accounting Standard AASB 11 Joint Arrangements (as amended)",
+            "page_number": 30,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 11|24 July 2015|F2015L01627|31 Dec 2015|(beginning) 1 Jan 2016|see (a) below|\n|AASB 2018-1|14 Feb 2018|F2018L00157|31 Dec 2018|(beginning) 1 Jan 2019|see (b) below|  \n(a) Entities may elect to apply this Standard to periods beginning on or after 1 January 2014 but before 1 January 2016.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2019.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|B33CA|added|AASB 2018-1 [page 6]|\n|C1AB|added|AASB 2018-1 [page 6]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Table of Standards",
+            "page_number": 30,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    },
+    {
+        "page_content=": "## Deleted IFRS 11 text  \n_Deleted IFRS 11 text is not part of AASB 11._  \nC1A _Consolidated Financial Statements, Joint Arrangements and Disclosure of Interests in Other Entities:_\n_Transition Guidance (Amendments to IFRS 10, IFRS 11 and IFRS 12), issued in June 2012, amended_\nparagraphs C2\u2013C5, C7\u2013C10 and C12 and added paragraphs C1B and C12A\u2013C12B. An entity shall apply\nthose amendments for annual periods beginning on or after 1 January 2013. If an entity applies IFRS 11 for\nan earlier period, it shall apply those amendments for that earlier period.  \nC15 This IFRS supersedes the following IFRSs:  \n(a) IAS 31 Interests in Joint Ventures; and  \n(b) SIC-13 Jointly Controlled Entities\u2014Non-Monetary Contributions by Venturers.  \n-----  ",
+        "metadata": {
+            "Header 1": "Joint Arrangements",
+            "Header 2": "Deleted IFRS 11 text",
+            "page_number": 31,
+            "file_name": "AASB11 Joint Arrangements"
+        }
+    }
+]
