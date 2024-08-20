@@ -96,10 +96,11 @@ async def get_answer(question: str, user_id):
             content = chunk["data"]["chunk"].content
             yield content
         elif chunk["event"] == "on_tool_end":
-
-            content = chunk["data"]["output"].content
-            content_final = json.loads(content)
-            tool_content = {"name": chunk["name"], "data": content_final["data"]}
+            print("Tool end time: ", chunk)
+            if chunk["data"]["output"]:
+                content = chunk["data"]["output"].content
+                content_final = json.loads(content)
+                tool_content = {"name": chunk["name"], "data": content_final["data"]}
     if tool_content:
         yield tool_content
     print("Full get answer time: ", time.time() - st)

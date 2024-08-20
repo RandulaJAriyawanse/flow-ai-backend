@@ -1,61 +1,123 @@
 from typing import Optional
 from langchain_core.tools import tool
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from .dummy_data import *
+from typing import Optional, List, Dict
+from enum import Enum
+
+
+def convert_xero_date(xero_date_str: str) -> datetime.date:
+    timestamp = int(xero_date_str.strip("/Date()")) / 1000
+    dt = datetime.fromtimestamp(timestamp, tz=timezone.utc)
+    return dt.date()
+
+
+class InvoiceStatus(Enum):
+    PAID = "paid"
+    DRAFT = "draft"
+    SUBMITTED = "submitted"
+    AUTHORISED = "authorised"
+    VOIDED = "voided"
+    DELETED = "deleted"
 
 
 @tool
 async def get_invoices(
-    company: Optional[str] = None,
-    start_time: Optional[date | datetime] = None,
-    end_time: Optional[date | datetime] = None,
+    # company: Optional[str] = None,
+    start_date: Optional[date] = None,
+    end_date: Optional[date] = None,
     overdue: Optional[bool] = None,
-    invoice_number: Optional[str] = None,
+    # invoice_number: Optional[str] = None,
+    invoice_status: Optional[List[InvoiceStatus]] = None,
 ) -> list[dict]:
-    """Get invoices based on company, start time, end time, invoice number and overdue status"""
+    """Get invoices based on start time, end time, overdue or invoice status."""
 
-    query = "List of transactions"
+    try:
+        print(
+            "start_date: ",
+            start_date,
+            "end_date: ",
+            end_date,
+            "invoice_status: ",
+            invoice_status,
+        )
 
-    if company:
-        query += f" for account {company}"
+        simplified_results = []
 
-    if start_time:
-        query += f" starting at {start_time}"
+        print("LENGTH: ", len(dummy_invoices[0]["Invoices"]))
+        for item in dummy_invoices[0]["Invoices"]:
+            simplified_item = {
+                "Contact Name": item["Contact"]["Name"],
+                "Email": "support@cityagency.com",
+                "Due Date": convert_xero_date(item["DueDate"]),
+                "Total": item["Total"],
+                "Currency Code": item["CurrencyCode"],
+                "Invoice Number": item["InvoiceNumber"],
+                "Amount Due": item["AmountDue"],
+                "Xero URL": "https://go.xero.com/",
+                "Status": item["Status"],
+            }
+            simplified_results.append(simplified_item)
 
-    if end_time:
-        query += f" ending at {end_time}"
+        # if company:
+        #     query += f" for account {company}"
 
-    if invoice_number:
-        query += f" with invoice number {invoice_number}"
+        if start_date:
+            simplified_results = [
+                item for item in simplified_results if item["Due Date"] >= start_date
+            ]
 
-    if overdue:
-        query += f" that are overdue"
+        if end_date:
+            simplified_results = [
+                item for item in simplified_results if item["Due Date"] <= start_date
+            ]
 
-    print(f"get_invoices query: {query}")
+        if overdue:
+            simplified_results = [
+                item for item in simplified_results if item["Due Date"] < date.today()
+            ]
 
-    result = {"result": dummy_invoices}
+        if invoice_status is None:
+            print("$$$$$$$$$$$$$$$Invoice none")
+            simplified_results = [
+                item
+                for item in simplified_results
+                if item["Status"] in ["SUBMITTED", "AUTHORISED", "DRAFT"]
+            ]
+        else:
+            invoice_status = [status.value.upper() for status in invoice_status]
+            error_list = []
+            for item in invoice_status:
+                if item.upper() not in [
+                    "SUBMITTED",
+                    "AUTHORISED",
+                    "DRAFT",
+                    "PAID",
+                    "VOIDED",
+                    "DELETED",
+                ]:
+                    error_list.append(item)
+            if error_list:
+                print("error_list: ", error_list)
+                return {"error": f"Invalid invoice status: {error_list}", "data": ""}
+            else:
+                simplified_results = [
+                    item
+                    for item in simplified_results
+                    if item["Status"] in invoice_status
+                ]
+        for item in simplified_results:
+            if isinstance(item["Due Date"], date):
+                item["Due Date"] = item["Due Date"].isoformat()
 
-    simplified_results = []
-    for item in dummy_invoices[0]["Invoices"]:
-        print("-----------------@-----------------")
-        simplified_item = {
-            "Contact Name": item["Contact"]["Name"],
-            "Email": "support@cityagency.com",
-            "Due Date": item["DueDate"],
-            "Total": item["Total"],
-            "Currency Code": item["CurrencyCode"],
-            "Invoice Number": item["InvoiceNumber"],
-            "Amount Due": item["AmountDue"],
-            "Xero URL": item["OnlineInvoiceUrl"],
-        }
-        simplified_results.append(simplified_item)
+        total_amount_due = 0
+        for item in simplified_results:
+            total_amount_due += item["Amount Due"]
 
-    total_amount_due = 0
-    for item in simplified_results:
-        total_amount_due += item["Amount Due"]
-
-    instruction = f"You have already provided the list of invoices to the user. Unless they have asked about a specific invoice, just notify them that there are {len(simplified_results)} invoices with a total amount due of {round(total_amount_due, 0)}."
-    print("instruction: ", instruction)
+        instruction = f"Important instruction - Only reply with a summary that there are {len(simplified_results)} invoices with a total amount due of {round(total_amount_due, 0)}."
+    except Exception as e:
+        print("Error: ", e)
+        return {"error": "An error occurred", "data": ""}
 
     return {"Instruction": instruction, "data": simplified_results}
 
