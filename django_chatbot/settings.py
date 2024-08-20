@@ -119,14 +119,26 @@ WSGI_APPLICATION = "django_chatbot.wsgi.application"
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "django.db.backends.postgresql",
+#         "NAME": "flowaidatabase",
+#         "USER": "postgres",
+#         "PASSWORD": "efs3244EGS3EEH",
+#         "HOST": "flowai-db-instance-id.c34cuauasrvs.ap-southeast-2.rds.amazonaws.com",
+#         "PORT": "5432",
+#     }
+# }
+
+
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "postgres",
-        "USER": "postgres",
-        "PASSWORD": "mysecretpassword",
-        "HOST": "localhost",
-        "PORT": "5430",
+        "NAME": get_env("DATABASE_NAME"),
+        "USER": get_env("DATABASE_USER"),
+        "PASSWORD": get_env("DATABASE_PASSWORD"),
+        "HOST": get_env("DATABASE_HOST"),
+        "PORT": get_env("DATABASE_PORT"),
     }
 }
 
