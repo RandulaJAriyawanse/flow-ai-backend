@@ -138,13 +138,17 @@ class ChatBot(View):
 
 @api_view(["GET"])
 def get_documents(request):
-    documents = Document.objects.all()
-    data = [
-        {
-            "id": doc.id,
-            "filename": doc.filename,
-            "document_url": doc.document.url if doc.document else None,
-        }
-        for doc in documents
-    ]
-    return JsonResponse(data, safe=False)
+    try:
+        documents = Document.objects.all()
+        data = [
+            {
+                "id": doc.id,
+                "filename": doc.filename,
+                "document_url": doc.document.url if doc.document else None,
+            }
+            for doc in documents
+        ]
+        return JsonResponse(data, safe=False)
+    except Exception as e:
+        sentry_sdk.capture_exception(e)
+        return JsonResponse({"errors": str(e)}, status=500)
