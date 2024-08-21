@@ -94,7 +94,7 @@ async def get_answer(question: str, user_id):
     print("Starting ")
     async for chunk in response:
         print("---------------------------------------------------------")
-        print("chunk")
+        print(chunk)
         if chunk["event"] == "on_chat_model_stream":
             content = chunk["data"]["chunk"].content
             yield content
