@@ -127,6 +127,8 @@ connection_string = (
     f"{db_engine}://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
 )
 
+print("--------------------------------")
+print("Connection string: ", connection_string)
 
 # def get_pdf_splits(parser, file):
 #     documents = parser.load_data(f"scripts/AASB_Test_Files/{file}")

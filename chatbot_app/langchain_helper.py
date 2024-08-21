@@ -91,7 +91,10 @@ async def get_answer(question: str, user_id):
     print("Create graph: ", time.time() - st)
     tool_content = None
     response = chain.astream_events({"messages": history_data[-3:]}, version="v1")
+    print("Starting ")
     async for chunk in response:
+        print("---------------------------------------------------------")
+        print("chunk")
         if chunk["event"] == "on_chat_model_stream":
             content = chunk["data"]["chunk"].content
             yield content
