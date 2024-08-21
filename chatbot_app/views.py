@@ -37,6 +37,7 @@ class ChatBot(View):
                 async for chunk in get_answer(question=input_query, user_id=user_id):
                     if type(chunk) != dict:
                         bot_response += chunk
+                        print("------------------final--------------------")
                         yield chunk
                     elif type(chunk) == dict:
                         tool_call = chunk
