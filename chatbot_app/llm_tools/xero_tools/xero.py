@@ -31,7 +31,13 @@ async def get_invoices(
     invoice_status: Optional[List[InvoiceStatus]] = None,
 ) -> list[dict]:
     """Get invoices based on start time, end time, overdue or invoice status. Overdue and will be explicity stated"""
-
+    print(
+        "---------------------------starting_get_invoices---------------------------------"
+    )
+    print("start_date: ", start_date)
+    print("end_date: ", end_date)
+    print("overdue: ", overdue)
+    print("invoice_status: ", invoice_status)
     try:
         print(
             "start_date: ",
@@ -78,7 +84,6 @@ async def get_invoices(
             ]
 
         if invoice_status is None:
-            print("$$$$$$$$$$$$$$$Invoice none")
             simplified_results = [
                 item
                 for item in simplified_results
