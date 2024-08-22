@@ -12,12 +12,30 @@ from chatbot_app.llm_tools.xero_tools.xero import get_invoices, get_single_invoi
 from langgraph.prebuilt import ToolNode, tools_condition
 import json
 import time
+import environ
 
+# Initialise environment variables
+env = environ.Env()
+environ.Env.read_env()
 
 OPENAI_API_KEY = get_env("OPENAI_API_KEY")
 OPENAI_MODEL = get_env("OPENAI_MODEL")
 TEMPERATURE = get_env("TEMPERATURE")
 MAX_TOKEN = get_env("MAX_TOKEN")
+
+# LANGCHAIN_TRACING_V2 = True
+# LANGCHAIN_ENDPOINT = "https://api.smith.langchain.com"
+# # LANGCHAIN_API_KEY = "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"
+# LANGCHAIN_API_KEY = "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"
+# LANGCHAIN_PROJECT = "FlowAIService"
+# env = environ.Env(
+#     # set casting, default value
+#     DEBUG=(bool, False)
+# )
+# LANGCHAIN_TRACING_V2 = get_env("LANGCHAIN_TRACING_V2")
+# LANGCHAIN_ENDPOINT = get_env("LANGCHAIN_ENDPOINT")
+# LANGCHAIN_API_KEY = get_env("LANGCHAIN_API_KEY")
+# LANGCHAIN_PROJECT = get_env("LANGCHAIN_PROJECT")
 
 
 async def get_message_history(user_id):
@@ -85,16 +103,12 @@ def create_graph():
 async def get_answer(question: str, user_id):
     st = time.time()
     history_data = await get_message_history(user_id)
-    print("Get message time: ", time.time() - st)
     history_data.append(("user", question))
     chain = create_graph()
-    print("Create graph: ", time.time() - st)
     tool_content = None
     response = chain.astream_events({"messages": history_data[-3:]}, version="v1")
-    print("Starting ")
     async for chunk in response:
         print("---------------------------------------------------------")
-        # print(chunk)
         if chunk["event"] == "on_chat_model_stream":
             content = chunk["data"]["chunk"].content
             print("Chat model stream: ", content)

@@ -30,7 +30,7 @@ async def get_invoices(
     # invoice_number: Optional[str] = None,
     invoice_status: Optional[List[InvoiceStatus]] = None,
 ) -> list[dict]:
-    """Get invoices based on start time, end time, overdue or invoice status."""
+    """Get invoices based on start time, end time, overdue or invoice status. Overdue and will be explicity stated"""
 
     try:
         print(

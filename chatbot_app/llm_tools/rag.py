@@ -35,7 +35,7 @@ async def get_AASB_information(
     question,
 ):
     """
-    Consult the AASB standards for any question regarding AASB and IFRS
+    Consult the AASB standards for any question regarding Australian accounting standards.
     """
     st = time.time()
     collection = "AASB_1908"
