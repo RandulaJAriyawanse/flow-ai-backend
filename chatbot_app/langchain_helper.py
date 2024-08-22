@@ -13,10 +13,7 @@ from langgraph.prebuilt import ToolNode, tools_condition
 import json
 import time
 import environ
-
-# Initialise environment variables
-env = environ.Env()
-environ.Env.read_env()
+import os
 
 OPENAI_API_KEY = get_env("OPENAI_API_KEY")
 OPENAI_MODEL = get_env("OPENAI_MODEL")
@@ -35,7 +32,12 @@ MAX_TOKEN = get_env("MAX_TOKEN")
 # LANGCHAIN_TRACING_V2 = get_env("LANGCHAIN_TRACING_V2")
 # LANGCHAIN_ENDPOINT = get_env("LANGCHAIN_ENDPOINT")
 # LANGCHAIN_API_KEY = get_env("LANGCHAIN_API_KEY")
-# LANGCHAIN_PROJECT = get_env("LANGCHAIN_PROJECT")
+# LANGCHAIN_PROJECT = get_env("LANGCHAIN_PROJECT"
+
+os.environ["LANGCHAIN_TRACING_V2"] = get_env("LANGCHAIN_TRACING_V2")
+os.environ["LANGCHAIN_ENDPOINT"] = get_env("LANGCHAIN_ENDPOINT")
+os.environ["LANGCHAIN_API_KEY"] = get_env("LANGCHAIN_API_KEY")
+os.environ["LANGCHAIN_PROJECT"] = get_env("LANGCHAIN_PROJECT")
 
 
 async def get_message_history(user_id):
