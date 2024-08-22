@@ -10,6 +10,7 @@ from asgiref.sync import sync_to_async
 from chatbot_app.llm_tools.rag import get_AASB_information
 from chatbot_app.llm_tools.xero_tools.xero import get_invoices, get_single_invoice
 from langgraph.prebuilt import ToolNode, tools_condition
+from datetime import datetime
 import json
 import time
 import environ
@@ -84,10 +85,12 @@ def create_graph():
             (
                 "system",
                 "You are a helpful assistant that has access to a tool that will provide information about AASB Australian Accounting Standards. The response from the tool may only be partially relevent for the user's question",
+                "For referene that date and time now is {time}",
             ),
             ("placeholder", "{messages}"),
         ]
-    )
+    ).partial(time=datetime.now())
+
     model = ChatOpenAI(
         model=OPENAI_MODEL,
         api_key=OPENAI_API_KEY,
