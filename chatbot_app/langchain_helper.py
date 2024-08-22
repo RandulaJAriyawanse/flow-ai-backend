@@ -38,6 +38,7 @@ os.environ["LANGCHAIN_TRACING_V2"] = get_env("LANGCHAIN_TRACING_V2")
 os.environ["LANGCHAIN_ENDPOINT"] = get_env("LANGCHAIN_ENDPOINT")
 os.environ["LANGCHAIN_API_KEY"] = get_env("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_PROJECT"] = get_env("LANGCHAIN_PROJECT")
+os.environ["LANGCHAIN_CALLBACKS_BACKGROUND"] = get_env("LANGCHAIN_CALLBACKS_BACKGROUND")
 
 
 async def get_message_history(user_id):
@@ -45,6 +46,9 @@ async def get_message_history(user_id):
     print("LANGCHAIN_ENDPOINT: ", os.environ["LANGCHAIN_ENDPOINT"])
     print("LANGCHAIN_API_KEY: ", os.environ["LANGCHAIN_API_KEY"])
     print("LANGCHAIN_PROJECT: ", os.environ["LANGCHAIN_PROJECT"])
+    print(
+        "LANGCHAIN_CALLBACKS_BACKGROUND: ", os.environ["LANGCHAIN_CALLBACKS_BACKGROUND"]
+    )
 
     user_chats = await sync_to_async(
         lambda: list(UserChats.objects.filter(user_id=user_id)),
