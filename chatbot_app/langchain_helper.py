@@ -41,6 +41,11 @@ os.environ["LANGCHAIN_PROJECT"] = get_env("LANGCHAIN_PROJECT")
 
 
 async def get_message_history(user_id):
+    print("LANGCHAIN_TRACING_V2: ", os.environ["LANGCHAIN_TRACING_V2"])
+    print("LANGCHAIN_ENDPOINT: ", os.environ["LANGCHAIN_ENDPOINT"])
+    print("LANGCHAIN_API_KEY: ", os.environ["LANGCHAIN_API_KEY"])
+    print("LANGCHAIN_PROJECT: ", os.environ["LANGCHAIN_PROJECT"])
+
     user_chats = await sync_to_async(
         lambda: list(UserChats.objects.filter(user_id=user_id)),
         thread_sensitive=True,
@@ -110,13 +115,10 @@ async def get_answer(question: str, user_id):
     tool_content = None
     response = chain.astream_events({"messages": history_data[-3:]}, version="v1")
     async for chunk in response:
-        print("---------------------------------------------------------")
         if chunk["event"] == "on_chat_model_stream":
             content = chunk["data"]["chunk"].content
-            print("Chat model stream: ", content)
             yield content
         elif chunk["event"] == "on_tool_end":
-            print("Tool end time: ", chunk)
             if chunk["data"]["output"]:
                 content = chunk["data"]["output"].content
                 content_final = json.loads(content)
