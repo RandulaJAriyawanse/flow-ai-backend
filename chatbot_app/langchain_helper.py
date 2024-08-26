@@ -84,7 +84,8 @@ def create_graph():
         [
             (
                 "system",
-                "You are a helpful assistant that has access to tools that may be relevent in answering the user's question"
+                "You are a helpful assistant that has access to 2 tools that may be relevent in answering the user's question"
+                "Use the tool get_AASB_information to answer any accounting related questions and use the tool get_invoices to get information about the user's invoices."
                 "\nFor reference the date and time now is {time}",
             ),
             ("placeholder", "{messages}"),
