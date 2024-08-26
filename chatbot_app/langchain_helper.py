@@ -84,8 +84,8 @@ def create_graph():
         [
             (
                 "system",
-                "You are a helpful assistant that has access to a tool that will provide information about AASB Australian Accounting Standards. The response from the tool may only be partially relevent for the user's question",
-                "For referene that date and time now is {time}",
+                "You are a helpful assistant that has access to tools that may be relevent in answering the user's question"
+                "\nFor reference the date and time now is {time}",
             ),
             ("placeholder", "{messages}"),
         ]
