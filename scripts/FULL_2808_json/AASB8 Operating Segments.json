@@ -1,0 +1,305 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 8**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "# Operating Segments  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. Earlier application is permitted\nfor annual periods beginning on or after 1 January 2014 but before 1 July 2021. It incorporates relevant amendments\nmade up to and including 6 March 2020.  \nPrepared on 8 June 2021 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 3  \nCompilation date: 30 June 2021  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "page_number": 0,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2021  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The National Director, Australian Accounting Standards Board, PO Box 204,\nCollins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce for commercial purposes outside Australia should be addressed to the IFRS Foundation at\nwww.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IFRS 8  \n**ACCOUNTING STANDARD**\nAASB 8 OPERATING SEGMENTS\nCORE PRINCIPLE\nSCOPE\nOPERATING SEGMENTS\n_from paragraph_\nREPORTABLE SEGMENTS** **11\nAggregation criteria** **12\nQuantitative thresholds** **13\nDISCLOSURE** **20\nGeneral information** **22\nInformation about profit or loss, assets and liabilities** **23\nMEASUREMENT** **25\nReconciliations** **28\nRestatement of previously reported information** **29\nENTITY-WIDE DISCLOSURES** **31\nInformation about products and services** **32\nInformation about geographical areas** **33\nInformation about major customers** **34\nTRANSITION AND EFFECTIVE DATE** **35  \n**WITHDRAWAL OF IAS 14**\n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus37.2  \n**APPENDICES**\n**A Defined term**\n**C Australian simplified disclosures for Tier 2 entities**\n**COMPILATION DETAILS**\nDELETED IFRS 8 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\n**Implementation guidance on IFRS 8**\nBasis for Conclusions on IFRS 8\nAustralian Accounting Standard AASB 8 Operating Segments (as amended) is set out in paragraphs 1 \u2013 Aus37.2 and\nAppendices A and C. All the paragraphs have equal authority. Paragraphs in **bold type state the main principles.**\nAASB 8 is to be read in the context of other Australian Accounting Standards, including AASB 1048 Interpretation of\n_Standards, which identifies the Australian Accounting Interpretations, and AASB 1057_ _Application of Australian_\n_Accounting Standards. In the absence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting_\n_Estimates and Errors provides a basis for selecting and applying accounting policies._  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IFRS 8  \nAASB 8 _Operating Segments as amended incorporates IFRS 8_ _Operating Segments as issued and amended by the_\nInternational Accounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IFRS 8)\nare identified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying their\nlimited applicability.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Comparison with IFRS 8",
+            "page_number": 3,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 8 also comply with IFRS 8.  \nNot-for-profit entities\u2019 compliance with IFRS 8 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIFRS 8.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 8  \nThe Australian Accounting Standards Board made Accounting Standard AASB 8 _Operating Segments under_\nsection 334 of the Corporations Act 2001 on 7 August 2015.  \nThis compiled version of AASB 8 applies to annual periods beginning on or after 1 July 2021. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 6 March 2020 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Accounting Standard AASB 8",
+            "page_number": 4,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 8 Operating Segments  \nCore principle  \n**1** **An entity shall disclose information to enable users of its financial statements to evaluate the nature**\n**and financial effects of the business activities in which it engages and the economic environments in**\n**which it operates.**  \nAusCF1 AusCF entities are:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nFor AusCF entities, the term \u2018reporting entity\u2019 is defined in AASB 1057 _Application of_\n_Australian Accounting Standards and Statement of Accounting Concepts SAC 1 Definition of the_\n_Reporting Entity also applies. For-profit entities applying the_ _Conceptual Framework for_\n_Financial Reporting are set out in paragraph Aus1.1 of the Conceptual Framework._",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Accounting Standard AASB 8 Operating Segments",
+            "page_number": 4,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n2 This Standard shall apply to:  \n(a) the separate or individual financial statements of an entity:  \n(i) whose debt or equity instruments are traded in a public market (a domestic or foreign\nstock exchange or an over-the-counter market, including local and regional markets), or  \n(ii) that files, or is in the process of filing, its financial statements with a securities\ncommission or other regulatory organisation for the purpose of issuing any class of\ninstruments in a public market; and  \n(b) the consolidated financial statements of a group with a parent:  \n(i) whose debt or equity instruments are traded in a public market (a domestic or foreign\nstock exchange or an over-the-counter market, including local and regional markets), or  \n(ii) that files, or is in the process of filing, the consolidated financial statements with a\nsecurities commission or other regulatory organisation for the purpose of issuing any\nclass of instruments in a public market.  \n3 If an entity that is not required to apply this Standard chooses to disclose information about segments that\ndoes not comply with this Standard, it shall not describe the information as segment information.  \n4 If a financial report contains both the consolidated financial statements of a parent that is within the scope\nof this Standard as well as the parent\u2019s separate financial statements, segment information is required only\nin the consolidated financial statements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Operating segments  \n5 An operating segment is a component of an entity:  \n(a) that engages in business activities from which it may earn revenues and incur expenses (including\nrevenues and expenses relating to transactions with other components of the same entity),  \n(b) whose operating results are regularly reviewed by the entity\u2019s chief operating decision maker to\nmake decisions about resources to be allocated to the segment and assess its performance, and  \n(c) for which discrete financial information is available.  \nAn operating segment may engage in business activities for which it has yet to earn revenues, for example,\nstart-up operations may be operating segments before earning revenues.  \n6 Not every part of an entity is necessarily an operating segment or part of an operating segment. For\nexample, a corporate headquarters or some functional departments may not earn revenues or may earn\nrevenues that are only incidental to the activities of the entity and would not be operating segments. For the\npurposes of this Standard, an entity\u2019s post-employment benefit plans are not operating segments.  \n7 The term \u2018chief operating decision maker\u2019 identifies a function, not necessarily a manager with a specific\ntitle. That function is to allocate resources to and assess the performance of the operating segments of an\nentity. Often the chief operating decision maker of an entity is its chief executive officer or chief operating\nofficer but, for example, it may be a group of executive directors or others.  \n8 For many entities, the three characteristics of operating segments described in paragraph 5 clearly identify\nits operating segments. However, an entity may produce reports in which its business activities are\npresented in a variety of ways. If the chief operating decision maker uses more than one set of segment\ninformation, other factors may identify a single set of components as constituting an entity\u2019s operating\nsegments, including the nature of the business activities of each component, the existence of managers\nresponsible for them, and information presented to the board of directors.  \n9 Generally, an operating segment has a segment manager who is directly accountable to and maintains\nregular contact with the chief operating decision maker to discuss operating activities, financial results,\nforecasts, or plans for the segment. The term \u2018segment manager\u2019 identifies a function, not necessarily a\nmanager with a specific title. The chief operating decision maker also may be the segment manager for\nsome operating segments. A single manager may be the segment manager for more than one operating\nsegment. If the characteristics in paragraph 5 apply to more than one set of components of an organisation\nbut there is only one set for which segment managers are held responsible, that set of components\nconstitutes the operating segments.  \n10 The characteristics in paragraph 5 may apply to two or more overlapping sets of components for which\nmanagers are held responsible. That structure is sometimes referred to as a matrix form of organisation. For\nexample, in some entities, some managers are responsible for different product and service lines worldwide,\nwhereas other managers are responsible for specific geographical areas. The chief operating decision maker\nregularly reviews the operating results of both sets of components, and financial information is available for\nboth. In that situation, the entity shall determine which set of components constitutes the operating\nsegments by reference to the core principle.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Operating segments",
+            "page_number": 5,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Reportable segments  \n11 An entity shall report separately information about each operating segment that:  \n(a) has been identified in accordance with paragraphs 5\u201310 or results from aggregating two or more\nof those segments in accordance with paragraph 12, and  \n(b) exceeds the quantitative thresholds in paragraph 13.  \nParagraphs 14\u201319 specify other situations in which separate information about an operating segment shall\nbe reported.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Reportable segments",
+            "page_number": 5,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Aggregation criteria  \n12 Operating segments often exhibit similar long-term financial performance if they have similar economic\ncharacteristics. For example, similar long-term average gross margins for two operating segments would be\nexpected if their economic characteristics were similar. Two or more operating segments may be aggregated\ninto a single operating segment if aggregation is consistent with the core principle of this Standard, the  \n-----  segments have similar economic characteristics, and the segments are similar in each of the following\nrespects:  \n(a) the nature of the products and services;  \n(b) the nature of the production processes;  \n(c) the type or class of customer for their products and services;  \n(d) the methods used to distribute their products or provide their services; and  \n(e) if applicable, the nature of the regulatory environment, for example, banking, insurance or public\nutilities.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Aggregation criteria",
+            "page_number": 5,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Quantitative thresholds  \n13 An entity shall report separately information about an operating segment that meets any of the following\nquantitative thresholds:  \n(a) Its reported revenue, including both sales to external customers and intersegment sales or\ntransfers, is 10 per cent or more of the combined revenue, internal and external, of all operating\nsegments.  \n(b) The absolute amount of its reported profit or loss is 10 per cent or more of the greater, in absolute\namount, of (i) the combined reported profit of all operating segments that did not report a loss and\n(ii) the combined reported loss of all operating segments that reported a loss.  \n(c) Its assets are 10 per cent or more of the combined assets of all operating segments.  \nOperating segments that do not meet any of the quantitative thresholds may be considered reportable, and\nseparately disclosed, if management believes that information about the segment would be useful to users of\nthe financial statements.  \n14 An entity may combine information about operating segments that do not meet the quantitative thresholds\nwith information about other operating segments that do not meet the quantitative thresholds to produce a\nreportable segment only if the operating segments have similar economic characteristics and share a\nmajority of the aggregation criteria listed in paragraph 12.  \n15 If the total external revenue reported by operating segments constitutes less than 75 per cent of the entity\u2019s\nrevenue, additional operating segments shall be identified as reportable segments (even if they do not meet\nthe criteria in paragraph 13) until at least 75 per cent of the entity\u2019s revenue is included in reportable\nsegments.  \n16 Information about other business activities and operating segments that are not reportable shall be combined\nand disclosed in an \u2018all other segments\u2019 category separately from other reconciling items in the\nreconciliations required by paragraph 28. The sources of the revenue included in the \u2018all other segments\u2019\ncategory shall be described.  \n17 If management judges that an operating segment identified as a reportable segment in the immediately\npreceding period is of continuing significance, information about that segment shall continue to be reported\nseparately in the current period even if it no longer meets the criteria for reportability in paragraph 13.  \n18 If an operating segment is identified as a reportable segment in the current period in accordance with the\nquantitative thresholds, segment data for a prior period presented for comparative purposes shall be restated\nto reflect the newly reportable segment as a separate segment, even if that segment did not satisfy the\ncriteria for reportability in paragraph 13 in the prior period, unless the necessary information is not available\nand the cost to develop it would be excessive.  \n19 There may be a practical limit to the number of reportable segments that an entity separately discloses\nbeyond which segment information may become too detailed. Although no precise limit has been\ndetermined, as the number of segments that are reportable in accordance with paragraphs 13\u201318 increases\nabove ten, the entity should consider whether a practical limit has been reached.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Quantitative thresholds",
+            "page_number": 6,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**20** **An entity shall disclose information to enable users of its financial statements to evaluate the nature**\n**and financial effects of the business activities in which it engages and the economic environments in**\n**which it operates.**  \n21 To give effect to the principle in paragraph 20, an entity shall disclose the following for each period for\nwhich a statement of comprehensive income is presented:  \n-----  (a) general information as described in paragraph 22;  \n(b) information about reported segment profit or loss, including specified revenues and expenses\nincluded in reported segment profit or loss, segment assets, segment liabilities and the basis of\nmeasurement, as described in paragraphs 23\u201327; and  \n(c) reconciliations of the totals of segment revenues, reported segment profit or loss, segment assets,\nsegment liabilities and other material segment items to corresponding entity amounts as described\nin paragraph 28.  \nReconciliations of the amounts in the statement of financial position for reportable segments to the amounts\nin the entity\u2019s statement of financial position are required for each date at which a statement of financial\nposition is presented. Information for prior periods shall be restated as described in paragraphs 29 and 30.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Disclosure",
+            "page_number": 6,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## General information  \n22 An entity shall disclose the following general information:  \n(a) factors used to identify the entity\u2019s reportable segments, including the basis of organisation (for\nexample, whether management has chosen to organise the entity around differences in products\nand services, geographical areas, regulatory environments, or a combination of factors and\nwhether operating segments have been aggregated);  \n(aa) the judgements made by management in applying the aggregation criteria in paragraph 12. This\nincludes a brief description of the operating segments that have been aggregated in this way and\nthe economic indicators that have been assessed in determining that the aggregated operating\nsegments share similar economic characteristics; and  \n(b) types of products and services from which each reportable segment derives its revenues.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "General information",
+            "page_number": 7,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Information about profit or loss, assets and liabilities  \n23 An entity shall report a measure of profit or loss for each reportable segment. An entity shall report a\nmeasure of total assets and liabilities for each reportable segment if such amounts are regularly provided to\nthe chief operating decision maker. An entity shall also disclose the following about each reportable\nsegment if the specified amounts are included in the measure of segment profit or loss reviewed by the chief\noperating decision maker, or are otherwise regularly provided to the chief operating decision maker, even if\nnot included in that measure of segment profit or loss:  \n(a) revenues from external customers;  \n(b) revenues from transactions with other operating segments of the same entity;  \n(c) interest revenue;  \n(d) interest expense;  \n(e) depreciation and amortisation;  \n(f) material items of income and expense disclosed in accordance with paragraph 97 of AASB 101\n_Presentation of Financial Statements;_  \n(g) the entity\u2019s interest in the profit or loss of associates and joint ventures accounted for by the\nequity method;  \n(h) income tax expense or income; and  \n(i) material non-cash items other than depreciation and amortisation.  \nAn entity shall report interest revenue separately from interest expense for each reportable segment unless a\nmajority of the segment\u2019s revenues are from interest and the chief operating decision maker relies primarily\non net interest revenue to assess the performance of the segment and make decisions about resources to be\nallocated to the segment. In that situation, an entity may report that segment\u2019s interest revenue net of its\ninterest expense and disclose that it has done so.  \n24 An entity shall disclose the following about each reportable segment if the specified amounts are included\nin the measure of segment assets reviewed by the chief operating decision maker or are otherwise regularly\nprovided to the chief operating decision maker, even if not included in the measure of segment assets:  \n(a) the amount of investment in associates and joint ventures accounted for by the equity method, and  \n-----  (b) the amounts of additions to non-current assets[1] other than financial instruments, deferred tax\nassets, net defined benefit assets (see AASB 119 _Employee Benefits) and rights arising under_\ninsurance contracts.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Information about profit or loss, assets and liabilities",
+            "page_number": 7,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Measurement  \n25 The amount of each segment item reported shall be the measure reported to the chief operating decision\nmaker for the purposes of making decisions about allocating resources to the segment and assessing its\nperformance. Adjustments and eliminations made in preparing an entity\u2019s financial statements and\nallocations of revenues, expenses, and gains or losses shall be included in determining reported segment\nprofit or loss only if they are included in the measure of the segment\u2019s profit or loss that is used by the chief\noperating decision maker. Similarly, only those assets and liabilities that are included in the measures of the\nsegment\u2019s assets and segment\u2019s liabilities that are used by the chief operating decision maker shall be\nreported for that segment. If amounts are allocated to reported segment profit or loss, assets or liabilities,\nthose amounts shall be allocated on a reasonable basis.  \n26 If the chief operating decision maker uses only one measure of an operating segment\u2019s profit or loss, the\nsegment\u2019s assets or the segment\u2019s liabilities in assessing segment performance and deciding how to allocate\nresources, segment profit or loss, assets and liabilities shall be reported at those measures. If the chief\noperating decision maker uses more than one measure of an operating segment\u2019s profit or loss, the\nsegment\u2019s assets or the segment\u2019s liabilities, the reported measures shall be those that management believes\nare determined in accordance with the measurement principles most consistent with those used in measuring\nthe corresponding amounts in the entity\u2019s financial statements.  \n27 An entity shall provide an explanation of the measurements of segment profit or loss, segment assets and\nsegment liabilities for each reportable segment. At a minimum, an entity shall disclose the following:  \n(a) the basis of accounting for any transactions between reportable segments.  \n(b) the nature of any differences between the measurements of the reportable segments\u2019 profits or\nlosses and the entity\u2019s profit or loss before income tax expense or income and discontinued\noperations (if not apparent from the reconciliations described in paragraph 28). Those differences\ncould include accounting policies and policies for allocation of centrally incurred costs that are\nnecessary for an understanding of the reported segment information.  \n(c) the nature of any differences between the measurements of the reportable segments\u2019 assets and\nthe entity\u2019s assets (if not apparent from the reconciliations described in paragraph 28). Those\ndifferences could include accounting policies and policies for allocation of jointly used assets that\nare necessary for an understanding of the reported segment information.  \n(d) the nature of any differences between the measurements of the reportable segments\u2019 liabilities\nand the entity\u2019s liabilities (if not apparent from the reconciliations described in paragraph 28).\nThose differences could include accounting policies and policies for allocation of jointly utilised\nliabilities that are necessary for an understanding of the reported segment information.  \n(e) the nature of any changes from prior periods in the measurement methods used to determine\nreported segment profit or loss and the effect, if any, of those changes on the measure of segment\nprofit or loss.  \n(f) the nature and effect of any asymmetrical allocations to reportable segments. For example, an\nentity might allocate depreciation expense to a segment without allocating the related depreciable\nassets to that segment.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Measurement",
+            "page_number": 8,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Reconciliations  \n28 An entity shall provide reconciliations of all of the following:  \n(a) the total of the reportable segments\u2019 revenues to the entity\u2019s revenue.  \n(b) the total of the reportable segments\u2019 measures of profit or loss to the entity\u2019s profit or loss before\ntax expense (tax income) and discontinued operations. However, if an entity allocates to\nreportable segments items such as tax expense (tax income), the entity may reconcile the total of\nthe segments\u2019 measures of profit or loss to the entity\u2019s profit or loss after those items.  \n1 For assets classified according to a liquidity presentation, non-current assets are assets that include amounts expected to be recovered  \nmore than twelve months after the reporting period.  \n-----  (c) the total of the reportable segments\u2019 assets to the entity\u2019s assets if the segment assets are reported\nin accordance with paragraph 23.  \n(d) the total of the reportable segments\u2019 liabilities to the entity\u2019s liabilities if segment liabilities are\nreported in accordance with paragraph 23.  \n(e) the total of the reportable segments\u2019 amounts for every other material item of information\ndisclosed to the corresponding amount for the entity.  \nAll material reconciling items shall be separately identified and described. For example, the amount of each\nmaterial adjustment needed to reconcile reportable segment profit or loss to the entity\u2019s profit or loss arising\nfrom different accounting policies shall be separately identified and described.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Reconciliations",
+            "page_number": 8,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Restatement of previously reported information  \n29 If an entity changes the structure of its internal organisation in a manner that causes the composition of its\nreportable segments to change, the corresponding information for earlier periods, including interim periods,\nshall be restated unless the information is not available and the cost to develop it would be excessive. The\ndetermination of whether the information is not available and the cost to develop it would be excessive shall\nbe made for each individual item of disclosure. Following a change in the composition of its reportable\nsegments, an entity shall disclose whether it has restated the corresponding items of segment information\nfor earlier periods.  \n30 If an entity has changed the structure of its internal organisation in a manner that causes the composition of\nits reportable segments to change and if segment information for earlier periods, including interim periods,\nis not restated to reflect the change, the entity shall disclose in the year in which the change occurs segment\ninformation for the current period on both the old basis and the new basis of segmentation, unless the\nnecessary information is not available and the cost to develop it would be excessive.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Restatement of previously reported information",
+            "page_number": 9,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Entity-wide disclosures  \n31 Paragraphs 32\u201334 apply to all entities subject to this Standard including those entities that have a single\nreportable segment. Some entities\u2019 business activities are not organised on the basis of differences in related\nproducts and services or differences in geographical areas of operations. Such an entity\u2019s reportable\nsegments may report revenues from a broad range of essentially different products and services, or more\nthan one of its reportable segments may provide essentially the same products and services. Similarly, an\nentity\u2019s reportable segments may hold assets in different geographical areas and report revenues from\ncustomers in different geographical areas, or more than one of its reportable segments may operate in the\nsame geographical area. Information required by paragraphs 32\u201334 shall be provided only if it is not\nprovided as part of the reportable segment information required by this Standard.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Entity-wide disclosures",
+            "page_number": 9,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Information about products and services  \n32 An entity shall report the revenues from external customers for each product and service, or each group of\nsimilar products and services, unless the necessary information is not available and the cost to develop it\nwould be excessive, in which case that fact shall be disclosed. The amounts of revenues reported shall be\nbased on the financial information used to produce the entity\u2019s financial statements.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Information about products and services",
+            "page_number": 9,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Information about geographical areas  \n33 An entity shall report the following geographical information, unless the necessary information is not\navailable and the cost to develop it would be excessive:  \n(a) revenues from external customers (i) attributed to the entity\u2019s country of domicile and (ii)\nattributed to all foreign countries in total from which the entity derives revenues. If revenues from\nexternal customers attributed to an individual foreign country are material, those revenues shall\nbe disclosed separately. An entity shall disclose the basis for attributing revenues from external\ncustomers to individual countries.  \n(b) non-current assets[2] other than financial instruments, deferred tax assets, post-employment benefit\nassets, and rights arising under insurance contracts (i) located in the entity\u2019s country of domicile  \n2 For assets classified according to a liquidity presentation, non-current assets are assets that include amounts expected to be recovered\nmore than twelve months after the reporting period.  \n-----  and (ii) located in all foreign countries in total in which the entity holds assets. If assets in an\nindividual foreign country are material, those assets shall be disclosed separately.  \nThe amounts reported shall be based on the financial information that is used to produce the entity\u2019s\nfinancial statements. If the necessary information is not available and the cost to develop it would be\nexcessive, that fact shall be disclosed. An entity may provide, in addition to the information required by this\nparagraph, subtotals of geographical information about groups of countries.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Information about geographical areas",
+            "page_number": 9,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Information about major customers  \n34 An entity shall provide information about the extent of its reliance on its major customers. If revenues from\ntransactions with a single external customer amount to 10 per cent or more of an entity\u2019s revenues, the\nentity shall disclose that fact, the total amount of revenues from each such customer, and the identity of the\nsegment or segments reporting the revenues. The entity need not disclose the identity of a major customer\nor the amount of revenues that each segment reports from that customer. For the purposes of this Standard,\na group of entities known to a reporting entity to be under common control shall be considered a single\ncustomer. However, judgement is required to assess whether a government (including government agencies\nand similar bodies whether local, national or international) and entities known to the reporting entity to be\nunder the control of that government are considered a single customer. In assessing this, the reporting entity\nshall consider the extent of economic integration between those entities.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Information about major customers",
+            "page_number": 10,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Transition and effective date  \n35 An entity shall apply this Standard in its annual financial statements for periods beginning on or after\n1 January 2016. Earlier application is permitted for periods beginning on or after 1 January 2014 but before\n1 January 2016. If an entity applies this Standard in its financial statements for a period before 1 January\n2016, it shall disclose that fact.  \n35A [Deleted by the AASB]  \n36 Segment information for prior years that is reported as comparative information for the initial year of\napplication (including application of the amendment to paragraph 23 made in May 2009 in the previous\nversion of this Standard) shall be restated to conform to the requirements of this Standard, unless the\nnecessary information is not available and the cost to develop it would be excessive.  \n36A\u2013\n36B [Deleted by the AASB]  \n36C AASB 2014-1 Amendments to Australian Accounting Standards, issued in June 2014, amended paragraphs\n22 and 28 in the previous version of this Standard. An entity shall apply those amendments for annual\nperiods beginning on or after 1 July 2014. Earlier application is permitted. If an entity applies those\namendments for an earlier period it shall disclose that fact.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Transition and effective date",
+            "page_number": 10,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of IAS 14  \n37 [Deleted by the AASB]",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Withdrawal of IAS 14",
+            "page_number": 10,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus37.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 10,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus37.2 This Standard repeals AASB 8 Operating Segments issued in February 2007. Despite the repeal,\nafter the time this Standard starts to apply under section 334 of the Corporations Act (either\ngenerally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 10,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Defined term  \n_This appendix is an integral part of the Standard._  \n**operating segment** An operating segment is a component of an entity:  \n(a) that engages in business activities from which it may earn revenues and\nincur expenses (including revenues and expenses relating to transactions\nwith other components of the same entity),  \n(b) whose operating results are regularly reviewed by the entity\u2019s chief\noperating decision maker to make decisions about resources to be allocated\nto the segment and assess its performance, and  \n(c) for which discrete financial information is available.  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Appendix A Defined term",
+            "page_number": 11,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Appendix C Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusC1** **Paragraphs 5\u201334 do not apply to entities preparing general purpose financial statements**\n**that apply AASB 1060** **_General Purpose Financial Statements \u2013 Simplified Disclosures for_**\n**_For-Profit and Not-for-Profit Tier 2 Entities. If an entity applying AASB 1060 elects to_**\n**provide segment disclosures, it shall apply this Standard in preparing and presenting the**\n**information.**  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Appendix C Australian simplified disclosures for Tier 2 entities",
+            "page_number": 12,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 8 Operating Segments (as amended)  \n_Compilation details are not part of AASB 8._  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. It takes into account amendments\nup to and including 6 March 2020 and was prepared on 8 June 2021 by the staff of the Australian Accounting\nStandards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of AASB 8\n(August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Compilation details Accounting Standard AASB 8 Operating Segments (as amended)",
+            "page_number": 13,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 8|7 Aug 2015|F2015L01606|31 Dec 2015|(beginning) 1 Jan 2016|see (a) below|\n|AASB 2015-9|11 Nov 2015|F2015L01832|31 Dec 2015|(beginning) 1 Jan 2016|see (b) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (c) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (d) below|  \n(a) Entities may elect to apply this Standard to annual periods beginning on or after 1 January 2014 but before 1 January 2016.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2016.  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(d) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|AusCF1|added|AASB 2019-1 [page 11]|\n|2|added|AASB 2015-9 [7]|\n|Aus37.1|repealed|Legislation Act 2003, s. 48D|\n|Appendix C|replaced|AASB 1060 [page 59]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Table of Standards",
+            "page_number": 13,
+            "file_name": "AASB8 Operating Segments"
+        }
+    },
+    {
+        "page_content=": "## Deleted IFRS 8 text  \n_Deleted IFRS 8 text is not part of AASB 8._  \n35A Paragraph 23 was amended by _Improvements to IFRSs issued in April 2009. An entity shall apply that_\namendment for annual periods beginning on or after 1 January 2010. Earlier application is permitted. If an\nentity applies the amendment for an earlier period it shall disclose that fact.  \n36A IAS 1 (as revised in 2007) amended the terminology used throughout IFRSs. In addition it amended\nparagraph 23(f). An entity shall apply those amendments for annual periods beginning on or after 1 January\n2009. If an entity applies IAS 1 (revised 2007) for an earlier period, the amendments shall be applied for\nthat earlier period.  \n36B IAS 24 Related Party Disclosures (as revised in 2009) amended paragraph 34 for annual periods beginning\non or after 1 January 2011. If an entity applies IAS 24 (revised 2009) for an earlier period, it shall apply the\namendment to paragraph 34 for that earlier period.  \n37 This IFRS supersedes IAS 14 Segment Reporting.  \n-----  ",
+        "metadata": {
+            "Header 1": "Operating Segments",
+            "Header 2": "Deleted IFRS 8 text",
+            "page_number": 14,
+            "file_name": "AASB8 Operating Segments"
+        }
+    }
+]

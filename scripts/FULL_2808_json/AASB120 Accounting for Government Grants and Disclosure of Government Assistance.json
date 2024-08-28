@@ -1,0 +1,233 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 120**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "# Accounting for Government Grants and Disclosure of Government Assistance  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. Earlier application is permitted\nfor annual periods beginning after 24 July 2014 but before 1 July 2021. It incorporates relevant amendments made up\nto and including 6 March 2020.  \nPrepared on 21 July 2021 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 1  \nCompilation date: 30 June 2021  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "page_number": 0,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2021  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The National Director, Australian Accounting Standards Board, PO Box 204,\nCollins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce for commercial purposes outside Australia should be addressed to the IFRS Foundation at\nwww.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 20  \n**ACCOUNTING STANDARD**\n**AASB 120 ACCOUNTING FOR GOVERNMENT GRANTS AND DISCLOSURE OF GOVERNMENT**\n**_ASSISTANCE_**  \n_from paragraph_\nSCOPE** **1\nDEFINITIONS** **3\nGOVERNMENT GRANTS** **7\nNon-monetary government grants** **23\nPresentation of grants related to assets** **24\nPresentation of grants related to income** **29\nRepayment of government grants** **32\nGOVERNMENT ASSISTANCE** **34\nDISCLOSURE** **39  \n**TRANSITIONAL PROVISIONS**\nEFFECTIVE DATE** **41  \n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus48.2  \n**APPENDIX**\n**A Australian simplified disclosures for Tier 2 entities**\n**COMPILATION DETAILS**\nDELETED IAS 20 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IAS 20\nAustralian Accounting Standard AASB 120 _Accounting for Government Grants and Disclosure of Government_\n_Assistance (as amended) is set out in paragraphs 1 \u2013 Aus48.2 and Appendix A. All the paragraphs have equal_\nauthority. Paragraphs in **bold type state the main principles. AASB 120 is to be read in the context of other**\nAustralian Accounting Standards, including AASB 1048 Interpretation of Standards, which identifies the Australian\nAccounting Interpretations, and AASB 1057 _Application of Australian Accounting Standards. In the absence of_\nexplicit guidance, AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for\nselecting and applying accounting policies.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 20  \nAASB 120 _Accounting for Government Grants and Disclosure of Government Assistance as amended incorporates_\nIAS 20 Accounting for Government Grants and Disclosure of Government Assistance as issued and amended by the\nInternational Accounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IAS 20)\nare identified with the prefix \u201cAus\u201d.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Comparison with IAS 20",
+            "page_number": 3,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 120 also comply with IAS 20.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 120  \nThe Australian Accounting Standards Board made Accounting Standard AASB 120 _Accounting for Government_\n_Grants and Disclosure of Government Assistance under section 334 of the Corporations Act 2001 on 7 August 2015._  \nThis compiled version of AASB 120 applies to annual periods beginning on or after 1 July 2021. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 6 March 2020 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Accounting Standard AASB 120",
+            "page_number": 4,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 120 Accounting for Government Grants and Disclosure of Government Assistance[1]  \nScope  \n**1** **This Standard shall be applied in accounting for, and in the disclosure of, government grants and in**\n**the disclosure of other forms of government assistance.**  \n2 This Standard does not deal with:  \n(a) the special problems arising in accounting for government grants in financial statements\nreflecting the effects of changing prices or in supplementary information of a similar nature.  \n(b) government assistance that is provided for an entity in the form of benefits that are available in\ndetermining taxable profit or tax loss, or are determined or limited on the basis of income tax\nliability. Examples of such benefits are income tax holidays, investment tax credits, accelerated\ndepreciation allowances and reduced income tax rates.  \n(c) government participation in the ownership of the entity.  \n(d) government grants covered by AASB 141 Agriculture.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Accounting Standard AASB 120 Accounting for Government Grants and Disclosure of Government Assistance[1]",
+            "page_number": 4,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**3** **The following terms are used in this Standard with the meanings specified:**  \n**_Government refers to government, government agencies and similar bodies whether local, national or_**\n**international.**  \n**_Government assistance is action by government designed to provide an economic benefit specific to an_**\n**entity or range of entities qualifying under certain criteria. Government assistance for the purpose of**\n**this Standard does not include benefits provided only indirectly through action affecting general**\n**trading conditions, such as the provision of infrastructure in development areas or the imposition of**\n**trading constraints on competitors.**  \n**_Government grants are assistance by government in the form of transfers of resources to an entity in_**\n**return for past or future compliance with certain conditions relating to the operating activities of the**\n**entity. They exclude those forms of government assistance which cannot reasonably have a value**\n**placed upon them and transactions with government which cannot be distinguished from the normal**\n**trading transactions of the entity.[2]**  \n**_Grants related to assets are government grants whose primary condition is that an entity qualifying_**\n**for them should purchase, construct or otherwise acquire long-term assets. Subsidiary conditions**  \n1 As part of AASB 2008-5 Amendments to Australian Accounting Standards arising from the Annual Improvements Project issued in July  \n2008 the Board amended terminology used in this Standard to be consistent with other Australian Accounting Standards as follows: (a)\n\u2018taxable income\u2019 was amended to \u2018taxable profit or tax loss\u2019, (b) \u2018recognised as income/expense\u2019 was amended to \u2018recognised in profit\nor loss\u2019, (c) \u2018credited directly to shareholders\u2019 interests/equity\u2019 was amended to \u2018recognised outside profit or loss\u2019, and (d) \u2018revision to\nan accounting estimate\u2019 was amended to \u2018change in accounting estimate\u2019.  \n2 See also Interpretation 110 _Government Assistance\u2014No Specific Relation to Operating Activities, as identified in AASB 1048_\n_Interpretation of Standards._  \n-----  **may also be attached restricting the type or location of the assets or the periods during which they are**\n**to be acquired or held.**  \n**_Grants related to income are government grants other than those related to assets._**  \n**_Forgivable loans are loans which the lender undertakes to waive repayment of under certain_**\n**prescribed conditions.**  \n**_Fair value is the price that would be received to sell an asset or paid to transfer a liability in an_**\n**orderly transaction between market participants at the measurement date. (See AASB 13 Fair Value**\n**_Measurement.)_**  \n4 Government assistance takes many forms varying both in the nature of the assistance given and in the\nconditions which are usually attached to it. The purpose of the assistance may be to encourage an entity to\nembark on a course of action which it would not normally have taken if the assistance was not provided.  \n5 The receipt of government assistance by an entity may be significant for the preparation of the financial\nstatements for two reasons. Firstly, if resources have been transferred, an appropriate method of accounting\nfor the transfer must be found. Secondly, it is desirable to give an indication of the extent to which the entity\nhas benefited from such assistance during the reporting period. This facilitates comparison of an entity\u2019s\nfinancial statements with those of prior periods and with those of other entities.  \n6 Government grants are sometimes called by other names such as subsidies, subventions, or premiums.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Definitions",
+            "page_number": 4,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Government grants  \n**7** **Government grants, including non-monetary grants at fair value, shall not be recognised until there is**\n**reasonable assurance that:**  \n**(a)** **the entity will comply with the conditions attaching to them; and**  \n**(b)** **the grants will be received.**  \n8 A government grant is not recognised until there is reasonable assurance that the entity will comply with the\nconditions attaching to it, and that the grant will be received. Receipt of a grant does not of itself provide\nconclusive evidence that the conditions attaching to the grant have been or will be fulfilled.  \n9 The manner in which a grant is received does not affect the accounting method to be adopted in regard to\nthe grant. Thus a grant is accounted for in the same manner whether it is received in cash or as a reduction\nof a liability to the government.  \n10 A forgivable loan from government is treated as a government grant when there is reasonable assurance that\nthe entity will meet the terms for forgiveness of the loan.  \n10A The benefit of a government loan at a below-market rate of interest is treated as a government grant. The\nloan shall be recognised and measured in accordance with AASB 9 Financial Instruments. The benefit of\nthe below-market rate of interest shall be measured as the difference between the initial carrying value of\nthe loan determined in accordance with AASB 9 and the proceeds received. The benefit is accounted for in\naccordance with this Standard. The entity shall consider the conditions and obligations that have been, or\nmust be, met when identifying the costs for which the benefit of the loan is intended to compensate.  \n11 Once a government grant is recognised, any related contingent liability or contingent asset is treated in\naccordance with AASB 137 Provisions, Contingent Liabilities and Contingent Assets.  \n**12** **Government grants shall be recognised in profit or loss on a systematic basis over the periods in**\n**which the entity recognises as expenses the related costs for which the grants are intended to**\n**compensate.**  \n13 There are two broad approaches to the accounting for government grants: the capital approach, under which\na grant is recognised outside profit or loss, and the income approach, under which a grant is recognised in\nprofit or loss over one or more periods.  \n14 Those in support of the capital approach argue as follows:  \n(a) government grants are a financing device and should be dealt with as such in the statement of\nfinancial position rather than be recognised in profit or loss to offset the items of expense that\nthey finance. Because no repayment is expected, such grants should be recognised outside profit\nor loss.  \n(b) it is inappropriate to recognise government grants in profit or loss, because they are not earned\nbut represent an incentive provided by government without related costs.  \n-----  15 Arguments in support of the income approach are as follows:  \n(a) because government grants are receipts from a source other than shareholders, they should not be\nrecognised directly in equity but should be recognised in profit or loss in appropriate periods.  \n(b) government grants are rarely gratuitous. The entity earns them through compliance with their\nconditions and meeting the envisaged obligations. They should therefore be recognised in profit\nor loss over the periods in which the entity recognises as expenses the related costs for which the\ngrant is intended to compensate.  \n(c) because income and other taxes are expenses, it is logical to deal also with government grants,\nwhich are an extension of fiscal policies, in profit or loss.  \n16 It is fundamental to the income approach that government grants should be recognised in profit or loss on a\nsystematic basis over the periods in which the entity recognises as expenses the related costs for which the\ngrant is intended to compensate. Recognition of government grants in profit or loss on a receipts basis is not\nin accordance with the accrual accounting assumption (see AASB 101 _Presentation of Financial_\n_Statements) and would be acceptable only if no basis existed for allocating a grant to periods other than the_\none in which it was received.  \n17 In most cases the periods over which an entity recognises the costs or expenses related to a government\ngrant are readily ascertainable. Thus grants in recognition of specific expenses are recognised in profit or\nloss in the same period as the relevant expenses. Similarly, grants related to depreciable assets are usually\nrecognised in profit or loss over the periods and in the proportions in which depreciation expense on those\nassets is recognised.  \n18 Grants related to non-depreciable assets may also require the fulfilment of certain obligations and would\nthen be recognised in profit or loss over the periods that bear the cost of meeting the obligations. As an\nexample, a grant of land may be conditional upon the erection of a building on the site and it may be\nappropriate to recognise the grant in profit or loss over the life of the building.  \n19 Grants are sometimes received as part of a package of financial or fiscal aids to which a number of\nconditions are attached. In such cases, care is needed in identifying the conditions giving rise to costs and\nexpenses which determine the periods over which the grant will be earned. It may be appropriate to allocate\npart of a grant on one basis and part on another.  \n**20** **A government grant that becomes receivable as compensation for expenses or losses already incurred**\n**or for the purpose of giving immediate financial support to the entity with no future related costs**\n**shall be recognised in profit or loss of the period in which it becomes receivable.**  \n21 In some circumstances, a government grant may be awarded for the purpose of giving immediate financial\nsupport to an entity rather than as an incentive to undertake specific expenditures. Such grants may be\nconfined to a particular entity and may not be available to a whole class of beneficiaries. These\ncircumstances may warrant recognising a grant in profit or loss of the period in which the entity qualifies to\nreceive it, with disclosure to ensure that its effect is clearly understood.  \n22 A government grant may become receivable by an entity as compensation for expenses or losses incurred in\na previous period. Such a grant is recognised in profit or loss of the period in which it becomes receivable,\nwith disclosure to ensure that its effect is clearly understood.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Government grants",
+            "page_number": 5,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Non-monetary government grants  \n23 A government grant may take the form of a transfer of a non-monetary asset, such as land or other\nresources, for the use of the entity. In these circumstances it is usual to assess the fair value of the nonmonetary asset and to account for both grant and asset at that fair value. An alternative course that is\nsometimes followed is to record both asset and grant at a nominal amount.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Non-monetary government grants",
+            "page_number": 6,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Presentation of grants related to assets  \n**24** **Government grants related to assets, including non-monetary grants at fair value, shall be presented**\n**in the statement of financial position either by setting up the grant as deferred income or by**\n**deducting the grant in arriving at the carrying amount of the asset.**  \n25 Two methods of presentation in financial statements of grants (or the appropriate portions of grants) related\nto assets are regarded as acceptable alternatives.  \n26 One method recognises the grant as deferred income that is recognised in profit or loss on a systematic basis\nover the useful life of the asset.  \n-----  27 The other method deducts the grant in calculating the carrying amount of the asset. The grant is recognised\nin profit or loss over the life of a depreciable asset as a reduced depreciation expense.  \n28 The purchase of assets and the receipt of related grants can cause major movements in the cash flow of an\nentity. For this reason and in order to show the gross investment in assets, such movements are often\ndisclosed as separate items in the statement of cash flows regardless of whether or not the grant is deducted\nfrom the related asset for presentation purposes in the statement of financial position.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Presentation of grants related to assets",
+            "page_number": 6,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Presentation of grants related to income  \n29 Grants related to income are presented as part of profit or loss, either separately or under a general heading\nsuch as \u2018Other income\u2019; alternatively, they are deducted in reporting the related expense.  \n29A [Deleted]  \n30 Supporters of the first method claim that it is inappropriate to net income and expense items and that\nseparation of the grant from the expense facilitates comparison with other expenses not affected by a grant.\nFor the second method it is argued that the expenses might well not have been incurred by the entity if the\ngrant had not been available and presentation of the expense without offsetting the grant may therefore be\nmisleading.  \n31 Both methods are regarded as acceptable for the presentation of grants related to income. Disclosure of the\ngrant may be necessary for a proper understanding of the financial statements. Disclosure of the effect of\nthe grants on any item of income or expense which is required to be separately disclosed is usually\nappropriate.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Presentation of grants related to income",
+            "page_number": 7,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Repayment of government grants  \n**32** **A government grant that becomes repayable shall be accounted for as a change in accounting**\n**estimate (see AASB 108** **_Accounting Policies, Changes in Accounting Estimates and Errors)._**\n**Repayment of a grant related to income shall be applied first against any unamortised deferred credit**\n**recognised in respect of the grant. To the extent that the repayment exceeds any such deferred credit,**\n**or when no deferred credit exists, the repayment shall be recognised immediately in profit or loss.**\n**Repayment of a grant related to an asset shall be recognised by increasing the carrying amount of the**\n**asset or reducing the deferred income balance by the amount repayable. The cumulative additional**\n**depreciation that would have been recognised in profit or loss to date in the absence of the grant shall**\n**be recognised immediately in profit or loss.**  \n33 Circumstances giving rise to repayment of a grant related to an asset may require consideration to be given\nto the possible impairment of the new carrying amount of the asset.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Repayment of government grants",
+            "page_number": 7,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Government assistance  \n34 Excluded from the definition of government grants in paragraph 3 are certain forms of government\nassistance which cannot reasonably have a value placed upon them and transactions with government which\ncannot be distinguished from the normal trading transactions of the entity.  \n35 Examples of assistance that cannot reasonably have a value placed upon them are free technical or\nmarketing advice and the provision of guarantees. An example of assistance that cannot be distinguished\nfrom the normal trading transactions of the entity is a government procurement policy that is responsible for\na portion of the entity\u2019s sales. The existence of the benefit might be unquestioned but any attempt to\nsegregate the trading activities from government assistance could well be arbitrary.  \n36 The significance of the benefit in the above examples may be such that disclosure of the nature, extent and\nduration of the assistance is necessary in order that the financial statements may not be misleading.  \n37 [Deleted]  \n38 In this Standard, government assistance does not include the provision of infrastructure by improvement to\nthe general transport and communication network and the supply of improved facilities such as irrigation or\nwater reticulation which is available on an ongoing indeterminate basis for the benefit of an entire local\ncommunity.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Government assistance",
+            "page_number": 7,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**39** **The following matters shall be disclosed:**  \n**(a)** **the accounting policy adopted for government grants, including the methods of presentation**\n**adopted in the financial statements;**  \n**(b)** **the nature and extent of government grants recognised in the financial statements and an**\n**indication of other forms of government assistance from which the entity has directly**\n**benefited; and**  \n**(c)** **unfulfilled conditions and other contingencies attaching to government assistance that has**\n**been recognised.**",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Disclosure",
+            "page_number": 8,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Transitional provisions  \n40 [Deleted by the AASB]",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Transitional provisions",
+            "page_number": 8,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Effective date  \n41 This Standard becomes operative for financial statements covering periods beginning on or after 1 January\n2018. Earlier application is permitted for periods beginning after 24 July 2014 but before 1 January 2018. If\nan entity applies the amendments for an earlier period it shall disclose that fact.  \n42 [Deleted by the AASB]  \n43 In the previous version of this Standard, paragraph 37 was deleted and paragraph 10A added by\nAASB 2008-5 _Amendments to Australian Accounting Standards arising from the Annual Improvements_\n_Project_ issued in July 2008. An entity shall apply those amendments prospectively to government loans\nreceived in periods beginning on or after 1 January 2009. Earlier application is permitted. If an entity\napplies the amendments for an earlier period it shall disclose that fact.  \n44 [Deleted]  \n45\u2013\n46 [Deleted by the AASB]  \n47 [Deleted]  \n48 AASB 2010-7 Amendments to Australian Accounting Standards arising from AASB 9 (December 2010) (as\namended) amended the previous version of this Standard as follows: amended paragraph 10A.\nParagraph 44, added by AASB 2010-7, was deleted by AASB 2014-1 _Amendments to Australian_\n_Accounting Standards. Paragraph 47, added by AASB 2014-1, was deleted by AASB 2014-7 Amendments_\n_to Australian Accounting Standards arising from AASB 9 (December 2014). An entity shall apply those_\namendments when it applies AASB 9.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Effective date",
+            "page_number": 8,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus48.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 8,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus48.2 This Standard repeals AASB 120 _Accounting for Government Grants and Disclosure of_\n_Government Assistance issued in July 2004. Despite the repeal, after the time this Standard starts_\nto apply under section 334 of the Corporations Act (either generally or in relation to an individual\nentity), the repealed Standard continues to apply in relation to any period ending before that time\nas if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 8,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusA1** **Paragraph 39 does not apply to entities preparing general purpose financial statements that**\n**apply AASB 1060** **_General Purpose Financial Statements \u2013 Simplified Disclosures for For-_**\n**_Profit and Not-for-Profit Tier 2 Entities._**  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Appendix A Australian simplified disclosures for Tier 2 entities",
+            "page_number": 9,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 120 Accounting for Government Grants and Disclosure of Government Assistance (as amended)  \n_Compilation details are not part of AASB 120._  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. It takes into account amendments\nup to and including 6 March 2020 and was prepared on 21 July 2021 by the staff of the Australian Accounting\nStandards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 120 (July 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Compilation details Accounting Standard AASB 120 Accounting for Government Grants and Disclosure of Government Assistance (as amended)",
+            "page_number": 10,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 120|24 Jul 2015|F2015L01628|31 Dec 2017|(beginning) 1 Jan 2018|see (a) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (b) below|  \n(a) Entities may elect to apply this Standard to annual periods beginning after 24 July 2014 but before 1 January 2018.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|Aus48.1|repealed|Legislation Act 2003, s. 48D|\n|Appendix A|added|AASB 1060 [page 63]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Table of Standards",
+            "page_number": 10,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 20 text  \n_Deleted IAS 20 text is not part of AASB 120._  \n40 **An entity adopting the Standard for the first time shall:**  \n**(a)** **comply with the disclosure requirements, where appropriate; and**  \n**(b)** **either:**  \n**(i)** **adjust its financial statements for the change in accounting policy** **in accordance**\n**with IAS 8; or**  \n**(ii)** **apply the accounting provisions of the Standard only to grants or portions of**\n**grants becoming receivable or repayable after the effective date of the Standard.**  \n42 IAS 1 (as revised in 2007) amended the terminology used throughout IFRSs. In addition it added paragraph\n29A. An entity shall apply those amendments for annual periods beginning on or after 1 January 2009. If an\nentity applies IAS 1 (revised 2007) for an earlier period, the amendments shall be applied for that earlier\nperiod.  \n45 IFRS 13, issued in May 2011, amended the definition of fair value in paragraph 3. An entity shall apply that\namendment when it applies IFRS 13.  \n46 _Presentation of Items of Other Comprehensive Income (Amendments to IAS 1), issued in June 2011,_\namended paragraph 29 and deleted paragraph 29A. An entity shall apply those amendments when it applies\nIAS 1 as amended in June 2011.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting for Government Grants and Disclosure of Government Assistance",
+            "Header 2": "Deleted IAS 20 text",
+            "page_number": 11,
+            "file_name": "AASB120 Accounting for Government Grants and Disclosure of Government Assistance"
+        }
+    }
+]

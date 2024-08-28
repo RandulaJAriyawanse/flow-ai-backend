@@ -1,0 +1,1160 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 133**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "# Earnings per Share  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. Earlier application is permitted\nfor annual periods beginning after 24 July 2014 but before 1 July 2021. It incorporates relevant amendments made up\nto and including 6 March 2020.  \nPrepared on 8 June 2021 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 3  \nCompilation date: 30 June 2021  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "page_number": 0,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2021  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The National Director, Australian Accounting Standards Board, PO Box 204,\nCollins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce for commercial purposes outside Australia should be addressed to the IFRS Foundation at\nwww.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 33  \n**ACCOUNTING STANDARD**\nAASB 133 EARNINGS PER SHARE\nOBJECTIVE\nSCOPE\nDEFINITIONS  \n**MEASUREMENT**\nBasic earnings per share\n_from paragraph_  \nEarnings 12  \nShares 19\nDiluted earnings per share** **30\nEarnings 33  \nShares 36  \nDilutive potential ordinary shares 41  \nOptions, warrants and their equivalents 45  \nConvertible instruments 49  \nContingently issuable shares 52  \nContracts that may be settled in ordinary shares or cash 58  \nPurchased options 62  \nWritten put options 63\nRETROSPECTIVE ADJUSTMENTS** **64\nPRESENTATION** **66\nDISCLOSURE** **70\nEFFECTIVE DATE** **74  \n**WITHDRAWAL OF OTHER PRONOUNCEMENTS**\n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus76.2  \n**APPENDICES**\n**A Application guidance**\n**C Australian simplified disclosures for Tier 2 entities**\n**ILLUSTRATIVE EXAMPLES**\n**COMPILATION DETAILS**\nDELETED IAS 33 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IAS 33\nAustralian Accounting Standard AASB 133 _Earnings per Share (as amended) is set out in paragraphs 1 \u2013 Aus76.2_\nand Appendices A and C. All the paragraphs have equal authority. Paragraphs in bold type state the main principles.\nAASB 133 is to be read in the context of other Australian Accounting Standards, including AASB 1048 Interpretation\n_of Standards, which identifies the Australian Accounting Interpretations, and AASB 1057 Application of Australian_\n_Accounting Standards. In the absence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting_\n_Estimates and Errors provides a basis for selecting and applying accounting policies._  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 33  \nAASB 133 Earnings per Share as amended incorporates IAS 33 Earnings per Share as issued and amended by the\nInternational Accounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IAS 33)\nare identified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying their\nlimited applicability.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Comparison with IAS 33",
+            "page_number": 3,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 133 also comply with IAS 33.  \nNot-for-profit entities\u2019 compliance with IAS 33 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIAS 33.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 133  \nThe Australian Accounting Standards Board made Accounting Standard AASB 133 _Earnings per Share under_\nsection 334 of the Corporations Act 2001 on 7 August 2015.  \nThis compiled version of AASB 133 applies to annual periods beginning on or after 1 July 2021. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 6 March 2020 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Accounting Standard AASB 133",
+            "page_number": 4,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 133 Earnings per Share  \nObjective  \n1 The objective of this Standard is to prescribe principles for the determination and presentation of earnings\nper share, so as to improve performance comparisons between different entities in the same reporting period\nand between different reporting periods for the same entity. Even though earnings per share data have\nlimitations because of the different accounting policies that may be used for determining \u2018earnings\u2019, a\nconsistently determined denominator enhances financial reporting. The focus of this Standard is on the\ndenominator of the earnings per share calculation.  \nAusCF1 AusCF entities are:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nFor AusCF entities, the term \u2018reporting entity\u2019 is defined in AASB 1057 _Application of_\n_Australian Accounting Standards and Statement of Accounting Concepts SAC 1 Definition of the_\n_Reporting Entity also applies. For-profit entities applying the_ _Conceptual Framework for_\n_Financial Reporting are set out in paragraph Aus1.1 of the Conceptual Framework._",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Accounting Standard AASB 133 Earnings per Share",
+            "page_number": 4,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n**2** **This Standard shall apply to:**  \n**(a)** **the separate or individual financial statements of an entity:**  \n**(i)** **whose ordinary shares or potential ordinary shares are traded in a public market**\n**(a domestic or foreign stock exchange or an over-the-counter market, including**\n**local and regional markets) or**  \n**(ii)** **that files, or is in the process of filing, its financial statements with a securities**\n**commission or other regulatory organisation for the purpose of issuing ordinary**\n**shares in a public market; and**  \n**(b)** **the consolidated financial statements of a group with a parent:**  \n**(i)** **whose ordinary shares or potential ordinary shares are traded in a public market**\n**(a domestic or foreign stock exchange or an over-the-counter market, including**\n**local and regional markets) or**  \n**(ii)** **that files, or is in the process of filing, its financial statements with a securities**\n**commission or other regulatory organisation for the purpose of issuing ordinary**\n**shares in a public market.**  \n**3** **An entity that discloses earnings per share shall calculate and disclose earnings per share in**\n**accordance with this Standard.**  \n**4** **When an entity presents both consolidated financial statements and separate financial statements**\n**prepared in accordance with AASB 10** **_Consolidated Financial Statements and AASB 127_** **_Separate_**\n**_Financial Statements respectively, the disclosures required by this Standard need be presented only_**\n**on the basis of the consolidated information. An entity that chooses to disclose earnings per share**  \n-----  **based on its separate financial statements shall present such earnings per share information only in**\n**its statement of comprehensive income. An entity shall not present such earnings per share**\n**information in the consolidated financial statements.**  \n**4A** **If an entity presents items of profit or loss in a separate statement as described in paragraph 10A of**\n**AASB 101 Presentation of Financial Statements, it presents earnings per share only in that separate**\n**statement.**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**5** **The following terms are used in this Standard with the meanings specified:**  \n**_Antidilution is an increase in earnings per share or a reduction in loss per share resulting from the_**  \n**assumption that convertible instruments are converted, that options or warrants are**\n**exercised, or that ordinary shares are issued upon the satisfaction of specified conditions.**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Definitions",
+            "page_number": 5,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### A contingent share agreement is an agreement to issue shares that is dependent on the satisfaction of  \n**specified conditions.**  \n**_Contingently issuable ordinary shares are ordinary shares issuable for little or no cash or other_**  \n**consideration upon the satisfaction of specified conditions in a contingent share agreement.**  \n**_Dilution is a reduction in earnings per share or an increase in loss per share resulting from the_**  \n**assumption that convertible instruments are converted, that options or warrants are**\n**exercised, or that ordinary shares are issued upon the satisfaction of specified conditions.**  \n**_Options, warrants and their equivalents are financial instruments that give the holder the right to_**  \n**purchase ordinary shares.**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Definitions",
+            "Header 3": "A contingent share agreement is an agreement to issue shares that is dependent on the satisfaction of",
+            "page_number": 5,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### An** **_ordinary share is an equity instrument that is subordinate to all other classes of equity_  \n**instruments.**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Definitions",
+            "Header 3": "An** **_ordinary share is an equity instrument that is subordinate to all other classes of equity_",
+            "page_number": 5,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### A** **_potential ordinary share is a financial instrument or other contract that may entitle its holder to_  \n**ordinary shares.**  \n**_Put options on ordinary shares are contracts that give the holder the right to sell ordinary shares at a_**  \n**specified price for a given period.**  \n6 Ordinary shares participate in profit for the period only after other types of shares such as preference shares\nhave participated. An entity may have more than one class of ordinary shares. Ordinary shares of the same\nclass have the same rights to receive dividends.  \n7 Examples of potential ordinary shares are:  \n(a) financial liabilities or equity instruments, including preference shares, that are convertible into\nordinary shares;  \n(b) options and warrants;  \n(c) shares that would be issued upon the satisfaction of conditions resulting from contractual\narrangements, such as the purchase of a business or other assets.  \n8 Terms defined in AASB 132 _Financial Instruments: Presentation are used in this Standard with the_\nmeanings specified in paragraph 11 of AASB 132, unless otherwise noted. AASB 132 defines financial\ninstrument, financial asset, financial liability and equity instrument, and provides guidance on applying\nthose definitions. AASB 13 _Fair Value Measurement defines fair value and sets out requirements for_\napplying that definition.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Definitions",
+            "Header 3": "A** **_potential ordinary share is a financial instrument or other contract that may entitle its holder to_",
+            "page_number": 5,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Measurement  \nBasic earnings per share  \n**9** **An entity shall calculate basic earnings per share amounts for profit or loss attributable to ordinary**\n**equity holders of the parent entity and, if presented, profit or loss from continuing operations**\n**attributable to those equity holders.**  \n**10** **Basic earnings per share shall be calculated by dividing profit or loss attributable to ordinary equity**\n**holders of the parent entity (the numerator) by the weighted average number of ordinary shares**\n**outstanding (the denominator) during the period.**  \n-----  11 The objective of basic earnings per share information is to provide a measure of the interests of each\nordinary share of a parent entity in the performance of the entity over the reporting period.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Measurement",
+            "page_number": 5,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Earnings  \n**12** **For the purpose of calculating basic earnings per share, the amounts attributable to ordinary equity**\n**holders of the parent entity in respect of:**  \n**(a)** **profit or loss from continuing operations attributable to the parent entity; and**  \n**(b)** **profit or loss attributable to the parent entity**  \n**shall be the amounts in (a) and (b) adjusted for the after-tax amounts of preference dividends,**\n**differences arising on the settlement of preference shares, and other similar effects of preference**\n**shares classified as equity.**  \n13 All items of income and expense attributable to ordinary equity holders of the parent entity that are\nrecognised in a period, including tax expense and dividends on preference shares classified as liabilities are\nincluded in the determination of profit or loss for the period attributable to ordinary equity holders of the\nparent entity (see AASB 101).  \n14 The after-tax amount of preference dividends that is deducted from profit or loss is:  \n(a) the after-tax amount of any preference dividends on non-cumulative preference shares declared in\nrespect of the period; and  \n(b) the after-tax amount of the preference dividends for cumulative preference shares required for the\nperiod, whether or not the dividends have been declared. The amount of preference dividends for\nthe period does not include the amount of any preference dividends for cumulative preference\nshares paid or declared during the current period in respect of previous periods.  \n15 Preference shares that provide for a low initial dividend to compensate an entity for selling the preference\nshares at a discount, or an above-market dividend in later periods to compensate investors for purchasing\npreference shares at a premium, are sometimes referred to as increasing rate preference shares. Any original\nissue discount or premium on increasing rate preference shares is amortised to retained earnings using the\neffective interest method and treated as a preference dividend for the purposes of calculating earnings per\nshare.  \n16 Preference shares may be repurchased under an entity\u2019s tender offer to the holders. The excess of the fair\nvalue of the consideration paid to the preference shareholders over the carrying amount of the preference\nshares represents a return to the holders of the preference shares and a charge to retained earnings for the\nentity. This amount is deducted in calculating profit or loss attributable to ordinary equity holders of the\nparent entity.  \n17 Early conversion of convertible preference shares may be induced by an entity through favourable changes\nto the original conversion terms or the payment of additional consideration. The excess of the fair value of\nthe ordinary shares or other consideration paid over the fair value of the ordinary shares issuable under the\noriginal conversion terms is a return to the preference shareholders, and is deducted in calculating profit or\nloss attributable to ordinary equity holders of the parent entity.  \n18 Any excess of the carrying amount of preference shares over the fair value of the consideration paid to settle\nthem is added in calculating profit or loss attributable to ordinary equity holders of the parent entity.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Measurement",
+            "Header 3": "Earnings",
+            "page_number": 6,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Shares  \n**19** **For the purpose of calculating basic earnings per share, the number of ordinary shares shall be the**\n**weighted average number of ordinary shares outstanding during the period.**  \n20 Using the weighted average number of ordinary shares outstanding during the period reflects the possibility\nthat the amount of shareholders\u2019 capital varied during the period as a result of a larger or smaller number of\nshares being outstanding at any time. The weighted average number of ordinary shares outstanding during\nthe period is the number of ordinary shares outstanding at the beginning of the period, adjusted by the\nnumber of ordinary shares bought back or issued during the period multiplied by a time-weighting factor.\nThe time-weighting factor is the number of days that the shares are outstanding as a proportion of the total\nnumber of days in the period; a reasonable approximation of the weighted average is adequate in many\ncircumstances.  \n21 Shares are usually included in the weighted average number of shares from the date consideration is\nreceivable (which is generally the date of their issue), for example:  \n(a) ordinary shares issued in exchange for cash are included when cash is receivable;  \n-----  (b) ordinary shares issued on the voluntary reinvestment of dividends on ordinary or preference\nshares are included when dividends are reinvested;  \n(c) ordinary shares issued as a result of the conversion of a debt instrument to ordinary shares are\nincluded from the date that interest ceases to accrue;  \n(d) ordinary shares issued in place of interest or principal on other financial instruments are included\nfrom the date that interest ceases to accrue;  \n(e) ordinary shares issued in exchange for the settlement of a liability of the entity are included from\nthe settlement date;  \n(f) ordinary shares issued as consideration for the acquisition of an asset other than cash are included\nas of the date on which the acquisition is recognised; and  \n(g) ordinary shares issued for the rendering of services to the entity are included as the services are\nrendered.  \nThe timing of the inclusion of ordinary shares is determined by the terms and conditions attaching to their\nissue. Due consideration is given to the substance of any contract associated with the issue.  \n22 Ordinary shares issued as part of the consideration transferred in a business combination are included in the\nweighted average number of shares from the acquisition date. This is because the acquirer incorporates into\nits statement of comprehensive income the acquiree\u2019s profits and losses from that date.  \n23 Ordinary shares that will be issued upon the conversion of a mandatorily convertible instrument are\nincluded in the calculation of basic earnings per share from the date the contract is entered into.  \n24 Contingently issuable shares are treated as outstanding and are included in the calculation of basic earnings\nper share only from the date when all necessary conditions are satisfied (ie the events have occurred).\nShares that are issuable solely after the passage of time are not contingently issuable shares, because the\npassage of time is a certainty. Outstanding ordinary shares that are contingently returnable (ie subject to\nrecall) are not treated as outstanding and are excluded from the calculation of basic earnings per share until\nthe date the shares are no longer subject to recall.  \n25 [Deleted]  \n**26** **The weighted average number of ordinary shares outstanding during the period and for all periods**\n**presented shall be adjusted for events, other than the conversion of potential ordinary shares, that**\n**have changed the number of ordinary shares outstanding without a corresponding change in**\n**resources.**  \n27 Ordinary shares may be issued, or the number of ordinary shares outstanding may be reduced, without a\ncorresponding change in resources. Examples include:  \n(a) a capitalisation or bonus issue (sometimes referred to as a stock dividend);  \n(b) a bonus element in any other issue, for example a bonus element in a rights issue to existing\nshareholders;  \n(c) a share split; and  \n(d) a reverse share split (consolidation of shares).  \n28 In a capitalisation or bonus issue or a share split, ordinary shares are issued to existing shareholders for no\nadditional consideration. Therefore, the number of ordinary shares outstanding is increased without an\nincrease in resources. The number of ordinary shares outstanding before the event is adjusted for the\nproportionate change in the number of ordinary shares outstanding as if the event had occurred at the\nbeginning of the earliest period presented. For example, on a two-for-one bonus issue, the number of\nordinary shares outstanding before the issue is multiplied by three to obtain the new total number of\nordinary shares, or by two to obtain the number of additional ordinary shares.  \n29 A consolidation of ordinary shares generally reduces the number of ordinary shares outstanding without a\ncorresponding reduction in resources. However, when the overall effect is a share repurchase at fair value,\nthe reduction in the number of ordinary shares outstanding is the result of a corresponding reduction in\nresources. An example is a share consolidation combined with a special dividend. The weighted average\nnumber of ordinary shares outstanding for the period in which the combined transaction takes place is\nadjusted for the reduction in the number of ordinary shares from the date the special dividend is recognised.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Measurement",
+            "Header 3": "Shares",
+            "page_number": 6,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Diluted earnings per share  \n**30** **An entity shall calculate diluted earnings per share amounts for profit or loss attributable to ordinary**\n**equity holders of the parent entity and, if presented, profit or loss from continuing operations**\n**attributable to those equity holders.**  \n**31** **For the purpose of calculating diluted earnings per share, an entity shall adjust profit or loss**\n**attributable to ordinary equity holders of the parent entity, and the weighted average number of**\n**shares outstanding, for the effects of all dilutive potential ordinary shares.**  \n32 The objective of diluted earnings per share is consistent with that of basic earnings per share\u2014to provide a\nmeasure of the interest of each ordinary share in the performance of an entity\u2014while giving effect to all\ndilutive potential ordinary shares outstanding during the period. As a result:  \n(a) profit or loss attributable to ordinary equity holders of the parent entity is increased by the aftertax amount of dividends and interest recognised in the period in respect of the dilutive potential\nordinary shares and is adjusted for any other changes in income or expense that would result from\nthe conversion of the dilutive potential ordinary shares; and  \n(b) the weighted average number of ordinary shares outstanding is increased by the weighted average\nnumber of additional ordinary shares that would have been outstanding assuming the conversion\nof all dilutive potential ordinary shares.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Diluted earnings per share",
+            "page_number": 8,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Earnings  \n**33** **For the purpose of calculating diluted earnings per share, an entity shall adjust profit or loss**\n**attributable to ordinary equity holders of the parent entity, as calculated in accordance with**\n**paragraph 12, by the after-tax effect of:**  \n**(a)** **any dividends or other items related to dilutive potential ordinary shares deducted in**\n**arriving at profit or loss attributable to ordinary equity holders of the parent entity as**\n**calculated in accordance with paragraph 12;**  \n**(b)** **any interest recognised in the period related to dilutive potential ordinary shares; and**  \n**(c)** **any other changes in income or expense that would result from the conversion of the**\n**dilutive potential ordinary shares.**  \n34 After the potential ordinary shares are converted into ordinary shares, the items identified in paragraph\n33(a)\u2013(c) no longer arise. Instead, the new ordinary shares are entitled to participate in profit or loss\nattributable to ordinary equity holders of the parent entity. Therefore, profit or loss attributable to ordinary\nequity holders of the parent entity calculated in accordance with paragraph 12 is adjusted for the items\nidentified in paragraph 33(a)\u2013(c) and any related taxes. The expenses associated with potential ordinary\nshares include transaction costs and discounts accounted for in accordance with the effective interest\nmethod (see AASB 9).  \n35 The conversion of potential ordinary shares may lead to consequential changes in income or expenses. For\nexample, the reduction of interest expense related to potential ordinary shares and the resulting increase in\nprofit or reduction in loss may lead to an increase in the expense related to a non-discretionary employee\nprofit-sharing plan. For the purpose of calculating diluted earnings per share, profit or loss attributable to\nordinary equity holders of the parent entity is adjusted for any such consequential changes in income or\nexpense.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Diluted earnings per share",
+            "Header 3": "Earnings",
+            "page_number": 8,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Shares  \n**36** **For the purpose of calculating diluted earnings per share, the number of ordinary shares shall be the**\n**weighted average number of ordinary shares calculated in accordance with paragraphs 19 and 26,**\n**plus the weighted average number of ordinary shares that would be issued on the conversion of all**\n**the dilutive potential ordinary shares into ordinary shares. Dilutive potential ordinary shares shall be**\n**deemed to have been converted into ordinary shares at the beginning of the period or, if later, the**\n**date of the issue of the potential ordinary shares.**  \n37 Dilutive potential ordinary shares shall be determined independently for each period presented. The number\nof dilutive potential ordinary shares included in the year-to-date period is not a weighted average of the\ndilutive potential ordinary shares included in each interim computation.  \n38 Potential ordinary shares are weighted for the period they are outstanding. Potential ordinary shares that are\ncancelled or allowed to lapse during the period are included in the calculation of diluted earnings per share\nonly for the portion of the period during which they are outstanding. Potential ordinary shares that are  \n-----  converted into ordinary shares during the period are included in the calculation of diluted earnings per share\nfrom the beginning of the period to the date of conversion; from the date of conversion, the resulting\nordinary shares are included in both basic and diluted earnings per share.  \n39 The number of ordinary shares that would be issued on conversion of dilutive potential ordinary shares is\ndetermined from the terms of the potential ordinary shares. When more than one basis of conversion exists,\nthe calculation assumes the most advantageous conversion rate or exercise price from the standpoint of the\nholder of the potential ordinary shares.  \n40 A subsidiary, joint venture or associate may issue to parties other than the parent or investors with joint\ncontrol of, or significant influence over, the investee potential ordinary shares that are convertible into\neither ordinary shares of the subsidiary, joint venture or associate, or ordinary shares of the parent or\ninvestors with joint control of, or significant influence (the reporting entity) over, the investee. If these\npotential ordinary shares of the subsidiary, joint venture or associate have a dilutive effect on the basic\nearnings per share of the reporting entity, they are included in the calculation of diluted earnings per share.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Diluted earnings per share",
+            "Header 3": "Shares",
+            "page_number": 8,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Dilutive potential ordinary shares  \n**41** **Potential ordinary shares shall be treated as dilutive when, and only when, their conversion to**\n**ordinary shares would decrease earnings per share or increase loss per share from continuing**\n**operations.**  \n42 An entity uses profit or loss from continuing operations attributable to the parent entity as the control\nnumber to establish whether potential ordinary shares are dilutive or antidilutive. Profit or loss from\ncontinuing operations attributable to the parent entity is adjusted in accordance with paragraph 12 and\nexcludes items relating to discontinued operations.  \n43 Potential ordinary shares are antidilutive when their conversion to ordinary shares would increase earnings\nper share or decrease loss per share from continuing operations. The calculation of diluted earnings per\nshare does not assume conversion, exercise, or other issue of potential ordinary shares that would have an\nantidilutive effect on earnings per share.  \n44 In determining whether potential ordinary shares are dilutive or antidilutive, each issue or series of potential\nordinary shares is considered separately rather than in aggregate. The sequence in which potential ordinary\nshares are considered may affect whether they are dilutive. Therefore, to maximise the dilution of basic\nearnings per share, each issue or series of potential ordinary shares is considered in sequence from the most\ndilutive to the least dilutive, ie dilutive potential ordinary shares with the lowest \u2018earnings per incremental\nshare\u2019 are included in the diluted earnings per share calculation before those with a higher earnings per\nincremental share. Options and warrants are generally included first because they do not affect the\nnumerator of the calculation.  \n_Options, warrants and their equivalents_  \n**45** **For the purpose of calculating diluted earnings per share, an entity shall assume the exercise of**\n**dilutive options and warrants of the entity. The assumed proceeds from these instruments shall be**\n**regarded as having been received from the issue of ordinary shares at the average market price of**\n**ordinary shares during the period. The difference between the number of ordinary shares issued and**\n**the number of ordinary shares that would have been issued at the average market price of ordinary**\n**shares during the period shall be treated as an issue of ordinary shares for no consideration.**  \n46 Options and warrants are dilutive when they would result in the issue of ordinary shares for less than the\naverage market price of ordinary shares during the period. The amount of the dilution is the average market\nprice of ordinary shares during the period minus the issue price. Therefore, to calculate diluted earnings per\nshare, potential ordinary shares are treated as consisting of both the following:  \n(a) a contract to issue a certain number of the ordinary shares at their average market price during the\nperiod. Such ordinary shares are assumed to be fairly priced and to be neither dilutive nor\nantidilutive. They are ignored in the calculation of diluted earnings per share.  \n(b) a contract to issue the remaining ordinary shares for no consideration. Such ordinary shares\ngenerate no proceeds and have no effect on profit or loss attributable to ordinary shares\noutstanding. Therefore, such shares are dilutive and are added to the number of ordinary shares\noutstanding in the calculation of diluted earnings per share.  \n47 Options and warrants have a dilutive effect only when the average market price of ordinary shares during\nthe period exceeds the exercise price of the options or warrants (ie they are \u2018in the money\u2019). Previously\nreported earnings per share are not retroactively adjusted to reflect changes in prices of ordinary shares.  \n-----  47A For share options and other share-based payment arrangements to which AASB 2 _Share-based Payment_\napplies, the issue price referred to in paragraph 46 and the exercise price referred to in paragraph 47 shall\ninclude the fair value (measured in accordance with AASB 2) of any goods or services to be supplied to the\nentity in the future under the share option or other share-based payment arrangement.  \n48 Employee share options with fixed or determinable terms and non-vested ordinary shares are treated as\noptions in the calculation of diluted earnings per share, even though they may be contingent on vesting.\nThey are treated as outstanding on the grant date. Performance-based employee share options are treated as\ncontingently issuable shares because their issue is contingent upon satisfying specified conditions in\naddition to the passage of time.  \n_Convertible instruments_  \n49 The dilutive effect of convertible instruments shall be reflected in diluted earnings per share in accordance\nwith paragraphs 33 and 36.  \n50 Convertible preference shares are antidilutive whenever the amount of the dividend on such shares declared\nin or accumulated for the current period per ordinary share obtainable on conversion exceeds basic earnings\nper share. Similarly, convertible debt is antidilutive whenever its interest (net of tax and other changes in\nincome or expense) per ordinary share obtainable on conversion exceeds basic earnings per share.  \n51 The redemption or induced conversion of convertible preference shares may affect only a portion of the\npreviously outstanding convertible preference shares. In such cases, any excess consideration referred to in\nparagraph 17 is attributed to those shares that are redeemed or converted for the purpose of determining\nwhether the remaining outstanding preference shares are dilutive. The shares redeemed or converted are\nconsidered separately from those shares that are not redeemed or converted.  \n_Contingently issuable shares_  \n52 As in the calculation of basic earnings per share, contingently issuable ordinary shares are treated as\noutstanding and included in the calculation of diluted earnings per share if the conditions are satisfied (ie\nthe events have occurred). Contingently issuable shares are included from the beginning of the period (or\nfrom the date of the contingent share agreement, if later). If the conditions are not satisfied, the number of\ncontingently issuable shares included in the diluted earnings per share calculation is based on the number of\nshares that would be issuable if the end of the period were the end of the contingency period. Restatement is\nnot permitted if the conditions are not met when the contingency period expires.  \n53 If attainment or maintenance of a specified amount of earnings for a period is the condition for contingent\nissue and if that amount has been attained at the end of the reporting period but must be maintained beyond\nthe end of the reporting period for an additional period, then the additional ordinary shares are treated as\noutstanding, if the effect is dilutive, when calculating diluted earnings per share. In that case, the calculation\nof diluted earnings per share is based on the number of ordinary shares that would be issued if the amount\nof earnings at the end of the reporting period were the amount of earnings at the end of the contingency\nperiod. Because earnings may change in a future period, the calculation of basic earnings per share does not\ninclude such contingently issuable ordinary shares until the end of the contingency period because not all\nnecessary conditions have been satisfied.  \n54 The number of ordinary shares contingently issuable may depend on the future market price of the ordinary\nshares. In that case, if the effect is dilutive, the calculation of diluted earnings per share is based on the\nnumber of ordinary shares that would be issued if the market price at the end of the reporting period were\nthe market price at the end of the contingency period. If the condition is based on an average of market\nprices over a period of time that extends beyond the end of the reporting period, the average for the period\nof time that has lapsed is used. Because the market price may change in a future period, the calculation of\nbasic earnings per share does not include such contingently issuable ordinary shares until the end of the\ncontingency period because not all necessary conditions have been satisfied.  \n55 The number of ordinary shares contingently issuable may depend on future earnings and future prices of the\nordinary shares. In such cases, the number of ordinary shares included in the diluted earnings per share\ncalculation is based on both conditions (ie earnings to date and the current market price at the end of the\nreporting period). Contingently issuable ordinary shares are not included in the diluted earnings per share\ncalculation unless both conditions are met.  \n56 In other cases, the number of ordinary shares contingently issuable depends on a condition other than\nearnings or market price (for example, the opening of a specific number of retail stores). In such cases,\nassuming that the present status of the condition remains unchanged until the end of the contingency period,  \n-----  the contingently issuable ordinary shares are included in the calculation of diluted earnings per share\naccording to the status at the end of the reporting period.  \n57 Contingently issuable potential ordinary shares (other than those covered by a contingent share agreement,\nsuch as contingently issuable convertible instruments) are included in the diluted earnings per share\ncalculation as follows:  \n(a) an entity determines whether the potential ordinary shares may be assumed to be issuable on the\nbasis of the conditions specified for their issue in accordance with the contingent ordinary share\nprovisions in paragraphs 52\u201356; and  \n(b) if those potential ordinary shares should be reflected in diluted earnings per share, an entity\ndetermines their impact on the calculation of diluted earnings per share by following the\nprovisions for options and warrants in paragraphs 45\u201348, the provisions for convertible\ninstruments in paragraphs 49\u201351, the provisions for contracts that may be settled in ordinary\nshares or cash in paragraphs 58\u201361, or other provisions, as appropriate.  \nHowever, exercise or conversion is not assumed for the purpose of calculating diluted earnings per share\nunless exercise or conversion of similar outstanding potential ordinary shares that are not contingently\nissuable is assumed.  \n_Contracts that may be settled in ordinary shares or cash_  \n**58** **When an entity has issued a contract that may be settled in ordinary shares or cash at the entity\u2019s**\n**option, the entity shall presume that the contract will be settled in ordinary shares, and the resulting**\n**potential ordinary shares shall be included in diluted earnings per share if the effect is dilutive.**  \n59 When such a contract is presented for accounting purposes as an asset or a liability, or has an equity\ncomponent and a liability component, the entity shall adjust the numerator for any changes in profit or loss\nthat would have resulted during the period if the contract had been classified wholly as an equity\ninstrument. That adjustment is similar to the adjustments required in paragraph 33.  \n**60** **For contracts that may be settled in ordinary shares or cash at the holder\u2019s option, the more dilutive**\n**of cash settlement and share settlement shall be used in calculating diluted earnings per share.**  \n61 An example of a contract that may be settled in ordinary shares or cash is a debt instrument that, on\nmaturity, gives the entity the unrestricted right to settle the principal amount in cash or in its own ordinary\nshares. Another example is a written put option that gives the holder a choice of settling in ordinary shares\nor cash.  \n_Purchased options_  \n62 Contracts such as purchased put options and purchased call options (ie options held by the entity on its own\nordinary shares) are not included in the calculation of diluted earnings per share because including them\nwould be antidilutive. The put option would be exercised only if the exercise price were higher than the\nmarket price and the call option would be exercised only if the exercise price were lower than the market\nprice.  \n_Written put options_  \n**63** **Contracts that require the entity to repurchase its own shares, such as written put options and**\n**forward purchase contracts, are reflected in the calculation of diluted earnings per share if the effect**\n**is dilutive. If these contracts are \u2018in the money\u2019 during the period (ie the exercise or settlement price**\n**is above the average market price for that period), the potential dilutive effect on earnings per share**\n**shall be calculated as follows:**  \n**(a)** **it shall be assumed that at the beginning of the period sufficient ordinary shares will be**\n**issued (at the average market price during the period) to raise proceeds to satisfy the**\n**contract;**  \n**(b)** **it shall be assumed that the proceeds from the issue are used to satisfy the contract (ie to**\n**buy back ordinary shares); and**  \n**(c)** **the incremental ordinary shares (the difference between the number of ordinary shares**\n**assumed issued and the number of ordinary shares received from satisfying the contract)**\n**shall be included in the calculation of diluted earnings per share.**  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Diluted earnings per share",
+            "Header 3": "Dilutive potential ordinary shares",
+            "page_number": 9,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Retrospective adjustments  \n**64** **If the number of ordinary or potential ordinary shares outstanding increases as a result of a**\n**capitalisation, bonus issue or share split, or decreases as a result of a reverse share split, the**\n**calculation of basic and diluted earnings per share for all periods presented shall be adjusted**\n**retrospectively. If these changes occur after the reporting period but before the financial statements**\n**are authorised for issue, the per share calculations for those and any prior period financial statements**\n**presented shall be based on the new number of shares. The fact that per share calculations reflect**\n**such changes in the number of shares shall be disclosed. In addition, basic and diluted earnings per**\n**share of all periods presented shall be adjusted for the effects of errors and adjustments resulting**\n**from changes in accounting policies accounted for retrospectively.**  \n65 An entity does not restate diluted earnings per share of any prior period presented for changes in the\nassumptions used in earnings per share calculations or for the conversion of potential ordinary shares into\nordinary shares.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Retrospective adjustments",
+            "page_number": 12,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Presentation  \n**66** **An entity shall present in the statement of comprehensive income basic and diluted earnings per**\n**share for profit or loss from continuing operations attributable to the ordinary equity holders of the**\n**parent entity and for profit or loss attributable to the ordinary equity holders of the parent entity for**\n**the period for each class of ordinary shares that has a different right to share in profit for the period.**\n**An entity shall present basic and diluted earnings per share with equal prominence for all periods**\n**presented.**  \n67 Earnings per share is presented for every period for which a statement of comprehensive income is\npresented. If diluted earnings per share is reported for at least one period, it shall be reported for all periods\npresented, even if it equals basic earnings per share. If basic and diluted earnings per share are equal, dual\npresentation can be accomplished in one line in the statement of comprehensive income.  \n67A If an entity presents items of profit or loss in a separate statement as described in paragraph 10A of\nAASB 101, it presents basic and diluted earnings per share, as required in paragraphs 66 and 67, in that\nseparate statement.  \n**68** **An entity that reports a discontinued operation shall disclose the basic and diluted amounts per share**\n**for the discontinued operation either in the statement of comprehensive income or in the notes.**  \n68A If an entity presents items of profit or loss in a separate statement as described in paragraph 10A of\nAASB 101, it presents basic and diluted earnings per share for the discontinued operation, as required in\nparagraph 68, in that separate statement or in the notes.  \n**69** **An entity shall present basic and diluted earnings per share, even if the amounts are negative (ie a**\n**loss per share).**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Presentation",
+            "page_number": 12,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**70** **An entity shall disclose the following:**  \n**(a)** **the amounts used as the numerators in calculating basic and diluted earnings per share, and**\n**a reconciliation of those amounts to profit or loss attributable to the parent entity for the**\n**period. The reconciliation shall include the individual effect of each class of instruments**\n**that affects earnings per share.**  \n**(b)** **the weighted average number of ordinary shares used as the denominator in calculating**\n**basic and diluted earnings per share, and a reconciliation of these denominators to each**\n**other. The reconciliation shall include the individual effect of each class of instruments that**\n**affects earnings per share.**  \n**(c)** **instruments (including contingently issuable shares) that could potentially dilute basic**\n**earnings per share in the future, but were not included in the calculation of diluted earnings**\n**per share because they are antidilutive for the period(s) presented.**  \n**(d)** **a description of ordinary share transactions or potential ordinary share transactions, other**\n**than those accounted for in accordance with paragraph 64, that occur after the reporting**\n**period and that would have changed significantly the number of ordinary shares or**  \n-----  **potential ordinary shares outstanding at the end of the period if those transactions had**\n**occurred before the end of the reporting period.**  \n71 Examples of transactions in paragraph 70(d) include:  \n(a) an issue of shares for cash;  \n(b) an issue of shares when the proceeds are used to repay debt or preference shares outstanding at\nthe end of the reporting period;  \n(c) the redemption of ordinary shares outstanding;  \n(d) the conversion or exercise of potential ordinary shares outstanding at the end of the reporting\nperiod into ordinary shares;  \n(e) an issue of options, warrants, or convertible instruments; and  \n(f) the achievement of conditions that would result in the issue of contingently issuable shares.  \nEarnings per share amounts are not adjusted for such transactions occurring after the reporting period\nbecause such transactions do not affect the amount of capital used to produce profit or loss for the period.  \n72 Financial instruments and other contracts generating potential ordinary shares may incorporate terms and\nconditions that affect the measurement of basic and diluted earnings per share. These terms and conditions\nmay determine whether any potential ordinary shares are dilutive and, if so, the effect on the weighted\naverage number of shares outstanding and any consequent adjustments to profit or loss attributable to\nordinary equity holders. The disclosure of the terms and conditions of such financial instruments and other\ncontracts is encouraged, if not otherwise required (see AASB 7 Financial Instruments: Disclosures).  \n**73** **If an entity discloses, in addition to basic and diluted earnings per share, amounts per share using a**\n**reported component of the statement of comprehensive income other than one required by this**\n**Standard, such amounts shall be calculated using the weighted average number of ordinary shares**\n**determined in accordance with this Standard. Basic and diluted amounts per share relating to such a**\n**component shall be disclosed with equal prominence and presented in the notes. An entity shall**\n**indicate the basis on which the numerator(s) is (are) determined, including whether amounts per**\n**share are before tax or after tax. If a component of the statement of comprehensive income is used**\n**that is not reported as a line item in the statement of comprehensive income, a reconciliation shall be**\n**provided between the component used and a line item that is reported in the statement of**\n**comprehensive income.**  \n**73A** **Paragraph 73 applies also to an entity that discloses, in addition to basic and diluted earnings per**\n**share, amounts per share using a reported item of profit or loss, other than one required by this**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Disclosure",
+            "page_number": 12,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Standard.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Disclosure",
+            "Header 3": "Standard.",
+            "page_number": 13,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Effective date  \n74 An entity shall apply this Standard for annual periods beginning on or after 1 January 2018. Earlier\napplication is encouraged for periods beginning after 24 July 2014 but before 1 January 2018. If an entity\napplies the Standard for a period beginning before 1 January 2018, it shall disclose that fact.  \n74A\u2013\n74D [Deleted by the AASB]  \n74E AASB 2014-7 _Amendments to Australian Accounting Standards arising from AASB 9 (December 2014),_\nissued in December 2014, amended paragraph 34 in the previous version of this Standard. An entity shall\napply that amendment when it applies AASB 9.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Effective date",
+            "page_number": 13,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of other pronouncements  \n75\u2013\n76 [Deleted by the AASB]",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Withdrawal of other pronouncements",
+            "page_number": 13,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus76.1 [Repealed]  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 13,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus76.2 This Standard repeals AASB 133 _Earnings per Share issued in July 2004. Despite the repeal,_\nafter the time this Standard starts to apply under section 334 of the Corporations Act (either\ngenerally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 14,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Application guidance  \n_This appendix is an integral part of the Standard._",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Appendix A Application guidance",
+            "page_number": 15,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Profit or loss attributable to the parent entity  \nA1 For the purpose of calculating earnings per share based on the consolidated financial statements, profit or\nloss attributable to the parent entity refers to profit or loss of the consolidated entity after adjusting for noncontrolling interests.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Profit or loss attributable to the parent entity",
+            "page_number": 15,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Rights issues  \nA2 The issue of ordinary shares at the time of exercise or conversion of potential ordinary shares does not\nusually give rise to a bonus element. This is because the potential ordinary shares are usually issued for fair\nvalue, resulting in a proportionate change in the resources available to the entity. In a rights issue, however,\nthe exercise price is often less than the fair value of the shares. Therefore, as noted in paragraph 27(b), such\na rights issue includes a bonus element. If a rights issue is offered to all existing shareholders, the number of\nordinary shares to be used in calculating basic and diluted earnings per share for all periods before the rights\nissue is the number of ordinary shares outstanding before the issue, multiplied by the following factor:  \nFair value per share immediately before the exercise of rights  \nTheoretical ex-rights fair value per share  \nThe theoretical ex-rights fair value per share is calculated by adding the aggregate fair value of the shares\nimmediately before the exercise of the rights to the proceeds from the exercise of the rights, and dividing by\nthe number of shares outstanding after the exercise of the rights. Where the rights are to be publicly traded\nseparately from the shares before the exercise date, fair value is measured at the close of the last day on\nwhich the shares are traded together with the rights.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Rights issues",
+            "page_number": 15,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Control number  \nA3 To illustrate the application of the control number notion described in paragraphs 42 and 43, assume that an\nentity has profit from continuing operations attributable to the parent entity of CU4,800,[1] a loss from\ndiscontinued operations attributable to the parent entity of (CU7,200), a loss attributable to the parent entity\nof (CU2,400), and 2,000 ordinary shares and 400 potential ordinary shares outstanding. The entity\u2019s basic\nearnings per share is CU2.40 for continuing operations, (CU3.60) for discontinued operations and (CU1.20)\nfor the loss. The 400 potential ordinary shares are included in the diluted earnings per share calculation\nbecause the resulting CU2.00 earnings per share for continuing operations is dilutive, assuming no profit or\nloss impact of those 400 potential ordinary shares. Because profit from continuing operations attributable to\nthe parent entity is the control number, the entity also includes those 400 potential ordinary shares in the\ncalculation of the other earnings per share amounts, even though the resulting earnings per share amounts\nare antidilutive to their comparable basic earnings per share amounts, ie the loss per share is less [(CU3.00)\nper share for the loss from discontinued operations and (CU1.00) per share for the loss].",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Control number",
+            "page_number": 15,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Average market price of ordinary shares  \nA4 For the purpose of calculating diluted earnings per share, the average market price of ordinary shares\nassumed to be issued is calculated on the basis of the average market price of the ordinary shares during the\nperiod. Theoretically, every market transaction for an entity\u2019s ordinary shares could be included in the\ndetermination of the average market price. As a practical matter, however, a simple average of weekly or\nmonthly prices is usually adequate.  \n1 In this guidance, monetary amounts are denominated in \u2018currency units (CU)\u2019.  \n-----  A5 Generally, closing market prices are adequate for calculating the average market price. When prices\nfluctuate widely, however, an average of the high and low prices usually produces a more representative\nprice. The method used to calculate the average market price is used consistently unless it is no longer\nrepresentative because of changed conditions. For example, an entity that uses closing market prices to\ncalculate the average market price for several years of relatively stable prices might change to an average of\nhigh and low prices if prices start fluctuating greatly and the closing market prices no longer produce a\nrepresentative average price.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Average market price of ordinary shares",
+            "page_number": 15,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Options, warrants and their equivalents  \nA6 Options or warrants to purchase convertible instruments are assumed to be exercised to purchase the\nconvertible instrument whenever the average prices of both the convertible instrument and the ordinary\nshares obtainable upon conversion are above the exercise price of the options or warrants. However,\nexercise is not assumed unless conversion of similar outstanding convertible instruments, if any, is also\nassumed.  \nA7 Options or warrants may permit or require the tendering of debt or other instruments of the entity (or its\nparent or a subsidiary) in payment of all or a portion of the exercise price. In the calculation of diluted\nearnings per share, those options or warrants have a dilutive effect if (a) the average market price of the\nrelated ordinary shares for the period exceeds the exercise price or (b) the selling price of the instrument to\nbe tendered is below that at which the instrument may be tendered under the option or warrant agreement\nand the resulting discount establishes an effective exercise price below the market price of the ordinary\nshares obtainable upon exercise. In the calculation of diluted earnings per share, those options or warrants\nare assumed to be exercised and the debt or other instruments are assumed to be tendered. If tendering cash\nis more advantageous to the option or warrant holder and the contract permits tendering cash, tendering of\ncash is assumed. Interest (net of tax) on any debt assumed to be tendered is added back as an adjustment to\nthe numerator.  \nA8 Similar treatment is given to preference shares that have similar provisions or to other instruments that have\nconversion options that permit the investor to pay cash for a more favourable conversion rate.  \nA9 The underlying terms of certain options or warrants may require the proceeds received from the exercise of\nthose instruments to be applied to redeem debt or other instruments of the entity (or its parent or a\nsubsidiary). In the calculation of diluted earnings per share, those options or warrants are assumed to be\nexercised and the proceeds applied to purchase the debt at its average market price rather than to purchase\nordinary shares. However, the excess proceeds received from the assumed exercise over the amount used\nfor the assumed purchase of debt are considered (ie assumed to be used to buy back ordinary shares) in the\ndiluted earnings per share calculation. Interest (net of tax) on any debt assumed to be purchased is added\nback as an adjustment to the numerator.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Options, warrants and their equivalents",
+            "page_number": 16,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Written put options  \nA10 To illustrate the application of paragraph 63, assume that an entity has outstanding 120 written put options\non its ordinary shares with an exercise price of CU35. The average market price of its ordinary shares for\nthe period is CU28. In calculating diluted earnings per share, the entity assumes that it issued 150 shares at\nCU28 per share at the beginning of the period to satisfy its put obligation of CU4,200. The difference\nbetween the 150 ordinary shares issued and the 120 ordinary shares received from satisfying the put option\n(30 incremental ordinary shares) is added to the denominator in calculating diluted earnings per share.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Written put options",
+            "page_number": 16,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Instruments of subsidiaries, joint ventures or associates  \nA11 Potential ordinary shares of a subsidiary, joint venture or associate convertible into either ordinary shares of\nthe subsidiary, joint venture or associate, or ordinary shares of the parent or investors with joint control of,\nor significant influence (the reporting entity) over, the investee are included in the calculation of diluted\nearnings per share as follows:  \n(a) instruments issued by a subsidiary, joint venture or associate that enable their holders to obtain\nordinary shares of the subsidiary, joint venture or associate are included in calculating the diluted\nearnings per share data of the subsidiary, joint venture or associate. Those earnings per share are\nthen included in the reporting entity\u2019s earnings per share calculations based on the reporting\nentity\u2019s holding of the instruments of the subsidiary, joint venture or associate.  \n(b) instruments of a subsidiary, joint venture or associate that are convertible into the reporting\nentity\u2019s ordinary shares are considered among the potential ordinary shares of the reporting entity\nfor the purpose of calculating diluted earnings per share. Likewise, options or warrants issued by  \n-----  a subsidiary, joint venture or associate to purchase ordinary shares of the reporting entity are\nconsidered among the potential ordinary shares of the reporting entity in the calculation of\nconsolidated diluted earnings per share.  \nA12 For the purpose of determining the earnings per share effect of instruments issued by a reporting entity that\nare convertible into ordinary shares of a subsidiary, joint venture or associate, the instruments are assumed\nto be converted and the numerator (profit or loss attributable to ordinary equity holders of the parent entity)\nadjusted as necessary in accordance with paragraph 33. In addition to those adjustments, the numerator is\nadjusted for any change in the profit or loss recorded by the reporting entity (such as dividend income or\nequity method income) that is attributable to the increase in the number of ordinary shares of the subsidiary,\njoint venture or associate outstanding as a result of the assumed conversion. The denominator of the diluted\nearnings per share calculation is not affected because the number of ordinary shares of the reporting entity\noutstanding would not change upon assumed conversion.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Instruments of subsidiaries, joint ventures or associates",
+            "page_number": 16,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Participating equity instruments and two-class ordinary shares  \nA13 The equity of some entities includes:  \n(a) instruments that participate in dividends with ordinary shares according to a predetermined\nformula (for example, two for one) with, at times, an upper limit on the extent of participation\n(for example, up to, but not beyond, a specified amount per share).  \n(b) a class of ordinary shares with a different dividend rate from that of another class of ordinary\nshares but without prior or senior rights.  \nA14 For the purpose of calculating diluted earnings per share, conversion is assumed for those instruments\ndescribed in paragraph A13 that are convertible into ordinary shares if the effect is dilutive. For those\ninstruments that are not convertible into a class of ordinary shares, profit or loss for the period is allocated\nto the different classes of shares and participating equity instruments in accordance with their dividend\nrights or other rights to participate in undistributed earnings. To calculate basic and diluted earnings per\nshare:  \n(a) profit or loss attributable to ordinary equity holders of the parent entity is adjusted (a profit\nreduced and a loss increased) by the amount of dividends declared in the period for each class of\nshares and by the contractual amount of dividends (or interest on participating bonds) that must\nbe paid for the period (for example, unpaid cumulative dividends).  \n(b) the remaining profit or loss is allocated to ordinary shares and participating equity instruments to\nthe extent that each instrument shares in earnings as if all of the profit or loss for the period had\nbeen distributed. The total profit or loss allocated to each class of equity instrument is determined\nby adding together the amount allocated for dividends and the amount allocated for a\nparticipation feature.  \n(c) the total amount of profit or loss allocated to each class of equity instrument is divided by the\nnumber of outstanding instruments to which the earnings are allocated to determine the earnings\nper share for the instrument.  \nFor the calculation of diluted earnings per share, all potential ordinary shares assumed to have been issued\nare included in outstanding ordinary shares.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Participating equity instruments and two-class ordinary shares",
+            "page_number": 17,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Partly paid shares  \nA15 Where ordinary shares are issued but not fully paid, they are treated in the calculation of basic earnings per\nshare as a fraction of an ordinary share to the extent that they were entitled to participate in dividends\nduring the period relative to a fully paid ordinary share.  \nA16 To the extent that partly paid shares are not entitled to participate in dividends during the period they are\ntreated as the equivalent of warrants or options in the calculation of diluted earnings per share. The unpaid\nbalance is assumed to represent proceeds used to purchase ordinary shares. The number of shares included\nin diluted earnings per share is the difference between the number of shares subscribed and the number of\nshares assumed to be purchased.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Partly paid shares",
+            "page_number": 17,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Appendix C Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusC1** **Paragraphs 3\u201373A and Appendix A do not apply to entities preparing general purpose**\n**financial statements that apply AASB 1060** **_General Purpose Financial Statements \u2013_**\n**_Simplified Disclosures for For-Profit and Not-for-Profit Tier 2 Entities. If an entity applying_**\n**AASB 1060 elects to disclose earnings per share, it shall apply this Standard in preparing**\n**and presenting the information.**  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Appendix C Australian simplified disclosures for Tier 2 entities",
+            "page_number": 18,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Illustrative examples  \nContents",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 1 Increasing rate preference shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 1 Increasing rate preference shares",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 2 Weighted average number of ordinary shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 2 Weighted average number of ordinary shares",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 3 Bonus issue",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 3 Bonus issue",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 4 Rights issue",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 4 Rights issue",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 5 Effects of share options on diluted earnings per share",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 5 Effects of share options on diluted earnings per share",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 5A Determining the exercise price of employee share options",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 5A Determining the exercise price of employee share options",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 6 Convertible bonds",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 6 Convertible bonds",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 7 Contingently issuable shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 7 Contingently issuable shares",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 8 Convertible bonds settled in shares or cash at the issuer's option",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 8 Convertible bonds settled in shares or cash at the issuer's option",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 9 Calculation of weighted average number of shares: determining the  \n**order in which to include dilutive instruments**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 9 Calculation of weighted average number of shares: determining the",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 10 Instruments of a subsidiary: calculation of basic and diluted  \n**earnings per share**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 10 Instruments of a subsidiary: calculation of basic and diluted",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 11 Participating equity instruments and two-class ordinary shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 11 Participating equity instruments and two-class ordinary shares",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Example 12 Calculation and presentation of basic and diluted earnings per  \n**share (comprehensive example)**  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "Header 3": "Example 12 Calculation and presentation of basic and diluted earnings per",
+            "page_number": 19,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Illustrative examples  \n_These examples accompany, but are not part of, AASB 133._",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Illustrative examples",
+            "page_number": 20,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 1 Increasing rate preference shares  \n### Reference: AASB 133, paragraphs 12 and 15\nEntity D issued non-convertible, non-redeemable class A cumulative preference shares of CU100 par value on\n1 January 20X1. The class A preference shares are entitled to a cumulative annual dividend of CU7 per share starting\nin 20X4.  \nAt the time of issue, the market rate dividend yield on the class A preference shares was 7 per cent a year. Thus,\nEntity D could have expected to receive proceeds of approximately CU100 per class A preference share if the\ndividend rate of CU7 per share had been in effect at the date of issue.  \nIn consideration of the dividend payment terms, however, the class A preference shares were issued at CU81.63 per\nshare, ie at a discount of CU18.37 per share. The issue price can be calculated by taking the present value of CU100,\ndiscounted at 7 per cent over a three-year period.  \nBecause the shares are classified as equity, the original issue discount is amortised to retained earnings using the\neffective interest method and treated as a preference dividend for earnings per share purposes. To calculate basic\nearnings per share, the following imputed dividend per class A preference share is deducted to determine the profit or\nloss attributable to ordinary equity holders of the parent entity:  \n**_Imputed[(a)]_**  \n**_dividend_**  \n**_Carrying[(b)]_**  \n**_amount of class_**  \n**_A preference_**  \n**_shares 31_**  \n**_December_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 1 Increasing rate preference shares",
+            "Header 3": "Reference: AASB 133, paragraphs 12 and 15",
+            "page_number": 20,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Year** **_Carrying_  \n**_amount of_**  \n**_class A_**  \n**_preference_**  \n**_shares 1_**  \n**_January_**  \n**_Dividend_**  \n**_paid_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 1 Increasing rate preference shares",
+            "Header 3": "Year** **_Carrying_",
+            "page_number": 20,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU** **CU** **CU\n20X1 81.63 5.71 87.34 \u2013  \n20X2 87.34 6.12 93.46 \u2013  \n20X3 93.46 6.54 100.00 \u2013  \nThereafter: 100.00 7.00 107.00 (7.00)  \n(a) at 7%  \n(b) This is before dividend payment.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 1 Increasing rate preference shares",
+            "Header 3": "CU** **CU** **CU** **CU",
+            "page_number": 20,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 2 Weighted average number of ordinary shares  \n### Reference: AASB 133, paragraphs 19\u201321  \n**_Treasury[(a)]_**  \n**_shares_**  \n**_Shares_**  \n**_issued_**  \n**_Shares_**  \n**_outstanding_**  \n1 January 20X1 Balance at beginning of\nyear 2,000 300 1,700  \n31 May 20X1 Issue of new shares for\ncash 800 \u2013 2,500  \n1 December 20X1 Purchase of treasury\nshares for cash \u2013 250 2,250  \n31 December 20X1 Balance at year-end 2,800 550 2,250  \nCalculation of weighted average:  \n(1,700 \u00d7 [5]/12) + (2,500 \u00d7 [6]/12) + (2,250 \u00d7 [1]/12) = 2,146 shares or  \n(1,700 \u00d7 [12]/12) + (800 \u00d7 [7]/12) \u2013 (250 \u00d7 [1]/12) = 2,146 shares  \n(a) Treasury shares are equity instruments reacquired and held by the issuing entity itself or by its subsidiaries.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 2 Weighted average number of ordinary shares",
+            "Header 3": "Reference: AASB 133, paragraphs 19\u201321",
+            "page_number": 21,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 3 Bonus issue  \n### Reference: AASB 133, paragraphs 26, 27(a) and 28\nProfit attributable to ordinary equity holders of the parent entity 20X0 CU180  \nProfit attributable to ordinary equity holders of the parent entity 20X1 CU600  \nOrdinary shares outstanding until 30 September 20X1 200  \nBonus issue 1 October 20X1 2 ordinary shares for each  \nordinary share outstanding at 30  \nSeptember 20X1  \n200 \u00d7 2 = 400  \nCU600  \n(200 + 400)  \nCU180  \n(200 + 400)  \nBasic earnings per share 20X1  \nBasic earnings per share 20X0  \n= CU1.00  \n= CU0.30  \nBecause the bonus issue was without consideration, it is treated as if it had occurred before the beginning of 20X0,\nthe earliest period presented.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 3 Bonus issue",
+            "Header 3": "Reference: AASB 133, paragraphs 26, 27(a) and 28",
+            "page_number": 21,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 4 Rights issue  \n### Reference: AASB 133, paragraphs 26, 27(b) and A2\n20X0 20X1 20X2  \nProfit attributable to ordinary equity holders of the parent entity CU1,100 CU1,500 CU1,800  \nShares outstanding before\nrights issue 500 shares  \nRights issue One new share for each five outstanding shares  \n(100 new shares total)  \nExercise price: CU5.00  \nDate of rights issue: 1 January 20X1  \nLast date to exercise rights: 1 March 20X1  \nMarket price of one ordinary\nshare immediately before\nexercise on 1 March 20X1: CU11.00  \nReporting date 31 December",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 4 Rights issue",
+            "Header 3": "Reference: AASB 133, paragraphs 26, 27(b) and A2",
+            "page_number": 22,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of theoretical ex-rights value per share\nFair value of all outstanding shares before the exercise of rights + total amount received from exercise of rights  \nNumber of shares outstanding before exercise + number of shares issued in the exercise  \n(CU11.00 \u00d7 500 shares) + (CU5.00 \u00d7 100 shares)  \n500 shares + 100 shares  \nTheoretical ex-rights value per share = CU10.00",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 4 Rights issue",
+            "Header 3": "Calculation of theoretical ex-rights value per share",
+            "page_number": 22,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of adjustment factor\nFair value per share before exercise of rights CU11.00  \nTheoretical ex-rights value per share CU10.00",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 4 Rights issue",
+            "Header 3": "Calculation of adjustment factor",
+            "page_number": 22,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of basic earnings per share\n= 1.10  \n20X0 20X1 20X2  \n20X0 basic EPS as originally\nreported: CU1,100 \u00f7 500 shares CU2.20  \n20X0 basic EPS restated for\nrights issue:  \n20X1 basic EPS including\neffects of rights issue:  \nCU1,100  \n(500 shares \u00d7 1.1) CU2.00  \nCU1,500  \n(500 \u00d7 1.1 \u00d7 [2]/12) + (600 \u00d7 [10]/12) CU2.54  \n20X2 basic EPS: CU1,800 \u00f7 600 shares CU3.00  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 4 Rights issue",
+            "Header 3": "Calculation of basic earnings per share",
+            "page_number": 22,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 5 Effects of share options on diluted earnings per share  \n### Reference: AASB 133, paragraphs 45\u201347\nProfit attributable to ordinary equity holders of\nthe parent entity for year 20X1 CU1,200,000  \nWeighted average number of ordinary shares\noutstanding during year 20X1 500,000 shares  \nAverage market price of one ordinary share\nduring year 20X1 CU20.00  \nWeighted average number of shares under\noption during year 20X1 100,000 shares  \nExercise price for shares under option during\nyear 20X1 CU15.00",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 5 Effects of share options on diluted earnings per share",
+            "Header 3": "Reference: AASB 133, paragraphs 45\u201347",
+            "page_number": 23,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of earnings per share\n_Earnings_ _Shares_ _Per share_  \nProfit attributable to ordinary equity holders of\nthe parent entity for year 20X1 CU1,200,000  \nWeighted average shares outstanding during\nyear 20X1 500,000  \n_Basic earnings per share_ CU2.40  \nWeighted average number of shares under\noption 100,000  \nWeighted average number of shares that\nwould have been issued at average market\nprice: (100,000 \u00d7 CU15.00) \u00f7 CU20.00 (a) (75,000)  \n_Diluted earnings per share_ CU1,200,000 525,000 CU2.29  \n(a) Earnings have not increased because the total number of shares has increased only by the number of shares (25,000) deemed to\nhave been issued for no consideration (see paragraph 46(b) of the Standard).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 5 Effects of share options on diluted earnings per share",
+            "Header 3": "Calculation of earnings per share",
+            "page_number": 23,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 5A Determining the exercise price of employee share options  \nWeighted average number of unvested share options per employee 1,000  \nWeighted average amount per employee to be recognised over the remainder of the\nvesting period for employee services to be rendered as consideration for the share\noptions, determined in accordance with AASB 2 Share-based Payment CU1,200  \nCash exercise price of unvested share options CU15",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 5A Determining the exercise price of employee share options",
+            "page_number": 23,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of adjusted exercise price\nFair value of services yet to be rendered per employee: CU1,200  \nFair value of services yet to be rendered per option: (CU1,200 \u00f7 1,000) CU1.20  \nTotal exercise price of share options: (CU15.00 + CU1.20) CU16.20  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 5A Determining the exercise price of employee share options",
+            "Header 3": "Calculation of adjusted exercise price",
+            "page_number": 23,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 6 Convertible bonds[2]  \n### Reference: AASB 133, paragraphs 33, 34, 36 and 49\nProfit attributable to ordinary equity holders of the parent entity CU1,004  \nOrdinary shares outstanding 1,000  \nBasic earnings per share CU1.00  \nConvertible bonds 100  \nEach block of 10 bonds is convertible into three ordinary shares  \nInterest expense for the current year relating to the liability component of the convertible\nbonds CU10  \nCurrent and deferred tax relating to that interest expense CU4  \n_Note: the interest expense includes amortisation of the discount arising on initial recognition of the liability_\n_component (see AASB 132 Financial Instruments: Presentation)._  \nAdjusted profit attributable to ordinary equity holders\nof the parent entity  \nCU1,004 + CU10 \u2013 CU4  \n= CU1,010  \nNumber of ordinary shares resulting from conversion of bonds 30  \nNumber of ordinary shares used to calculate diluted earnings per share 1,000 + 30 = 1,030  \nDiluted earnings per share CU1,010  \n= CU0.98\n1,030",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 6 Convertible bonds[2]",
+            "Header 3": "Reference: AASB 133, paragraphs 33, 34, 36 and 49",
+            "page_number": 24,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 7 Contingently issuable shares  \n### Reference: AASB 133, paragraphs 19, 24, 36, 37, 41\u201343 and 52\nOrdinary shares outstanding during 20X1 1,000,000 (there were no options, warrants or\nconvertible instruments outstanding during the period)  \nAn agreement related to a recent business combination provides for the issue of additional ordinary shares\nbased on the following conditions:  \n5,000 additional ordinary shares for each new retail\nsite opened during 20X1  \n1,000 additional ordinary shares for each CU1,000 of\nconsolidated profit in excess of CU2,000,000 for the\nyear ended 31 December 20X1  \nRetail sites opened during the year: one on 1 May 20X1  \none on 1 September 20X1  \nConsolidated year-to-date profit attributable to ordinary\nequity holders of the parent entity: CU1,100,000 as of 31 March 20X1  \nCU2,300,000 as of 30 June 20X1  \nCU1,900,000 as of 30 September 20X1 (including a\nCU450,000 loss from a discontinued operation)  \nCU2,900,000 as of 31 December 20X1  \n2 This example does not illustrate the classification of the components of convertible financial instruments as liabilities and equity or the\nclassification of related interest and dividends as expenses and equity as required by AASB 132.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 7 Contingently issuable shares",
+            "Header 3": "Reference: AASB 133, paragraphs 19, 24, 36, 37, 41\u201343 and 52",
+            "page_number": 24,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Basic earnings per share  \n**_Full year_**  \n**_First_**  \n**_quarter_**  \n**_Second_**  \n**_quarter_**  \n**_Third_**  \n**_quarter_**  \n**_Fourth_**  \n**_quarter_**  \nNumerator (CU) 1,100,000 1,200,000 (400,000) 1,000,000 2,900,000  \nDenominator:  \nOrdinary shares outstanding 1,000,000 1,000,000 1,000,000 1,000,000 1,000,000  \nRetail site contingency \u2013 3,333[(a)] 6,667[(b)] 10,000 5,000[(c)]  \nEarnings contingency[(d)] \u2013 \u2013 \u2013 \u2013 \u2013  \nTotal shares 1,000,000 1,003,333 1,006,667 1,010,000 1,005,000  \nBasic earnings per share (CU) 1.10 1.20 (0.40) 0.99 2.89  \n(a) 5,000 shares \u00d7 [2]/3  \n(b) 5,000 shares + (5,000 shares \u00d7 [1]/3)  \n(c) (5,000 shares \u00d7 [8]/12) + (5,000 shares \u00d7 [4]/12)  \n(d) The earnings contingency has no effect on basic earnings per share because it is not certain that the condition is satisfied until the\nend of the contingency period. The effect is negligible for the fourth-quarter and full-year calculations because it is not certain that\nthe condition is met until the last day of the period.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 7 Contingently issuable shares",
+            "Header 3": "Basic earnings per share",
+            "page_number": 25,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Diluted earnings per share  \n**_Full year_**  \n**_First_**  \n**_quarter_**  \n**_Second_**  \n**_quarter_**  \n**_Third_**  \n**_quarter_**  \n**_Fourth_**  \n**_quarter_**  \nNumerator (CU) 1,100,000 1,200,000 (400,000) 1,000,000 2,900,000  \nDenominator:  \nOrdinary shares outstanding 1,000,000 1,000,000 1,000,000 1,000,000 1,000,000  \nRetail site contingency \u2013 5,000 10,000 10,000 10,000  \nEarnings contingency \u2013[(a)] 300,000[(b)] \u2013[(c)] 900,000[(d)] 900,000[(d)]  \nTotal shares 1,000,000 1,305,000 1,010,000 1,910,000 1,910,000  \nDiluted earnings per share (CU) 1.10 0.92 (0.40)[(e)] 0.52 1.52  \n(a) Company A does not have year-to-date profit exceeding CU2,000,000 at 31 March 20X1. The Standard does not permit projecting\nfuture earnings levels and including the related contingent shares.  \n(b) [(CU2,300,000 \u2013 CU2,000,000) \u00f7 1,000] \u00d7 1,000 shares = 300,000 shares.  \n(c) Year-to-date profit is less than CU2,000,000.  \n(d) [(CU2,900,000 \u2013 CU2,000,000) \u00f7 1,000] \u00d7 1,000 shares = 900,000 shares.  \n(e) Because the loss during the third quarter is attributable to a loss from a discontinued operation, the antidilution rules do not apply. The\ncontrol number (ie profit or loss from, continuing operations attributable to the equity holders of the parent entity) is positive.\nAccordingly, the effect of potential ordinary shares is included in the calculation of diluted earnings per share.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 7 Contingently issuable shares",
+            "Header 3": "Diluted earnings per share",
+            "page_number": 25,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 8 Convertible bonds settled in shares or cash at the issuer\u2019s option  \n### Reference: AASB 133, paragraphs 31\u201333, 36, 58 and 59\nAn entity issues 2,000 convertible bonds at the beginning of Year 1. The bonds have a three-year term, and are issued\nat par with a face value of CU1,000 per bond, giving total proceeds of CU2,000,000. Interest is payable annually in\narrears at a nominal annual interest rate of 6 per cent. Each bond is convertible at any time up to maturity into 250\nordinary shares. The entity has an option to settle the principal amount of the convertible bonds in ordinary shares or\nin cash.  \nWhen the bonds are issued, the prevailing market interest rate for similar debt without a conversion option is 9 per\ncent. At the issue date, the market price of one ordinary share is CU3. Income tax is ignored.  \nProfit attributable to ordinary equity holders of the parent entity Year 1 CU1,000,000  \nOrdinary shares outstanding 1,200,000  \nConvertible bonds outstanding 2,000  \nAllocation of proceeds of the bond issue:  \nLiability component CU1,848,122[(a)]  \nEquity component CU151,878  \nCU2,000,000  \n(a) This represents the present value of the principal and interest discounted at 9% \u2013 CU2,000,000 payable at the end of three years;\nCU120,000 payable annually in arrears for three years.  \nThe liability and equity components would be determined in accordance with AASB 132 _Financial Instruments:_\n_Presentation. These amounts are recognised as the initial carrying amounts of the liability and equity components._\nThe amount assigned to the issuer conversion option equity element is an addition to equity and is not adjusted.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 8 Convertible bonds settled in shares or cash at the issuer\u2019s option",
+            "Header 3": "Reference: AASB 133, paragraphs 31\u201333, 36, 58 and 59",
+            "page_number": 26,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Basic earnings per share Year 1:\nCU1,000,000  \n1,200,000  \n= CU0.83 per ordinary share",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 8 Convertible bonds settled in shares or cash at the issuer\u2019s option",
+            "Header 3": "Basic earnings per share Year 1:",
+            "page_number": 26,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Diluted earnings per share Year 1:\nIt is presumed that the issuer will settle the contract by the issue of ordinary shares. The dilutive effect is therefore\ncalculated in accordance with paragraph 59 of the Standard.  \nCU1,000,000 + CU166,331[(a)]  \n1,200,000 + 500,000[(b)]  \n= CU0.69 per ordinary share  \n(a) Profit is adjusted for the accretion of CU166,331 (CU1,848,122 \u00d7 9%) of the liability because of the passage of time.  \n(b) 500,000 ordinary shares = 250 ordinary shares \u00d7 2,000 convertible bonds  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 8 Convertible bonds settled in shares or cash at the issuer\u2019s option",
+            "Header 3": "Diluted earnings per share Year 1:",
+            "page_number": 26,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]  \n### Primary reference: AASB 133, paragraph 44",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Primary reference: AASB 133, paragraph 44",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Secondary reference: AASB 133, paragraphs 10, 12, 19, 31\u201333, 36, 41\u201347, 49 and 50",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Secondary reference: AASB 133, paragraphs 10, 12, 19, 31\u201333, 36, 41\u201347, 49 and 50",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Earnings** **CU\nProfit from continuing operations attributable to the parent entity 16,400,000  \nLess dividends on preference shares (6,400,000)  \nProfit from continuing operations attributable to ordinary equity holders of the parent entity 10,000,000  \nLoss from discontinued operations attributable to the parent entity (4,000,000)  \nProfit attributable to ordinary equity holders of the parent entity 6,000,000  \nOrdinary shares outstanding 2,000,000  \nAverage market price of one ordinary share during year CU75.00",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Earnings** **CU",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Potential ordinary shares\nOptions 100,000 with exercise price of CU60  \nConvertible preference shares 800,000 shares with a par value of CU100 entitled to a cumulative\ndividend of CU8 per share. Each preference share is convertible to two\nordinary shares.  \n5% convertible bonds Nominal amount CU100,000,000. Each CU1,000 bond is convertible to\n20 ordinary shares. There is no amortisation of premium or discount\naffecting the determination of interest expense.  \nTax rate 40%",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Potential ordinary shares",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Increase in earnings attributable to ordinary equity holders on conversion of potential ordinary shares  \n**_Increase in_**  \n**_earnings_**  \n**_Increase in_**  \n**_number of_**  \n**_ordinary_**  \n**_shares_**  \n**_Earnings per_**  \n**_incremental_**  \n**_share_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Increase in earnings attributable to ordinary equity holders on conversion of potential ordinary shares",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "CU** **CU",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Options\nIncrease in earnings Nil  \nIncremental shares issued for no\nconsideration",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Options",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Convertible preference shares\n100,000 \u00d7 (CU75 \u2013  \nCU60) \u00f7 CU75 20,000 Nil  \nIncrease in profit CU800,000 \u00d7 100 \u00d7  \n0.08 6,400,000  \nIncremental shares 2 \u00d7 800,000 1,600,000 4.00  \n3 This example does not illustrate the classification of the components of convertible financial instruments as liabilities and equity or the\nclassification of related interest and dividends as expenses and equity as required by AASB 132.  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Convertible preference shares",
+            "page_number": 27,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Increase in earnings attributable to ordinary equity holders on conversion of potential ordinary shares  \n**_Increase in_**  \n**_earnings_**  \n**_Increase in_**  \n**_number of_**  \n**_ordinary_**  \n**_shares_**  \n**_Earnings per_**  \n**_incremental_**  \n**_share_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Increase in earnings attributable to ordinary equity holders on conversion of potential ordinary shares",
+            "page_number": 28,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU  \n**5% convertible bonds**  \nIncrease in profit CU100,000,000 \u00d7  \n0.05 \u00d7 (1 \u2013 0.40) 3,000,000  \nIncremental shares 100,000 \u00d7 20 2,000,000 1.50  \nThe order in which to include the dilutive instruments is therefore:  \n1 Options  \n2 5% convertible bonds  \n3 Convertible preference shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "CU** **CU",
+            "page_number": 28,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Calculation of diluted earnings per share  \n**_Profit from continuing_**  \n**_operations attributable to_**  \n**_ordinary equity holders of_**  \n**_the parent entity (control_**  \n**_number)_**  \n**_Ordinary shares_** **_Per share_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "Calculation of diluted earnings per share",
+            "page_number": 28,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU\nAs reported 10,000,000 2,000,000 5.00  \nOptions \u2013 20,000  \n10,000,000 2,020,000 4.95 Dilutive  \n5% convertible bonds 3,000,000 2,000,000  \n13,000,000 4,020,000 3.23 Dilutive  \nConvertible preference\nshares 6,400,000 1,600,000  \n19,400,000 5,620,000 3.45 Antidilutive  \nBecause diluted earnings per share is increased when taking the convertible preference shares into account (from\nCU3.23 to CU3.45), the convertible preference shares are antidilutive and are ignored in the calculation of diluted\nearnings per share. Therefore, diluted earnings per share for profit from continuing operations is CU3.23:  \n-----  **_Basic EPS_** **_Diluted EPS_**  \n### CU** **CU\nProfit from continuing operations attributable to ordinary equity holders of the\nparent entity 5.00 3.23  \nLoss from discontinued operations attributable to ordinary equity holders of the\nparent entity (2.00)[(a)] (0.99)[(b)]  \nProfit attributable to ordinary equity holders of the parent entity 3.00[(c)] 2.24[(d)]  \n(a) (CU4,000,000) \u00f7 2,000,000 = (CU2.00)  \n(b) (CU4,000,000) \u00f7 4,020,000 = (CU0.99)  \n(c) CU6,000,000 \u00f7 2,000,000 = CU3.00  \n(d) (CU6,000,000 + CU3,000,000) \u00f7 4,020,000 = CU2.24",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 9 Calculation of weighted average number of shares: determining the order in which to include dilutive instruments[3]",
+            "Header 3": "CU** **CU",
+            "page_number": 28,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]  \n### Reference: AASB 133, paragraphs 40, A11 and A12",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]",
+            "Header 3": "Reference: AASB 133, paragraphs 40, A11 and A12",
+            "page_number": 29,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Parent:\nProfit attributable to ordinary equity holders of the\nparent entity  \nCU12,000 (excluding any earnings of, or dividends\npaid by, the subsidiary)  \nOrdinary shares outstanding 10,000  \nInstruments of subsidiary owned by the parent 800 ordinary shares  \n30 warrants exercisable to purchase ordinary shares\nof subsidiary  \n300 convertible preference shares",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]",
+            "Header 3": "Parent:",
+            "page_number": 29,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Subsidiary:\nProfit CU5,400  \nOrdinary shares outstanding 1,000  \nWarrants 150, exercisable to purchase ordinary shares of the\nsubsidiary  \nExercise price CU10  \nAverage market price of one ordinary share CU20  \nConvertible preference shares 400, each convertible into one ordinary share  \nDividends on preference shares CU1 per share  \n_No inter-company eliminations or adjustments were necessary except for dividends._  \n_For the purposes of this illustration, income taxes have been ignored._",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]",
+            "Header 3": "Subsidiary:",
+            "page_number": 29,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Subsidiary\u2019s earnings per share\nCU5,400[(a)] \u2013 CU400[(b)]  \n1,000[(c)]  \nBasic EPS CU5.00 calculated:  \nThis example does not illustrate the classification of the components of convertible financial instruments as liabilities and equity or the\nclassification of related interest and dividends as expenses and equity as required by AASB 132.  \n-----    \n### Subsidiary\u2019s earnings per share\nDiluted EPS CU3.66 calculated:  \n(a) Subsidiary's profit attributable to ordinary equity holders.  \n(b) Dividends paid by subsidiary on convertible preference shares.  \n(c) Subsidiary's ordinary shares outstanding.  \nCU5,400[(d)]  \n(1,000 + 75[(e)] + 400[(f)])  \n(d) Subsidiary's profit attributable to ordinary equity holders (CU5,000) increased by CU400 preference dividends for the purpose of\ncalculating diluted earnings per share.  \n(e) Incremental shares from warrants, calculated: [(CU20 \u2013 CU10) \u00f7 CU20] \u00d7 150.  \n(f) Subsidiary's ordinary shares assumed outstanding from conversion of convertible preference shares, calculated: 400 convertible\npreference shares \u00d7 conversion factor of 1.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]",
+            "Header 3": "Subsidiary\u2019s earnings per share",
+            "page_number": 29,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Consolidated earnings per share\nCU12,000[(a)] + CU4,300[(b)]  \n10,000[(c)]  \nCU12,000 + CU2,928[(d)] + CU55[(e)] + CU1,098[(f)]  \n10,000  \nBasic EPS CU1.63 calculated:  \nDiluted EPS CU1.61 calculated:  \n(a) Parent's profit attributable to ordinary equity holders of the parent entity  \n(b) Portion of subsidiary\u2019s profit to be included in consolidated basic earnings per share, calculated: (800 \u00d7 CU5.00) + (300 \u00d7\nCU1.00).  \n(c) Parent\u2019s ordinary shares outstanding.  \n(d) Parent\u2019s proportionate interest in subsidiary\u2019s earnings attributable to ordinary shares, calculated: (800 \u00f7 1,000) \u00d7 (1,000 shares \u00d7\nCU3.66 per share).  \n(e) Parent\u2019s proportionate interest in subsidiary\u2019s earnings attributable to warrants, calculated: (30 \u00f7 150) \u00d7 (75 incremental shares \u00d7\nCU3.66 per share).  \n(f) Parent\u2019s proportionate interest in subsidiary\u2019s earnings attributable to convertible preference shares, calculated: (300 \u00f7 400) \u00d7 (400\nshares from conversion \u00d7 CU3.66 per share).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 10 Instruments of a subsidiary: calculation of basic and diluted earnings per share[4]",
+            "Header 3": "Consolidated earnings per share",
+            "page_number": 30,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 11 Participating equity instruments and two-class ordinary shares[5]  \n### Reference: AASB 133, paragraphs A13 and A14\nProfit attributable to equity holders of the parent\nentity CU100,000  \nOrdinary shares outstanding 10,000  \nNon-convertible preference shares 6,000  \nNon-cumulative annual dividend on preference\nshares (before any dividend is paid on ordinary\nshares) CU5.50 per share  \nAfter ordinary shares have been paid a dividend of CU2.10 per share, the preference shares participate in any\nadditional dividends on a 20:80 ratio with ordinary shares (ie after preference and ordinary shares have been paid\ndividends of CU5.50 and CU2.10 per share, respectively, preference shares participate in any additional dividends at\na rate of one-fourth of the amount paid to ordinary shares on a per-share basis).  \n5 This example does not illustrate the classification of the components of convertible financial instruments as liabilities and equity or the\nclassification of related interest and dividends as expenses and equity as required by AASB 132.  \n-----  Dividends on preference shares paid  \nDividends on ordinary shares paid",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 11 Participating equity instruments and two-class ordinary shares[5]",
+            "Header 3": "Reference: AASB 133, paragraphs A13 and A14",
+            "page_number": 30,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Basic earnings per share is calculated as follows:\nCU33,000  \nCU21,000  \n(CU5.50  \nper share)  \n(CU2.10  \nper share)  \nCU CU  \nProfit attributable to equity holders of the parent entity 100,000  \nLess dividends paid:  \nPreference 33,000  \nOrdinary 21,000  \n(54,000)  \nUndistributed earnings 46,000",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 11 Participating equity instruments and two-class ordinary shares[5]",
+            "Header 3": "Basic earnings per share is calculated as follows:",
+            "page_number": 31,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Allocation of undistributed earnings:\nAllocation per ordinary share = A  \nAllocation per preference share = B; B = [1]/4 A  \n(A \u00d7 10,000) + ([1]/4 \u00d7 A \u00d7 6,000) = CU46,000  \nA = CU46,000 \u00f7 (10,000 + 1,500)  \nA = CU4.00  \nB = [1]/4 A  \nB = CU1.00",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 11 Participating equity instruments and two-class ordinary shares[5]",
+            "Header 3": "Allocation of undistributed earnings:",
+            "page_number": 31,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Basic per share amounts:\n_Preference_  \n_shares_  \n_Ordinary_  \n_shares_  \nDistributed earnings CU5.50 CU2.10  \nUndistributed earnings CU1.00 CU4.00  \nTotals CU6.50 CU6.10",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 11 Participating equity instruments and two-class ordinary shares[5]",
+            "Header 3": "Basic per share amounts:",
+            "page_number": 31,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]  \nThis example illustrates the quarterly and annual calculations of basic and diluted earnings per share in the year 20X1\nfor Company A, which has a complex capital structure. The control number is profit or loss from continuing\noperations attributable to the parent entity. Other facts assumed are as follows:",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "page_number": 31,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Average market price of ordinary shares: The average market prices of ordinary shares for the calendar year 20X1\nwere as follows:  \nFirst quarter CU49  \nSecond quarter CU60  \nThird quarter CU67  \nFourth quarter CU67  \n6 This example does not illustrate the classification of the components of convertible financial instruments as liabilities and equity or the\nclassification of related interest and dividends as expenses and equity as required by AASB 132.  \n-----  The average market price of ordinary shares from 1 July to 1 September 20X1 was CU65.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Average market price of ordinary shares: The average market prices of ordinary shares for the calendar year 20X1",
+            "page_number": 31,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Ordinary shares: The number of ordinary shares outstanding at the beginning of 20X1 was 5,000,000. On 1 March\n20X1, 200,000 ordinary shares were issued for cash.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Ordinary shares: The number of ordinary shares outstanding at the beginning of 20X1 was 5,000,000. On 1 March",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Convertible bonds: In the last quarter of 20X0, 5 per cent convertible bonds with a principal amount of\nCU12,000,000 due in 20 years were sold for cash at CU1,000 (par). Interest is payable twice a year, on 1 November\nand 1 May. Each CU1,000 bond is convertible into 40 ordinary shares. No bonds were converted in 20X0. The entire\nissue was converted on 1 April 20X1 because the issue was called by Company A.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Convertible bonds: In the last quarter of 20X0, 5 per cent convertible bonds with a principal amount of",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Convertible preference shares: In the second quarter of 20X0, 800,000 convertible preference shares were issued for\nassets in a purchase transaction. The quarterly dividend on each convertible preference share is CU0.05, payable at the\nend of the quarter for shares outstanding at that date. Each share is convertible into one ordinary share. Holders of\n600,000 convertible preference shares converted their preference shares into ordinary shares on 1 June 20X1.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Convertible preference shares: In the second quarter of 20X0, 800,000 convertible preference shares were issued for",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Warrants: Warrants to buy 600,000 ordinary shares at CU55 per share for a period of five years were issued on 1\nJanuary 20X1. All outstanding warrants were exercised on 1 September 20X1.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Warrants: Warrants to buy 600,000 ordinary shares at CU55 per share for a period of five years were issued on 1",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Options: Options to buy 1,500,000 ordinary shares at CU75 per share for a period of 10 years were issued on 1 July\n20X1. No options were exercised during 20X1 because the exercise price of the options exceeded the market price of\nthe ordinary shares.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Options: Options to buy 1,500,000 ordinary shares at CU75 per share for a period of 10 years were issued on 1 July",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Tax rate: The tax rate was 40 per cent for 20X1.  \n**20X1** **_Profit (loss) from_**  \n**_continuing_**\n**_operations_**  \n**_attributable to the_**  \n**_parent entity[(a)]_**  \n**_Profit (loss)_**  \n**_attributable to the_**  \n**_parent entity_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Tax rate: The tax rate was 40 per cent for 20X1.",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU\nFirst quarter 5,000,000 5,000,000  \nSecond quarter 6,500,000 6,500,000  \nThird quarter 1,000,000 (1,000,000)[(b)]  \nFourth quarter (700,000) (700,000)  \nFull year 11,800,000 9,800,000  \n(a) This is the control number (before adjusting for preference dividends).  \n(b) Company A had a CU2,000,000 loss (net of tax) from discontinued operations in the third quarter.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "CU** **CU",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### First Quarter 20X1\n_Basic EPS calculation_ CU  \nProfit from continuing operations attributable to the parent entity 5,000,000  \nLess: preference share dividends (40,000)[(a)]  \n**Profit attributable to ordinary equity holders of the parent entity** 4,960,000  \n_Dates_ _Shares_  \n_outstanding_  \n_Fraction of_  \n_period_  \n_Weighted-_  \n_average shares_  \n1 January\u201328 February 5,000,000 2/3 3,333,333  \n_Issue of ordinary shares on 1 March_  \n1 March\u201331 March 200,000 1/3 1,733,333  \n**Weighted-average shares** 5,200,000 5,066,666  \n**_Basic EPS_** **_CU0.98_**  \n-----  _Diluted EPS calculation_  \n**Profit attributable to ordinary equity holders of the**\n**parent entity** CU4,960,000  \nPlus: profit impact of assumed conversions  \nPreference share dividends CU40,000 (a)  \nInterest on 5% convertible bonds CU90,000 (b)  \n**Effect of assumed conversions** CU130,000  \nProfit attributable to ordinary equity holders of the parent\nentity including assumed conversions CU5,090,000  \n**Weighted-average shares** 5,066,666  \nPlus: incremental shares from assumed conversions  \nWarrants 0 (c)  \nConvertible preference shares 800,000  \n5% convertible bonds 480,000  \n**Dilutive potential ordinary shares** 1,280,000  \nAdjusted weighted-average shares 6,346,666  \n**_Diluted EPS_** **_CU0.80_**  \n(a) 800,000 shares \u00d7 CU0.05  \n(b) (CU12,000,000 \u00d7 5%) \u00f7 4; less taxes at 40%  \n(c) The warrants were not assumed to be exercised because they were antidilutive in the period (CU55 [exercise price] > CU49  \n[average price]).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "First Quarter 20X1",
+            "page_number": 32,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Second Quarter 20X1\n_Basic EPS calculation_ CU  \nProfit from continuing operations attributable to the parent entity 6,500,000  \nLess: preference share dividends (10,000)[(a)]  \n**Profit attributable to ordinary equity holders of the parent entity** 6,490,000  \n_Dates_ _Shares_  \n_outstanding_  \n1 April 5,200,000  \n_Conversion of 5% bonds on 1 April_ 480,000  \n_Fraction of_  \n_period_  \n_Weighted-_\n_average_\n_shares_  \n1 April\u201331 May 5,680,000 2/3 3,786,666  \n_Conversion of preference shares 1 June_ 600,000  \n1 June\u201330 June 6,280,000 1/3 2,093,333  \n**Weighted-average shares** 5,880,000  \n**_Basic EPS_** **_CU1.10_**  \n-----  _Diluted EPS calculation_  \n**Profit attributable to ordinary equity holders of the parent**\n**entity** CU6,490,000  \nPlus: profit impact of assumed conversions  \nPreference share dividends CU10,000[(a)]  \n**Effect of assumed conversions** CU10,000  \nProfit attributable to ordinary equity holders of the parent entity\nincluding assumed conversions CU6,500,000  \n**Weighted-average shares** 5,880,000  \nPlus: incremental shares from assumed conversions  \nWarrants 50,000[(b)]  \nConvertible preference shares 600,000[(c)]  \n**Dilutive potential ordinary shares** 650,000  \nAdjusted weighted-average shares 6,530,000  \n**_Diluted EPS_** **_CU1.00_**  \n(a) 200,000 shares \u00d7 CU0.05  \n(b) CU55 \u00d7 600,000 = CU33,000,000; CU33,000,000 \u00f7 CU60 = 550,000; 600,000 \u2013 550,000 = 50,000 shares OR [(CU60 \u2013 CU55) \u00f7\nCU60] \u00d7 600,000 shares = 50,000 shares  \n(c) (800,000 shares \u00d7 [2]/3) + (200,000 shares \u00d7 [1]/3)",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Second Quarter 20X1",
+            "page_number": 33,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Third Quarter 20X1\n_Basic EPS calculation_ CU  \nProfit from continuing operations attributable to the parent entity 1,000,000  \nLess: preference share dividends (10,000)  \n**Profit from continuing operations attributable to ordinary equity holders of the**\n**parent entity** 990,000  \nLoss from discontinued operations attributable to the parent entity (2,000,000)  \nLoss attributable to ordinary equity holders of the parent entity (1,010,000)  \n_Dates_ _Shares_  \n_outstanding_  \n_Fraction of_  \n_period_  \n_Weighted-average_  \n_shares_  \n1 July\u201331 August 6,280,000 2/3 4,186,666  \n_Exercise of warrants on 1 September_ 600,000  \n1 September\u201330 September 6,880,000 1/3 2,293,333  \n**Weighted-average shares** 6,480,000  \n**_Basic EPS_**  \nProfit from continuing operations **_CU0.15_**  \nLoss from discontinued operations **_(CU0.31)_**  \nLoss **_(CU0.16)_**  \n-----  _Diluted EPS calculation_  \n**Profit from continuing operations attributable to ordinary**\n**equity holders of the parent entity** CU990,000  \nPlus: profit impact of assumed conversions  \nPreference share dividends CU10,000  \n**Effect of assumed conversions** CU10,000  \nProfit from continuing operations attributable to ordinary equity\nholders of the parent entity including assumed conversions CU1,000,000  \nLoss from discontinued operations attributable to the parent entity (CU2,000,000)  \nLoss attributable to ordinary equity holders of the parent entity\nincluding assumed conversions (CU1,000,000)  \n**Weighted-average shares** 6,480,000  \nPlus: incremental shares from assumed conversions  \nWarrants 61,538[(a)]  \nConvertible preference shares 200,000  \n**Dilutive potential ordinary shares** 261,538  \nAdjusted weighted-average shares 6,741,538  \n**_Diluted EPS_**  \nProfit from continuing operations **_CU0.15_**  \nLoss from discontinued operations **_(CU0.30)_**  \nLoss **_(CU0.15)_**  \n(a) [(CU65 \u2212 CU55) \u00f7 CU65] \u00d7 600,000 = 92,308 shares; 92,308 \u00d7 [2]/3 = 61,538 shares  \nNote: The incremental shares from assumed conversions are included in calculating the diluted per-share amounts for\nthe loss from discontinued operations and loss even though they are antidilutive. This is because the control number\n(profit from continuing operations attributable to ordinary equity holders of the parent entity, adjusted for preference\ndividends) was positive (ie profit, rather than loss).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Third Quarter 20X1",
+            "page_number": 34,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Fourth Quarter 20X1\n_Basic EPS calculation_ CU  \nLoss from continuing operations attributable to the parent entity (700,000)  \nAdd: preference share dividends (10,000)  \n**Loss attributable to ordinary equity holders of the parent entity** (710,000)  \n_Dates_ _Shares outstanding_ _Fraction of_  \n_period_  \n_Weighted-_  \n_average_  \n_shares_  \n1 October\u201331 December 6,880,000 3/3 6,880,000  \n**Weighted-average shares** 6,880,000  \n**_Basic and diluted EPS_**  \nLoss attributable to ordinary equity holders of the parent entity **_(CU0.10)_**  \n-----  Note: The incremental shares from assumed conversions are not included in calculating the diluted per-share amounts\nbecause the control number (loss from continuing operations attributable to ordinary equity holders of the parent\nentity adjusted for preference dividends) was negative (ie a loss, rather than profit).",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Fourth Quarter 20X1",
+            "page_number": 35,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Full Year 20X1\n_Basic EPS calculation_ CU  \nProfit from continuing operations attributable to the parent entity 11,800,000  \nLess: preference share dividends (70,000)  \n**Profit from continuing operations attributable to ordinary equity holders**\n**of the parent entity** 11,730,000  \nLoss from discontinued operations attributable to the parent entity (2,000,000)  \nProfit attributable to ordinary equity holders of the parent entity 9,730,000  \n_Dates_ _Shares_  \n_outstanding_  \n_Fraction of_  \n_period_  \n_Weighted-average_  \n_shares_  \n1 January\u201328 February 5,000,000 2/12 833,333  \n_Issue of ordinary shares on 1 March_ 200,000  \n1 March\u201331 March 5,200,000 1/12 433,333  \n_Conversion of 5% bonds on 1 April_ 480,000  \n1 April\u201331 May 5,680,000 2/12 946,667  \n_Conversion of preference shares on 1_\n_June_ 600,000  \n1 June\u201331 August 6,280,000 3/12 1,570,000  \n_Exercise of warrants on 1 September_ 600,000  \n1 September\u201331 December 6,880,000 4/12 2,293,333  \n**Weighted-average shares** 6,076,667  \n**_Basic EPS_**  \nProfit from continuing operations **_CU1.93_**  \nLoss from discontinued operations **_(CU0.33)_**  \nProfit **_CU1.60_**  \n_Diluted EPS calculation_  \n**Profit from continuing operations attributable to ordinary equity holders**\n**of the parent entity** CU11,730,000  \nPlus: profit impact of assumed conversions  \nPreference share dividends CU70,000  \nInterest on 5% convertible bonds CU90,000[(a)]  \n**Effect of assumed conversions** CU160,000  \nProfit from continuing operations attributable to ordinary\nequity holders of the parent entity including assumed\nconversions CU11,890,000  \nLoss from discontinued operations attributable to the parent\nentity (CU2,000,000)  \nProfit attributable to ordinary equity holders of the parent\nentity including assumed conversions CU9,890,000  \n-----  **Weighted-average shares** 6,076,667  \nPlus: incremental shares from assumed conversions  \nWarrants 14,880[(b)]  \nConvertible preference shares 450,000[(c)]  \n5% convertible bonds 120,000[(d)]  \n**Dilutive potential ordinary shares** 584,880  \nAdjusted weighted-average shares 6,661,547  \n**_Diluted EPS_**  \nProfit from continuing operations **_CU1.78_**  \nLoss from discontinued operations **_(CU0.30)_**  \nProfit **_CU1.48_**  \n(a) (CU12,000,000 \u00d7 5%) \u00f7 4; less taxes at 40%.  \n(b) [(CU57.125[*] \u2013 CU55) \u00f7 CU57.125] \u00d7 600,000 = 22,320 shares; 22,320 \u00d7 [8]/12 = 14,880 shares[*].\nThe average market price from 1 January 20X1 to 1 September 20X1.  \n(c) (800,000 shares \u00d7 [5]/12) + (200,000 shares \u00d7 [7]/12).  \n(d) 480,000 shares \u00d7 [3]/12.  \nThe following illustrates how Company A might present its earnings per share data in its statement of comprehensive\nincome. Note that the amounts per share for the loss from discontinued operations are not required to be presented in\nthe statement of comprehensive income.  \n**_For the year ended 20X1_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Full Year 20X1",
+            "page_number": 36,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "CU",
+            "page_number": 37,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Earnings per ordinary share\nProfit from continuing operations 1.93  \nLoss from discontinued operations (0.33)  \nProfit 1.60",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Earnings per ordinary share",
+            "page_number": 37,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Diluted earnings per ordinary share\nProfit from continuing operations 1.78  \nLoss from discontinued operations (0.30)  \nProfit 1.48  \nThe following table includes the quarterly and annual earnings per share data for Company A. The purpose of this\ntable is to illustrate that the sum of the four quarters\u2019 earnings per share data will not necessarily equal the annual\nearnings per share data. The Standard does not require disclosure of this information.  \n-----  **_Full year_**  \n**_First_**  \n**_quarter_**  \n**_Second_**  \n**_quarter_**  \n**_Third_**  \n**_quarter_**  \n**_Fourth_**  \n**_quarter_**",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Diluted earnings per ordinary share",
+            "page_number": 37,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### CU** **CU** **CU** **CU** **CU",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "CU** **CU** **CU** **CU** **CU",
+            "page_number": 38,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Basic EPS\nProfit (loss) from continuing\noperations 0.98 1.10 0.15 (0.10) 1.93  \nLoss from discontinued operations \u2013 \u2013 (0.31) \u2013 (0.33)  \nProfit (loss) 0.98 1.10 (0.16) (0.10) 1.60",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Basic EPS",
+            "page_number": 38,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "### Diluted EPS\nProfit (loss) from continuing\noperations 0.80 1.00 0.15 (0.10) 1.78  \nLoss from discontinued operations \u2013 \u2013 (0.30) \u2013 (0.30)  \nProfit (loss) 0.80 1.00 (0.15) (0.10) 1.48  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Example 12 Calculation and presentation of basic and diluted earnings per share (comprehensive example)[6]",
+            "Header 3": "Diluted EPS",
+            "page_number": 38,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 133 Earnings per Share (as amended)  \n_Compilation details are not part of AASB 133._  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. It takes into account amendments\nup to and including 6 March 2020 and was prepared on 8 June 2021 by the staff of the Australian Accounting\nStandards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 133 (August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Compilation details Accounting Standard AASB 133 Earnings per Share (as amended)",
+            "page_number": 39,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 133|7 Aug 2015|F2015L01616|31 Dec 2017|(beginning) 1 Jan 2018|see (a) below|\n|AASB 2015-9|11 Nov 2015|F2015L01832|31 Dec 2015|(beginning) 1 Jan 2018|see (b) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (c) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (d) below|  \n(a) Entities may elect to apply this Standard to annual periods beginning after 24 July 2014 but before 1 January 2018.  \n(b) This Standard applies to annual periods beginning on or after 1 January 2016 and may be applied to annual periods beginning\nbefore 1 January 2016. The amendments to AASB 133 (August 2015) apply to annual periods beginning on or after 1 January\n2018.  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(d) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|AusCF1|added|AASB 2019-1 [page 21]|\n|2|added|AASB 2015-9 [10]|\n|Aus76.1|repealed|Legislation Act 2003, s. 48D|\n|Appendix C|replaced|AASB 1060 [page 64]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Table of Standards",
+            "page_number": 39,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 33 text  \n_Deleted IAS 33 text is not part of AASB 133._  \n74A IAS 1 (as revised in 2007) amended the terminology used throughout IFRSs. In addition it added\nparagraphs 4A, 67A, 68A and 73A. An entity shall apply those amendments for annual periods beginning\non or after 1 January 2009. If an entity applies IAS 1 (revised 2007) for an earlier period, the amendments\nshall be applied for that earlier period.  \n74B IFRS 10 and IFRS 11 _Joint Arrangements, issued in May 2011, amended paragraphs 4, 40 and A11. An_\nentity shall apply those amendments when it applies IFRS 10 and IFRS 11.  \n74C IFRS 13, issued in May 2011, amended paragraphs 8, 47A and A2. An entity shall apply those amendments\nwhen it applies IFRS 13.  \n74D _Presentation of Items of Other Comprehensive Income (Amendments to IAS 1), issued in June 2011,_\namended paragraphs 4A, 67A, 68A and 73A. An entity shall apply those amendments when it applies IAS 1\nas amended in June 2011.  \n75 This Standard supersedes IAS 33 Earnings Per Share (issued in 1997).  \n76 This Standard supersedes SIC-24 _Earnings Per Share\u2014Financial Instruments and Other Contracts that_\n_May Be Settled in Shares._  \n-----  ",
+        "metadata": {
+            "Header 1": "Earnings per Share",
+            "Header 2": "Deleted IAS 33 text",
+            "page_number": 40,
+            "file_name": "AASB133 Earnings per Share"
+        }
+    }
+]

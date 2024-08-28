@@ -37,13 +37,13 @@ class ChatBot(View):
                 async for chunk in get_answer(question=input_query, user_id=user_id):
                     print("------------------------------------------------")
                     print("chunk: ", chunk)
-                    if type(chunk) != dict:
-                        bot_response += chunk
-                        yield chunk
-                    elif type(chunk) == dict:
+                    if chunk["type"] == "chat_response":
+                        bot_response += chunk["data"]
+                        yield json.dumps(chunk) + "\n"
+                    elif chunk["type"] == "tool_response":
                         tool_call = chunk
                         chunk = json.dumps(chunk)
-                        yield chunk
+                        yield chunk + "\n"
                 await sync_to_async(
                     lambda: ChatHistory.objects.create(
                         chat=user_chat,

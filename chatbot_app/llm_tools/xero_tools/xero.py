@@ -68,7 +68,7 @@ async def get_invoices(
                 "Currency Code": item["CurrencyCode"],
                 "Invoice Number": item["InvoiceNumber"],
                 "Amount Due": item["AmountDue"],
-                "Xero URL": "https://go.xero.com/",
+                "Xero URL": item["InvoiceURL"],
                 "Status": item["Status"],
                 "Type": item["Type"],
                 "SentToContact": "sent" if item.get("SentToContact") else None,
@@ -174,9 +174,7 @@ async def get_invoices(
 async def get_single_invoice(
     invoice_number: Optional[str] = None,
 ) -> list[dict]:
-    """Get single invoice based on invoice number"""
-    print("starting...................")
-    print("invoice_number: ", invoice_number)
+    """Get a single invoice with more details"""
     filtered_invoices = [
         item
         for item in dummy_invoices[0]["Invoices"]

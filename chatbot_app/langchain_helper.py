@@ -84,9 +84,10 @@ def create_graph():
         [
             (
                 "system",
-                "You are a helpful assistant that has access to 2 tools that may be relevent in answering the user's question"
-                "Use the tool get_AASB_information to answer any accounting related questions and use the tool get_invoices to get information about the user's invoices."
-                "\nFor reference the date and time now is {time}",
+                "You are a helpful assistant that has access to 2 tools that may be relevent in answering the user's question."
+                " Use the tool get_AASB_information to answer any accounting related questions and use the tool get_invoices to get information about the user's invoices. "
+                "\nNote, you currently only have access to invoices in Xero"
+                "\nFor reference, the date and time now is {time}",
             ),
             ("placeholder", "{messages}"),
         ]
@@ -125,12 +126,16 @@ async def get_answer(question: str, user_id):
     async for chunk in response:
         if chunk["event"] == "on_chat_model_stream":
             content = chunk["data"]["chunk"].content
-            yield content
+            yield {"type": "chat_response", "data": content}
         elif chunk["event"] == "on_tool_end":
             if chunk["data"]["output"]:
                 content = chunk["data"]["output"].content
                 content_final = json.loads(content)
-                tool_content = {"name": chunk["name"], "data": content_final["data"]}
+                tool_content = {
+                    "type": "tool_response",
+                    "name": chunk["name"],
+                    "data": content_final["data"],
+                }
     if tool_content:
         yield tool_content
     print("Full get answer time: ", time.time() - st)

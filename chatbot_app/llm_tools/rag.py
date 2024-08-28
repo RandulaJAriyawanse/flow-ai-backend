@@ -38,7 +38,7 @@ async def get_AASB_information(
     Consult the AASB standards for any question regarding Australian accounting standards.
     """
     st = time.time()
-    collection = "AASB_1908"
+    collection = "AASB_FULL_2808"
     vectorstore = get_existing_vectorstore(collection)
     # filter={"file_name": {"$eq": "AASB2 Share-based Payment"}}
     documents = vectorstore.similarity_search_with_score(

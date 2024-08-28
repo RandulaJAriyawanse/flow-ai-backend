@@ -1,0 +1,877 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 134**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "# Interim Financial Reporting  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023. Earlier application is\npermitted for annual periods beginning on or after 1 January 2014 but before 1 January 2023. It incorporates relevant\namendments made up to and including 15 December 2022.  \nPrepared on 6 February 2023 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 7  \nCompilation date: 31 December 2022  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "page_number": 0,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2023  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The Managing Director, Australian Accounting Standards Board, PO Box\n204, Collins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce IFRS Foundation copyright material for commercial purposes outside Australia should be\naddressed to the IFRS Foundation at www.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 34  \n**ACCOUNTING STANDARD**\nAASB 134 INTERIM FINANCIAL REPORTING  \n**OBJECTIVE**\nSCOPE\nDEFINITIONS\nCONTENT OF AN INTERIM FINANCIAL REPORT\nMinimum components of an interim financial report\nForm and content of interim financial statements\n_from paragraph_\nSignificant events and transactions** **15\nOther disclosures** **16A\nDisclosure of compliance with Australian Accounting Standards** **19\nPeriods for which interim financial statements are required to be presented** **20\nMateriality** **23\nDISCLOSURE IN ANNUAL FINANCIAL STATEMENTS** **26  \n**RECOGNITION AND MEASUREMENT**\nSame accounting policies as annual** **28\nRevenues received seasonally, cyclically, or occasionally** **37\nCosts incurred unevenly during the financial year** **39\nApplying the recognition and measurement principles** **40\nUse of estimates** **41\nRESTATEMENT OF PREVIOUSLY REPORTED INTERIM PERIODS** **43\nEFFECTIVE DATE** **46  \n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus57.2  \n**ILLUSTRATIVE EXAMPLES**\n**A Illustration of periods required to be presented**\n**B Examples of applying the recognition and measurement principles**\n**C Examples of the use of estimates**\n**COMPILATION DETAILS**\nDELETED IAS 34 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IAS 34\nAustralian Accounting Standard AASB 134 Interim Financial Reporting (as amended) is set out in paragraphs 1 \u2013 60.\nAll the paragraphs have equal authority. Paragraphs in bold type state the main principles. AASB 134 is to be read\nin the context of other Australian Accounting Standards, including AASB 1048 _Interpretation of Standards, which_\nidentifies the Australian Accounting Interpretations, and AASB 1057 Application of Australian Accounting Standards.\nIn the absence of explicit guidance, AASB 108 _Accounting Policies, Changes in Accounting Estimates and Errors_\nprovides a basis for selecting and applying accounting policies.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 34  \nAASB 134 Interim Financial Reporting as amended incorporates IAS 34 Interim Financial Reporting as issued and\namended by the International Accounting Standards Board (IASB). Australian-specific paragraphs (which are not\nincluded in IAS 34) are identified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by\nidentifying their limited applicability.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Comparison with IAS 34",
+            "page_number": 3,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 134 also comply with IAS 34.  \nNot-for-profit entities\u2019 compliance with IAS 34 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIAS 34.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 134  \nThe Australian Accounting Standards Board made Accounting Standard AASB 134 _Interim Financial Reporting_\nunder section 334 of the Corporations Act 2001 on 7 August 2015.  \nThis compiled version of AASB 134 applies to annual periods beginning on or after 1 January 2023. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 15 December 2022\n(see Compilation Details).",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Accounting Standard AASB 134",
+            "page_number": 4,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 134 Interim Financial Reporting  \nObjective  \nThe objective of this Standard is to prescribe the minimum content of an interim financial report and to\nprescribe the principles for recognition and measurement in complete or condensed financial statements for\nan interim period. Timely and reliable interim financial reporting improves the ability of investors,\ncreditors, and others to understand an entity\u2019s capacity to generate earnings and cash flows and its financial\ncondition and liquidity.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Accounting Standard AASB 134 Interim Financial Reporting",
+            "page_number": 4,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n1 This Standard does not mandate which entities should be required to publish interim financial reports, how\nfrequently, or how soon after the end of an interim period. However, governments, securities regulators,\nstock exchanges, and accountancy bodies often require entities whose debt or equity securities are publicly\ntraded to publish interim financial reports. This Standard applies if an entity is required or elects to publish\nan interim financial report in accordance with Australian Accounting Standards. The International\nAccounting Standards Committee[1] encourages publicly traded entities to provide interim financial reports\nthat conform to the recognition, measurement, and disclosure principles set out in this Standard.\nSpecifically, publicly traded entities are encouraged:  \n(a) to provide interim financial reports at least as of the end of the first half of their financial year;\nand  \n(b) to make their interim financial reports available not later than 60 days after the end of the interim\nperiod.  \nAusCF1 AusCF paragraphs and footnotes included in this Standard apply only to:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nSuch entities are referred to as \u2018AusCF entities\u2019. For AusCF entities, the term \u2018reporting entity\u2019 is\ndefined in AASB 1057 _Application of Australian Accounting Standards and Statement of_\nAccounting Concepts SAC 1 _Definition of the Reporting Entity also applies. For-profit entities_\napplying the Conceptual Framework for Financial Reporting (as set out in paragraph Aus1.1 of\nthe Conceptual Framework) shall not apply AusCF paragraphs or footnotes.  \nAus1.1 Under the Corporations Act, disclosing entities are required to prepare half-year financial reports.\nDisclosing entities may also voluntarily prepare other general purpose interim financial reports.\nThis Standard prescribes the form and content of general purpose interim financial reports,\nincluding half-year financial reports prepared by disclosing entities.  \nAus1.2 Interim financial reports that are intended to be special purpose financial reports do not fall within\nthe scope of this Standard. However, interim financial reports that are purported to be special\npurpose financial reports but have the characteristics of general purpose financial statements fall  \n1 The International Accounting Standards Committee was succeeded by the International Accounting Standards Board, which began\noperations in 2001.  \n-----  within the scope of this Standard. Interim financial reports that are widely available but lack the\ncharacteristics of general purpose financial statements are not regarded as general purpose\nfinancial statements. An example is selected interim summary financial information, such as\nturnover and profit, voluntarily released by some entities. In some cases, professional judgement\nis needed to determine whether particular interim financial reports are general purpose financial\nstatements.  \n2 Each financial report, annual or interim, is evaluated on its own for conformity to Australian Accounting\nStandards. The fact that an entity may not have provided interim financial reports during a particular\nfinancial year or may have provided interim financial reports that do not comply with this Standard does not\nprevent the entity\u2019s annual financial statements from conforming to Australian Accounting Standards if they\notherwise do so.  \n**Aus2.1** **This Standard does not apply to interim financial reports for the General Government**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Sector of each government.\n3 If an entity\u2019s interim financial report is described as complying with Australian Accounting Standards, it\nmust comply with all of the requirements of this Standard. Paragraph 19 requires certain disclosures in that\nregard.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Scope",
+            "Header 3": "Sector of each government.",
+            "page_number": 5,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**4** **The following terms are used in this Standard with the meanings specified:**  \n**_Interim period is a financial reporting period shorter than a full financial year._**  \n**_Interim financial report means a financial report containing either a complete set of financial_**\n**statements (as described in AASB 101** **_Presentation of Financial Statements) or a set of condensed_**\n**financial statements (as described in this Standard) for an interim period.**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Definitions",
+            "page_number": 5,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Content of an interim financial report  \n5 AASB 101 defines a complete set of financial statements as including the following components:  \n(a) a statement of financial position as at the end of the period;  \n(b) a statement of profit or loss and other comprehensive income for the period;  \n(c) a statement of changes in equity for the period;  \n(d) a statement of cash flows for the period;  \n(e) notes, comprising material accounting policy information and other explanatory information;  \n(ea) comparative information in respect of the preceding period as specified in paragraphs 38 and 38A\nof AASB 101; and  \n(f) a statement of financial position as at the beginning of the preceding period when an entity\napplies an accounting policy retrospectively or makes a retrospective restatement of items in its\nfinancial statements, or when it reclassifies items in its financial statements in accordance with\nparagraphs 40A\u201340D of AASB 101.  \nAn entity may use titles for the statements other than those used in this Standard. For example, an entity\nmay use the title \u2018statement of comprehensive income\u2019 instead of \u2018statement of profit or loss and other\ncomprehensive income\u2019.  \n6 In the interest of timeliness and cost considerations and to avoid repetition of information previously\nreported, an entity may be required to or may elect to provide less information at interim dates as compared\nwith its annual financial statements. This Standard defines the minimum content of an interim financial\nreport as including condensed financial statements and selected explanatory notes. The interim financial\nreport is intended to provide an update on the latest complete set of annual financial statements.\nAccordingly, it focuses on new activities, events, and circumstances and does not duplicate information\npreviously reported.  \n7 Nothing in this Standard is intended to prohibit or discourage an entity from publishing a complete set of\nfinancial statements (as described in AASB 101) in its interim financial report, rather than condensed\nfinancial statements and selected explanatory notes. Nor does this Standard prohibit or discourage an entity\nfrom including in condensed interim financial statements more than the minimum line items or selected\nexplanatory notes as set out in this Standard. The recognition and measurement guidance in this Standard  \n-----  applies also to complete financial statements for an interim period, and such statements would include all of\nthe disclosures required by this Standard (particularly the selected note disclosures in paragraph 16A) as\nwell as those required by other Australian Accounting Standards.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Content of an interim financial report",
+            "page_number": 5,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Minimum components of an interim financial report  \n**8** **An interim financial report shall include, at a minimum, the following components:**  \n**(a)** **a condensed statement of financial position;**  \n**(b)** **a condensed statement or condensed statements of profit or loss and other comprehensive**\n**income;**  \n**(c)** **a condensed statement of changes in equity;**  \n**(d)** **a condensed statement of cash flows; and**  \n**(e)** **selected explanatory notes.**  \n**8A** **If an entity presents items of profit or loss in a separate statement as described in paragraph 10A of**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Minimum components of an interim financial report",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### AASB 101, it presents interim condensed information from that statement.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Minimum components of an interim financial report",
+            "Header 3": "AASB 101, it presents interim condensed information from that statement.",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Form and content of interim financial statements  \n**9** **If an entity publishes a complete set of financial statements in its interim financial report, the form**\n**and content of those statements shall conform to the requirements of AASB 101 for a complete set of**\n**financial statements.**  \n**10** **If an entity publishes a set of condensed financial statements in its interim financial report, those**\n**condensed statements shall include, at a minimum, each of the headings and subtotals that were**\n**included in its most recent annual financial statements and the selected explanatory notes as required**\n**by this Standard. Additional line items or notes shall be included if their omission would make the**\n**condensed interim financial statements misleading.**  \n**11** **In the statement that presents the components of profit or loss for an interim period, an entity shall**\n**present basic and diluted earnings per share for that period when the entity is within the scope of**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Form and content of interim financial statements",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### AASB 133 Earnings per Share.[2]  \n**11A** **If an entity presents items of profit or loss in a separate statement as described in paragraph 10A of**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Form and content of interim financial statements",
+            "Header 3": "AASB 133 Earnings per Share.[2]",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### AASB 101, it presents basic and diluted earnings per share in that statement.\n12 AASB 101 provides guidance on the structure of financial statements. The Implementation Guidance for\nIAS 1 illustrates ways in which the statement of financial position, statement of comprehensive income and\nstatement of changes in equity may be presented.  \n13 [Deleted]  \n14 An interim financial report is prepared on a consolidated basis if the entity\u2019s most recent annual financial\nstatements were consolidated statements. The parent\u2019s separate financial statements are not consistent or\ncomparable with the consolidated statements in the most recent annual financial report. If an entity\u2019s annual\nfinancial report included the parent\u2019s separate financial statements in addition to consolidated financial\nstatements, this Standard neither requires nor prohibits the inclusion of the parent\u2019s separate statements in\nthe entity\u2019s interim financial report.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Form and content of interim financial statements",
+            "Header 3": "AASB 101, it presents basic and diluted earnings per share in that statement.",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Significant events and transactions  \n15 An entity shall include in its interim financial report an explanation of events and transactions that are\nsignificant to an understanding of the changes in financial position and performance of the entity since the\nend of the last annual reporting period. Information disclosed in relation to those events and transactions\nshall update the relevant information presented in the most recent annual financial report.  \n15A A user of an entity\u2019s interim financial report will have access to the most recent annual financial report of\nthat entity. Therefore, it is unnecessary for the notes to an interim financial report to provide relatively\ninsignificant updates to the information that was reported in the notes in the most recent annual financial\nreport.  \n2 This paragraph was amended by AASB 2008-5 _Amendments to Australian Accounting Standards arising from the Annual_\n_Improvements Project issued in July 2008 to clarify the scope of AASB 134._  \n-----  15B The following is a list of events and transactions for which disclosures would be required if they are\nsignificant: the list is not exhaustive.  \n(a) the write-down of inventories to net realisable value and the reversal of such a write-down;  \n(b) recognition of a loss from the impairment of financial assets, property, plant and equipment,\nintangible assets, assets arising from contracts with customers, or other assets, and the reversal of\nsuch an impairment loss;  \n(c) the reversal of any provisions for the costs of restructuring;  \n(d) acquisitions and disposals of items of property, plant and equipment;  \n(e) commitments for the purchase of property, plant and equipment;  \n(f) litigation settlements;  \n(g) corrections of prior period errors;  \n(h) changes in the business or economic circumstances that affect the fair value of the entity\u2019s\nfinancial assets and financial liabilities, whether those assets or liabilities are recognised at fair\nvalue or amortised cost;  \n(i) any loan default or breach of a loan agreement that has not been remedied on or before the end of\nthe reporting period;  \n(j) related party transactions;  \n(k) transfers between levels of the fair value hierarchy used in measuring the fair value of financial\ninstruments;  \n(l) changes in the classification of financial assets as a result of a change in the purpose or use of\nthose assets; and  \n(m) changes in contingent liabilities or contingent assets.  \n15C Individual Australian Accounting Standards provide guidance regarding disclosure requirements for many\nof the items listed in paragraph 15B. When an event or transaction is significant to an understanding of the\nchanges in an entity\u2019s financial position or performance since the last annual reporting period, its interim\nfinancial report should provide an explanation of and an update to the relevant information included in the\nfinancial statements of the last annual reporting period.  \n16 [Deleted]",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Significant events and transactions",
+            "page_number": 6,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Other disclosures  \n**16A** **In addition to disclosing significant events and transactions in accordance with paragraphs 15\u201315C,**\n**an entity shall include the following information, in the notes to its interim financial statements or**\n**elsewhere in the interim financial report. The following disclosures shall be given either in the interim**\n**financial statements or incorporated by cross-reference from the interim financial statements to some**\n**other statement (such as management commentary or risk report) that is available to users of the**\n**financial statements on the same terms as the interim financial statements and at the same time. If**\n**users of the financial statements do not have access to the information incorporated by cross-**\n**reference on the same terms and at the same time, the interim financial report is incomplete. The**\n**information shall normally be reported on a financial year-to-date basis.**  \n**(a)** **a statement that the same accounting policies and methods of computation are followed in**\n**the interim financial statements as compared with the most recent annual financial**\n**statements or, if those policies or methods have been changed, a description of the nature**\n**and effect of the change.**  \n**(b)** **explanatory comments about the seasonality or cyclicality of interim operations.**  \n**(c)** **the nature and amount of items affecting assets, liabilities, equity, net income or cash flows**\n**that are unusual because of their nature, size or incidence.**  \n**(d)** **the nature and amount of changes in estimates of amounts reported in prior interim periods**\n**of the current financial year or changes in estimates of amounts reported in prior financial**\n**years.**  \n**(e)** **issues, repurchases and repayments of debt and equity securities.**  \n**(f)** **dividends paid (aggregate or per share) separately for ordinary shares and other shares.**  \n-----  **(g)** **the following segment information (disclosure of segment information is required in an**\n**entity\u2019s interim financial report only if AASB 8 Operating Segments requires that entity to**\n**disclose segment information in its annual financial statements):**  \n**(i)** **revenues from external customers, if included in the measure of segment profit or**\n**loss reviewed by the chief operating decision maker or otherwise regularly**\n**provided to the chief operating decision maker.**  \n**(ii)** **intersegment revenues, if included in the measure of segment profit or loss**\n**reviewed by the chief operating decision maker or otherwise regularly provided to**\n**the chief operating decision maker.**  \n**(iii)** **a measure of segment profit or loss.**  \n**(iv)** **a measure of total assets and liabilities for a particular reportable segment if such**\n**amounts are regularly provided to the chief operating decision maker and if there**\n**has been a material change from the amount disclosed in the last annual financial**\n**statements for that reportable segment.**  \n**(v)** **a description of differences from the last annual financial statements in the basis**\n**of segmentation or in the basis of measurement of segment profit or loss.**  \n**(vi)** **a reconciliation of the total of the reportable segments\u2019 measures of profit or loss**\n**to the entity\u2019s profit or loss before tax expense (tax income) and discontinued**\n**operations. However, if an entity allocates to reportable segments items such as**\n**tax expense (tax income), the entity may reconcile the total of the segments\u2019**\n**measures of profit or loss to profit or loss after those items. Material reconciling**\n**items shall be separately identified and described in that reconciliation.**  \n**(h)** **events after the interim period that have not been reflected in the financial statements for**\n**the interim period.**  \n**(i)** **the effect of changes in the composition of the entity during the interim period, including**\n**business combinations, obtaining or losing control of subsidiaries and long-term**\n**investments, restructurings, and discontinued operations. In the case of business**\n**combinations, the entity shall disclose the information required by AASB 3** **_Business_**\n**_Combinations._**  \n**(j)** **for financial instruments, the disclosures about fair value required by paragraphs 91\u201393(h),**\n**94\u201396, 98 and 99 of AASB 13 Fair Value Measurement and paragraphs 25, 26 and 28\u201330 of**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Other disclosures",
+            "page_number": 7,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### AASB 7 Financial Instruments: Disclosures.  \n**(k)** **for entities becoming, or ceasing to be, investment entities, as defined in AASB 10**\n**_Consolidated Financial Statements, the disclosures in AASB 12_** **_Disclosure of Interests in_**\n**_Other Entities paragraph 9B._**  \n**(l)** **the disaggregation of revenue from contracts with customers required by paragraphs 114\u2013**\n**115 of AASB 15 Revenue from Contracts with Customers.**  \n17\u2013\n18 [Deleted]",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Other disclosures",
+            "Header 3": "AASB 7 Financial Instruments: Disclosures.",
+            "page_number": 8,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Disclosure of compliance with Australian Accounting Standards  \n**19** **If an entity\u2019s interim financial report is in compliance with this Standard, that fact shall be disclosed.**\n**An interim financial report shall not be described as complying with Australian Accounting**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Disclosure of compliance with Australian Accounting Standards",
+            "page_number": 8,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Standards unless it complies with all the requirements of Australian Accounting Standards.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Disclosure of compliance with Australian Accounting Standards",
+            "Header 3": "Standards unless it complies with all the requirements of Australian Accounting Standards.",
+            "page_number": 8,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Periods for which interim financial statements are required to be presented  \n**20** **Interim reports shall include interim financial statements (condensed or complete) for periods as**\n**follows:**  \n**(a)** **statement of financial position as of the end of the current interim period and a comparative**\n**statement of financial position as of the end of the immediately preceding financial year.**  \n**(b)** **statements of profit or loss and other comprehensive income for the current interim period**\n**and cumulatively for the current financial year to date, with comparative statements of**\n**profit or loss and other comprehensive income for the comparable interim periods (current**  \n-----  **and year-to-date) of the immediately preceding financial year. As permitted by AASB 101,**\n**an interim report may present for each period a statement or statements of profit or loss**\n**and other comprehensive income.**  \n**(c)** **statement of changes in equity cumulatively for the current financial year to date, with a**\n**comparative statement for the comparable year-to-date period of the immediately**\n**preceding financial year.**  \n**(d)** **statement of cash flows cumulatively for the current financial year to date, with a**\n**comparative statement for the comparable year-to-date period of the immediately**\n**preceding financial year.**  \n21 For an entity whose business is highly seasonal, financial information for the twelve months up to the end\nof the interim period and comparative information for the prior twelve-month period may be useful.\nAccordingly, entities whose business is highly seasonal are encouraged to consider reporting such\ninformation in addition to the information called for in the preceding paragraph.  \n22 Part A of the illustrative examples accompanying this Standard illustrates the periods required to be\npresented by an entity that reports half-yearly and an entity that reports quarterly.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Periods for which interim financial statements are required to be presented",
+            "page_number": 8,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Materiality  \n**23** **In deciding how to recognise, measure, classify, or disclose an item for interim financial reporting**\n**purposes, materiality shall be assessed in relation to the interim period financial data. In making**\n**assessments of materiality, it shall be recognised that interim measurements may rely on estimates to**\n**a greater extent than measurements of annual financial data.**  \n24 AASB 101 defines material information and requires separate disclosure of material items, including (for\nexample) discontinued operations, and AASB 108 _Accounting Policies, Changes in Accounting Estimates_\n_and Errors requires disclosure of changes in accounting estimates, errors, and changes in accounting_\npolicies. The two Standards do not contain quantified guidance as to materiality.  \n25 While judgement is always required in assessing materiality, this Standard bases the recognition and\ndisclosure decision on data for the interim period by itself for reasons of understandability of the interim\nfigures. Thus, for example, unusual items, changes in accounting policies or estimates, and errors are\nrecognised and disclosed on the basis of materiality in relation to interim period data to avoid misleading\ninferences that might result from non-disclosure. The overriding goal is to ensure that an interim financial\nreport includes all information that is relevant to understanding an entity\u2019s financial position and\nperformance during the interim period.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Materiality",
+            "page_number": 9,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Disclosure in annual financial statements  \n**26** **If an estimate of an amount reported in an interim period is changed significantly during the final**\n**interim period of the financial year but a separate financial report is not published for that final**\n**interim period, the nature and amount of that change in estimate shall be disclosed in a note to the**\n**annual financial statements for that financial year.**  \n27 AASB 108 requires disclosure of the nature and (if practicable) the amount of a change in estimate that\neither has a material effect in the current period or is expected to have a material effect in subsequent\nperiods. Paragraph 16A(d) of this Standard requires similar disclosure in an interim financial report.\nExamples include changes in estimate in the final interim period relating to inventory write-downs,\nrestructurings, or impairment losses that were reported in an earlier interim period of the financial year. The\ndisclosure required by the preceding paragraph is consistent with the AASB 108 requirement and is\nintended to be narrow in scope\u2014relating only to the change in estimate. An entity is not required to include\nadditional interim period financial information in its annual financial statements.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Disclosure in annual financial statements",
+            "page_number": 9,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement  \nSame accounting policies as annual  \n**28** **An entity shall apply the same accounting policies in its interim financial statements as are applied in**\n**its annual financial statements, except for accounting policy changes made after the date of the most**\n**recent annual financial statements that are to be reflected in the next annual financial statements.**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Recognition and measurement",
+            "page_number": 9,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### However, the frequency of an entity\u2019s reporting (annual, half-yearly, or quarterly) shall not affect the\n-----  **measurement of its annual results. To achieve that objective, measurements for interim reporting**\n**purposes shall be made on a year-to-date basis.**  \n29 Requiring that an entity apply the same accounting policies in its interim financial statements as in its\nannual statements may seem to suggest that interim period measurements are made as if each interim period\nstands alone as an independent reporting period. However, by providing that the frequency of an entity\u2019s\nreporting shall not affect the measurement of its annual results, paragraph 28 acknowledges that an interim\nperiod is a part of a larger financial year. Year-to-date measurements may involve changes in estimates of\namounts reported in prior interim periods of the current financial year. But the principles for recognising\nassets, liabilities, income, and expenses for interim periods are the same as in annual financial statements.  \n30 To illustrate:  \n(a) the principles for recognising and measuring losses from inventory write-downs, restructurings,\nor impairments in an interim period are the same as those that an entity would follow if it\nprepared only annual financial statements. However, if such items are recognised and measured\nin one interim period and the estimate changes in a subsequent interim period of that financial\nyear, the original estimate is changed in the subsequent interim period either by accrual of an\nadditional amount of loss or by reversal of the previously recognised amount;  \n(b) a cost that does not meet the definition of an asset at the end of an interim period is not deferred\nin the statement of financial position either to await future information as to whether it has met\nthe definition of an asset or to smooth earnings over interim periods within a financial year; and  \n(c) income tax expense is recognised in each interim period based on the best estimate of the\nweighted average annual income tax rate expected for the full financial year. Amounts accrued\nfor income tax expense in one interim period may have to be adjusted in a subsequent interim\nperiod of that financial year if the estimate of the annual income tax rate changes.  \n31 Under the _Conceptual Framework for Financial Reporting_ (Conceptual Framework) (as identified in\nAASB 1048 _Interpretation of Standards), recognition is the process of capturing, for inclusion in the_\nstatement of financial position or the statement(s) of financial performance, an item that meets the definition\nof one of the elements of the financial statements. The definitions of assets, liabilities, income, and expenses\nare fundamental to recognition, at the end of both annual and interim financial reporting periods.  \nAusCF31 Notwithstanding paragraph 31, in respect of AusCF entities, under the _Framework for the_\n_Preparation and Presentation of Financial Statements_ (the _Framework) (as identified in_\nAASB 1048 Interpretation of Standards)[AusCF3], recognition is the \u2018process of incorporating in the\nbalance sheet or income statement an item that meets the definition of an element and satisfies the\ncriteria for recognition\u2019. The definitions of assets, liabilities, income, and expenses are\nfundamental to recognition, at the end of both annual and interim financial reporting periods.  \n32 For assets, the same tests of future economic benefits apply at interim dates and at the end of an entity\u2019s\nfinancial year. Costs that, by their nature, would not qualify as assets at financial year-end would not qualify\nat interim dates either. Similarly, a liability at the end of an interim reporting period must represent an\nexisting obligation at that date, just as it must at the end of an annual reporting period.  \n33 An essential characteristic of income (revenue) and expenses is that the related inflows and outflows of\nassets and liabilities have already taken place. If those inflows or outflows have taken place, the related\nrevenue and expense are recognised; otherwise they are not recognised. The Conceptual Framework does\nnot allow the recognition of items in the statement of financial position which do not meet the definition of\nassets or liabilities.  \nAusCF33 Notwithstanding paragraph 33, in respect of AusCF entities, an essential characteristic of income\n(revenue) and expenses is that the related inflows and outflows of assets and liabilities have\nalready taken place. If those inflows or outflows have taken place, the related revenue and\nexpense are recognised; otherwise they are not recognised. The Framework says that \u2018expenses\nare recognised in the income statement when a decrease in future economic benefits related to a\ndecrease in an asset or an increase of a liability has arisen that can be measured reliably \u2026 [The]\n_Framework does not allow the recognition of items in the balance sheet which do not meet the_\ndefinition of assets or liabilities.\u2019  \n34 In measuring the assets, liabilities, income, expenses, and cash flows reported in its financial statements, an\nentity that reports only annually is able to take into account information that becomes available throughout\nthe financial year. Its measurements are, in effect, on a year-to-date basis.  \nAusCF3 In December 2013 the AASB amended the Framework for the Preparation and Presentation of Financial Statements.  \n-----  35 An entity that reports half-yearly uses information available by mid-year or shortly thereafter in making the\nmeasurements in its financial statements for the first six-month period and information available by yearend or shortly thereafter for the twelve-month period. The twelve-month measurements will reflect possible\nchanges in estimates of amounts reported for the first six-month period. The amounts reported in the interim\nfinancial report for the first six-month period are not retrospectively adjusted. Paragraphs 16A(d) and 26\nrequire, however, that the nature and amount of any significant changes in estimates be disclosed.  \n36 An entity that reports more frequently than half-yearly measures income and expenses on a year-to-date\nbasis for each interim period using information available when each set of financial statements is being\nprepared. Amounts of income and expenses reported in the current interim period will reflect any changes\nin estimates of amounts reported in prior interim periods of the financial year. The amounts reported in prior\ninterim periods are not retrospectively adjusted. Paragraphs 16A(d) and 26 require, however, that the nature\nand amount of any significant changes in estimates be disclosed.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "However, the frequency of an entity\u2019s reporting (annual, half-yearly, or quarterly) shall not affect the",
+            "page_number": 9,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Revenues received seasonally, cyclically, or occasionally  \n**37** **Revenues that are received seasonally, cyclically, or occasionally within a financial year shall not be**\n**anticipated or deferred as of an interim date if anticipation or deferral would not be appropriate at**\n**the end of the entity\u2019s financial year.**  \n38 Examples include dividend revenue, royalties, and government grants. Additionally, some entities\nconsistently earn more revenues in certain interim periods of a financial year than in other interim periods,\nfor example, seasonal revenues of retailers. Such revenues are recognised when they occur.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Revenues received seasonally, cyclically, or occasionally",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Costs incurred unevenly during the financial year  \n**39** **Costs that are incurred unevenly during an entity\u2019s financial year shall be anticipated or deferred for**\n**interim reporting purposes if, and only if, it is also appropriate to anticipate or defer that type of cost**\n**at the end of the financial year.**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Costs incurred unevenly during the financial year",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Applying the recognition and measurement principles  \n40 Part B of the illustrative examples accompanying this Standard provides examples of applying the general\nrecognition and measurement principles set out in paragraphs 28\u201339.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Applying the recognition and measurement principles",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Use of estimates  \n**41** **The measurement procedures to be followed in an interim financial report shall be designed to ensure**\n**that the resulting information is reliable and that all material financial information that is relevant to**\n**an understanding of the financial position or performance of the entity is appropriately disclosed.**\n**While measurements in both annual and interim financial reports are often based on reasonable**\n**estimates, the preparation of interim financial reports generally will require a greater use of**\n**estimation methods than annual financial reports.**  \n42 Part C of the illustrative examples accompanying this Standard provides examples of the use of estimates in\ninterim periods.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Use of estimates",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Restatement of previously reported interim periods  \n**43** **A change in accounting policy, other than one for which the transition is specified by a new**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Restatement of previously reported interim periods",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Australian Accounting Standard, shall be reflected by:  \n**(a)** **restating the financial statements of prior interim periods of the current financial year and**\n**the comparable interim periods of any prior financial years that will be restated in the**\n**annual financial statements in accordance with AASB 108; or**  \n**(b)** **when it is impracticable to determine the cumulative effect at the beginning of the financial**\n**year of applying a new accounting policy to all prior periods, adjusting the financial**\n**statements of prior interim periods of the current financial year, and comparable interim**\n**periods of prior financial years to apply the new accounting policy prospectively from the**\n**earliest date practicable.**  \n44 One objective of the preceding principle is to ensure that a single accounting policy is applied to a particular\nclass of transactions throughout an entire financial year. Under AASB 108, a change in accounting policy is  \n-----  reflected by retrospective application, with restatement of prior period financial data as far back as is\npracticable. However, if the cumulative amount of the adjustment relating to prior financial years is\nimpracticable to determine, then under AASB 108 the new policy is applied prospectively from the earliest\ndate practicable. The effect of the principle in paragraph 43 is to require that within the current financial\nyear any change in accounting policy is applied either retrospectively or, if that is not practicable,\nprospectively, from no later than the beginning of the financial year.  \n45 To allow accounting changes to be reflected as of an interim date within the financial year would allow two\ndiffering accounting policies to be applied to a particular class of transactions within a single financial year.\nThe result would be interim allocation difficulties, obscured operating results, and complicated analysis and\nunderstandability of interim period information.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Restatement of previously reported interim periods",
+            "Header 3": "Australian Accounting Standard, shall be reflected by:",
+            "page_number": 11,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Effective date  \n46 This Standard becomes operative for financial statements covering periods beginning on or after 1 January\n2018. Earlier application is encouraged for periods beginning on or after 1 January 2014 but before\n1 January 2018.  \n47\u2013\n54 [Deleted by the AASB]  \n55 AASB 2014-5 Amendments to Australian Accounting Standards arising from AASB 15, issued in December\n2014, amended paragraphs 15B and 16A in the previous version of this Standard. An entity shall apply\nthose amendments when it applies AASB 15.  \n56 AASB 2015-1 _Amendments to Australian Accounting Standards \u2013 Annual Improvements to Australian_\n_Accounting Standards 2012\u20132014 Cycle, issued in January 2015, amended paragraph 16A in the previous_\nversion of this Standard. An entity shall apply that amendment retrospectively in accordance with\nAASB 108 Accounting Policies, Changes in Accounting Estimates and Errors for annual periods beginning\non or after 1 January 2016. Earlier application is permitted. If an entity applies the amendment for an earlier\nperiod it shall disclose that fact.  \n57 AASB 2015-2 _Amendments to Australian Accounting Standards \u2013 Disclosure Initiative: Amendments to_\n_AASB 101, issued in January 2015, amended paragraph 5 in the previous version of this Standard. An entity_\nshall apply that amendment for annual periods beginning on or after 1 January 2016. Earlier application of\nthat amendment is permitted.  \n58 AASB 2019-1 _Amendments to Australian Accounting Standards \u2013 References to the Conceptual_\n_Framework, issued in 2019, added AusCF paragraphs and amended paragraphs 31, 33 and B23. An entity_\nshall apply those amendments for annual periods beginning on or after 1 January 2020. Earlier application\nis permitted if at the same time an entity also applies all other amendments made by AASB 2019-1. An\nentity shall apply the amendments to AASB 134 retrospectively in accordance with AASB 108 Accounting\n_Policies, Changes in Accounting Estimates and Errors. However, if an entity determines that retrospective_\napplication would be impracticable or would involve undue cost or effort, it shall apply the amendments to\nAASB 134 by reference to paragraphs 43\u201345 of this Standard and paragraphs 23\u201328, 50\u201353 and 54F of\nAASB 108.  \n59 AASB 2018-7 Amendments to Australian Accounting Standards \u2013 Definition of Material, issued in\nDecember 2018, amended paragraph 24. An entity shall apply those amendments prospectively for annual\nperiods beginning on or after 1 January 2020. Earlier application is permitted. If an entity applies those\namendments for an earlier period, it shall disclose that fact. An entity shall apply those amendments when it\napplies the amendments to the definition of material in paragraph 7 of AASB 101 and paragraphs 5 and 6 of\nAASB 108.  \n60 AASB 2021-2 _Amendments to Australian Accounting Standards \u2013 Disclosure of Accounting Policies and_\n_Definition of Accounting Estimates, which amends AASB 101 and AASB Practice Statement 2_ _Making_\n_Materiality Judgements, and was issued in March 2021, amended paragraph 5. An entity shall apply that_\namendment for annual reporting periods beginning on or after 1 January 2023. Earlier application is\npermitted. If an entity applies the amendment for an earlier period, it shall disclose that fact.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Effective date",
+            "page_number": 12,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus57.1 [Repealed]  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 12,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus57.2 This Standard repeals AASB 134 _Interim Financial Reporting issued in July 2004. Despite the_\nrepeal, after the time this Standard starts to apply under section 334 of the Corporations Act\n(either generally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 13,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Illustrative examples  \n_These illustrative examples accompany, but are not part of, AASB 134._",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Illustrative examples",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## A Illustration of periods required to be presented  \n_The following examples illustrate application of the principle in paragraph 20._",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "A Illustration of periods required to be presented",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Entity publishes interim financial reports half-yearly  \nA1 The entity\u2019s financial year ends 31 December (calendar year). The entity will present the following financial\nstatements (condensed or complete) in its half-yearly interim financial report as of 30 June 20X1:",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports half-yearly",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of financial position:\nAt 30 June 20X1 31 December 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports half-yearly",
+            "Header 3": "Statement of financial position:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of comprehensive income:\n6 months ending 30 June 20X1 30 June 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports half-yearly",
+            "Header 3": "Statement of comprehensive income:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of cash flows:\n6 months ending 30 June 20X1 30 June 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports half-yearly",
+            "Header 3": "Statement of cash flows:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of changes in equity:\n6 months ending 30 June 20X1 30 June 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports half-yearly",
+            "Header 3": "Statement of changes in equity:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Entity publishes interim financial reports quarterly  \nA2 The entity\u2019s financial year ends 31 December (calendar year). The entity will present the following financial\nstatements (condensed or complete) in its quarterly interim financial report as of 30 June 20X1:",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports quarterly",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of financial position:\nAt 30 June 20X1 31 December 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports quarterly",
+            "Header 3": "Statement of financial position:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of comprehensive income:\n6 months ending 30 June 20X1 30 June 20X0  \n3 months ending 30 June 20X1 30 June 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports quarterly",
+            "Header 3": "Statement of comprehensive income:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of cash flows:\n6 months ending 30 June 20X1 30 June 20X0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports quarterly",
+            "Header 3": "Statement of cash flows:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Statement of changes in equity:\n6 months ending 30 June 20X1 30 June 20X0  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Entity publishes interim financial reports quarterly",
+            "Header 3": "Statement of changes in equity:",
+            "page_number": 14,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## B Examples of applying the recognition and measurement principles  \n_The following are examples of applying the general recognition and measurement principles set out in paragraphs_\n_28\u201339._",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "B Examples of applying the recognition and measurement principles",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Employer payroll taxes and insurance contributions  \nB1 If employer payroll taxes or contributions to government-sponsored insurance funds are assessed on an\nannual basis, the employer\u2019s related expense is recognised in interim periods using an estimated average\nannual effective payroll tax or contribution rate, even though a large portion of the payments may be made\nearly in the financial year. A common example is an employer payroll tax or insurance contribution that is\nimposed up to a certain maximum level of earnings per employee. For higher income employees, the\nmaximum income is reached before the end of the financial year, and the employer makes no further\npayments through the end of the year.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Employer payroll taxes and insurance contributions",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Major planned periodic maintenance or overhaul  \nB2 The cost of a planned major periodic maintenance or overhaul or other seasonal expenditure that is expected\nto occur late in the year is not anticipated for interim reporting purposes unless an event has caused the\nentity to have a legal or constructive obligation. The mere intention or necessity to incur expenditure related\nto the future is not sufficient to give rise to an obligation.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Major planned periodic maintenance or overhaul",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Provisions  \nB3 A provision is recognised when an entity has no realistic alternative but to make a transfer of economic\nbenefits as a result of an event that has created a legal or constructive obligation. The amount of the\nobligation is adjusted upward or downward, with a corresponding loss or gain recognised in profit or loss, if\nthe entity\u2019s best estimate of the amount of the obligation changes.  \nB4 The Standard requires that an entity apply the same criteria for recognising and measuring a provision at an\ninterim date as it would at the end of its financial year. The existence or non-existence of an obligation to\ntransfer benefits is not a function of the length of the reporting period. It is a question of fact.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Provisions",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Year-end bonuses  \nB5 The nature of year-end bonuses varies widely. Some are earned simply by continued employment during a\ntime period. Some bonuses are earned based on a monthly, quarterly, or annual measure of operating result.\nThey may be purely discretionary, contractual, or based on years of historical precedent.  \nB6 A bonus is anticipated for interim reporting purposes if, and only if, (a) the bonus is a legal obligation or\npast practice would make the bonus a constructive obligation for which the entity has no realistic alternative\nbut to make the payments, and (b) a reliable estimate of the obligation can be made. AASB 119 Employee\n_Benefits provides guidance._",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Year-end bonuses",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Variable lease payments  \nB7 Variable lease payments based on sales can be an example of a legal or constructive obligation that is\nrecognised as a liability. If a lease provides for variable payments based on the lessee achieving a certain\nlevel of annual sales, an obligation can arise in the interim periods of the financial year before the required\nannual level of sales has been achieved, if that required level of sales is expected to be achieved and the\nentity, therefore, has no realistic alternative but to make the future lease payment.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Variable lease payments",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Intangible assets  \nB8 An entity will apply the definition and recognition criteria for an intangible asset in the same way in an\ninterim period as in an annual period. Costs incurred before the recognition criteria for an intangible asset\nare met are recognised as an expense. Costs incurred after the specific point in time at which the criteria are\nmet are recognised as part of the cost of an intangible asset. \u2018Deferring\u2019 costs as assets in an interim\nstatement of financial position in the hope that the recognition criteria will be met later in the financial year\nis not justified.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Intangible assets",
+            "page_number": 15,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Pensions  \nB9 Pension cost for an interim period is calculated on a year-to-date basis by using the actuarially determined\npension cost rate at the end of the prior financial year, adjusted for significant market fluctuations since that\ntime and for significant one-off events, such as plan amendments, curtailments and settlements.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Pensions",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Vacations, holidays, and other short-term compensated absences  \nB10 Accumulating paid absences are those that are carried forward and can be used in future periods if the\ncurrent period\u2019s entitlement is not used in full. AASB 119 _Employee Benefits requires that an entity_\nmeasure the expected cost of and obligation for accumulating paid absences at the amount the entity expects\nto pay as a result of the unused entitlement that has accumulated at the end of the reporting period. That\nprinciple is also applied at the end of interim financial reporting periods. Conversely, an entity recognises\nno expense or liability for non-accumulating paid absences at the end of an interim reporting period, just as\nit recognises none at the end of an annual reporting period.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Vacations, holidays, and other short-term compensated absences",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Other planned but irregularly occurring costs  \nB11 An entity\u2019s budget may include certain costs expected to be incurred irregularly during the financial year,\nsuch as charitable contributions and employee training costs. Those costs generally are discretionary even\nthough they are planned and tend to recur from year to year. Recognising an obligation at the end of an\ninterim financial reporting period for such costs that have not yet been incurred generally is not consistent\nwith the definition of a liability.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Other planned but irregularly occurring costs",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Measuring interim income tax expense  \nB12 Interim period income tax expense is accrued using the tax rate that would be applicable to expected total\nannual earnings, that is, the estimated average annual effective income tax rate applied to the pre-tax\nincome of the interim period.  \nB13 This is consistent with the basic concept set out in paragraph 28 that the same accounting recognition and\nmeasurement principles shall be applied in an interim financial report as are applied in annual financial\nstatements. Income taxes are assessed on an annual basis. Interim period income tax expense is calculated\nby applying to an interim period\u2019s pre-tax income the tax rate that would be applicable to expected total\nannual earnings, that is, the estimated average annual effective income tax rate. That estimated average\nannual rate would reflect a blend of the progressive tax rate structure expected to be applicable to the full\nyear\u2019s earnings including enacted or substantively enacted changes in the income tax rates scheduled to take\neffect later in the financial year. AASB 112 _Income Taxes provides guidance on substantively enacted_\nchanges in tax rates. The estimated average annual income tax rate would be re-estimated on a year-to-date\nbasis, consistent with paragraph 28 of the Standard. Paragraph 16A requires disclosure of a significant\nchange in estimate.  \nB14 To the extent practicable, a separate estimated average annual effective income tax rate is determined for\neach taxing jurisdiction and applied individually to the interim period pre-tax income of each jurisdiction.\nSimilarly, if different income tax rates apply to different categories of income (such as capital gains or\nincome earned in particular industries), to the extent practicable a separate rate is applied to each individual\ncategory of interim period pre-tax income. While that degree of precision is desirable, it may not be\nachievable in all cases, and a weighted average of rates across jurisdictions or across categories of income is\nused if it is a reasonable approximation of the effect of using more specific rates.  \nB15 To illustrate the application of the foregoing principle, an entity reporting quarterly expects to earn 10,000\npre-tax each quarter and operates in a jurisdiction with a tax rate of 20 per cent on the first 20,000 of annual\nearnings and 30 per cent on all additional earnings. Actual earnings match expectations. The following table\nshows the amount of income tax expense that is reported in each quarter:  \n**1[st]**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Measuring interim income tax expense",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**2[nd]**  \n### Quarter  \n**3[rd]**  \n### Quarter  \n**4[th]**  \n### Quarter",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Measuring interim income tax expense",
+            "Header 3": "Quarter",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Annual  \n**Tax expense** 2,500 2,500 2,500 2,500 10,000  \n10,000 of tax is expected to be payable for the full year on 40,000 of pre-tax income.  \n-----  B16 As another illustration, an entity reports quarterly, earns 15,000 pre-tax profit in the first quarter but expects\nto incur losses of 5,000 in each of the three remaining quarters (thus having zero income for the year), and\noperates in a jurisdiction in which its estimated average annual income tax rate is expected to be 20 per\ncent. The following table shows the amount of income tax expense that is reported in each quarter:  \n**1[st]**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Measuring interim income tax expense",
+            "Header 3": "Annual",
+            "page_number": 16,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**2[nd]**  \n### Quarter  \n**3[rd]**  \n### Quarter  \n**4[th]**  \n### Quarter",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Measuring interim income tax expense",
+            "Header 3": "Quarter",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Annual  \n**Tax expense** 3,000 (1,000) (1,000) (1,000) 0",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Measuring interim income tax expense",
+            "Header 3": "Annual",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Difference in financial reporting year and tax year  \nB17 If the financial reporting year and the income tax year differ, income tax expense for the interim periods of\nthat financial reporting year is measured using separate weighted average estimated effective tax rates for\neach of the income tax years applied to the portion of pre-tax income earned in each of those income tax\nyears.  \nB18 To illustrate, an entity\u2019s financial reporting year ends 30 June and it reports quarterly. Its taxable year ends\n31 December. For the financial year that begins 1 July, Year 1 and ends 30 June, Year 2, the entity earns\n10,000 pre-tax each quarter. The estimated average annual income tax rate is 30 per cent in Year 1 and 40\nper cent in Year 2.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**ending 30**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Quarter",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Sept",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Sept",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**ending 31**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Quarter",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Dec",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Dec",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**ending 31**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Quarter",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Mar",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Mar",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**ending 30**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Quarter",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### June",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "June",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Year ending  \n**30 June**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Year ending",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Year 1** **Year 1** **Year 2** **Year 2** **Year 2  \n**Tax expense** 3,000 3,000 4,000 4,000 14,000",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Difference in financial reporting year and tax year",
+            "Header 3": "Year 1** **Year 1** **Year 2** **Year 2** **Year 2",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Tax credits  \nB19 Some tax jurisdictions give taxpayers credits against the tax payable based on amounts of capital\nexpenditures, exports, research and development expenditures, or other bases. Anticipated tax benefits of\nthis type for the full year are generally reflected in computing the estimated annual effective income tax\nrate, because those credits are granted and calculated on an annual basis under most tax laws and\nregulations. On the other hand, tax benefits that relate to a one-off event are recognised in computing\nincome tax expense in that interim period, in the same way that special tax rates applicable to particular\ncategories of income are not blended into a single effective annual tax rate. Moreover, in some jurisdictions\ntax benefits or credits, including those related to capital expenditures and levels of exports, while reported\non the income tax return, are more similar to a government grant and are recognised in the interim period in\nwhich they arise.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tax credits",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Tax loss and tax credit carrybacks and carryforwards  \nB20 The benefits of a tax loss carryback are reflected in the interim period in which the related tax loss occurs.\nAASB 112 provides that \u2018the benefit relating to a tax loss that can be carried back to recover current tax of a\nprevious period shall be recognised as an asset\u2019. A corresponding reduction of tax expense or increase of tax\nincome is also recognised.  \nB21 AASB 112 provides that \u2018a deferred tax asset shall be recognised for the carryforward of unused tax losses\nand unused tax credits to the extent that it is probable that future taxable profit will be available against\nwhich the unused tax losses and unused tax credits can be utilised\u2019. AASB 112 provides criteria for\nassessing the probability of taxable profit against which the unused tax losses and credits can be utilised.\nThose criteria are applied at the end of each interim period and, if they are met, the effect of the tax loss\ncarryforward is reflected in the computation of the estimated average annual effective income tax rate.  \n-----  B22 To illustrate, an entity that reports quarterly has an operating loss carryforward of 10,000 for income tax\npurposes at the start of the current financial year for which a deferred tax asset has not been recognised. The\nentity earns 10,000 in the first quarter of the current year and expects to earn 10,000 in each of the three\nremaining quarters. Excluding the carryforward, the estimated average annual income tax rate is expected to\nbe 40 per cent. Tax expense is as follows:  \n**1[st]**",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tax loss and tax credit carrybacks and carryforwards",
+            "page_number": 17,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Quarter  \n**2[nd]**  \n### Quarter  \n**3[rd]**  \n### Quarter  \n**4[th]**  \n### Quarter",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tax loss and tax credit carrybacks and carryforwards",
+            "Header 3": "Quarter",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "### Annual  \n**Tax expense** 3,000 3,000 3,000 3,000 12,000",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Tax loss and tax credit carrybacks and carryforwards",
+            "Header 3": "Annual",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Contractual or anticipated purchase price changes  \nB23 Volume rebates or discounts and other contractual changes in the prices of raw materials, labour, or other\npurchased goods and services are anticipated in interim periods, by both the payer and the recipient, if it is\nprobable that they have been earned or will take effect. Thus, contractual rebates and discounts are\nanticipated but discretionary rebates and discounts are not anticipated because the resulting asset or liability\nwould not satisfy the conditions in the Framework[4] that an asset must be a resource controlled by the entity\nas a result of a past event and that a liability must be a present obligation whose settlement is expected to\nresult in an outflow of resources.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Contractual or anticipated purchase price changes",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Depreciation and amortisation  \nB24 Depreciation and amortisation for an interim period is based only on assets owned during that interim\nperiod. It does not take into account asset acquisitions or dispositions planned for later in the financial year.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Depreciation and amortisation",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Inventories  \nB25 Inventories are measured for interim financial reporting by the same principles as at financial year-end.\nAASB 102 _Inventories establishes standards for recognising and measuring inventories. Inventories pose_\nparticular problems at the end of any financial reporting period because of the need to determine inventory\nquantities, costs, and net realisable values. Nonetheless, the same measurement principles are applied for\ninterim inventories. To save cost and time, entities often use estimates to measure inventories at interim\ndates to a greater extent than at the end of annual reporting periods. Following are examples of how to apply\nthe net realisable value test at an interim date and how to treat manufacturing variances at interim dates.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Inventories",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Net realisable value of inventories  \nB26 The net realisable value of inventories is determined by reference to selling prices and related costs to\ncomplete and dispose at interim dates. An entity will reverse a write-down to net realisable value in a\nsubsequent interim period only if it would be appropriate to do so at the end of the financial year.  \nB27 [Deleted]",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Net realisable value of inventories",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Interim period manufacturing cost variances  \nB28 Price, efficiency, spending, and volume variances of a manufacturing entity are recognised in income at\ninterim reporting dates to the same extent that those variances are recognised in income at financial yearend. Deferral of variances that are expected to be absorbed by year-end is not appropriate because it could\nresult in reporting inventory at the interim date at more or less than its portion of the actual cost of\nmanufacture.  \n4 The reference to the Framework is to the _Framework for the Preparation and Presentation of Financial Statements adopted by the_  \nAASB in 2004.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Interim period manufacturing cost variances",
+            "page_number": 18,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Foreign currency translation gains and losses  \nB29 Foreign currency translation gains and losses are measured for interim financial reporting by the same\nprinciples as at financial year-end.  \nB30 AASB 121 _The Effects of Changes in Foreign Exchange Rates specifies how to translate the financial_\nstatements for foreign operations into the presentation currency, including guidelines for using average or\nclosing foreign exchange rates and guidelines for recognising the resulting adjustments in profit or loss, or\nin other comprehensive income. Consistently with AASB 121, the actual average and closing rates for the\ninterim period are used. Entities do not anticipate some future changes in foreign exchange rates in the\nremainder of the current financial year in translating foreign operations at an interim date.  \nB31 If AASB 121 requires translation adjustments to be recognised as income or expense in the period in which\nthey arise, that principle is applied during each interim period. Entities do not defer some foreign currency\ntranslation adjustments at an interim date if the adjustment is expected to reverse before the end of the\nfinancial year.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Foreign currency translation gains and losses",
+            "page_number": 19,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Interim financial reporting in hyperinflationary economies  \nB32 Interim financial reports in hyperinflationary economies are prepared by the same principles as at financial\nyear-end.  \nB33 AASB 129 Financial Reporting in Hyperinflationary Economies requires that the financial statements of an\nentity that reports in the currency of a hyperinflationary economy be stated in terms of the measuring unit\ncurrent at the end of the reporting period, and the gain or loss on the net monetary position is included in net\nincome. Also, comparative financial data reported for prior periods are restated to the current measuring\nunit.  \nB34 Entities follow those same principles at interim dates, thereby presenting all interim data in the measuring\nunit as of the end of the interim period, with the resulting gain or loss on the net monetary position included\nin the interim period\u2019s net income. Entities do not annualise the recognition of the gain or loss. Nor do they\nuse an estimated annual inflation rate in preparing an interim financial report in a hyperinflationary\neconomy.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Interim financial reporting in hyperinflationary economies",
+            "page_number": 19,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Impairment of assets  \nB35 AASB 136 Impairment of Assets requires that an impairment loss be recognised if the recoverable amount\nhas declined below carrying amount.  \nB36 This Standard requires that an entity apply the same impairment testing, recognition, and reversal criteria at\nan interim date as it would at the end of its financial year. That does not mean, however, that an entity must\nnecessarily make a detailed impairment calculation at the end of each interim period. Rather, an entity will\nreview for indications of significant impairment since the end of the most recent financial year to determine\nwhether such a calculation is needed.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Impairment of assets",
+            "page_number": 19,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## C Examples of the use of estimates  \n_The following examples illustrate application of the principle in paragraph 41._  \nC1 **Inventories: Full stock-taking and valuation procedures may not be required for inventories at interim**\ndates, although it may be done at financial year-end. It may be sufficient to make estimates at interim dates\nbased on sales margins.  \nC2 **Classifications of current and non-current assets and liabilities: Entities may do a more thorough**\ninvestigation for classifying assets and liabilities as current or non-current at annual reporting dates than at\ninterim dates.  \nC3 **Provisions: Determination of the appropriate amount of a provision (such as a provision for warranties,**\nenvironmental costs, and site restoration costs) may be complex and often costly and time-consuming.\nEntities sometimes engage outside experts to assist in the annual calculations. Making similar estimates at\ninterim dates often entails updating of the prior annual provision rather than the engaging of outside experts\nto do a new calculation.  \nC4 **Pensions: AASB 119 Employee Benefits requires an entity to determine the present value of defined benefit**\nobligations and the fair value of plan assets at the end of each reporting period and encourages an entity to  \n-----  involve a professionally qualified actuary in measurement of the obligations. For interim reporting\npurposes, reliable measurement is often obtainable by extrapolation of the latest actuarial valuation.  \nC5 **Income taxes: Entities may calculate income tax expense and deferred income tax liability at annual dates**\nby applying the tax rate for each individual jurisdiction to measures of income for each jurisdiction.\nParagraph B14 acknowledges that while that degree of precision is desirable at interim reporting dates as\nwell, it may not be achievable in all cases, and a weighted average of rates across jurisdictions or across\ncategories of income is used if it is a reasonable approximation of the effect of using more specific rates.  \nC6 **Contingencies: The measurement of contingencies may involve the opinions of legal experts or other**\nadvisers. Formal reports from independent experts are sometimes obtained with respect to contingencies.\nSuch opinions about litigation, claims, assessments, and other contingencies and uncertainties may or may\nnot also be needed at interim dates.  \nC7 **Revaluations and fair value accounting: AASB 116** _Property, Plant and Equipment allows an entity to_\nchoose as its accounting policy the revaluation model whereby items of property, plant and equipment are\nrevalued to fair value. AASB 16 _Leases allows a lessee to measure right-of-use assets applying the_\nrevaluation model in AASB 116 if those right-of-use assets relate to a class of property, plant and\nequipment to which the lessee applies the revaluation model in AASB 116. Similarly, AASB 140\n_Investment Property requires an entity to measure the fair value of investment property. For those_\nmeasurements, an entity may rely on professionally qualified valuers at annual reporting dates though not at\ninterim reporting dates.  \nC8 **Intercompany reconciliations: Some intercompany balances that are reconciled on a detailed level in**\npreparing consolidated financial statements at financial year-end might be reconciled at a less detailed level\nin preparing consolidated financial statements at an interim date.  \nC9 **Specialised industries: Because of complexity, costliness, and time, interim period measurements in**\nspecialised industries might be less precise than at financial year-end. An example would be calculation of\ninsurance reserves by insurance companies.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "C Examples of the use of estimates",
+            "page_number": 19,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 134 Interim Financial Reporting (as amended)  \n_Compilation details are not part of AASB 134._  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023. It takes into account\namendments up to and including 15 December 2022 and was prepared on 6 February 2023 by the staff of the\nAustralian Accounting Standards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 134 (August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Compilation details Accounting Standard AASB 134 Interim Financial Reporting (as amended)",
+            "page_number": 21,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 134|7 Aug 2015|F2015L01557|31 Dec 2016|(beginning) 1 Jan 2018|see (a) below|\n|AASB 2015-8|22 Oct 2015|F2015L01840|31 Dec 2016|(beginning) 1 Jan 2017|see (b) below|\n|AASB 16|23 Feb 2016|F2016L00233|31 Dec 2018|(beginning) 1 Jan 2019|see (c) below|\n|AASB 2016-7|9 Dec 2016|F2017L00043|31 Dec 2016|(beginning) 1 Jan 2017|see (d) below|\n|AASB 2017-5|12 Dec 2017|F2018L00067|31 Dec 2017|(beginning) 1 Jan 2018|see (e) below|\n|AASB 2018-7|18 Dec 2018|F2019L00021|31 Dec 2019|(beginning) 1 Jan 2020|see (f) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (f) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (g) below|\n|AASB 2021-2|30 Mar 2021|F2021L00471|31 Dec 2022|(beginning) 1 Jan 2023|see (h) below|\n|AASB 2021-7|20 Dec 2021|F2021L01883|31 Dec 2021|(beginning) 1 Jan 2022|see (i) below|\n|AASB 2022-7|15 Dec 2022|F2023L00018|31 Dec 2022|(beginning) 1 Jan 2023|see (h) below|  \n(a) AASB 134 applies to annual periods beginning on or after 1 January 2018 (instead of 1 January 2017) as a result of amendments\nmade by AASB 2015-8 Amendments to Australian Accounting Standards \u2013 Effective Date of AASB 15. Entities may elect to apply\nthis Standard to annual periods beginning on or after 1 January 2014 but before 1 January 2018.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2017, provided that AASB 15 Revenue from\n_Contracts with Customers is also applied._  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 January 2019, provided that AASB 15 is also applied\nto the same period.  \n(d) AASB 2016-7 deferred the effective date of AASB 15 (and its consequential amendments in AASB 2014-5) for not-for-profit\nentities to annual reporting periods beginning on or after 1 January 2019, instead of 1 January 2018. However, earlier application of\nAASB 134 (2015) incorporating the text that relates to AASB 15 is permitted, provided that AASB 15 is also applied.  \n(e) Entities may elect to apply this Standard to annual periods beginning before 1 January 2018.  \n(f) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(g) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n(h) Entities may elect to apply this Standard to annual periods beginning before 1 January 2023.  \n(i) Entities may elect to apply this Standard to annual periods beginning before 1 January 2022.",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Table of Standards",
+            "page_number": 21,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Table of amendments to Standard  \n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|---|---|---|\n|AusCF1|added|AASB 2019-1 [page 22]|\n|5|amended amended|AASB 2021-2 [page 11] AASB 2022-7 [page 6]|\n|24|amended|AASB 2018-7 [page 8]|\n|31|amended|AASB 2019-1 [page 22]|\n|AusCF31|added|AASB 2019-1 [page 22]|  \n-----  |Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|---|---|---|\n|33|amended|AASB 2019-1 [page 22]|\n|AusCF33|added|AASB 2019-1 [page 22]|\n|46|amended|AASB 2015-8 [13]|\n|55|amended|AASB 2017-5 [26]|\n|Aus57.1|repealed|Legislation Act 2003, s. 48D|\n|58|added renumbered as 59|AASB 2018-7 [page 9] AASB 2021-7 [36]|\n|58|added|AASB 2019-1 [page 23]|\n|60|added|AASB 2021-2 [page 11]|\n|Appendix A|deleted|AASB 1060 [page 65]|",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Table of amendments to Standard",
+            "page_number": 21,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Table of amendments to illustrative examples  \n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|---|---|---|\n|B7 (and preceding heading)|amended|AASB 16 [page 53]|\n|B23|amended|AASB 2019-1 [page 23]|\n|C7|amended|AASB 16 [page 53]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Table of amendments to illustrative examples",
+            "page_number": 22,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 34 text  \n_Deleted IAS 34 text is not part of AASB 134._  \n47 IAS 1 (as revised in 2007) amended the terminology used throughout IFRSs. In addition it amended\nparagraphs 4, 5, 8, 11, 12 and 20, deleted paragraph 13 and added paragraphs 8A and 11A. An entity shall\napply those amendments for annual periods beginning on or after 1 January 2009. If an entity applies IAS 1\n(revised 2007) for an earlier period, the amendments shall be applied for that earlier period.  \n48 IFRS 3 (as revised in 2008) amended paragraph 16(i). An entity shall apply that amendment for annual\nperiods beginning on or after 1 July 2009. If an entity applies IFRS 3 (revised 2008) for an earlier period,\nthe amendment shall also be applied for that earlier period.  \n49 Paragraphs 15, 27, 35 and 36 were amended, paragraphs 15A\u201315C and 16A were added and paragraphs 16\u2013\n18 were deleted by _Improvements to IFRSs in May 2010. An entity shall apply those amendments for_\nannual periods beginning on or after 1 January 2011. Earlier application is permitted. If an entity applies the\namendments for an earlier period it shall disclose that fact.  \n50 IFRS 13, issued in May 2011, added paragraph 16A(j). An entity shall apply that amendment when it\napplies IFRS 13.  \n51 _Presentation of Items of Other Comprehensive Income (Amendments to IAS 1), issued in June 2011,_\namended paragraphs 8, 8A, 11A and 20. An entity shall apply those amendments when it applies IAS 1 as\namended in June 2011.  \n52 _Annual Improvements 2009\u20132011 Cycle, issued in May 2012, amended paragraph 5 as a consequential_\namendment derived from the amendment to IAS 1 _Presentation of Financial Statements. An entity shall_\napply that amendment retrospectively in accordance with IAS 8 _Accounting Policies, Changes in_\n_Accounting Estimates and Errors for annual periods beginning on or after 1 January 2013. Earlier_\napplication is permitted. If an entity applies that amendment for an earlier period it shall disclose that fact.  \n53 _Annual Improvements 2009\u20132011 Cycle, issued in May 2012, amended paragraph 16A. An entity shall_\napply that amendment retrospectively in accordance with IAS 8 _Accounting Policies, Changes in_\n_Accounting Estimates and Errors for annual periods beginning on or after 1 January 2013. Earlier_\napplication is permitted. If an entity applies that amendment for an earlier period it shall disclose that fact.  \n54 _Investment Entities (Amendments to IFRS 10, IFRS 12 and IAS 27), issued in October 2012, amended_\nparagraph 16A. An entity shall apply that amendment for annual periods beginning on or after 1 January\n2014. Earlier application of Investment Entities is permitted. If an entity applies that amendment earlier it\nshall also apply all amendments included in Investment Entities at the same time.  \n-----  ",
+        "metadata": {
+            "Header 1": "Interim Financial Reporting",
+            "Header 2": "Deleted IAS 34 text",
+            "page_number": 23,
+            "file_name": "AASB134 Interim Financial Reporting"
+        }
+    }
+]

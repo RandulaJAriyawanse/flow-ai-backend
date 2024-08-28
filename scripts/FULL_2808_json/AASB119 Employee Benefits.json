@@ -1,0 +1,820 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 119**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "# Employee Benefits  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023 but before 1 July 2026.\nEarlier application is permitted for annual periods beginning on or after 1 January 2014 but before 1 January 2023. It\nincorporates relevant amendments made up to and including 15 December 2022.  \nPrepared on 6 April 2023 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 5  \nCompilation date: 31 December 2022  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "page_number": 0,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2023  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The Managing Director, Australian Accounting Standards Board, PO Box\n204, Collins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce IFRS Foundation copyright material for commercial purposes outside Australia should be\naddressed to the IFRS Foundation at www.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 19  \n**ACCOUNTING STANDARD**\nAASB 119 EMPLOYEE BENEFITS\nOBJECTIVE\nSCOPE\nDEFINITIONS\nSHORT-TERM EMPLOYEE BENEFITS\nRecognition and measurement\n_from paragraph_  \nAll short-term employee benefits 11  \nShort-term paid absences 13  \nProfit-sharing and bonus plans 19\nDisclosure** **25  \n**POST-EMPLOYMENT BENEFITS: DISTINCTION BETWEEN DEFINED CONTRIBUTION**\nPLANS AND DEFINED BENEFIT PLANS** **26\nMulti-employer plans** **32\nDefined benefit plans that share risks between entities under common control** **40\nState plans** **43\nInsured benefits** **46\nPOST-EMPLOYMENT BENEFITS: DEFINED CONTRIBUTION PLANS** **50\nRecognition and measurement** **51\nDisclosure** **53\nPOST-EMPLOYMENT BENEFITS: DEFINED BENEFIT PLANS** **55\nRecognition and measurement** **56\nAccounting for the constructive obligation** **61\nStatement of financial position** **63  \n**Recognition and measurement: present value of defined benefit obligations and current service**\n**cost** **66**  \nActuarial valuation method 67  \nAttributing benefit to periods of service 70  \nActuarial assumptions 75  \nActuarial assumptions: mortality 81  \nActuarial assumptions: discount rate 83  \nActuarial assumptions: salaries, benefits and medical costs 87\nPast service cost and gains and losses on settlement** **99\nPast service cost 102  \nGains and losses on settlement 109\nRecognition and measurement: plan assets\nFair value of plan assets 113  \nReimbursements 116\nComponents of defined benefit cost** **120\nCurrent service cost 122A  \nNet interest on the net defined benefit liability (asset) 123  \nRemeasurements of the net defined benefit liability (asset) 127\nPresentation\nOffset 131  \n-----  Current/non-current distinction 133  \nComponents of defined benefit cost 134\nDisclosure** **135\nCharacteristics of defined benefit plans and risks associated with them 139  \nExplanation of amounts in the financial statements 140  \nAmount, timing and uncertainty of future cash flows 145  \nMulti-employer plans 148  \nDefined benefit plans that share risks between entities under common control 149  \nDisclosure requirements in other Australian Accounting Standards 151\nOTHER LONG-TERM EMPLOYEE BENEFITS** **153\nRecognition and measurement** **155\nDisclosure** **158\nTERMINATION BENEFITS** **159\nRecognition** **165\nMeasurement** **169\nDisclosure** **171\nTRANSITION AND EFFECTIVE DATE** **172  \n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus177.2  \n**APPENDICES**\n**A Application guidance**\n**C Australian simplified disclosures for Tier 2 entities**\n**COMPILATION DETAILS**\nDELETED IAS 19 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IAS 19\nAustralian Accounting Standard AASB 119 _Employee Benefits (as amended) is set out in paragraphs 1 \u2013 179 and_\nAppendices A and C. All the paragraphs have equal authority. Paragraphs in **bold type state the main principles.**\nAASB 119 is to be read in the context of other Australian Accounting Standards, including AASB 1048 Interpretation\n_of Standards, which identifies the Australian Accounting Interpretations, and AASB 1057 Application of Australian_\n_Accounting Standards. In the absence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting_\n_Estimates and Errors provides a basis for selecting and applying accounting policies._  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 19  \nAASB 119 _Employee Benefits as amended incorporates IAS 19_ _Employee Benefits as issued and amended by the_\nInternational Accounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IAS 19)\nare identified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying their\nlimited applicability.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Comparison with IAS 19",
+            "page_number": 4,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 119 also comply with IAS 19.  \nNot-for-profit entities\u2019 compliance with IAS 19 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIAS 19.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Tier 1",
+            "page_number": 4,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Tier 2",
+            "page_number": 4,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 119  \nThe Australian Accounting Standards Board made Accounting Standard AASB 119 _Employee Benefits under_\nsection 334 of the Corporations Act 2001 on 7 August 2015.  \nThis compiled version of AASB 119 applies to annual periods beginning on or after 1 January 2023 but before 1 July\n2026. It incorporates relevant amendments contained in other AASB Standards made by the AASB up to and\nincluding 15 December 2022 (see Compilation Details).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Accounting Standard AASB 119",
+            "page_number": 5,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 119 Employee Benefits  \nObjective  \n1 The objective of this Standard is to prescribe the accounting and disclosure for employee benefits. The\nStandard requires an entity to recognise:  \n(a) a liability when an employee has provided service in exchange for employee benefits to be paid in\nthe future; and  \n(b) an expense when the entity consumes the economic benefit arising from service provided by an\nemployee in exchange for employee benefits.  \nAusCF1 AusCF entities are:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nFor AusCF entities, the term \u2018reporting entity\u2019 is defined in AASB 1057 _Application of_\n_Australian Accounting Standards and Statement of Accounting Concepts SAC 1 Definition of the_\n_Reporting Entity also applies. For-profit entities applying the_ _Conceptual Framework for_\n_Financial Reporting are set out in paragraph Aus1.1 of the Conceptual Framework._",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Accounting Standard AASB 119 Employee Benefits",
+            "page_number": 5,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n**2** **This Standard shall be applied by an employer in accounting for all employee benefits, except those to**\n**which AASB 2 Share-based Payment applies.**  \n3 This Standard does not deal with reporting by employee benefit plans (see AASB 1056 _Superannuation_\n_Entities)._  \n4 The employee benefits to which this Standard applies include those provided:  \n(a) under formal plans or other formal agreements between an entity and individual employees,\ngroups of employees or their representatives;  \n(b) under legislative requirements, or through industry arrangements, whereby entities are required to\ncontribute to national, state, industry or other multi-employer plans; or  \n(c) by those informal practices that give rise to a constructive obligation. Informal practices give rise\nto a constructive obligation where the entity has no realistic alternative but to pay employee\nbenefits. An example of a constructive obligation is where a change in the entity\u2019s informal\npractices would cause unacceptable damage to its relationship with employees.  \n5 Employee benefits include:  \n(a) short-term employee benefits, such as the following, if expected to be settled wholly before\ntwelve months after the end of the annual reporting period in which the employees render the\nrelated services:  \n(i) wages, salaries and social security contributions;  \n(ii) paid annual leave and paid sick leave;  \n-----  (iii) profit-sharing and bonuses; and  \n(iv) non-monetary benefits (such as medical care, housing, cars and free or subsidised\ngoods or services) for current employees;  \n(b) post-employment benefits, such as the following:  \n(i) retirement benefits (eg pensions and lump sum payments on retirement); and  \n(ii) other post-employment benefits, such as post-employment life insurance and postemployment medical care;  \n(c) other long-term employee benefits, such as the following:  \n(i) long-term paid absences such as long-service leave or sabbatical leave;  \n(ii) jubilee or other long-service benefits; and  \n(iii) long-term disability benefits; and  \n(d) termination benefits.  \n6 Employee benefits include benefits provided either to employees or to their dependants or beneficiaries and\nmay be settled by payments (or the provision of goods or services) made either directly to the employees, to\ntheir spouses, children or other dependants or to others, such as insurance companies.  \n7 An employee may provide services to an entity on a full-time, part-time, permanent, casual or temporary\nbasis. For the purpose of this Standard, employees include directors and other management personnel.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Scope",
+            "page_number": 5,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**8** **The following terms are used in this Standard with the meanings specified:**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions",
+            "page_number": 6,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Definitions of employee benefits  \n**_Employee benefits are all forms of consideration given by an entity in exchange for service rendered_**\n**by employees or for the termination of employment.**  \n**_Short-term employee benefits are employee benefits (other than termination benefits) that are expected_**\n**to be settled wholly before twelve months after the end of the annual reporting period in which the**\n**employees render the related service.**  \n**_Post-employment benefits are employee benefits (other than termination benefits and short-term_**\n**employee benefits) that are payable after the completion of employment.**  \n**_Other long-term employee benefits are all employee benefits other than short-term employee benefits,_**\n**post-employment benefits and termination benefits.**  \n**_Termination benefits are employee benefits provided in exchange for the termination of an employee\u2019s_**\n**employment as a result of either:**  \n**(a)** **an entity\u2019s decision to terminate an employee\u2019s employment before the normal retirement**\n**date; or**  \n**(b)** **an employee\u2019s decision to accept an offer of benefits in exchange for the termination of**\n**employment.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions of employee benefits",
+            "page_number": 6,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Definitions relating to classification of plans  \n**_Post-employment benefit plans are formal or informal arrangements under which an entity provides_**\n**post-employment benefits for one or more employees.**  \n**_Defined contribution plans are post-employment benefit plans under which an entity pays fixed_**\n**contributions into a separate entity (a fund) and will have no legal or constructive obligation to pay**\n**further contributions if the fund does not hold sufficient assets to pay all employee benefits relating to**\n**employee service in the current and prior periods.**  \n**_Defined benefit plans are post-employment benefit plans other than defined contribution plans._**  \n**_Multi-employer plans are defined contribution plans (other than state plans) or defined benefit plans_**\n**(other than state plans) that:**  \n**(a)** **pool the assets contributed by various entities that are not under common control; and**  \n-----  **(b)** **use those assets to provide benefits to employees of more than one entity, on the basis that**\n**contribution and benefit levels are determined without regard to the identity of the entity**\n**that employs the employees.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions relating to classification of plans",
+            "page_number": 6,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Definitions relating to the net defined benefit liability (asset)  \n**The net defined benefit liability (asset) is the deficit or surplus, adjusted for any effect of limiting a net**\n**defined benefit asset to the asset ceiling.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions relating to the net defined benefit liability (asset)",
+            "page_number": 7,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### The deficit or surplus is:  \n**(a)** **the present value of the defined benefit obligation less**  \n**(b)** **the fair value of plan assets (if any).**  \n**The asset ceiling is the present value of any economic benefits available in the form of refunds from**\n**the plan or reductions in future contributions to the plan.**  \n**The** **_present value of a defined benefit obligation is the present value, without deducting any plan_**\n**assets, of expected future payments required to settle the obligation resulting from employee service**\n**in the current and prior periods.**  \n**_Plan assets comprise:_**  \n**(a)** **assets held by a long-term employee benefit fund; and**  \n**(b)** **qualifying insurance policies.**  \n**_Assets held by a long-term employee benefit fund are assets (other than non-transferable financial_**\n**instruments issued by the reporting entity) that:**  \n**(a)** **are held by an entity (a fund) that is legally separate from the reporting entity and exists**\n**solely to pay or fund employee benefits; and**  \n**(b)** **are available to be used only to pay or fund employee benefits, are not available to the**\n**reporting entity\u2019s own creditors (even in bankruptcy), and cannot be returned to the**\n**reporting entity, unless either:**  \n**(i)** **the remaining assets of the fund are sufficient to meet all the related employee**\n**benefit obligations of the plan or the reporting entity; or**  \n**(ii)** **the assets are returned to the reporting entity to reimburse it for employee**\n**benefits already paid.**  \n**A** **_qualifying insurance policy is an insurance policy[1, Aus1] issued by an insurer that is not a related_**\n**party (as defined in AASB 124 Related Party Disclosures) of the reporting entity, if the proceeds of the**\n**policy:**  \n**(a)** **can be used only to pay or fund employee benefits under a defined benefit plan; and**  \n**(b)** **are not available to the reporting entity\u2019s own creditors (even in bankruptcy) and cannot be**\n**paid to the reporting entity, unless either:**  \n**(i)** **the proceeds represent surplus assets that are not needed for the policy to meet all**\n**the related employee benefit obligations; or**  \n**(ii)** **the proceeds are returned to the reporting entity to reimburse it for employee**\n**benefits already paid.**  \n**_Fair value is the price that would be received to sell an asset or paid to transfer a liability in an_**\n**orderly transaction between market participants at the measurement date. (See AASB 13 Fair Value**\n**_Measurement.)_**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions relating to the net defined benefit liability (asset)",
+            "Header 3": "The deficit or surplus is:",
+            "page_number": 7,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Definitions relating to defined benefit cost  \n**_Service cost comprises:_**  \n**(a)** **_current service cost, which is the increase in the present value of the defined benefit_**\n**obligation resulting from employee service in the current period;**  \n1 A qualifying insurance policy is not necessarily an insurance contract, as defined in AASB 17 Insurance Contracts.  \nAus1 For public sector entities, a qualifying insurance policy is not necessarily an insurance contract, as defined in AASB 4 Insurance\n_Contracts._  \n-----  **(b)** **_past service cost, which is the change in the present value of the defined benefit obligation_**\n**for employee service in prior periods, resulting from a plan amendment (the introduction or**\n**withdrawal of, or changes to, a defined benefit plan) or a curtailment (a significant**\n**reduction by the entity in the number of employees covered by a plan); and**  \n**(c)** **any gain or loss on settlement.**  \n**_Net interest on the net defined benefit liability (asset) is the change during the period in the net defined_**\n**benefit liability (asset) that arises from the passage of time.**  \n**_Remeasurements of the net defined benefit liability (asset) comprise:_**  \n**(a)** **actuarial gains and losses;**  \n**(b)** **the return on plan assets, excluding amounts included in net interest on the net defined**\n**benefit liability (asset); and**  \n**(c)** **any change in the effect of the asset ceiling, excluding amounts included in net interest on**\n**the net defined benefit liability (asset).**  \n**_Actuarial gains and losses are changes in the present value of the defined benefit obligation resulting_**\n**from:**  \n**(a)** **experience adjustments (the effects of differences between the previous actuarial**\n**assumptions and what has actually occurred); and**  \n**(b)** **the effects of changes in actuarial assumptions.**  \n**The** **_return on plan assets is interest, dividends and other income derived from the plan assets,_**\n**together with realised and unrealised gains or losses on the plan assets, less:**  \n**(a)** **any costs of managing plan assets; and**  \n**(b)** **any tax payable by the plan itself, other than tax included in the actuarial assumptions used**\n**to measure the present value of the defined benefit obligation.**  \n**A settlement is a transaction that eliminates all further legal or constructive obligations for part or all**\n**of the benefits provided under a defined benefit plan, other than a payment of benefits to, or on**\n**behalf of, employees that is set out in the terms of the plan and included in the actuarial assumptions.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Definitions relating to defined benefit cost",
+            "page_number": 7,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Short-term employee benefits  \n9 Short-term employee benefits include items such as the following, if expected to be settled wholly before\ntwelve months after the end of the annual reporting period in which the employees render the related\nservices:  \n(a) wages, salaries and social security contributions;  \n(b) paid annual leave and paid sick leave;  \n(c) profit-sharing and bonuses; and  \n(d) non-monetary benefits (such as medical care, housing, cars and free or subsidised goods or\nservices) for current employees.  \n10 An entity need not reclassify a short-term employee benefit if the entity\u2019s expectations of the timing of\nsettlement change temporarily. However, if the characteristics of the benefit change (such as a change from\na non-accumulating benefit to an accumulating benefit) or if a change in expectations of the timing of\nsettlement is not temporary, then the entity considers whether the benefit still meets the definition of shortterm employee benefits.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Short-term employee benefits",
+            "page_number": 8,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement  \n### All short-term employee benefits  \n**11** **When an employee has rendered service to an entity during an accounting period, the entity shall**\n**recognise the undiscounted amount of short-term employee benefits expected to be paid in exchange**\n**for that service:**  \n**(a)** **as a liability (accrued expense), after deducting any amount already paid. If the amount**\n**already paid exceeds the undiscounted amount of the benefits, an entity shall recognise that**  \n-----  **excess as an asset (prepaid expense) to the extent that the prepayment will lead to, for**\n**example, a reduction in future payments or a cash refund.**  \n**(b)** **as an expense, unless another Australian Accounting Standard requires or permits the**\n**inclusion of the benefits in the cost of an asset (see, for example, AASB 102 Inventories and**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "All short-term employee benefits",
+            "page_number": 8,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### AASB 116 Property, Plant and Equipment).  \n**12** **Paragraphs 13, 16 and 19 explain how an entity shall apply paragraph 11 to short-term employee**\n**benefits in the form of paid absences and profit-sharing and bonus plans.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "AASB 116 Property, Plant and Equipment).",
+            "page_number": 9,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Short-term paid absences  \n**13** **An entity shall recognise the expected cost of short-term employee benefits in the form of paid**\n**absences under paragraph 11 as follows:**  \n**(a)** **in the case of accumulating paid absences, when the employees render service that increases**\n**their entitlement to future paid absences.**  \n**(b)** **in the case of non-accumulating paid absences, when the absences occur.**  \n14 An entity may pay employees for absence for various reasons including holidays, sickness and short-term\ndisability, maternity or paternity, jury service and military service. Entitlement to paid absences falls into\ntwo categories:  \n(a) accumulating; and  \n(b) non-accumulating.  \n15 Accumulating paid absences are those that are carried forward and can be used in future periods if the\ncurrent period\u2019s entitlement is not used in full. Accumulating paid absences may be either vesting (in other\nwords, employees are entitled to a cash payment for unused entitlement on leaving the entity) or nonvesting (when employees are not entitled to a cash payment for unused entitlement on leaving). An\nobligation arises as employees render service that increases their entitlement to future paid absences. The\nobligation exists, and is recognised, even if the paid absences are non-vesting, although the possibility that\nemployees may leave before they use an accumulated non-vesting entitlement affects the measurement of\nthat obligation.  \n**16** **An entity shall measure the expected cost of accumulating paid absences as the additional amount**\n**that the entity expects to pay as a result of the unused entitlement that has accumulated at the end of**\n**the reporting period.**  \n17 The method specified in the previous paragraph measures the obligation at the amount of the additional\npayments that are expected to arise solely from the fact that the benefit accumulates. In many cases, an\nentity may not need to make detailed computations to estimate that there is no material obligation for\nunused paid absences. For example, a sick leave obligation is likely to be material only if there is a formal\nor informal understanding that unused paid sick leave may be taken as paid annual leave.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "Short-term paid absences",
+            "page_number": 9,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraphs 16 and 17\nAn entity has 100 employees, who are each entitled to five working days of paid sick leave for each year.\nUnused sick leave may be carried forward for one calendar year. Sick leave is taken first out of the\ncurrent year\u2019s entitlement and then out of any balance brought forward from the previous year (a LIFO\nbasis). At 31 December 20X1 the average unused entitlement is two days per employee. The entity\nexpects, on the basis of experience that is expected to continue, that 92 employees will take no more than\nfive days of paid sick leave in 20X2 and that the remaining eight employees will take an average of six\nand a half days each.  \n_The entity expects that it will pay an additional twelve days of sick pay as a result of the unused_\n_entitlement that has accumulated at 31 December 20X1 (one and a half days each, for eight employees)._\n_Therefore, the entity recognises a liability equal to twelve days of sick pay._  \n18 Non-accumulating paid absences do not carry forward: they lapse if the current period\u2019s entitlement is not\nused in full and do not entitle employees to a cash payment for unused entitlement on leaving the entity.\nThis is commonly the case for sick pay (to the extent that unused past entitlement does not increase future\nentitlement), maternity or paternity leave and paid absences for jury service or military service. An entity\nrecognises no liability or expense until the time of the absence, because employee service does not increase\nthe amount of the benefit.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "Example illustrating paragraphs 16 and 17",
+            "page_number": 9,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Profit-sharing and bonus plans  \n**19** **An entity shall recognise the expected cost of profit-sharing and bonus payments under paragraph 11**\n**when, and only when:**  \n**(a)** **the entity has a present legal or constructive obligation to make such payments as a result of**\n**past events; and**  \n**(b)** **a reliable estimate of the obligation can be made.**  \n**A present obligation exists when, and only when, the entity has no realistic alternative but to make**\n**the payments.**  \n20 Under some profit-sharing plans, employees receive a share of the profit only if they remain with the entity\nfor a specified period. Such plans create a constructive obligation as employees render service that increases\nthe amount to be paid if they remain in service until the end of the specified period. The measurement of\nsuch constructive obligations reflects the possibility that some employees may leave without receiving\nprofit-sharing payments.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "Profit-sharing and bonus plans",
+            "page_number": 10,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraph 20\nA profit-sharing plan requires an entity to pay a specified proportion of its profit for the year to\nemployees who serve throughout the year. If no employees leave during the year, the total profit-sharing\npayments for the year will be 3 per cent of profit. The entity estimates that staff turnover will reduce the\npayments to 2.5 per cent of profit.  \n_The entity recognises a liability and an expense of 2.5 per cent of profit._  \n21 An entity may have no legal obligation to pay a bonus. Nevertheless, in some cases, an entity has a practice\nof paying bonuses. In such cases, the entity has a constructive obligation because the entity has no realistic\nalternative but to pay the bonus. The measurement of the constructive obligation reflects the possibility that\nsome employees may leave without receiving a bonus.  \n22 An entity can make a reliable estimate of its legal or constructive obligation under a profit-sharing or bonus\nplan when, and only when:  \n(a) the formal terms of the plan contain a formula for determining the amount of the benefit;  \n(b) the entity determines the amounts to be paid before the financial statements are authorised for\nissue; or  \n(c) past practice gives clear evidence of the amount of the entity\u2019s constructive obligation.  \n23 An obligation under profit-sharing and bonus plans results from employee service and not from a\ntransaction with the entity\u2019s owners. Therefore, an entity recognises the cost of profit-sharing and bonus\nplans not as a distribution of profit but as an expense.  \n24 If profit-sharing and bonus payments are not expected to be settled wholly before twelve months after the\nend of the annual reporting period in which the employees render the related service, those payments are\nother long-term employee benefits (see paragraphs 153\u2013158).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "Example illustrating paragraph 20",
+            "page_number": 10,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n25 Although this Standard does not require specific disclosures about short-term employee benefits, other\nAustralian Accounting Standards may require disclosures. For example, AASB 124 requires disclosures\nabout employee benefits for key management personnel. AASB 101 Presentation of Financial Statements\nrequires disclosure of employee benefits expense.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "page_number": 10,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Post-employment benefits: distinction between defined contribution plans and defined benefit plans  \n26 Post-employment benefits include items such as the following:  \n(a) retirement benefits (eg pensions and lump sum payments on retirement); and  \n-----  (b) other post-employment benefits, such as post-employment life insurance and post-employment\nmedical care.  \nArrangements whereby an entity provides post-employment benefits are post-employment benefit plans. An\nentity applies this Standard to all such arrangements whether or not they involve the establishment of a\nseparate entity to receive contributions and to pay benefits.  \n27 Post-employment benefit plans are classified as either defined contribution plans or defined benefit plans,\ndepending on the economic substance of the plan as derived from its principal terms and conditions.  \n28 Under defined contribution plans the entity\u2019s legal or constructive obligation is limited to the amount that it\nagrees to contribute to the fund. Thus, the amount of the post-employment benefits received by the\nemployee is determined by the amount of contributions paid by an entity (and perhaps also the employee) to\na post-employment benefit plan or to an insurance company, together with investment returns arising from\nthe contributions. In consequence, actuarial risk (that benefits will be less than expected) and investment\nrisk (that assets invested will be insufficient to meet expected benefits) fall, in substance, on the employee.  \n29 Examples of cases where an entity\u2019s obligation is not limited to the amount that it agrees to contribute to the\nfund are when the entity has a legal or constructive obligation through:  \n(a) a plan benefit formula that is not linked solely to the amount of contributions and requires the\nentity to provide further contributions if assets are insufficient to meet the benefits in the plan\nbenefit formula;  \n(b) a guarantee, either indirectly through a plan or directly, of a specified return on contributions; or  \n(c) those informal practices that give rise to a constructive obligation. For example, a constructive\nobligation may arise where an entity has a history of increasing benefits for former employees to\nkeep pace with inflation even where there is no legal obligation to do so.  \n30 Under defined benefit plans:  \n(a) the entity\u2019s obligation is to provide the agreed benefits to current and former employees; and  \n(b) actuarial risk (that benefits will cost more than expected) and investment risk fall, in substance,\non the entity. If actuarial or investment experience are worse than expected, the entity\u2019s\nobligation may be increased.  \n31 Paragraphs 32\u201349 explain the distinction between defined contribution plans and defined benefit plans in\nthe context of multi-employer plans, defined benefit plans that share risks between entities under common\ncontrol, state plans and insured benefits.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Post-employment benefits: distinction between defined contribution plans and defined benefit plans",
+            "page_number": 10,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Multi-employer plans  \n**32** **An entity shall classify a multi-employer plan as a defined contribution plan or a defined benefit plan**\n**under the terms of the plan (including any constructive obligation that goes beyond the formal**\n**terms).**  \n**33** **If an entity participates in a multi-employer defined benefit plan, unless paragraph 34 applies, it**\n**shall:**  \n**(a)** **account for its proportionate share of the defined benefit obligation, plan assets and cost**\n**associated with the plan in the same way as for any other defined benefit plan; and**  \n**(b)** **disclose the information required by paragraphs 135\u2013148 (excluding paragraph 148(d)).**  \n**34** **When sufficient information is not available to use defined benefit accounting for a multi-employer**\n**defined benefit plan, an entity shall:**  \n**(a)** **account for the plan in accordance with paragraphs 51 and 52 as if it were a defined**\n**contribution plan; and**  \n**(b)** **disclose the information required by paragraph 148.**  \n35 One example of a multi-employer defined benefit plan is one where:  \n(a) the plan is financed on a pay-as-you-go basis: contributions are set at a level that is expected to be\nsufficient to pay the benefits falling due in the same period; and future benefits earned during the\ncurrent period will be paid out of future contributions; and  \n(b) employees\u2019 benefits are determined by the length of their service and the participating entities\nhave no realistic means of withdrawing from the plan without paying a contribution for the\nbenefits earned by employees up to the date of withdrawal. Such a plan creates actuarial risk for\nthe entity: if the ultimate cost of benefits already earned at the end of the reporting period is more  \n-----  than expected, the entity will have either to increase its contributions or to persuade employees to\naccept a reduction in benefits. Therefore, such a plan is a defined benefit plan.  \n36 Where sufficient information is available about a multi-employer defined benefit plan, an entity accounts\nfor its proportionate share of the defined benefit obligation, plan assets and post-employment cost\nassociated with the plan in the same way as for any other defined benefit plan. However, an entity may not\nbe able to identify its share of the underlying financial position and performance of the plan with sufficient\nreliability for accounting purposes. This may occur if:  \n(a) the plan exposes the participating entities to actuarial risks associated with the current and former\nemployees of other entities, with the result that there is no consistent and reliable basis for\nallocating the obligation, plan assets and cost to individual entities participating in the plan; or  \n(b) the entity does not have access to sufficient information about the plan to satisfy the requirements\nof this Standard.  \nIn those cases, an entity accounts for the plan as if it were a defined contribution plan and discloses the\ninformation required by paragraph 148.  \n37 There may be a contractual agreement between the multi-employer plan and its participants that determines\nhow the surplus in the plan will be distributed to the participants (or the deficit funded). A participant in a\nmulti-employer plan with such an agreement that accounts for the plan as a defined contribution plan in\naccordance with paragraph 34 shall recognise the asset or liability that arises from the contractual\nagreement and the resulting income or expense in profit or loss.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Multi-employer plans",
+            "page_number": 11,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraph 37\nAn entity participates in a multi-employer defined benefit plan that does not prepare plan valuations on\nan AASB 119 basis. It therefore accounts for the plan as if it were a defined contribution plan. A nonAASB 119 funding valuation shows a deficit of CU100 million[(a)] in the plan. The plan has agreed under\ncontract a schedule of contributions with the participating employers in the plan that will eliminate the\ndeficit over the next five years. The entity\u2019s total contributions under the contract are CU8 million.  \n_The entity recognises a liability for the contributions adjusted for the time value of money and an equal_\n_expense in_ _profit or loss._  \n(a) In this Standard monetary amounts are denominated in \u2018currency units (CU)\u2019.  \n38 Multi-employer plans are distinct from group administration plans. A group administration plan is merely\nan aggregation of single employer plans combined to allow participating employers to pool their assets for\ninvestment purposes and reduce investment management and administration costs, but the claims of\ndifferent employers are segregated for the sole benefit of their own employees. Group administration plans\npose no particular accounting problems because information is readily available to treat them in the same\nway as any other single employer plan and because such plans do not expose the participating entities to\nactuarial risks associated with the current and former employees of other entities. The definitions in this\nStandard require an entity to classify a group administration plan as a defined contribution plan or a defined\nbenefit plan in accordance with the terms of the plan (including any constructive obligation that goes\nbeyond the formal terms).  \n**39** **In determining when to recognise, and how to measure, a liability relating to the wind-up of a multi-**\n**employer defined benefit plan, or the entity\u2019s withdrawal from a multi-employer defined benefit plan,**\n**an entity shall apply AASB 137 Provisions, Contingent Liabilities and Contingent Assets.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Multi-employer plans",
+            "Header 3": "Example illustrating paragraph 37",
+            "page_number": 12,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Defined benefit plans that share risks between entities under common control  \n40 Defined benefit plans that share risks between entities under common control, for example, a parent and its\nsubsidiaries, are not multi-employer plans.  \n41 An entity participating in such a plan shall obtain information about the plan as a whole measured in\naccordance with this Standard on the basis of assumptions that apply to the plan as a whole. If there is a\ncontractual agreement or stated policy for charging to individual group entities the net defined benefit cost\nfor the plan as a whole measured in accordance with this Standard, the entity shall, in its separate or\nindividual financial statements, recognise the net defined benefit cost so charged. If there is no such\nagreement or policy, the net defined benefit cost shall be recognised in the separate or individual financial  \n-----  statements of the group entity that is legally the sponsoring employer for the plan. The other group entities\nshall, in their separate or individual financial statements, recognise a cost equal to their contribution payable\nfor the period.  \n42 Participation in such a plan is a related party transaction for each individual group entity. An entity shall\ntherefore, in its separate or individual financial statements, disclose the information required by\nparagraph 149.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Defined benefit plans that share risks between entities under common control",
+            "page_number": 12,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## State plans  \n**43** **An entity shall account for a state plan in the same way as for a multi-employer plan (see**\n**paragraphs 32\u201339).**  \n44 State plans are established by legislation to cover all entities (or all entities in a particular category, for\nexample, a specific industry) and are operated by national or local government or by another body (for\nexample, an autonomous agency created specifically for this purpose) that is not subject to control or\ninfluence by the reporting entity. Some plans established by an entity provide both compulsory benefits, as\na substitute for benefits that would otherwise be covered under a state plan, and additional voluntary\nbenefits. Such plans are not state plans.  \n45 State plans are characterised as defined benefit or defined contribution, depending on the entity\u2019s obligation\nunder the plan. Many state plans are funded on a pay-as-you-go basis: contributions are set at a level that is\nexpected to be sufficient to pay the required benefits falling due in the same period; future benefits earned\nduring the current period will be paid out of future contributions. Nevertheless, in most state plans the entity\nhas no legal or constructive obligation to pay those future benefits: its only obligation is to pay the\ncontributions as they fall due and if the entity ceases to employ members of the state plan, it will have no\nobligation to pay the benefits earned by its own employees in previous years. For this reason, state plans are\nnormally defined contribution plans. However, when a state plan is a defined benefit plan an entity applies\nparagraphs 32\u201339.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "State plans",
+            "page_number": 13,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Insured benefits  \n**46** **An entity may pay insurance premiums to fund a post-employment benefit plan. The entity shall treat**\n**such a plan as a defined contribution plan unless the entity will have (either directly, or indirectly**\n**through the plan) a legal or constructive obligation either:**  \n**(a)** **to pay the employee benefits directly when they fall due; or**  \n**(b)** **to pay further amounts if the insurer does not pay all future employee benefits relating to**\n**employee service in the current and prior periods.**  \n**If the entity retains such a legal or constructive obligation, the entity shall treat the plan as a defined**\n**benefit plan.**  \n47 The benefits insured by an insurance policy need not have a direct or automatic relationship with the\nentity\u2019s obligation for employee benefits. Post-employment benefit plans involving insurance policies are\nsubject to the same distinction between accounting and funding as other funded plans.  \n48 Where an entity funds a post-employment benefit obligation by contributing to an insurance policy under\nwhich the entity (either directly, indirectly through the plan, through the mechanism for setting future\npremiums or through a related party relationship with the insurer) retains a legal or constructive obligation,\nthe payment of the premiums does not amount to a defined contribution arrangement. It follows that the\nentity:  \n(a) accounts for a qualifying insurance policy as a plan asset (see paragraph 8); and  \n(b) recognises other insurance policies as reimbursement rights (if the policies satisfy the criterion in\nparagraph 116).  \n49 Where an insurance policy is in the name of a specified plan participant or a group of plan participants and\nthe entity does not have any legal or constructive obligation to cover any loss on the policy, the entity has\nno obligation to pay benefits to the employees and the insurer has sole responsibility for paying the benefits.\nThe payment of fixed premiums under such contracts is, in substance, the settlement of the employee\nbenefit obligation, rather than an investment to meet the obligation. Consequently, the entity no longer has\nan asset or a liability. Therefore, an entity treats such payments as contributions to a defined contribution\nplan.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Insured benefits",
+            "page_number": 13,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Post-employment benefits: defined contribution plans  \n50 Accounting for defined contribution plans is straightforward because the reporting entity\u2019s obligation for\neach period is determined by the amounts to be contributed for that period. Consequently, no actuarial\nassumptions are required to measure the obligation or the expense and there is no possibility of any\nactuarial gain or loss. Moreover, the obligations are measured on an undiscounted basis, except where they\nare not expected to be settled wholly before twelve months after the end of the annual reporting period in\nwhich the employees render the related service.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Post-employment benefits: defined contribution plans",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement  \n**51** **When an employee has rendered service to an entity during a period, the entity shall recognise the**\n**contribution payable to a defined contribution plan in exchange for that service:**  \n**(a)** **as a liability (accrued expense), after deducting any contribution already paid. If the**\n**contribution already paid exceeds the contribution due for service before the end of the**\n**reporting period, an entity shall recognise that excess as an asset (prepaid expense) to the**\n**extent that the prepayment will lead to, for example, a reduction in future payments or a**\n**cash refund.**  \n**(b)** **as an expense, unless another Australian Accounting Standard requires or permits the**\n**inclusion of the contribution in the cost of an asset (see, for example, AASB 102 and**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### AASB 116).  \n**52** **When contributions to a defined contribution plan are not expected to be settled wholly before twelve**\n**months after the end of the annual reporting period in which the employees render the related**\n**service, they shall be discounted using the discount rate specified in paragraph 83.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "Header 3": "AASB 116).",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**53** **An entity shall disclose the amount recognised as an expense for defined contribution plans.**  \n54 Where required by AASB 124 an entity discloses information about contributions to defined contribution\nplans for key management personnel.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Post-employment benefits: defined benefit plans  \n55 Accounting for defined benefit plans is complex because actuarial assumptions are required to measure the\nobligation and the expense and there is a possibility of actuarial gains and losses. Moreover, the obligations\nare measured on a discounted basis because they may be settled many years after the employees render the\nrelated service.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Post-employment benefits: defined benefit plans",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement  \n56 Defined benefit plans may be unfunded, or they may be wholly or partly funded by contributions by an\nentity, and sometimes its employees, into an entity, or fund, that is legally separate from the reporting entity\nand from which the employee benefits are paid. The payment of funded benefits when they fall due depends\nnot only on the financial position and the investment performance of the fund but also on an entity\u2019s ability,\nand willingness, to make good any shortfall in the fund\u2019s assets. Therefore, the entity is, in substance,\nunderwriting the actuarial and investment risks associated with the plan. Consequently, the expense\nrecognised for a defined benefit plan is not necessarily the amount of the contribution due for the period.  \n57 Accounting by an entity for defined benefit plans involves the following steps:  \n(a) determining the deficit or surplus. This involves:  \n(i) using an actuarial technique, the projected unit credit method, to make a reliable\nestimate of the ultimate cost to the entity of the benefit that employees have earned in\nreturn for their service in the current and prior periods (see paragraphs 67\u201369). This\nrequires an entity to determine how much benefit is attributable to the current and prior\nperiods (see paragraphs 70\u201374) and to make estimates (actuarial assumptions) about\ndemographic variables (such as employee turnover and mortality) and financial\nvariables (such as future increases in salaries and medical costs) that will affect the cost\nof the benefit (see paragraphs 75\u201398).  \n-----  (ii) discounting that benefit in order to determine the present value of the defined benefit\nobligation and the current service cost (see paragraphs 67\u201369 and 83\u201386).  \n(iii) deducting the fair value of any plan assets (see paragraphs 113\u2013115) from the present\nvalue of the defined benefit obligation.  \n(b) determining the amount of the net defined benefit liability (asset) as the amount of the deficit or\nsurplus determined in (a), adjusted for any effect of limiting a net defined benefit asset to the\nasset ceiling (see paragraph 64).  \n(c) determining amounts to be recognised in profit or loss:  \n(i) current service cost (see paragraphs 70\u201374 and paragraph 122A).  \n(ii) any past service cost and gain or loss on settlement (see paragraphs 99\u2013112).  \n(iii) net interest on the net defined benefit liability (asset) (see paragraphs 123\u2013126).  \n(d) determining the remeasurements of the net defined benefit liability (asset), to be recognised in\nother comprehensive income, comprising:  \n(i) actuarial gains and losses (see paragraphs 128 and 129);  \n(ii) return on plan assets, excluding amounts included in net interest on the net defined\nbenefit liability (asset) (see paragraph 130); and  \n(iii) any change in the effect of the asset ceiling (see paragraph 64), excluding amounts\nincluded in net interest on the net defined benefit liability (asset).  \nWhere an entity has more than one defined benefit plan, the entity applies these procedures for\neach material plan separately.  \n**58** **An entity shall determine the net defined benefit liability (asset) with sufficient regularity that the**\n**amounts recognised in the financial statements do not differ materially from the amounts that would**\n**be determined at the end of the reporting period.**  \n59 This Standard encourages, but does not require, an entity to involve a qualified actuary in the measurement\nof all material post-employment benefit obligations. For practical reasons, an entity may request a qualified\nactuary to carry out a detailed valuation of the obligation before the end of the reporting period.\nNevertheless, the results of that valuation are updated for any material transactions and other material\nchanges in circumstances (including changes in market prices and interest rates) up to the end of the\nreporting period.  \n60 In some cases, estimates, averages and computational short cuts may provide a reliable approximation of\nthe detailed computations illustrated in this Standard.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "page_number": 14,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Accounting for the constructive obligation  \n**61** **An entity shall account not only for its legal obligation under the formal terms of a defined benefit**\n**plan, but also for any constructive obligation that arises from the entity\u2019s informal practices.**\n**Informal practices give rise to a constructive obligation where the entity has no realistic alternative**\n**but to pay employee benefits. An example of a constructive obligation is where a change in the**\n**entity\u2019s informal practices would cause unacceptable damage to its relationship with employees.**  \n62 The formal terms of a defined benefit plan may permit an entity to terminate its obligation under the plan.\nNevertheless, it is usually difficult for an entity to terminate its obligation under a plan (without payment) if\nemployees are to be retained. Therefore, in the absence of evidence to the contrary, accounting for postemployment benefits assumes that an entity that is currently promising such benefits will continue to do so\nover the remaining working lives of employees.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Accounting for the constructive obligation",
+            "page_number": 15,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Statement of financial position  \n**63** **An entity shall recognise the net defined benefit liability (asset) in the statement of financial position.**  \n**64** **When an entity has a surplus in a defined benefit plan, it shall measure the net defined benefit asset at**\n**the lower of:**  \n**(a)** **the surplus in the defined benefit plan; and**  \n**(b)** **the asset ceiling, determined using the discount rate specified in paragraph 83.**  \n65 A net defined benefit asset may arise where a defined benefit plan has been overfunded or where actuarial\ngains have arisen. An entity recognises a net defined benefit asset in such cases because:  \n-----  (a) the entity controls a resource, which is the ability to use the surplus to generate future benefits;  \n(b) that control is a result of past events (contributions paid by the entity and service rendered by the\nemployee); and  \n(c) future economic benefits are available to the entity in the form of a reduction in future\ncontributions or a cash refund, either directly to the entity or indirectly to another plan in deficit.\nThe asset ceiling is the present value of those future benefits.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Statement of financial position",
+            "page_number": 15,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement: present value of defined benefit obligations and current service cost  \n66 The ultimate cost of a defined benefit plan may be influenced by many variables, such as final salaries,\nemployee turnover and mortality, employee contributions and medical cost trends. The ultimate cost of the\nplan is uncertain and this uncertainty is likely to persist over a long period of time. In order to measure the\npresent value of the post-employment benefit obligations and the related current service cost, it is necessary:  \n(a) to apply an actuarial valuation method (see paragraphs 67\u201369);  \n(b) to attribute benefit to periods of service (see paragraphs 70\u201374); and  \n(c) to make actuarial assumptions (see paragraphs 75\u201398).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "page_number": 16,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Actuarial valuation method  \n**67** **An entity shall use the projected unit credit method to determine the present value of its defined**\n**benefit obligations and the related current service cost and, where applicable, past service cost.**  \n68 The projected unit credit method (sometimes known as the accrued benefit method pro-rated on service or\nas the benefit/years of service method) sees each period of service as giving rise to an additional unit of\nbenefit entitlement (see paragraphs 70\u201374) and measures each unit separately to build up the final\nobligation (see paragraphs 75\u201398).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Actuarial valuation method",
+            "page_number": 16,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraph 68\nA lump sum benefit is payable on termination of service and equal to 1 per cent of final salary for each\nyear of service. The salary in year 1 is CU10,000 and is assumed to increase at 7 per cent (compound)\neach year. The discount rate used is 10 per cent per year. The following table shows how the obligation\nbuilds up for an employee who is expected to leave at the end of year 5, assuming that there are no\nchanges in actuarial assumptions. For simplicity, this example ignores the additional adjustment needed\nto reflect the probability that the employee may leave the entity at an earlier or later date.  \n_Year_ _1_ _2_ _3_ _4_ _5_  \n_CU_ _CU_ _CU_ _CU_ _CU_  \n_Benefit attributed to:_  \n_\u2013 prior years_ _0_ _131_ _262_ _393_ _524_  \n_\u2013 current year_\n_(1% of final salary)_ _131_ _131_ _131_ _131_ _131_  \n_\u2013 current and prior years_ _131_ _262_ _393_ _524_ _655_  \n_Opening obligation_ \u2013 _89_ _196_ _324_ _476_  \n_Interest at 10%_ \u2013 _9_ _20_ _33_ _48_  \n_Current service cost_ _89_ _98_ _108_ _119_ _131_  \n_Closing obligation_ _89_ _196_ _324_ _476_ _655_  \n_Note:_  \n_1_ _The opening obligation is the present value of the benefit attributed to prior years._  \n_2_ _The current service cost is the present value of the benefit attributed to the current year._  \n_3_ _The closing obligation is the present value of the benefit attributed to current and prior years._  \n-----  69 An entity discounts the whole of a post-employment benefit obligation, even if part of the obligation is\nexpected to be settled before twelve months after the reporting period.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Example illustrating paragraph 68",
+            "page_number": 16,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Attributing benefit to periods of service  \n**70** **In determining the present value of its defined benefit obligations and the related current service cost**\n**and, where applicable, past service cost, an entity shall attribute benefit to periods of service under**\n**the plan\u2019s benefit formula. However, if an employee\u2019s service in later years will lead to a materially**\n**higher level of benefit than in earlier years, an entity shall attribute benefit on a straight-line basis**\n**from:**  \n**(a)** **the date when service by the employee first leads to benefits under the plan (whether or not**\n**the benefits are conditional on further service) until**  \n**(b)** **the date when further service by the employee will lead to no material amount of further**\n**benefits under the plan, other than from further salary increases.**  \n71 The projected unit credit method requires an entity to attribute benefit to the current period (in order to\ndetermine current service cost) and the current and prior periods (in order to determine the present value of\ndefined benefit obligations). An entity attributes benefit to periods in which the obligation to provide postemployment benefits arises. That obligation arises as employees render services in return for postemployment benefits that an entity expects to pay in future reporting periods. Actuarial techniques allow an\nentity to measure that obligation with sufficient reliability to justify recognition of a liability.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Attributing benefit to periods of service",
+            "page_number": 17,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Examples illustrating paragraph 71\n1 A defined benefit plan provides a lump sum benefit of CU100 payable on retirement for each year of  \nservice.  \n_A benefit of CU100 is attributed to each year. The current service cost is the present value of CU100._\n_The present value of the defined benefit obligation is the present value of CU100, multiplied by the_\n_number of years of service up to the end of the reporting period._  \n_If the benefit is payable immediately when the employee leaves the entity, the current service cost and_\n_the present value of the defined benefit obligation reflect the date at which the employee is expected to_\n_leave. Thus, because of the effect of discounting, they are less than the amounts that would be_\n_determined if the employee left at the end of the reporting period._  \n2 A plan provides a monthly pension of 0.2 per cent of final salary for each year of service. The pension  \nis payable from the age of 65.  \n_Benefit equal to the present value, at the expected retirement date, of a monthly pension of 0.2 per_\n_cent of the estimated final salary payable from the expected retirement date until the expected date of_\n_death is attributed to each year of service. The current service cost is the present value of that benefit._\n_The present value of the defined benefit obligation is the present value of monthly pension payments of_\n_0.2 per cent of final salary, multiplied by the number of years of service up to the end of the reporting_\n_period. The current service cost and the present value of the defined benefit obligation are discounted_\n_because pension payments begin at the age of 65._  \n72 Employee service gives rise to an obligation under a defined benefit plan even if the benefits are conditional\non future employment (in other words they are not vested). Employee service before the vesting date gives\nrise to a constructive obligation because, at the end of each successive reporting period, the amount of\nfuture service that an employee will have to render before becoming entitled to the benefit is reduced. In\nmeasuring its defined benefit obligation, an entity considers the probability that some employees may not\nsatisfy any vesting requirements. Similarly, although some post-employment benefits, for example, postemployment medical benefits, become payable only if a specified event occurs when an employee is no\nlonger employed, an obligation is created when the employee renders service that will provide entitlement\nto the benefit if the specified event occurs. The probability that the specified event will occur affects the\nmeasurement of the obligation, but does not determine whether the obligation exists.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Examples illustrating paragraph 71",
+            "page_number": 17,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Examples illustrating paragraph 72\n1 A plan pays a benefit of CU100 for each year of service. The benefits vest after ten years of service.  \n_A benefit of CU100 is attributed to each year. In each of the first ten years, the current service cost_\n_and the present value of the obligation reflect the probability that the employee may not complete ten_\n_years of service._  \n2 A plan pays a benefit of CU100 for each year of service, excluding service before the age of 25. The  \nbenefits vest immediately.  \n_No benefit is attributed to service before the age of 25 because service before that date does not lead_\n_to benefits (conditional or unconditional). A benefit of CU100 is attributed to each subsequent year._  \n73 The obligation increases until the date when further service by the employee will lead to no material amount\nof further benefits. Therefore, all benefit is attributed to periods ending on or before that date. Benefit is\nattributed to individual accounting periods under the plan\u2019s benefit formula. However, if an employee\u2019s\nservice in later years will lead to a materially higher level of benefit than in earlier years, an entity attributes\nbenefit on a straight-line basis until the date when further service by the employee will lead to no material\namount of further benefits. That is because the employee\u2019s service throughout the entire period will\nultimately lead to benefit at that higher level.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Examples illustrating paragraph 72",
+            "page_number": 18,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Examples illustrating paragraph 73\n1 A plan pays a lump sum benefit of CU1,000 that vests after ten years of service. The plan provides no  \nfurther benefit for subsequent service.  \n_A benefit of CU100 (CU1,000 divided by ten) is attributed to each of the first ten years._  \n_The current service cost in each of the first ten years reflects the probability that the employee may_\n_not complete ten years of service. No benefit is attributed to subsequent years._  \n2 A plan pays a lump sum retirement benefit of CU2,000 to all employees who are still employed at the  \nage of 55 after twenty years of service, or who are still employed at the age of 65, regardless of their\nlength of service.  \n_For employees who join before the age of 35, service first leads to benefits under the plan at the age_\n_of 35 (an employee could leave at the age of 30 and return at the age of 33, with no effect on the_\n_amount or timing of benefits). Those benefits are conditional on further service. Also, service beyond_\n_the age of 55 will lead to no material amount of further benefits. For these employees, the entity_\n_attributes benefit of CU100 (CU2,000 divided by twenty) to each year from the age of 35 to the age of_\n_55._  \n_For employees who join between the ages of 35 and 45, service beyond twenty years will lead to no_\n_material amount of further benefits. For these employees, the entity attributes benefit of 100 (2,000_\n_divided by twenty) to each of the first twenty years._  \n_For an employee who joins at the age of 55, service beyond ten years will lead to no material amount_\n_of further benefits. For this employee, the entity attributes benefit of CU200 (CU2,000 divided by ten)_\n_to each of the first ten years._  \n_For all employees, the current service cost and the present value of the obligation reflect the_\n_probability that the employee may not complete the necessary period of service._  \n3 A post-employment medical plan reimburses 40 per cent of an employee\u2019s post-employment medical  \ncosts if the employee leaves after more than ten and less than twenty years of service and 50 per cent\nof those costs if the employee leaves after twenty or more years of service.  \n_Under the plan\u2019s benefit formula, the entity attributes 4 per cent of the present value of the expected_\n_medical costs (40 per cent divided by ten) to each of the first ten years and 1 per cent (10 per cent_\n_divided by ten) to each of the second ten years. The current service cost in each year reflects the_\n_probability that the employee may not complete the necessary period of service to earn part or all of_\n_the benefits. For employees expected to leave within ten years, no benefit is attributed._  \n-----  4 A post-employment medical plan reimburses 10 per cent of an employee\u2019s post-employment medical  \ncosts if the employee leaves after more than ten and less than twenty years of service and 50 per cent\nof those costs if the employee leaves after twenty or more years of service.  \n_Service in later years will lead to a materially higher level of benefit than in earlier years. Therefore,_\n_for employees expected to leave after twenty or more years, the entity attributes benefit on a straight-_\n_line basis under paragraph 71. Service beyond twenty years will lead to no material amount of further_\n_benefits. Therefore, the benefit attributed to each of the first twenty years is 2.5 per cent of the present_\n_value of the expected medical costs (50 per cent divided by twenty)._  \n_For employees expected to leave between ten and twenty years, the benefit attributed to each of the_\n_first ten years is 1 per cent of the present value of the expected medical costs._  \n_For these employees, no benefit is attributed to service between the end of the tenth year and the_\n_estimated date of leaving._  \n_For employees expected to leave within ten years, no benefit is attributed._  \n74 Where the amount of a benefit is a constant proportion of final salary for each year of service, future salary\nincreases will affect the amount required to settle the obligation that exists for service before the end of the\nreporting period, but do not create an additional obligation. Therefore:  \n(a) for the purpose of paragraph 70(b), salary increases do not lead to further benefits, even though\nthe amount of the benefits is dependent on final salary; and  \n(b) the amount of benefit attributed to each period is a constant proportion of the salary to which the\nbenefit is linked.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Examples illustrating paragraph 73",
+            "page_number": 18,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraph 74\nEmployees are entitled to a benefit of 3 per cent of final salary for each year of service before the age of\n55.  \n_Benefit of 3 per cent of estimated final salary is attributed to each year up to the age of 55. This is the_\n_date when further service by the employee will lead to no material amount of further benefits under the_\n_plan. No benefit is attributed to service after that age._",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Example illustrating paragraph 74",
+            "page_number": 19,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Actuarial assumptions  \n**75** **Actuarial assumptions shall be unbiased and mutually compatible.**  \n76 Actuarial assumptions are an entity\u2019s best estimates of the variables that will determine the ultimate cost of\nproviding post-employment benefits. Actuarial assumptions comprise:  \n(a) demographic assumptions about the future characteristics of current and former employees (and\ntheir dependants) who are eligible for benefits. Demographic assumptions deal with matters such\nas:  \n(i) mortality (see paragraphs 81 and 82);  \n(ii) rates of employee turnover, disability and early retirement;  \n(iii) the proportion of plan members with dependants who will be eligible for benefits;  \n(iv) the proportion of plan members who will select each form of payment option available\nunder the plan terms; and  \n(v) claim rates under medical plans.  \n(b) financial assumptions, dealing with items such as:  \n(i) the discount rate (see paragraphs 83\u201386);  \n(ii) benefit levels, excluding any cost of the benefits to be met by employees, and future\nsalary (see paragraphs 87\u201395);  \n(iii) in the case of medical benefits, future medical costs, including claim handling costs (ie\nthe costs that will be incurred in processing and resolving claims, including legal and\nadjuster\u2019s fees) (see paragraphs 96\u201398); and  \n-----  (iv) taxes payable by the plan on contributions relating to service before the reporting date\nor on benefits resulting from that service.  \n77 Actuarial assumptions are unbiased if they are neither imprudent nor excessively conservative.  \n78 Actuarial assumptions are mutually compatible if they reflect the economic relationships between factors\nsuch as inflation, rates of salary increase and discount rates. For example, all assumptions that depend on a\nparticular inflation level (such as assumptions about interest rates and salary and benefit increases) in any\ngiven future period assume the same inflation level in that period.  \n79 An entity determines the discount rate and other financial assumptions in nominal (stated) terms, unless\nestimates in real (inflation-adjusted) terms are more reliable, for example, in a hyperinflationary economy\n(see AASB 129 Financial Reporting in Hyperinflationary Economies), or where the benefit is index-linked\nand there is a deep market in index-linked bonds of the same currency and term.  \n**80** **Financial assumptions shall be based on market expectations, at the end of the reporting period, for**\n**the period over which the obligations are to be settled.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Actuarial assumptions",
+            "page_number": 19,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Actuarial assumptions: mortality  \n**81** **An entity shall determine its mortality assumptions by reference to its best estimate of the mortality**\n**of plan members both during and after employment.**  \n82 In order to estimate the ultimate cost of the benefit an entity takes into consideration expected changes in\nmortality, for example by modifying standard mortality tables with estimates of mortality improvements.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Actuarial assumptions: mortality",
+            "page_number": 20,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Actuarial assumptions: discount rate  \n**83** **The rate used to discount post-employment benefit obligations (both funded and unfunded) shall be**\n**determined by reference to market yields at the end of the reporting period on high quality corporate**\n**bonds. For currencies for which there is no deep market in such high quality corporate bonds, the**\n**market yields (at the end of the reporting period) on government bonds denominated in that currency**\n**shall be used. The currency and term of the corporate bonds or government bonds shall be consistent**\n**with the currency and estimated term of the post-employment benefit obligations.**  \n**Aus83.1** **Notwithstanding paragraph 83, in respect of not-for-profit public sector entities, post-**\n**employment benefit obligations denominated in Australian currency shall be discounted**\n**using market yields on government bonds.**  \n84 One actuarial assumption that has a material effect is the discount rate. The discount rate reflects the time\nvalue of money but not the actuarial or investment risk. Furthermore, the discount rate does not reflect the\nentity-specific credit risk borne by the entity\u2019s creditors, nor does it reflect the risk that future experience\nmay differ from actuarial assumptions.  \n85 The discount rate reflects the estimated timing of benefit payments. In practice, an entity often achieves this\nby applying a single weighted average discount rate that reflects the estimated timing and amount of benefit\npayments and the currency in which the benefits are to be paid.  \n86 In some cases, there may be no deep market in bonds with a sufficiently long maturity to match the\nestimated maturity of all the benefit payments. In such cases, an entity uses current market rates of the\nappropriate term to discount shorter-term payments, and estimates the discount rate for longer maturities by\nextrapolating current market rates along the yield curve. The total present value of a defined benefit\nobligation is unlikely to be particularly sensitive to the discount rate applied to the portion of benefits that is\npayable beyond the final maturity of the available corporate or government bonds.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Actuarial assumptions: discount rate",
+            "page_number": 20,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Actuarial assumptions: salaries, benefits and medical costs  \n**87** **An entity shall measure its defined benefit obligations on a basis that reflects:**  \n**(a)** **the benefits set out in the terms of the plan (or resulting from any constructive obligation**\n**that goes beyond those terms) at the end of the reporting period;**  \n**(b)** **any estimated future salary increases that affect the benefits payable;**  \n**(c)** **the effect of any limit on the employer\u2019s share of the cost of the future benefits;**  \n**(d)** **contributions from employees or third parties that reduce the ultimate cost to the entity of**\n**those benefits; and**  \n-----  **(e)** **estimated future changes in the level of any state benefits that affect the benefits payable**\n**under a defined benefit plan, if, and only if, either:**  \n**(i)** **those changes were enacted before the end of the reporting period; or**  \n**(ii)** **historical data, or other reliable evidence, indicate that those state benefits will**\n**change in some predictable manner, for example, in line with future changes in**\n**general price levels or general salary levels.**  \n88 Actuarial assumptions reflect future benefit changes that are set out in the formal terms of a plan (or a\nconstructive obligation that goes beyond those terms) at the end of the reporting period. This is the case if,\nfor example:  \n(a) the entity has a history of increasing benefits, for example, to mitigate the effects of inflation, and\nthere is no indication that this practice will change in the future;  \n(b) the entity is obliged, by either the formal terms of a plan (or a constructive obligation that goes\nbeyond those terms) or legislation, to use any surplus in the plan for the benefit of plan\nparticipants (see paragraph 108(c)); or  \n(c) benefits vary in response to a performance target or other criteria. For example, the terms of the\nplan may state that it will pay reduced benefits or require additional contributions from\nemployees if the plan assets are insufficient. The measurement of the obligation reflects the best\nestimate of the effect of the performance target or other criteria.  \n89 Actuarial assumptions do not reflect future benefit changes that are not set out in the formal terms of the\nplan (or a constructive obligation) at the end of the reporting period. Such changes will result in:  \n(a) past service cost, to the extent that they change benefits for service before the change; and  \n(b) current service cost for periods after the change, to the extent that they change benefits for service\nafter the change.  \n90 Estimates of future salary increases take account of inflation, seniority, promotion and other relevant\nfactors, such as supply and demand in the employment market.  \n91 Some defined benefit plans limit the contributions that an entity is required to pay. The ultimate cost of the\nbenefits takes account of the effect of a limit on contributions. The effect of a limit on contributions is\ndetermined over the shorter of:  \n(a) the estimated life of the entity; and  \n(b) the estimated life of the plan.  \n92 Some defined benefit plans require employees or third parties to contribute to the cost of the plan.\nContributions by employees reduce the cost of the benefits to the entity. An entity considers whether thirdparty contributions reduce the cost of the benefits to the entity, or are a reimbursement right as described in\nparagraph 116. Contributions by employees or third parties are either set out in the formal terms of the plan\n(or arise from a constructive obligation that goes beyond those terms), or are discretionary. Discretionary\ncontributions by employees or third parties reduce service cost upon payment of these contributions to the\nplan.  \n93 Contributions from employees or third parties set out in the formal terms of the plan either reduce service\ncost (if they are linked to service), or affect remeasurements of the net defined benefit liability (asset) (if\nthey are not linked to service). An example of contributions that are not linked to service is when the\ncontributions are required to reduce a deficit arising from losses on plan assets or from actuarial losses. If\ncontributions from employees or third parties are linked to service, those contributions reduce the service\ncost as follows:  \n(a) if the amount of the contributions is dependent on the number of years of service, an entity shall\nattribute the contributions to periods of service using the same attribution method required by\nparagraph 70 for the gross benefit (ie either using the plan\u2019s contribution formula or on a straightline basis); or  \n(b) if the amount of the contributions is independent of the number of years of service, the entity is\npermitted to recognise such contributions as a reduction of the service cost in the period in which\nthe related service is rendered. Examples of contributions that are independent of the number of\nyears of service include those that are a fixed percentage of the employee\u2019s salary, a fixed amount\nthroughout the service period or dependent on the employee\u2019s age.  \nParagraph A1 provides related application guidance.  \n94 For contributions from employees or third parties that are attributed to periods of service in accordance with\nparagraph 93(a), changes in the contributions result in:  \n-----  (a) current and past service cost (if those changes are not set out in the formal terms of a plan and do\nnot arise from a constructive obligation); or  \n(b) actuarial gains and losses (if those changes are set out in the formal terms of a plan, or arise from\na constructive obligation).  \n95 Some post-employment benefits are linked to variables such as the level of state retirement benefits or state\nmedical care. The measurement of such benefits reflects the best estimate of such variables, based on\nhistorical data and other reliable evidence.  \n**96** **Assumptions about medical costs shall take account of estimated future changes in the cost of medical**\n**services, resulting from both inflation and specific changes in medical costs.**  \n97 Measurement of post-employment medical benefits requires assumptions about the level and frequency of\nfuture claims and the cost of meeting those claims. An entity estimates future medical costs on the basis of\nhistorical data about the entity\u2019s own experience, supplemented where necessary by historical data from\nother entities, insurance companies, medical providers or other sources. Estimates of future medical costs\nconsider the effect of technological advances, changes in health care utilisation or delivery patterns and\nchanges in the health status of plan participants.  \n98 The level and frequency of claims is particularly sensitive to the age, health status and sex of employees\n(and their dependants) and may be sensitive to other factors such as geographical location. Therefore,\nhistorical data are adjusted to the extent that the demographic mix of the population differs from that of the\npopulation used as a basis for the data. They are also adjusted where there is reliable evidence that historical\ntrends will not continue.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: present value of defined benefit obligations and current service cost",
+            "Header 3": "Actuarial assumptions: salaries, benefits and medical costs",
+            "page_number": 20,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Past service cost and gains and losses on settlement  \n**99** **When determining past service cost, or a gain or loss on settlement, an entity shall remeasure the net**\n**defined benefit liability (asset) using the current fair value of plan assets and current actuarial**\n**assumptions, including current market interest rates and other current market prices, reflecting:**  \n**(a)** **the benefits offered under the plan and the plan assets before the plan amendment,**\n**curtailment or settlement; and**  \n**(b)** **the benefits offered under the plan and the plan assets after the plan amendment,**\n**curtailment or settlement.**  \n100 An entity need not distinguish between past service cost resulting from a plan amendment, past service cost\nresulting from a curtailment and a gain or loss on settlement if these transactions occur together. In some\ncases, a plan amendment occurs before a settlement, such as when an entity changes the benefits under the\nplan and settles the amended benefits later. In those cases an entity recognises past service cost before any\ngain or loss on settlement.  \n101 A settlement occurs together with a plan amendment and curtailment if a plan is terminated with the result\nthat the obligation is settled and the plan ceases to exist. However, the termination of a plan is not a\nsettlement if the plan is replaced by a new plan that offers benefits that are, in substance, the same.  \n101A When a plan amendment, curtailment or settlement occurs, an entity shall recognise and measure any past\nservice cost, or a gain or loss on settlement, in accordance with paragraphs 99\u2013101 and paragraphs 102\u2013\n112. In doing so, an entity shall not consider the effect of the asset ceiling. An entity shall then determine\nthe effect of the asset ceiling after the plan amendment, curtailment or settlement and shall recognise any\nchange in that effect in accordance with paragraph 57(d).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Past service cost and gains and losses on settlement",
+            "page_number": 22,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Past service cost\n102 Past service cost is the change in the present value of the defined benefit obligation resulting from a plan\namendment or curtailment.  \n**103** **An entity shall recognise past service cost as an expense at the earlier of the following dates:**  \n**(a)** **when the plan amendment or curtailment occurs; and**  \n**(b)** **when the entity recognises related restructuring costs (see AASB 137) or termination**\n**benefits (see paragraph 165).**  \n104 A plan amendment occurs when an entity introduces, or withdraws, a defined benefit plan or changes the\nbenefits payable under an existing defined benefit plan.  \n-----  105 A curtailment occurs when an entity significantly reduces the number of employees covered by a plan. A\ncurtailment may arise from an isolated event, such as the closing of a plant, discontinuance of an operation\nor termination or suspension of a plan.  \n106 Past service cost may be either positive (when benefits are introduced or changed so that the present value\nof the defined benefit obligation increases) or negative (when benefits are withdrawn or changed so that the\npresent value of the defined benefit obligation decreases).  \n107 Where an entity reduces benefits payable under an existing defined benefit plan and, at the same time,\nincreases other benefits payable under the plan for the same employees, the entity treats the change as a\nsingle net change.  \n108 Past service cost excludes:  \n(a) the effect of differences between actual and previously assumed salary increases on the obligation\nto pay benefits for service in prior years (there is no past service cost because actuarial\nassumptions allow for projected salaries);  \n(b) underestimates and overestimates of discretionary pension increases when an entity has a\nconstructive obligation to grant such increases (there is no past service cost because actuarial\nassumptions allow for such increases);  \n(c) estimates of benefit improvements that result from actuarial gains or from the return on plan\nassets that have been recognised in the financial statements if the entity is obliged, by either the\nformal terms of a plan (or a constructive obligation that goes beyond those terms) or legislation,\nto use any surplus in the plan for the benefit of plan participants, even if the benefit increase has\nnot yet been formally awarded (there is no past service cost because the resulting increase in the\nobligation is an actuarial loss, see paragraph 88); and  \n(d) the increase in vested benefits (ie benefits that are not conditional on future employment, see\nparagraph 72) when, in the absence of new or improved benefits, employees complete vesting\nrequirements (there is no past service cost because the entity recognised the estimated cost of\nbenefits as current service cost as the service was rendered).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Past service cost and gains and losses on settlement",
+            "Header 3": "Past service cost",
+            "page_number": 22,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Gains and losses on settlement\n109 The gain or loss on a settlement is the difference between:  \n(a) the present value of the defined benefit obligation being settled, as determined on the date of\nsettlement; and  \n(b) the settlement price, including any plan assets transferred and any payments made directly by the\nentity in connection with the settlement.  \n**110** **An entity shall recognise a gain or loss on the settlement of a defined benefit plan when the settlement**\n**occurs.**  \n111 A settlement occurs when an entity enters into a transaction that eliminates all further legal or constructive\nobligation for part or all of the benefits provided under a defined benefit plan (other than a payment of\nbenefits to, or on behalf of, employees in accordance with the terms of the plan and included in the actuarial\nassumptions). For example, a one-off transfer of significant employer obligations under the plan to an\ninsurance company through the purchase of an insurance policy is a settlement; a lump sum cash payment,\nunder the terms of the plan, to plan participants in exchange for their rights to receive specified postemployment benefits is not.  \n112 In some cases, an entity acquires an insurance policy to fund some or all of the employee benefits relating to\nemployee service in the current and prior periods. The acquisition of such a policy is not a settlement if the\nentity retains a legal or constructive obligation (see paragraph 46) to pay further amounts if the insurer does\nnot pay the employee benefits specified in the insurance policy. Paragraphs 116\u2013119 deal with the\nrecognition and measurement of reimbursement rights under insurance policies that are not plan assets.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Past service cost and gains and losses on settlement",
+            "Header 3": "Gains and losses on settlement",
+            "page_number": 23,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement: plan assets  \n### Fair value of plan assets\n113 The fair value of any plan assets is deducted from the present value of the defined benefit obligation in\ndetermining the deficit or surplus.  \n114 Plan assets exclude unpaid contributions due from the reporting entity to the fund, as well as any nontransferable financial instruments issued by the entity and held by the fund. Plan assets are reduced by any  \n-----  liabilities of the fund that do not relate to employee benefits, for example, trade and other payables and\nliabilities resulting from derivative financial instruments.  \n115 Where plan assets include qualifying insurance policies that exactly match the amount and timing of some\nor all of the benefits payable under the plan, the fair value of those insurance policies is deemed to be the\npresent value of the related obligations (subject to any reduction required if the amounts receivable under\nthe insurance policies are not recoverable in full).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: plan assets",
+            "Header 3": "Fair value of plan assets",
+            "page_number": 23,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Reimbursements  \n**116** **When, and only when, it is virtually certain that another party will reimburse some or all of the**\n**expenditure required to settle a defined benefit obligation, an entity shall:**  \n**(a)** **recognise its right to reimbursement as a separate asset. The entity shall measure the asset**\n**at fair value.**  \n**(b)** **disaggregate and recognise changes in the fair value of its right to reimbursement in the**\n**same way as for changes in the fair value of plan assets (see paragraphs 124 and 125). The**\n**components of defined benefit cost recognised in accordance with paragraph 120 may be**\n**recognised net of amounts relating to changes in the carrying amount of the right to**\n**reimbursement.**  \n117 Sometimes, an entity is able to look to another party, such as an insurer, to pay part or all of the expenditure\nrequired to settle a defined benefit obligation. Qualifying insurance policies, as defined in paragraph 8, are\nplan assets. An entity accounts for qualifying insurance policies in the same way as for all other plan assets\nand paragraph 116 is not relevant (see paragraphs 46\u201349 and 115).  \n118 When an insurance policy held by an entity is not a qualifying insurance policy, that insurance policy is not\na plan asset. Paragraph 116 is relevant to such cases: the entity recognises its right to reimbursement under\nthe insurance policy as a separate asset, rather than as a deduction in determining the defined benefit deficit\nor surplus. Paragraph 140(b) requires the entity to disclose a brief description of the link between the\nreimbursement right and the related obligation.  \n119 If the right to reimbursement arises under an insurance policy that exactly matches the amount and timing\nof some or all of the benefits payable under a defined benefit plan, the fair value of the reimbursement right\nis deemed to be the present value of the related obligation (subject to any reduction required if the\nreimbursement is not recoverable in full).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement: plan assets",
+            "Header 3": "Reimbursements",
+            "page_number": 24,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Components of defined benefit cost  \n**120** **An entity shall recognise the components of defined benefit cost, except to the extent that another**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Components of defined benefit cost",
+            "page_number": 24,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Australian Accounting Standard requires or permits their inclusion in the cost of an asset, as follows:  \n**(a)** **service cost (see paragraphs 66\u2013112 and paragraph 122A) in profit or loss;**  \n**(b)** **net interest on the net defined benefit liability (asset) (see paragraphs 123\u2013126) in profit or**\n**loss; and**  \n**(c)** **remeasurements of the net defined benefit liability (asset) (see paragraphs 127\u2013130) in other**\n**comprehensive income.**  \n121 Other Australian Accounting Standards require the inclusion of some employee benefit costs within the cost\nof assets, such as inventories and property, plant and equipment (see AASB 102 and AASB 116). Any postemployment benefit costs included in the cost of such assets include the appropriate proportion of the\ncomponents listed in paragraph 120.  \n**122** **Remeasurements of the net defined benefit liability (asset) recognised in other comprehensive income**\n**shall not be reclassified to profit or loss in a subsequent period. However, the entity may transfer**\n**those amounts recognised in other comprehensive income within equity.**",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Components of defined benefit cost",
+            "Header 3": "Australian Accounting Standard requires or permits their inclusion in the cost of an asset, as follows:",
+            "page_number": 24,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Current service cost  \n**122A** **An entity shall determine current service cost using actuarial assumptions determined at the start of**\n**the annual reporting period. However, if an entity remeasures the net defined benefit liability (asset)**\n**in accordance with paragraph 99, it shall determine current service cost for the remainder of the**\n**annual reporting period after the plan amendment, curtailment or settlement using the actuarial**\n**assumptions used to remeasure the net defined benefit liability (asset) in accordance with**\n**paragraph 99(b).**  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Components of defined benefit cost",
+            "Header 3": "Current service cost",
+            "page_number": 24,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Net interest on the net defined benefit liability (asset)  \n**123** **An entity shall determine net interest on the net defined benefit liability (asset) by multiplying the net**\n**defined benefit liability (asset) by the discount rate specified in paragraph 83.**  \n**123A** **To determine net interest in accordance with paragraph 123, an entity shall use the net defined**\n**benefit liability (asset) and the discount rate determined at the start of the annual reporting period.**\n**However, if an entity remeasures the net defined benefit liability (asset) in accordance with**\n**paragraph 99, the entity shall determine net interest for the remainder of the annual reporting period**\n**after the plan amendment, curtailment or settlement using:**  \n**(a)** **the net defined benefit liability (asset) determined in accordance with paragraph 99(b); and**  \n**(b)** **the discount rate used to remeasure the net defined benefit liability (asset) in accordance**\n**with paragraph 99(b).**  \n**In applying paragraph 123A, the entity shall also take into account any changes in the net defined**\n**benefit liability (asset) during the period resulting from contributions or benefit payments.**  \n124 Net interest on the net defined benefit liability (asset) can be viewed as comprising interest income on plan\nassets, interest cost on the defined benefit obligation and interest on the effect of the asset ceiling mentioned\nin paragraph 64.  \n125 Interest income on plan assets is a component of the return on plan assets, and is determined by multiplying\nthe fair value of the plan assets by the discount rate specified in paragraph 123A. An entity shall determine\nthe fair value of the plan assets at the start of the annual reporting period. However, if an entity remeasures\nthe net defined benefit liability (asset) in accordance with paragraph 99, the entity shall determine interest\nincome for the remainder of the annual reporting period after the plan amendment, curtailment or settlement\nusing the plan assets used to remeasure the net defined benefit liability (asset) in accordance with paragraph\n99(b). In applying paragraph 125, the entity shall also take into account any changes in the plan assets held\nduring the period resulting from contributions or benefit payments. The difference between the interest\nincome on plan assets and the return on plan assets is included in the remeasurement of the net defined\nbenefit liability (asset).  \n126 Interest on the effect of the asset ceiling is part of the total change in the effect of the asset ceiling, and is\ndetermined by multiplying the effect of the asset ceiling by the discount rate specified in paragraph 123A.\nAn entity shall determine the effect of the asset ceiling at the start of the annual reporting period. However,\nif an entity remeasures the net defined benefit liability (asset) in accordance with paragraph 99, the entity\nshall determine interest on the effect of the asset ceiling for the remainder of the annual reporting period\nafter the plan amendment, curtailment or settlement taking into account any change in the effect of the asset\nceiling determined in accordance with paragraph 101A. The difference between interest on the effect of the\nasset ceiling and the total change in the effect of the asset ceiling is included in the remeasurement of the\nnet defined benefit liability (asset).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Components of defined benefit cost",
+            "Header 3": "Net interest on the net defined benefit liability (asset)",
+            "page_number": 25,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Remeasurements of the net defined benefit liability (asset)\n127 Remeasurements of the net defined benefit liability (asset) comprise:  \n(a) actuarial gains and losses (see paragraphs 128 and 129);  \n(b) the return on plan assets (see paragraph 130), excluding amounts included in net interest on the\nnet defined benefit liability (asset) (see paragraph 125); and  \n(c) any change in the effect of the asset ceiling, excluding amounts included in net interest on the net\ndefined benefit liability (asset) (see paragraph 126).  \n128 Actuarial gains and losses result from increases or decreases in the present value of the defined benefit\nobligation because of changes in actuarial assumptions and experience adjustments. Causes of actuarial\ngains and losses include, for example:  \n(a) unexpectedly high or low rates of employee turnover, early retirement or mortality or of increases\nin salaries, benefits (if the formal or constructive terms of a plan provide for inflationary benefit\nincreases) or medical costs;  \n(b) the effect of changes to assumptions concerning benefit payment options;  \n(c) the effect of changes in estimates of future employee turnover, early retirement or mortality or of\nincreases in salaries, benefits (if the formal or constructive terms of a plan provide for inflationary\nbenefit increases) or medical costs; and  \n(d) the effect of changes in the discount rate.  \n-----  129 Actuarial gains and losses do not include changes in the present value of the defined benefit obligation\nbecause of the introduction, amendment, curtailment or settlement of the defined benefit plan, or changes to\nthe benefits payable under the defined benefit plan. Such changes result in past service cost or gains or\nlosses on settlement.  \n130 In determining the return on plan assets, an entity deducts the costs of managing the plan assets and any tax\npayable by the plan itself, other than tax included in the actuarial assumptions used to measure the defined\nbenefit obligation (paragraph 76). Other administration costs are not deducted from the return on plan\nassets.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Components of defined benefit cost",
+            "Header 3": "Remeasurements of the net defined benefit liability (asset)",
+            "page_number": 25,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Presentation  \n### Offset  \n**131** **An entity shall offset an asset relating to one plan against a liability relating to another plan when,**\n**and only when, the entity:**  \n**(a)** **has a legally enforceable right to use a surplus in one plan to settle obligations under the**\n**other plan; and**  \n**(b)** **intends either to settle the obligations on a net basis, or to realise the surplus in one plan**\n**and settle its obligation under the other plan simultaneously.**  \n132 The offsetting criteria are similar to those established for financial instruments in AASB 132 _Financial_\n_Instruments: Presentation._",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Presentation",
+            "Header 3": "Offset",
+            "page_number": 26,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Current/non-current distinction\n133 Some entities distinguish current assets and liabilities from non-current assets and liabilities. This Standard\ndoes not specify whether an entity should distinguish current and non-current portions of assets and\nliabilities arising from post-employment benefits.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Presentation",
+            "Header 3": "Current/non-current distinction",
+            "page_number": 26,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Components of defined benefit cost\n134 Paragraph 120 requires an entity to recognise service cost and net interest on the net defined benefit liability\n(asset) in profit or loss. This Standard does not specify how an entity should present service cost and net\ninterest on the net defined benefit liability (asset). An entity presents those components in accordance with\nAASB 101.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Presentation",
+            "Header 3": "Components of defined benefit cost",
+            "page_number": 26,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**135** **An entity shall disclose information that:**  \n**(a)** **explains the characteristics of its defined benefit plans and risks associated with them (see**\n**paragraph 139);**  \n**(b)** **identifies and explains the amounts in its financial statements arising from its defined**\n**benefit plans (see paragraphs 140\u2013144); and**  \n**(c)** **describes how its defined benefit plans may affect the amount, timing and uncertainty of the**\n**entity\u2019s future cash flows (see paragraphs 145\u2013147).**  \n136 To meet the objectives in paragraph 135, an entity shall consider all the following:  \n(a) the level of detail necessary to satisfy the disclosure requirements;  \n(b) how much emphasis to place on each of the various requirements;  \n(c) how much aggregation or disaggregation to undertake; and  \n(d) whether users of financial statements need additional information to evaluate the quantitative\ninformation disclosed.  \n137 If the disclosures provided in accordance with the requirements in this Standard and other Australian\nAccounting Standards are insufficient to meet the objectives in paragraph 135, an entity shall disclose\nadditional information necessary to meet those objectives. For example, an entity may present an analysis of\nthe present value of the defined benefit obligation that distinguishes the nature, characteristics and risks of\nthe obligation. Such a disclosure could distinguish:  \n(a) between amounts owing to active members, deferred members, and pensioners.  \n-----  (b) between vested benefits and accrued but not vested benefits.  \n(c) between conditional benefits, amounts attributable to future salary increases and other benefits.  \n138 An entity shall assess whether all or some disclosures should be disaggregated to distinguish plans or\ngroups of plans with materially different risks. For example, an entity may disaggregate disclosure about\nplans showing one or more of the following features:  \n(a) different geographical locations.  \n(b) different characteristics such as flat salary pension plans, final salary pension plans or postemployment medical plans.  \n(c) different regulatory environments.  \n(d) different reporting segments.  \n(e) different funding arrangements (eg wholly unfunded, wholly or partly funded).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "page_number": 26,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Characteristics of defined benefit plans and risks associated with them\n139 An entity shall disclose:  \n(a) information about the characteristics of its defined benefit plans, including:  \n(i) the nature of the benefits provided by the plan (eg final salary defined benefit plan or\ncontribution-based plan with guarantee).  \n(ii) a description of the regulatory framework in which the plan operates, for example the\nlevel of any minimum funding requirements, and any effect of the regulatory\nframework on the plan, such as the asset ceiling (see paragraph 64).  \n(iii) a description of any other entity\u2019s responsibilities for the governance of the plan, for\nexample responsibilities of trustees or of board members of the plan.  \n(b) a description of the risks to which the plan exposes the entity, focused on any unusual, entityspecific or plan-specific risks, and of any significant concentrations of risk. For example, if plan\nassets are invested primarily in one class of investments, eg property, the plan may expose the\nentity to a concentration of property market risk.  \n(c) a description of any plan amendments, curtailments and settlements.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Characteristics of defined benefit plans and risks associated with them",
+            "page_number": 27,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Explanation of amounts in the financial statements\n140 An entity shall provide a reconciliation from the opening balance to the closing balance for each of the\nfollowing, if applicable:  \n(a) the net defined benefit liability (asset), showing separate reconciliations for:  \n(i) plan assets.  \n(ii) the present value of the defined benefit obligation.  \n(iii) the effect of the asset ceiling.  \n(b) any reimbursement rights. An entity shall also describe the relationship between any\nreimbursement right and the related obligation.  \n141 Each reconciliation listed in paragraph 140 shall show each of the following, if applicable:  \n(a) current service cost.  \n(b) interest income or expense.  \n(c) remeasurements of the net defined benefit liability (asset), showing separately:  \n(i) the return on plan assets, excluding amounts included in interest in (b).  \n(ii) actuarial gains and losses arising from changes in demographic assumptions (see\nparagraph 76(a)).  \n(iii) actuarial gains and losses arising from changes in financial assumptions (see paragraph\n76(b)).  \n(iv) changes in the effect of limiting a net defined benefit asset to the asset ceiling,\nexcluding amounts included in interest in (b). An entity shall also disclose how it  \n-----  determined the maximum economic benefit available, ie whether those benefits would\nbe in the form of refunds, reductions in future contributions or a combination of both.  \n(d) past service cost and gains and losses arising from settlements. As permitted by paragraph 100,\npast service cost and gains and losses arising from settlements need not be distinguished if they\noccur together.  \n(e) the effect of changes in foreign exchange rates.  \n(f) contributions to the plan, showing separately those by the employer and by plan participants.  \n(g) payments from the plan, showing separately the amount paid in respect of any settlements.  \n(h) the effects of business combinations and disposals.  \n142 An entity shall disaggregate the fair value of the plan assets into classes that distinguish the nature and risks\nof those assets, subdividing each class of plan asset into those that have a quoted market price in an active\nmarket (as defined in AASB 13 _Fair Value Measurement) and those that do not. For example, and_\nconsidering the level of disclosure discussed in paragraph 136, an entity could distinguish between:  \n(a) cash and cash equivalents;  \n(b) equity instruments (segregated by industry type, company size, geography etc);  \n(c) debt instruments (segregated by type of issuer, credit quality, geography etc);  \n(d) real estate (segregated by geography etc);  \n(e) derivatives (segregated by type of underlying risk in the contract, for example, interest rate\ncontracts, foreign exchange contracts, equity contracts, credit contracts, longevity swaps etc);  \n(f) investment funds (segregated by type of fund);  \n(g) asset-backed securities; and  \n(h) structured debt.  \n143 An entity shall disclose the fair value of the entity\u2019s own transferable financial instruments held as plan\nassets, and the fair value of plan assets that are property occupied by, or other assets used by, the entity.  \n144 An entity shall disclose the significant actuarial assumptions used to determine the present value of the\ndefined benefit obligation (see paragraph 76). Such disclosure shall be in absolute terms (eg as an absolute\npercentage, and not just as a margin between different percentages and other variables). When an entity\nprovides disclosures in total for a grouping of plans, it shall provide such disclosures in the form of\nweighted averages or relatively narrow ranges.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Explanation of amounts in the financial statements",
+            "page_number": 27,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Amount, timing and uncertainty of future cash flows\n145 An entity shall disclose:  \n(a) a sensitivity analysis for each significant actuarial assumption (as disclosed under paragraph 144)\nas of the end of the reporting period, showing how the defined benefit obligation would have\nbeen affected by changes in the relevant actuarial assumption that were reasonably possible at\nthat date.  \n(b) the methods and assumptions used in preparing the sensitivity analyses required by (a) and the\nlimitations of those methods.  \n(c) changes from the previous period in the methods and assumptions used in preparing the\nsensitivity analyses, and the reasons for such changes.  \n146 An entity shall disclose a description of any asset-liability matching strategies used by the plan or the entity,\nincluding the use of annuities and other techniques, such as longevity swaps, to manage risk.  \n147 To provide an indication of the effect of the defined benefit plan on the entity\u2019s future cash flows, an entity\nshall disclose:  \n(a) a description of any funding arrangements and funding policy that affect future contributions.  \n(b) the expected contributions to the plan for the next annual reporting period.  \n(c) information about the maturity profile of the defined benefit obligation. This will include the\nweighted average duration of the defined benefit obligation and may include other information\nabout the distribution of the timing of benefit payments, such as a maturity analysis of the benefit\npayments.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Amount, timing and uncertainty of future cash flows",
+            "page_number": 28,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Multi-employer plans\n148 If an entity participates in a multi-employer defined benefit plan, it shall disclose:  \n(a) a description of the funding arrangements, including the method used to determine the entity\u2019s\nrate of contributions and any minimum funding requirements.  \n(b) a description of the extent to which the entity can be liable to the plan for other entities\u2019\nobligations under the terms and conditions of the multi-employer plan.  \n(c) a description of any agreed allocation of a deficit or surplus on:  \n(i) wind-up of the plan; or  \n(ii) the entity\u2019s withdrawal from the plan.  \n(d) if the entity accounts for that plan as if it were a defined contribution plan in accordance with\nparagraph 34, it shall disclose the following, in addition to the information required by (a)\u2013(c)\nand instead of the information required by paragraphs 139\u2013147:  \n(i) the fact that the plan is a defined benefit plan.  \n(ii) the reason why sufficient information is not available to enable the entity to account for\nthe plan as a defined benefit plan.  \n(iii) the expected contributions to the plan for the next annual reporting period.  \n(iv) information about any deficit or surplus in the plan that may affect the amount of future\ncontributions, including the basis used to determine that deficit or surplus and the\nimplications, if any, for the entity.  \n(v) an indication of the level of participation of the entity in the plan compared with other\nparticipating entities. Examples of measures that might provide such an indication\ninclude the entity\u2019s proportion of the total contributions to the plan or the entity\u2019s\nproportion of the total number of active members, retired members, and former\nmembers entitled to benefits, if that information is available.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Multi-employer plans",
+            "page_number": 29,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Defined benefit plans that share risks between entities under common control\n149 If an entity participates in a defined benefit plan that shares risks between entities under common control, it\nshall disclose:  \n(a) the contractual agreement or stated policy for charging the net defined benefit cost or the fact that\nthere is no such policy.  \n(b) the policy for determining the contribution to be paid by the entity.  \n(c) if the entity accounts for an allocation of the net defined benefit cost as noted in paragraph 41, all\nthe information about the plan as a whole required by paragraphs 135\u2013147.  \n(d) if the entity accounts for the contribution payable for the period as noted in paragraph 41, the\ninformation about the plan as a whole required by paragraphs 135\u2013137, 139, 142\u2013144 and 147(a)\nand (b).  \n150 The information required by paragraph 149(c) and (d) can be disclosed by cross-reference to disclosures in\nanother group entity\u2019s financial statements if:  \n(a) that group entity\u2019s financial statements separately identify and disclose the information required\nabout the plan; and  \n(b) that group entity\u2019s financial statements are available to users of the financial statements on the\nsame terms as the financial statements of the entity and at the same time as, or earlier than, the\nfinancial statements of the entity.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Defined benefit plans that share risks between entities under common control",
+            "page_number": 29,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Disclosure requirements in other Australian Accounting Standards\n151 Where required by AASB 124 an entity discloses information about:  \n(a) related party transactions with post-employment benefit plans; and  \n(b) post-employment benefits for key management personnel.  \n152 Where required by AASB 137 an entity discloses information about contingent liabilities arising from postemployment benefit obligations.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "Header 3": "Disclosure requirements in other Australian Accounting Standards",
+            "page_number": 29,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Other long-term employee benefits  \n153 Other long-term employee benefits include items such as the following, if not expected to be settled wholly\nbefore twelve months after the end of the annual reporting period in which the employees render the related\nservice:  \n(a) long-term paid absences such as long-service or sabbatical leave;  \n(b) jubilee or other long-service benefits;  \n(c) long-term disability benefits;  \n(d) profit-sharing and bonuses; and  \n(e) deferred remuneration.  \n154 The measurement of other long-term employee benefits is not usually subject to the same degree of\nuncertainty as the measurement of post-employment benefits. For this reason, this Standard requires a\nsimplified method of accounting for other long-term employee benefits. Unlike the accounting required for\npost-employment benefits, this method does not recognise remeasurements in other comprehensive income.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Other long-term employee benefits",
+            "page_number": 30,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition and measurement  \n**155** **In recognising and measuring the surplus or deficit in an other long-term employee benefit plan, an**\n**entity shall apply paragraphs 56\u201398 and 113\u2013115. An entity shall apply paragraphs 116\u2013119 in**\n**recognising and measuring any reimbursement right.**  \n**156** **For other long-term employee benefits, an entity shall recognise the net total of the following amounts**\n**in profit or loss, except to the extent that another Australian Accounting Standard requires or**\n**permits their inclusion in the cost of an asset:**  \n**(a)** **service cost (see paragraphs 66\u2013112 and paragraph 122A);**  \n**(b)** **net interest on the net defined benefit liability (asset) (see paragraphs 123\u2013126); and**  \n**(c)** **remeasurements of the net defined benefit liability (asset) (see paragraphs 127\u2013130).**  \n157 One form of other long-term employee benefit is long-term disability benefit. If the level of benefit depends\non the length of service, an obligation arises when the service is rendered. Measurement of that obligation\nreflects the probability that payment will be required and the length of time for which payment is expected\nto be made. If the level of benefit is the same for any disabled employee regardless of years of service, the\nexpected cost of those benefits is recognised when an event occurs that causes a long-term disability.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition and measurement",
+            "page_number": 30,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n158 Although this Standard does not require specific disclosures about other long-term employee benefits, other\nAustralian Accounting Standards may require disclosures. For example, AASB 124 requires disclosures\nabout employee benefits for key management personnel. AASB 101 requires disclosure of employee\nbenefits expense.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "page_number": 30,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Termination benefits  \n159 This Standard deals with termination benefits separately from other employee benefits because the event\nthat gives rise to an obligation is the termination of employment rather than employee service. Termination\nbenefits result from either an entity\u2019s decision to terminate the employment or an employee\u2019s decision to\naccept an entity\u2019s offer of benefits in exchange for termination of employment.  \n160 Termination benefits do not include employee benefits resulting from termination of employment at the\nrequest of the employee without an entity\u2019s offer, or as a result of mandatory retirement requirements,\nbecause those benefits are post-employment benefits. Some entities provide a lower level of benefit for\ntermination of employment at the request of the employee (in substance, a post-employment benefit) than\nfor termination of employment at the request of the entity. The difference between the benefit provided for\ntermination of employment at the request of the employee and a higher benefit provided at the request of the\nentity is a termination benefit.  \n161 The form of the employee benefit does not determine whether it is provided in exchange for service or in\nexchange for termination of the employee\u2019s employment. Termination benefits are typically lump sum\npayments, but sometimes also include:  \n-----  (a) enhancement of post-employment benefits, either indirectly through an employee benefit plan or\ndirectly.  \n(b) salary until the end of a specified notice period if the employee renders no further service that\nprovides economic benefits to the entity.  \n162 Indicators that an employee benefit is provided in exchange for services include the following:  \n(a) the benefit is conditional on future service being provided (including benefits that increase if\nfurther service is provided).  \n(b) the benefit is provided in accordance with the terms of an employee benefit plan.  \n163 Some termination benefits are provided in accordance with the terms of an existing employee benefit plan.\nFor example, they may be specified by statute, employment contract or union agreement, or may be implied\nas a result of the employer\u2019s past practice of providing similar benefits. As another example, if an entity\nmakes an offer of benefits available for more than a short period, or there is more than a short period\nbetween the offer and the expected date of actual termination, the entity considers whether it has established\na new employee benefit plan and hence whether the benefits offered under that plan are termination benefits\nor post-employment benefits. Employee benefits provided in accordance with the terms of an employee\nbenefit plan are termination benefits if they both result from an entity\u2019s decision to terminate an employee\u2019s\nemployment and are not conditional on future service being provided.  \n164 Some employee benefits are provided regardless of the reason for the employee\u2019s departure. The payment\nof such benefits is certain (subject to any vesting or minimum service requirements) but the timing of their\npayment is uncertain. Although such benefits are described in some jurisdictions as termination indemnities\nor termination gratuities, they are post-employment benefits rather than termination benefits, and an entity\naccounts for them as post-employment benefits.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Termination benefits",
+            "page_number": 30,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Recognition  \n**165** **An entity shall recognise a liability and expense for termination benefits at the earlier of the following**\n**dates:**  \n**(a)** **when the entity can no longer withdraw the offer of those benefits; and**  \n**(b)** **when the entity recognises costs for a restructuring that is within the scope of AASB 137**\n**and involves the payment of termination benefits.**  \n166 For termination benefits payable as a result of an employee\u2019s decision to accept an offer of benefits in\nexchange for the termination of employment, the time when an entity can no longer withdraw the offer of\ntermination benefits is the earlier of:  \n(a) when the employee accepts the offer; and  \n(b) when a restriction (eg a legal, regulatory or contractual requirement or other restriction) on the\nentity\u2019s ability to withdraw the offer takes effect. This would be when the offer is made, if the\nrestriction existed at the time of the offer.  \n167 For termination benefits payable as a result of an entity\u2019s decision to terminate an employee\u2019s employment,\nthe entity can no longer withdraw the offer when the entity has communicated to the affected employees a\nplan of termination meeting all of the following criteria:  \n(a) Actions required to complete the plan indicate that it is unlikely that significant changes to the\nplan will be made.  \n(b) The plan identifies the number of employees whose employment is to be terminated, their job\nclassifications or functions and their locations (but the plan need not identify each individual\nemployee) and the expected completion date.  \n(c) The plan establishes the termination benefits that employees will receive in sufficient detail that\nemployees can determine the type and amount of benefits they will receive when their\nemployment is terminated.  \n168 When an entity recognises termination benefits, the entity may also have to account for a plan amendment\nor a curtailment of other employee benefits (see paragraph 103).",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Recognition",
+            "page_number": 31,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Measurement  \n**169** **An entity shall measure termination benefits on initial recognition, and shall measure and recognise**\n**subsequent changes, in accordance with the nature of the employee benefit, provided that if the**  \n-----  **termination benefits are an enhancement to post-employment benefits, the entity shall apply the**\n**requirements for post-employment benefits. Otherwise:**  \n**(a)** **if the termination benefits are expected to be settled wholly before twelve months after the**\n**end of the annual reporting period in which the termination benefit is recognised, the entity**\n**shall apply the requirements for short-term employee benefits.**  \n**(b)** **if the termination benefits are not expected to be settled wholly before twelve months after**\n**the end of the annual reporting period, the entity shall apply the requirements for other**\n**long-term employee benefits.**  \n170 Because termination benefits are not provided in exchange for service, paragraphs 70\u201374 relating to the\nattribution of the benefit to periods of service are not relevant.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Measurement",
+            "page_number": 31,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "### Example illustrating paragraphs 159\u2013170\n_Background_  \nAs a result of a recent acquisition, an entity plans to close a factory in ten months and, at that time,\nterminate the employment of all of the remaining employees at the factory. Because the entity needs the\nexpertise of the employees at the factory to complete some contracts, it announces a plan of termination\nas follows.  \nEach employee who stays and renders service until the closure of the factory will receive on the\ntermination date a cash payment of CU30,000. Employees leaving before closure of the factory will\nreceive CU10,000.  \nThere are 120 employees at the factory. At the time of announcing the plan, the entity expects 20 of them\nto leave before closure. Therefore, the total expected cash outflows under the plan are CU3,200,000 (ie\n20 \u00d7 CU10,000 + 100 \u00d7 CU30,000). As required by paragraph 160, the entity accounts for benefits\nprovided in exchange for termination of employment as termination benefits and accounts for benefits\nprovided in exchange for services as short-term employee benefits.  \n_Termination benefits_  \nThe benefit provided in exchange for termination of employment is CU10,000. This is the amount that an\nentity would have to pay for terminating the employment regardless of whether the employees stay and\nrender service until closure of the factory or they leave before closure. Even though the employees can\nleave before closure, the termination of all employees\u2019 employment is a result of the entity\u2019s decision to\nclose the factory and terminate their employment (ie all employees will leave employment when the\nfactory closes). Therefore the entity recognises a liability of CU1,200,000 (ie 120 \u00d7 CU10,000) for the\ntermination benefits provided in accordance with the employee benefit plan at the earlier of when the\nplan of termination is announced and when the entity recognises the restructuring costs associated with\nthe closure of the factory.  \n_Benefits provided in exchange for service_  \nThe incremental benefits that employees will receive if they provide services for the full ten-month\nperiod are in exchange for services provided over that period. The entity accounts for them as short-term\nemployee benefits because the entity expects to settle them before twelve months after the end of the\nannual reporting period. In this example, discounting is not required, so an expense of CU200,000 (ie\nCU2,000,000 \u00f7 10) is recognised in each month during the service period of ten months, with a\ncorresponding increase in the carrying amount of the liability.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Measurement",
+            "Header 3": "Example illustrating paragraphs 159\u2013170",
+            "page_number": 32,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n171 Although this Standard does not require specific disclosures about termination benefits, other Australian\nAccounting Standards may require disclosures. For example, AASB 124 requires disclosures about\nemployee benefits for key management personnel. AASB 101 requires disclosure of employee benefits\nexpense.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Disclosure",
+            "page_number": 32,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Transition and effective date  \n172 An entity shall apply this Standard for annual periods beginning on or after 1 January 2016. Earlier\napplication is permitted for periods beginning on or after 1 January 2014 but before 1 January 2016. If an\nentity applies this Standard for an earlier period, it shall disclose that fact.  \nAus172.1 Paragraphs 173(a) and (b) shall not be applied by an entity that has previously applied\nAASB 119, unless required to do so by another Standard.  \n173 An entity shall apply this Standard retrospectively, in accordance with AASB 108 _Accounting Policies,_\n_Changes in Accounting Estimates and Errors, except that:_  \n(a) an entity need not adjust the carrying amount of assets outside the scope of this Standard for\nchanges in employee benefit costs that were included in the carrying amount before the date of\ninitial application. The date of initial application is the beginning of the earliest prior period\npresented in the first financial statements in which the entity adopts this Standard.  \n(b) in financial statements for periods beginning before 1 January 2014, an entity need not present\ncomparative information for the disclosures required by paragraph 145 about the sensitivity of the\ndefined benefit obligation.  \n174 [Deleted by the AASB]  \n175 AASB 2014-1 Amendments to Australian Accounting Standards, issued in June 2014, amended paragraphs\n93\u201394 in the previous version of this Standard. An entity shall apply those amendments for annual periods\nbeginning on or after 1 July 2014 retrospectively in accordance with AASB 108 _Accounting Policies,_\n_Changes in Accounting Estimates and Errors. Earlier application is permitted. If an entity applies those_\namendments for an earlier period, it shall disclose that fact.  \n176 AASB 2015-1 _Amendments to Australian Accounting Standards \u2013 Annual Improvements to Australian_\n_Accounting Standards 2012\u20132014 Cycle, issued in January 2015, amended the previous version of this_\nStandard as follows: amended paragraph 83 and added paragraph 177. An entity shall apply that amendment\nfor annual periods beginning on or after 1 January 2016. Earlier application is permitted. If an entity applies\nthat amendment for an earlier period it shall disclose that fact.  \n177 An entity shall apply the amendment in paragraph 176 from the beginning of the earliest comparative period\npresented in the first financial statements in which the entity applies the amendment. Any initial adjustment\narising from the application of the amendment shall be recognised in retained earnings at the beginning of\nthat period.  \n178 AASB 17, issued in July 2017, amended the footnote to paragraph 8. An entity shall apply that amendment\nwhen it applies AASB 17.  \n179 AASB 2018-2 _Amendments to Australian Accounting Standards \u2013 Plan Amendment, Curtailment or_\n_Settlement, issued in March 2018, added paragraphs 101A, 122A and 123A, and amended paragraphs 57,_\n99, 120, 123, 125, 126 and 156. An entity shall apply these amendments to plan amendments, curtailments\nor settlements occurring on or after the beginning of the first annual reporting period that begins on or after\n1 January 2019. Earlier application is permitted. If an entity applies these amendments earlier, it shall\ndisclose that fact",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Transition and effective date",
+            "page_number": 33,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus177.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 33,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus177.2 This Standard repeals AASB 119 _Employee Benefits issued in September 2011. Despite the_\nrepeal, after the time this Standard starts to apply under section 334 of the Corporations Act\n(either generally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 33,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Application guidance  \n_This appendix is an integral part of the Standard. It describes the application of paragraphs 92\u201393 and has the same_\n_authority as the other parts of the Standard._  \nA1 The accounting requirements for contributions from employees or third parties are illustrated in the diagram\nbelow.  \n|Set out in the formal terms of the plan constructive obligation that goes beyon|(or arise from a d those terms)|\n|---|---|  \n|Col1|(1)|\n|---|---|\n|||  \n|Col1|Not linked to service (for example, reduce a deficit)|Col3|Col4|Col5|\n|---|---|---|---|---|\n||||||\n|Dependent on Independent of the number of the number of years of service years of service (1) Reduce service Reduce service cost by being cost in the period attributed to in which the periods of related service service is rendered (paragraph (paragraph 93(a)) 93(b))|Reduce service Affect cost upon remeasurements payment to (paragraph 93) the plan (paragraph 92)||||\n|||Reduce service cost upon payment to the plan (paragraph 92)|||\n|(1) This dotted arrow means that an entity is permitted to choose either accounting.|||||  \nContributions from employees or third parties  \nSet out in the formal terms of the plan (or arise from a\nconstructive obligation that goes beyond those terms) Discretionary  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Appendix A Application guidance",
+            "page_number": 34,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Appendix C Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusC1** **Paragraphs 25, 33(b), 34(b), 42, 53, 54, 135\u2013152, 158 and 171 do not apply to entities**\n**preparing general purpose financial statements that apply AASB 1060** **_General Purpose_**\n**_Financial Statements \u2013 Simplified Disclosures for For-Profit and Not-for-Profit Tier 2_**\n**_Entities._**  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Appendix C Australian simplified disclosures for Tier 2 entities",
+            "page_number": 35,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 119 Employee Benefits (as amended)  \n_Compilation details are not part of AASB 119._  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023 but before 1 July 2026. It\ntakes into account amendments up to and including 15 December 2022 and was prepared on 6 April 2023 by the staff\nof the Australian Accounting Standards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 119 (August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Compilation details Accounting Standard AASB 119 Employee Benefits (as amended)",
+            "page_number": 36,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 119|7 Aug 2015|F2015L01612|31 Dec 2015|(beginning) 1 Jan 2016|see (a) below|\n|AASB 17|19 Jul 2017|F2017L01184|31 Dec 2022|(beginning) 1 Jan 2023|see (b) below|\n|AASB 2018-2|23 Mar 2018|F2018L00460|31 Dec 2018|(beginning) 1 Jan 2019|see (c) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (d) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (e) below|\n|AASB 2021-7|20 Dec 2021|F2021L01883|31 Dec 2021|(beginning) 1 Jan 2022|see (f) below|\n|AASB 2022-8|15 Dec 2022|F2023L00014|31 Dec 2022|(beginning) 1 Jan 2023|see (g) below|\n|AASB 2022-9|15 Dec 2022|F2023L00015|30 Jun 2026|(beginning) 1 Jul 2026|not compiled*|  \n-  The amendments made by this Standard are not included in this compilation, which presents the principal Standard as applicable to\nannual periods beginning on or after 1 January 2023 but before 1 July 2026.  \n(a) Entities may elect to apply this Standard to periods beginning on or after 1 January 2014 but before 1 January 2016.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2023, provided that AASB 9 Financial\n_Instruments is also applied on or before the date of initial application of AASB 17. (AASB 17 was amended prior to its mandatory_\napplication by various amending Standards, including AASB 2022-8 Amendments to Australian Accounting Standards \u2013 Insurance\n_Contracts: Consequential Amendments, made by the AASB on 15 December 2022.)_  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 January 2019.  \n(d) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(e) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n(f) Entities may elect to apply this Standard to annual periods beginning before 1 January 2022.  \n(g) Entities may elect to apply this Standard to annual periods beginning before 1 January 2023.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|AusCF1|added|AASB 2019-1 [page 20]|\n|3|amended|AASB 2021-7 [32]|\n|8|amended amended|AASB 17 [page 77] AASB 2022-8 [page 10]|\n|57|amended|AASB 2018-2 [page 5]|\n|99|amended|AASB 2018-2 [page 6]|\n|101A|added|AASB 2018-2 [page 6]|\n|120|amended|AASB 2018-2 [page 6]|\n|122A (and heading)|added|AASB 2018-2 [page 6]|\n|123|amended|AASB 2018-2 [page 6]|\n|123A|added|AASB 2018-2 [page 6]|\n|125|amended|AASB 2018-2 [page 6]|\n|126|amended|AASB 2018-2 [page 7]|\n|156|amended|AASB 2018-2 [page 7]|  \n-----  |Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|---|---|---|\n|Aus177.1|repealed|Legislation Act 2003, s. 48D|\n|178|added|AASB 17 [page 77]|\n|179|added|AASB 2018-2 [page 7]|\n|Appendix C|replaced|AASB 1060 [page 62]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Table of Standards",
+            "page_number": 36,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 19 text  \n_Deleted IAS 19 text is not part of AASB 119._  \n174 IFRS 13, issued in May 2011, amended the definition of fair value in paragraph 8 and amended paragraph\n113. An entity shall apply those amendments when it applies IFRS 13.  \n-----  ",
+        "metadata": {
+            "Header 1": "Employee Benefits",
+            "Header 2": "Deleted IAS 19 text",
+            "page_number": 38,
+            "file_name": "AASB119 Employee Benefits"
+        }
+    }
+]

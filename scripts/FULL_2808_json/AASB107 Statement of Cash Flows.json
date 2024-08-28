@@ -1,0 +1,630 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 107**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "# Statement of Cash Flows  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2024. Earlier application is\npermitted for annual periods beginning on or after 1 January 2014 but before 1 January 2024. It incorporates relevant\namendments made up to and including 22 June 2023.  \nPrepared on 15 November 2023 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 5  \nCompilation date: 31 December 2023  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "page_number": 0,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2023  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The Managing Director, Australian Accounting Standards Board, PO Box\n204, Collins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce IFRS Foundation copyright material for commercial purposes outside Australia should be\naddressed to the IFRS Foundation at www.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 7  \n**ACCOUNTING STANDARD**\nAASB 107 STATEMENT OF CASH FLOWS  \n**OBJECTIVE**\nSCOPE\nBENEFITS OF CASH FLOW INFORMATION\nDEFINITIONS\nCash and cash equivalents\n_from paragraph_\nPRESENTATION OF A STATEMENT OF CASH FLOWS** **10\nOperating activities** **13\nInvesting activities** **16\nFinancing activities** **17\nREPORTING CASH FLOWS FROM OPERATING ACTIVITIES** **18\nREPORTING CASH FLOWS FROM INVESTING AND FINANCING ACTIVITIES** **21\nREPORTING CASH FLOWS ON A NET BASIS** **22\nFOREIGN CURRENCY CASH FLOWS** **25\nINTEREST AND DIVIDENDS** **31\nTAXES ON INCOME** **35\nINVESTMENTS IN SUBSIDIARIES, ASSOCIATES AND JOINT VENTURES** **37\nCHANGES IN OWNERSHIP INTERESTS IN SUBSIDIARIES AND OTHER BUSINESSES** **39\nNON-CASH TRANSACTIONS** **43\nCHANGES IN LIABILITIES ARISING FROM FINANCING ACTIVITES** **44A\nSUPPLIER FINANCE ARRANGEMENTS** **44F\nCOMPONENTS OF CASH AND CASH EQUIVALENTS** **45\nOTHER DISCLOSURES** **48  \n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus52.2\nEFFECTIVE DATE AND TRANSITION** **53  \n**APPENDIX**\nA Australian simplified disclosures for Tier 2 entities  \n**ILLUSTRATIVE EXAMPLES**\n**A Statement of cash flows for an entity other than a financial institution**\n**B Statement of cash flows for a financial institution**\n**C Reconciliation of liabilities arising from financing activities**\n**COMPILATION DETAILS**\nDELETED IAS 7 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IAS 7\nAustralian Accounting Standard AASB 107 Statement of Cash Flows (as amended) is set out in paragraphs 1 \u2013 63 and\nAppendix A. All the paragraphs have equal authority. Paragraphs in bold type state the main principles. AASB 107  \n-----  is to be read in the context of other Australian Accounting Standards, including AASB 1048 _Interpretation of_\n_Standards, which identifies the Australian Accounting Interpretations, and AASB 1057_ _Application of Australian_\n_Accounting Standards. In the absence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting_\n_Estimates and Errors provides a basis for selecting and applying accounting policies._  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 7  \nAASB 107 Statement of Cash Flows as amended incorporates IAS 7 Statement of Cash Flows as issued and amended\nby the International Accounting Standards Board (IASB). Australian-specific paragraphs (which are not included in\nIAS 7) are identified with the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying\ntheir limited applicability.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Comparison with IAS 7",
+            "page_number": 4,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 107 also comply with IAS 7.  \nNot-for-profit entities\u2019 compliance with IAS 7 will depend on whether any \u201cAus\u201d paragraphs that specifically apply to\nnot-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with IAS 7.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Tier 1",
+            "page_number": 4,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 107  \nThe Australian Accounting Standards Board made Accounting Standard AASB 107 Statement of Cash Flows under\nsection 334 of the Corporations Act 2001 on 7 August 2015.  \nThis compiled version of AASB 107 applies to annual periods beginning on or after 1 January 2024. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 22 June 2023 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Accounting Standard AASB 107",
+            "page_number": 5,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 107 Statement of Cash Flows  \nObjective  \nInformation about the cash flows of an entity is useful in providing users of financial statements with a basis to assess\nthe ability of the entity to generate cash and cash equivalents and the needs of the entity to utilise those cash flows.\nThe economic decisions that are taken by users require an evaluation of the ability of an entity to generate cash and\ncash equivalents and the timing and certainty of their generation.  \nThe objective of this Standard is to require the provision of information about the historical changes in cash and cash\nequivalents of an entity by means of a statement of cash flows which classifies cash flows during the period from\noperating, investing and financing activities.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Accounting Standard AASB 107 Statement of Cash Flows",
+            "page_number": 5,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n**1** **An entity shall prepare a statement of cash flows in accordance with the requirements of this**\n**Standard and shall present it as an integral part of its financial statements for each period for which**\n**financial statements are presented.**  \n2 [Deleted by the AASB]  \n3 Users of an entity\u2019s financial statements are interested in how the entity generates and uses cash and cash\nequivalents. This is the case regardless of the nature of the entity\u2019s activities and irrespective of whether\ncash can be viewed as the product of the entity, as may be the case with a financial institution. Entities need\ncash for essentially the same reasons however different their principal revenue-producing activities might\nbe. They need cash to conduct their operations, to pay their obligations, and to provide returns to their\ninvestors.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Scope",
+            "page_number": 5,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Benefits of cash flow information  \n4 A statement of cash flows, when used in conjunction with the rest of the financial statements, provides\ninformation that enables users to evaluate the changes in net assets of an entity, its financial structure\n(including its liquidity and solvency) and its ability to affect the amounts and timing of cash flows in order\nto adapt to changing circumstances and opportunities. Cash flow information is useful in assessing the\nability of the entity to generate cash and cash equivalents and enables users to develop models to assess and\ncompare the present value of the future cash flows of different entities. It also enhances the comparability of\nthe reporting of operating performance by different entities because it eliminates the effects of using\ndifferent accounting treatments for the same transactions and events.  \n5 Historical cash flow information is often used as an indicator of the amount, timing and certainty of future\ncash flows. It is also useful in checking the accuracy of past assessments of future cash flows and in\nexamining the relationship between profitability and net cash flow and the impact of changing prices.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Benefits of cash flow information",
+            "page_number": 5,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**6** **The following terms are used in this Standard with the meanings specified:**  \n**_Cash comprises cash on hand and demand deposits._**  \n-----  **_Cash equivalents are short-term, highly liquid investments that are readily convertible to known_**\n**amounts of cash and which are subject to an insignificant risk of changes in value.**  \n**_Cash flows are inflows and outflows of cash and cash equivalents._**  \n**_Operating activities are the principal revenue-producing activities of the entity and other activities_**\n**that are not investing or financing activities.**  \n**_Investing activities are the acquisition and disposal of long-term assets and other investments not_**\n**included in cash equivalents.**  \n**_Financing activities are activities that result in changes in the size and composition of the contributed_**\n**equity and borrowings of the entity.**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Definitions",
+            "page_number": 5,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Cash and cash equivalents  \n7 Cash equivalents are held for the purpose of meeting short-term cash commitments rather than for\ninvestment or other purposes. For an investment to qualify as a cash equivalent it must be readily\nconvertible to a known amount of cash and be subject to an insignificant risk of changes in value.\nTherefore, an investment normally qualifies as a cash equivalent only when it has a short maturity of, say,\nthree months or less from the date of acquisition. Equity investments are excluded from cash equivalents\nunless they are, in substance, cash equivalents, for example in the case of preferred shares acquired within a\nshort period of their maturity and with a specified redemption date.  \n8 Bank borrowings are generally considered to be financing activities. However, in some countries, bank\noverdrafts which are repayable on demand form an integral part of an entity\u2019s cash management. In these\ncircumstances, bank overdrafts are included as a component of cash and cash equivalents. A characteristic\nof such banking arrangements is that the bank balance often fluctuates from being positive to overdrawn.  \n9 Cash flows exclude movements between items that constitute cash or cash equivalents because these\ncomponents are part of the cash management of an entity rather than part of its operating, investing and\nfinancing activities. Cash management includes the investment of excess cash in cash equivalents.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Cash and cash equivalents",
+            "page_number": 6,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Presentation of a statement of cash flows  \n**10** **The statement of cash flows shall report cash flows during the period classified by operating,**\n**investing and financing activities.**  \n11 An entity presents its cash flows from operating, investing and financing activities in a manner which is\nmost appropriate to its business. Classification by activity provides information that allows users to assess\nthe impact of those activities on the financial position of the entity and the amount of its cash and cash\nequivalents. This information may also be used to evaluate the relationships among those activities.  \n12 A single transaction may include cash flows that are classified differently. For example, when the cash\nrepayment of a loan includes both interest and capital, the interest element may be classified as an operating\nactivity and the capital element is classified as a financing activity.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Presentation of a statement of cash flows",
+            "page_number": 6,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Operating activities  \n13 The amount of cash flows arising from operating activities is a key indicator of the extent to which the\noperations of the entity have generated sufficient cash flows to repay loans, maintain the operating\ncapability of the entity, pay dividends and make new investments without recourse to external sources of\nfinancing. Information about the specific components of historical operating cash flows is useful, in\nconjunction with other information, in forecasting future operating cash flows.  \n14 Cash flows from operating activities are primarily derived from the principal revenue-producing activities\nof the entity. Therefore, they generally result from the transactions and other events that enter into the\ndetermination of profit or loss. Examples of cash flows from operating activities are:  \n(a) cash receipts from the sale of goods and the rendering of services;  \n(b) cash receipts from royalties, fees, commissions and other revenue;  \n(c) cash payments to suppliers for goods and services;  \n(d) cash payments to and on behalf of employees;  \n(e) [deleted]  \n-----  (f) cash payments or refunds of income taxes unless they can be specifically identified with\nfinancing and investing activities; and  \n(g) cash receipts and payments from contracts held for dealing or trading purposes.  \nSome transactions, such as the sale of an item of plant, may give rise to a gain or loss that is included in\nrecognised profit or loss. The cash flows relating to such transactions are cash flows from investing\nactivities. However, cash payments to manufacture or acquire assets held for rental to others and\nsubsequently held for sale as described in paragraph 68A of AASB 116 Property, Plant and Equipment are\ncash flows from operating activities. The cash receipts from rents and subsequent sales of such assets are\nalso cash flows from operating activities.  \n15 An entity may hold securities and loans for dealing or trading purposes, in which case they are similar to\ninventory acquired specifically for resale. Therefore, cash flows arising from the purchase and sale of\ndealing or trading securities are classified as operating activities. Similarly, cash advances and loans made\nby financial institutions are usually classified as operating activities since they relate to the main revenueproducing activity of that entity.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Operating activities",
+            "page_number": 6,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Investing activities  \n16 The separate disclosure of cash flows arising from investing activities is important because the cash flows\nrepresent the extent to which expenditures have been made for resources intended to generate future income\nand cash flows. Only expenditures that result in a recognised asset in the statement of financial position are\neligible for classification as investing activities. Examples of cash flows arising from investing activities\nare:  \n(a) cash payments to acquire property, plant and equipment, intangibles and other long-term assets.\nThese payments include those relating to capitalised development costs and self-constructed\nproperty, plant and equipment;  \n(b) cash receipts from sales of property, plant and equipment, intangibles and other long-term assets;  \n(c) cash payments to acquire equity or debt instruments of other entities and interests in joint\nventures (other than payments for those instruments considered to be cash equivalents or those\nheld for dealing or trading purposes);  \n(d) cash receipts from sales of equity or debt instruments of other entities and interests in joint\nventures (other than receipts for those instruments considered to be cash equivalents and those\nheld for dealing or trading purposes);  \n(e) cash advances and loans made to other parties (other than advances and loans made by a financial\ninstitution);  \n(f) cash receipts from the repayment of advances and loans made to other parties (other than\nadvances and loans of a financial institution);  \n(g) cash payments for futures contracts, forward contracts, option contracts and swap contracts\nexcept when the contracts are held for dealing or trading purposes, or the payments are classified\nas financing activities; and  \n(h) cash receipts from futures contracts, forward contracts, option contracts and swap contracts\nexcept when the contracts are held for dealing or trading purposes, or the receipts are classified as\nfinancing activities.  \nWhen a contract is accounted for as a hedge of an identifiable position the cash flows of the contract are\nclassified in the same manner as the cash flows of the position being hedged.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Investing activities",
+            "page_number": 7,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Financing activities  \n17 The separate disclosure of cash flows arising from financing activities is important because it is useful in\npredicting claims on future cash flows by providers of capital to the entity. Examples of cash flows arising\nfrom financing activities are:  \n(a) cash proceeds from issuing shares or other equity instruments;  \n(b) cash payments to owners to acquire or redeem the entity\u2019s shares;  \n(c) cash proceeds from issuing debentures, loans, notes, bonds, mortgages and other short-term or\nlong-term borrowings;  \n(d) cash repayments of amounts borrowed; and  \n-----  (e) cash payments by a lessee for the reduction of the outstanding liability relating to a lease.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Financing activities",
+            "page_number": 7,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Reporting cash flows from operating activities  \n**18** **An entity shall report cash flows from operating activities using either:**  \n**(a)** **the direct method, whereby major classes of gross cash receipts and gross cash payments**\n**are disclosed; or**  \n**(b)** **the indirect method, whereby profit or loss is adjusted for the effects of transactions of a**\n**non-cash nature, any deferrals or accruals of past or future operating cash receipts or**\n**payments, and items of income or expense associated with investing or financing cash flows.**  \n19 Entities are encouraged to report cash flows from operating activities using the direct method. The direct\nmethod provides information which may be useful in estimating future cash flows and which is not\navailable under the indirect method. Under the direct method, information about major classes of gross cash\nreceipts and gross cash payments may be obtained either:  \n(a) from the accounting records of the entity; or  \n(b) by adjusting sales, cost of sales (interest and similar income and interest expense and similar\ncharges for a financial institution) and other items in the statement of comprehensive income for:  \n(i) changes during the period in inventories and operating receivables and payables;  \n(ii) other non-cash items; and  \n(iii) other items for which the cash effects are investing or financing cash flows.  \n20 Under the indirect method, the net cash flow from operating activities is determined by adjusting profit or\nloss for the effects of:  \n(a) changes during the period in inventories and operating receivables and payables;  \n(b) non-cash items such as depreciation, provisions, deferred taxes, unrealised foreign currency gains\nand losses, and undistributed profits of associates; and  \n(c) all other items for which the cash effects are investing or financing cash flows.  \nAlternatively, the net cash flow from operating activities may be presented under the indirect method by\nshowing the revenues and expenses disclosed in the statement of comprehensive income and the changes\nduring the period in inventories and operating receivables and payables.  \nAus20.1 [Deleted by the AASB]  \nAus20.2 Not-for-profit entities that use the direct method and that highlight the net cost of services in their\nstatement of comprehensive income for the reporting period shall disclose in the complete set of\nfinancial statements a reconciliation of cash flows arising from operating activities to net cost of\nservices as reported in the statement of comprehensive income.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Reporting cash flows from operating activities",
+            "page_number": 8,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Reporting cash flows from investing and financing activities  \n**21** **An entity shall report separately major classes of gross cash receipts and gross cash payments arising**\n**from investing and financing activities, except to the extent that cash flows described in**\n**paragraphs 22 and 24 are reported on a net basis.**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Reporting cash flows from investing and financing activities",
+            "page_number": 8,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Reporting cash flows on a net basis  \n**22** **Cash flows arising from the following operating, investing or financing activities may be reported on**\n**a net basis:**  \n**(a)** **cash receipts and payments on behalf of customers when the cash flows reflect the activities**\n**of the customer rather than those of the entity; and**  \n**(b)** **cash receipts and payments for items in which the turnover is quick, the amounts are large,**\n**and the maturities are short.**  \n23 Examples of cash receipts and payments referred to in paragraph 22(a) are:  \n(a) the acceptance and repayment of demand deposits of a bank;  \n-----  (b) funds held for customers by an investment entity; and  \n(c) rents collected on behalf of, and paid over to, the owners of properties.  \n23A Examples of cash receipts and payments referred to in paragraph 22(b) are advances made for, and the\nrepayment of:  \n(a) principal amounts relating to credit card customers;  \n(b) the purchase and sale of investments; and  \n(c) other short-term borrowings, for example, those which have a maturity period of three months or\nless.  \n**24** **Cash flows arising from each of the following activities of a financial institution may be reported on a**\n**net basis:**  \n**(a)** **cash receipts and payments for the acceptance and repayment of deposits with a fixed**\n**maturity date;**  \n**(b)** **the placement of deposits with and withdrawal of deposits from other financial institutions;**\n**and**  \n**(c)** **cash advances and loans made to customers and the repayment of those advances and loans.**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Reporting cash flows on a net basis",
+            "page_number": 8,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Foreign currency cash flows  \n**25** **Cash flows arising from transactions in a foreign currency shall be recorded in an entity\u2019s functional**\n**currency by applying to the foreign currency amount the exchange rate between the functional**\n**currency and the foreign currency at the date of the cash flow.**  \n**26** **The cash flows of a foreign subsidiary shall be translated at the exchange rates between the functional**\n**currency and the foreign currency at the dates of the cash flows.**  \n27 Cash flows denominated in a foreign currency are reported in a manner consistent with AASB 121 _The_\n_Effects of Changes in Foreign Exchange Rates. This permits the use of an exchange rate that approximates_\nthe actual rate. For example, a weighted average exchange rate for a period may be used for recording\nforeign currency transactions or the translation of the cash flows of a foreign subsidiary. However,\nAASB 121 does not permit use of the exchange rate at the end of the reporting period when translating the\ncash flows of a foreign subsidiary.  \n28 Unrealised gains and losses arising from changes in foreign currency exchange rates are not cash flows.\nHowever, the effect of exchange rate changes on cash and cash equivalents held or due in a foreign\ncurrency is reported in the statement of cash flows in order to reconcile cash and cash equivalents at the\nbeginning and the end of the period. This amount is presented separately from cash flows from operating,\ninvesting and financing activities and includes the differences, if any, had those cash flows been reported at\nend of period exchange rates.  \n29 [Deleted]  \n30 [Deleted]",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Foreign currency cash flows",
+            "page_number": 9,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Interest and dividends  \n**31** **Cash flows from interest and dividends received and paid shall each be disclosed separately. Each**\n**shall be classified in a consistent manner from period to period as either operating, investing or**\n**financing activities.**  \n32 The total amount of interest paid during a period is disclosed in the statement of cash flows whether it has\nbeen recognised as an expense in profit or loss or capitalised in accordance with AASB 123 _Borrowing_\n_Costs._  \n33 Interest paid and interest and dividends received are usually classified as operating cash flows for a\nfinancial institution. However, there is no consensus on the classification of these cash flows for other\nentities. Interest paid and interest and dividends received may be classified as operating cash flows because\nthey enter into the determination of profit or loss. Alternatively, interest paid and interest and dividends\nreceived may be classified as financing cash flows and investing cash flows respectively, because they are\ncosts of obtaining financial resources or returns on investments.  \n-----  34 Dividends paid may be classified as a financing cash flow because they are a cost of obtaining financial\nresources. Alternatively, dividends paid may be classified as a component of cash flows from operating\nactivities in order to assist users to determine the ability of an entity to pay dividends out of operating cash\nflows.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Interest and dividends",
+            "page_number": 9,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Taxes on income  \n**35** **Cash flows arising from taxes on income shall be separately disclosed and shall be classified as cash**\n**flows from operating activities unless they can be specifically identified with financing and investing**\n**activities.**  \n36 Taxes on income arise on transactions that give rise to cash flows that are classified as operating, investing\nor financing activities in a statement of cash flows. While tax expense may be readily identifiable with\ninvesting or financing activities, the related tax cash flows are often impracticable to identify and may arise\nin a different period from the cash flows of the underlying transaction. Therefore, taxes paid are usually\nclassified as cash flows from operating activities. However, when it is practicable to identify the tax cash\nflow with an individual transaction that gives rise to cash flows that are classified as investing or financing\nactivities the tax cash flow is classified as an investing or financing activity as appropriate. When tax cash\nflows are allocated over more than one class of activity, the total amount of taxes paid is disclosed.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Taxes on income",
+            "page_number": 10,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Investments in subsidiaries, associates and joint ventures  \n37 When accounting for an investment in an associate, a joint venture or a subsidiary accounted for by use of\nthe equity or cost method, an investor restricts its reporting in the statement of cash flows to the cash flows\nbetween itself and the investee, for example, to dividends and advances.  \n38 An entity that reports its interest in an associate or a joint venture using the equity method includes in its\nstatement of cash flows the cash flows in respect of its investments in the associate or joint venture, and\ndistributions and other payments or receipts between it and the associate or joint venture.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Investments in subsidiaries, associates and joint ventures",
+            "page_number": 10,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Changes in ownership interests in subsidiaries and other businesses  \n**39** **The aggregate cash flows arising from obtaining or losing control of subsidiaries or other businesses**\n**shall be presented separately and classified as investing activities.**  \n**40** **An entity shall disclose, in aggregate, in respect of both obtaining and losing control of subsidiaries or**\n**other businesses during the period each of the following:**  \n**(a)** **the total consideration paid or received;**  \n**(b)** **the portion of the consideration consisting of cash and cash equivalents;**  \n**(c)** **the amount of cash and cash equivalents in the subsidiaries or other businesses over which**\n**control is obtained or lost; and**  \n**(d)** **the amount of the assets and liabilities other than cash or cash equivalents in the**\n**subsidiaries or other businesses over which control is obtained or lost, summarised by each**\n**major category.**  \n40A An investment entity, as defined in AASB 10 _Consolidated Financial Statements, need not apply_\nparagraphs 40(c) or 40(d) to an investment in a subsidiary that is required to be measured at fair value\nthrough profit or loss.  \n41 The separate presentation of the cash flow effects of obtaining or losing control of subsidiaries or other\nbusinesses as single line items, together with the separate disclosure of the amounts of assets and liabilities\nacquired or disposed of, helps to distinguish those cash flows from the cash flows arising from the other\noperating, investing and financing activities. The cash flow effects of losing control are not deducted from\nthose of obtaining control.  \n42 The aggregate amount of the cash paid or received as consideration for obtaining or losing control of\nsubsidiaries or other businesses is reported in the statement of cash flows net of cash and cash equivalents\nacquired or disposed of as part of such transactions, events or changes in circumstances.  \n42A Cash flows arising from changes in ownership interests in a subsidiary that do not result in a loss of control\nshall be classified as cash flows from financing activities, unless the subsidiary is held by an investment\nentity, as defined in AASB 10, and is required to be measured at fair value through profit or loss.  \n-----  42B Changes in ownership interests in a subsidiary that do not result in a loss of control, such as the subsequent\npurchase or sale by a parent of a subsidiary\u2019s equity instruments, are accounted for as equity transactions\n(see AASB 10), unless the subsidiary is held by an investment entity and is required to be measured at fair\nvalue through profit or loss. Accordingly, the resulting cash flows are classified in the same way as other\ntransactions with owners described in paragraph 17.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Changes in ownership interests in subsidiaries and other businesses",
+            "page_number": 10,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Non-cash transactions  \n**43** **Investing and financing transactions that do not require the use of cash or cash equivalents shall be**\n**excluded from a statement of cash flows. Such transactions shall be disclosed elsewhere in the**\n**financial statements in a way that provides all the relevant information about these investing and**\n**financing activities.**  \n44 Many investing and financing activities do not have a direct impact on current cash flows although they do\naffect the capital and asset structure of an entity. The exclusion of non-cash transactions from the statement\nof cash flows is consistent with the objective of a statement of cash flows as these items do not involve cash\nflows in the current period. Examples of non-cash transactions are:  \n(a) the acquisition of assets either by assuming directly related liabilities or by means of a lease;  \n(b) the acquisition of an entity by means of an equity issue; and  \n(c) the conversion of debt to equity.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Non-cash transactions",
+            "page_number": 11,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Changes in liabilities arising from financing activities  \n**44A** **An entity shall provide disclosures that enable users of financial statements to evaluate changes in**\n**liabilities arising from financing activities, including both changes arising from cash flows and non-**\n**cash changes.**  \n44B To the extent necessary to satisfy the requirement in paragraph 44A, an entity shall disclose the following\nchanges in liabilities arising from financing activities:  \n(a) changes from financing cash flows;  \n(b) changes arising from obtaining or losing control of subsidiaries or other businesses;  \n(c) the effect of changes in foreign exchange rates;  \n(d) changes in fair values; and  \n(e) other changes.  \n44C Liabilities arising from financing activities are liabilities for which cash flows were, or future cash flows\nwill be, classified in the statement of cash flows as cash flows from financing activities. In addition, the\ndisclosure requirement in paragraph 44A also applies to changes in financial assets (for example, assets that\nhedge liabilities arising from financing activities) if cash flows from those financial assets were, or future\ncash flows will be, included in cash flows from financing activities.  \n44D One way to fulfil the disclosure requirement in paragraph 44A is by providing a reconciliation between the\nopening and closing balances in the statement of financial position for liabilities arising from financing\nactivities, including the changes identified in paragraph 44B. Where an entity discloses such a\nreconciliation, it shall provide sufficient information to enable users of the financial statements to link items\nincluded in the reconciliation to the statement of financial position and the statement of cash flows.  \n44E If an entity provides the disclosure required by paragraph 44A in combination with disclosures of changes\nin other assets and liabilities, it shall disclose the changes in liabilities arising from financing activities\nseparately from changes in those other assets and liabilities.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Changes in liabilities arising from financing activities",
+            "page_number": 11,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Supplier finance arrangements  \n**44F** **An entity shall disclose information about its supplier finance arrangements (as described in**\n**paragraph 44G) that enables users of financial statements to assess the effects of those arrangements**\n**on the entity\u2019s liabilities and cash flows and on the entity\u2019s exposure to liquidity risk.**  \n44G Supplier finance arrangements are characterised by one or more finance providers offering to pay amounts\nan entity owes its suppliers and the entity agreeing to pay according to the terms and conditions of the\narrangements at the same date as, or a date later than, suppliers are paid. These arrangements provide the  \n-----  entity with extended payment terms, or the entity\u2019s suppliers with early payment terms, compared to the\nrelated invoice payment due date. Supplier finance arrangements are often referred to as supply chain\nfinance, payables finance or reverse factoring arrangements. Arrangements that are solely credit\nenhancements for the entity (for example, financial guarantees including letters of credit used as guarantees)\nor instruments used by the entity to settle directly with a supplier the amounts owed (for example, credit\ncards) are not supplier finance arrangements.  \n44H To meet the objectives in paragraph 44F, an entity shall disclose in aggregate for its supplier finance\narrangements:  \n(a) the terms and conditions of the arrangements (for example, extended payment terms and security\nor guarantees provided). However, an entity shall disclose separately the terms and conditions of\narrangements that have dissimilar terms and conditions.  \n(b) as at the beginning and end of the reporting period:  \n(i) the carrying amounts, and associated line items presented in the entity\u2019s statement of\nfinancial position, of the financial liabilities that are part of a supplier finance\narrangement.  \n(ii) the carrying amounts, and associated line items, of the financial liabilities disclosed\nunder (i) for which suppliers have already received payment from the finance\nproviders.  \n(iii) the range of payment due dates (for example, 30\u201340 days after the invoice date) for\nboth the financial liabilities disclosed under (i) and comparable trade payables that are\nnot part of a supplier finance arrangement. Comparable trade payables are, for\nexample, trade payables of the entity within the same line of business or jurisdiction as\nthe financial liabilities disclosed under (i). If ranges of payment due dates are wide, an\nentity shall disclose explanatory information about those ranges or disclose additional\nranges (for example, stratified ranges).  \n(c) the type and effect of non-cash changes in the carrying amounts of the financial liabilities\ndisclosed under (b)(i). Examples of non-cash changes include the effect of business combinations,\nexchange differences or other transactions that do not require the use of cash or cash equivalents\n(see paragraph 43).",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Supplier finance arrangements",
+            "page_number": 11,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Components of cash and cash equivalents  \n**45** **An entity shall disclose the components of cash and cash equivalents and shall present a reconciliation**\n**of the amounts in its statement of cash flows with the equivalent items reported in the statement of**\n**financial position.**  \n46 In view of the variety of cash management practices and banking arrangements around the world and in\norder to comply with AASB 101 Presentation of Financial Statements, an entity discloses the policy which\nit adopts in determining the composition of cash and cash equivalents.  \n47 The effect of any change in the policy for determining components of cash and cash equivalents, for\nexample, a change in the classification of financial instruments previously considered to be part of an\nentity\u2019s investment portfolio, is reported in accordance with AASB 108 _Accounting Policies, Changes in_\n_Accounting Estimates and Errors._",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Components of cash and cash equivalents",
+            "page_number": 12,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Other disclosures  \n**48** **An entity shall disclose, together with a commentary by management, the amount of significant cash**\n**and cash equivalent balances held by the entity that are not available for use by the group.**  \n49 There are various circumstances in which cash and cash equivalent balances held by an entity are not\navailable for use by the group. Examples include cash and cash equivalent balances held by a subsidiary\nthat operates in a country where exchange controls or other legal restrictions apply when the balances are\nnot available for general use by the parent or other subsidiaries.  \n50 Additional information may be relevant to users in understanding the financial position and liquidity of an\nentity. Disclosure of this information, together with a commentary by management, is encouraged and may\ninclude:  \n(a) the amount of undrawn borrowing facilities that may be available for future operating activities\nand to settle capital commitments, indicating any restrictions on the use of these facilities;  \n-----  (b) [deleted]  \n(c) the aggregate amount of cash flows that represent increases in operating capacity separately from\nthose cash flows that are required to maintain operating capacity; and  \n(d) the amount of the cash flows arising from the operating, investing and financing activities of each\nreportable segment (see AASB 8 Operating Segments).  \n51 The separate disclosure of cash flows that represent increases in operating capacity and cash flows that are\nrequired to maintain operating capacity is useful in enabling the user to determine whether the entity is\ninvesting adequately in the maintenance of its operating capacity. An entity that does not invest adequately\nin the maintenance of its operating capacity may be prejudicing future profitability for the sake of current\nliquidity and distributions to owners.  \n52 The disclosure of segmental cash flows enables users to obtain a better understanding of the relationship\nbetween the cash flows of the business as a whole and those of its component parts and the availability and\nvariability of segmental cash flows.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Other disclosures",
+            "page_number": 12,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus52.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 13,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus52.2 This Standard repeals AASB 107 _Statement of Cash Flows issued in July 2004. Despite the_\nrepeal, after the time this Standard starts to apply under section 334 of the Corporations Act\n(either generally or in relation to an individual entity), the repealed Standard continues to apply in\nrelation to any period ending before that time as if the repeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 13,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Effective date and transition  \n53 This Standard becomes operative for financial statements covering periods beginning on or after 1 January\n2016. Earlier application is permitted for periods beginning on or after 1 January 2014 but before 1 January\n2016.  \n54\u2013\n58 [Deleted by the AASB]  \n59 AASB 16 _Leases, issued in February 2016, amended paragraphs 17 and 44. An entity shall apply those_\namendments when it applies AASB 16.  \n60 AASB 2016-2 _Amendments to Australian Accounting Standards \u2013 Disclosure Initiative: Amendments to_\n_AASB 107, issued in March 2016, added paragraphs 44A\u201344E. An entity shall apply those amendments for_\nannual periods beginning on or after 1 January 2017. Earlier application is permitted. When the entity first\napplies those amendments, it is not required to provide comparative information for preceding periods.  \n61 AASB 17 _Insurance Contracts, issued in July 2017, amended paragraph 14. An entity shall apply that_\namendment when it applies AASB 17.  \n62 AASB 2023-1 Amendments to Australian Accounting Standards \u2013 _Supplier Finance Arrangements, issued_\nin June 2023, added paragraphs 44F\u201344H. An entity shall apply those amendments for annual reporting\nperiods beginning on or after 1 January 2024. Earlier application is permitted. If an entity applies those\namendments for an earlier period, it shall disclose that fact.  \n63 In applying AASB 2023-1, an entity is not required to disclose:  \n(a) comparative information for any reporting periods presented before the beginning of the annual\nreporting period in which the entity first applies those amendments.  \n(b) the information otherwise required by paragraph 44H(b)(ii)\u2013(iii) as at the beginning of the annual\nreporting period in which the entity first applies those amendments.  \n(c) the information otherwise required by paragraphs 44F\u201344H for any interim period presented\nwithin the annual reporting period in which the entity first applies those amendments.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Effective date and transition",
+            "page_number": 13,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusA1** **This Standard does not apply to entities preparing general purpose financial statements**\n**that apply AASB 1060 General Purpose Financial Statements \u2013 Simplified Disclosures for**\n**_For-Profit and Not-for-Profit Tier 2 Entities._**  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Appendix A Australian simplified disclosures for Tier 2 entities",
+            "page_number": 14,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Illustrative examples  \n_These illustrative examples accompany, but are not part of, AASB 107._",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Illustrative examples",
+            "page_number": 15,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## A Statement of cash flows for an entity other than a financial institution  \n1 The examples show only current period amounts. Corresponding amounts for the preceding period are\nrequired to be presented in accordance with AASB 101 Presentation of Financial Statements.  \n2 Information from the statement of comprehensive income and statement of financial position is provided to\nshow how the statements of cash flows under the direct method and indirect method have been derived.\nNeither the statement of comprehensive income nor the statement of financial position is presented in\nconformity with the disclosure and presentation requirements of other Standards.  \n3 The following additional information is also relevant for the preparation of the statements of cash flows:  \n-  all of the shares of a subsidiary were acquired for 590. The fair values of assets acquired and\nliabilities assumed were as follows:  \nInventories 100  \nAccounts receivable 100  \nCash 40  \nProperty, plant and equipment 650  \nTrade payables 100  \nLong-term debt 200  \n-  250 was raised from the issue of share capital and a further 250 was raised from long-term\nborrowings.  \n-  interest expense was 400, of which 170 was paid during the period. Also, 100 relating to interest\nexpense of the prior period was paid during the period.  \n-  dividends paid were 1,200.  \n-  the liability for tax at the beginning and end of the period was 1,000 and 400 respectively. During\nthe period, a further 200 tax was provided for. Withholding tax on dividends received amounted\nto 100.  \n-  during the period, the group acquired property, plant and equipment and right-of-use assets\nrelating to property, plant and equipment with an aggregate cost of 1,250, of which 900 related to\nright-of-use assets. Cash payments of 350 were made to purchase property, plant and equipment.  \n-  plant with original cost of 80 and accumulated depreciation of 60 was sold for 20.  \n-  accounts receivable as at the end of 20X2 include 100 of interest receivable.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "page_number": 15,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Consolidated statement of comprehensive income for the period ended 20X2[(a)]\nSales 30,650  \nCost of sales (26,000)  \nGross profit 4,650  \nDepreciation (450)  \nAdministrative and selling expenses (910)  \nInterest expense (400)  \n-----    \n### Consolidated statement of comprehensive income for the period ended 20X2[(a)]\nInvestment income 500  \nForeign exchange loss (40)  \nProfit before taxation 3,350  \nTaxes on income (300)  \nProfit 3,050  \n(a) The entity did not recognise any components of other comprehensive income in the period ended 20X2",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Consolidated statement of comprehensive income for the period ended 20X2[(a)]",
+            "page_number": 15,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Consolidated statement of financial position as at end of 20X2  \n**20X2** **20X1**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Consolidated statement of financial position as at end of 20X2",
+            "page_number": 16,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Assets\nCash and cash equivalents 230 160  \nAccounts receivable 1,900 1,200  \nInventory 1,000 1,950  \nPortfolio investments 2,500 2,500  \nProperty, plant and equipment\nat cost 3,730 1,910  \nAccumulated depreciation (1,450) (1,060)  \nProperty, plant and equipment\nnet 2,280 850  \nTotal assets 7,910 6,660",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Assets",
+            "page_number": 16,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Liabilities\nTrade payables 250 1,890  \nInterest payable 230 100  \nIncome taxes payable 400 1,000  \nLong-term debt 2,300 1,040  \nTotal liabilities 3,180 4,030",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Liabilities",
+            "page_number": 16,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Shareholders\u2019 equity\nShare capital 1,500 1,250  \nRetained earnings 3,230 1,380  \nTotal shareholders\u2019 equity 4,730 2,630  \nTotal liabilities and\nshareholders\u2019 equity 7,910 6,660  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Shareholders\u2019 equity",
+            "page_number": 16,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Direct method statement of cash flows (paragraph 18(a))",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Direct method statement of cash flows (paragraph 18(a))",
+            "page_number": 17,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from operating activities\nCash receipts from customers 30,150  \nCash paid to suppliers and employees (27,600)  \nCash generated from operations 2,550  \nInterest paid (270)  \nIncome taxes paid (900)  \n**20X2**  \n_Net cash from operating activities_ 1,380",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from operating activities",
+            "page_number": 17,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from investing activities\nAcquisition of subsidiary X, net of cash acquired (Note A) (550)  \nPurchase of property, plant and equipment (Note B) (350)  \nProceeds from sale of equipment 20  \nInterest received 200  \nDividends received 200  \n_Net cash used in investing activities_ (480)",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from investing activities",
+            "page_number": 17,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from financing activities\nProceeds from issue of share capital 250  \nProceeds from long-term borrowings 250  \nPayment of lease liabilities (90)  \nDividends paid[(a)] (1,200)  \n_Net cash used in financing activities_ (790)  \n**Net increase in cash and cash equivalents** 110  \n**Cash and cash equivalents at beginning of period (Note C)** 120  \n**Cash and cash equivalents at end of period (Note C)** 230  \n(a) This could also be shown as an operating cash flow.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from financing activities",
+            "page_number": 17,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Indirect method statement of cash flows (paragraph 18(b))",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Indirect method statement of cash flows (paragraph 18(b))",
+            "page_number": 18,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from operating activities\nProfit before taxation 3,350  \nAdjustments for:  \nDepreciation 450  \nForeign exchange loss 40  \nInvestment income (500)  \nInterest expense 400  \n3,740  \nIncrease in trade and other receivables (500)  \nDecrease in inventories 1,050  \nDecrease in trade payables (1,740)  \nCash generated from operations 2,550  \nInterest paid (270)  \nIncome taxes paid (900)  \n**20X2**  \n_Net cash from operating activities_ 1,380",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from operating activities",
+            "page_number": 18,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from investing activities\nAcquisition of subsidiary X net of cash acquired (Note A) (550)  \nPurchase of property, plant and equipment (Note B) (350)  \nProceeds from sale of equipment 20  \nInterest received 200  \nDividends received 200  \n_Net cash used in investing activities_ (480)",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from investing activities",
+            "page_number": 18,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from financing activities\nProceeds from issue of share capital 250  \nProceeds from long-term borrowings 250  \nPayment of lease liabilities (90)  \nDividends paid[(a)] (1,200)  \n_Net cash used in financing activities_ (790)  \n**Net increase in cash and cash equivalents** 110  \n**Cash and cash equivalents at beginning of period (Note C)** 120  \n**Cash and cash equivalents at end of period (Note C)** 230  \n(a) This could also be shown as an operating cash flow.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "A Statement of cash flows for an entity other than a financial institution",
+            "Header 3": "Cash flows from financing activities",
+            "page_number": 18,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Notes to the statement of cash flows (direct method and indirect method)  \nA. Obtaining control of subsidiary  \nDuring the period the Group obtained control of subsidiary X. The fair values of assets acquired and liabilities\nassumed were as follows:  \nCash 40  \nInventories 100  \nAccounts receivable 100  \nProperty, plant and equipment 650  \nTrade payables (100)  \nLong-term debt (200)  \nTotal purchase price paid in cash 590  \nLess: Cash of subsidiary X acquired (40)  \nCash paid to obtain control net of cash acquired 550",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Notes to the statement of cash flows (direct method and indirect method)",
+            "page_number": 19,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## B. Property, plant and equipment  \nDuring the period, the Group acquired property, plant and equipment and right-of-use assets relating to property, plant\nand equipment with an aggregate cost of 1,250, of which 900 related to right-of-use assets. Cash payments of 350\nwere made to purchase property, plant and equipment.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "B. Property, plant and equipment",
+            "page_number": 19,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## C. Cash and cash equivalents  \nCash and cash equivalents consist of cash on hand and balances with banks, and investments in money market\ninstruments. Cash and cash equivalents included in the statement of cash flows comprise the following amounts in the\nstatement of financial position:  \n**20X2** **20X1**  \nCash on hand and balances with banks 40 25  \nShort-term investments 190 135  \nCash and cash equivalents as previously reported 230 160  \nEffect of exchange rate changes \u2013 (40)  \nCash and cash equivalents as restated 230 120  \nCash and cash equivalents at the end of the period include deposits with banks of 100 held by a subsidiary which are\nnot freely remissible to the holding company because of currency exchange restrictions.  \nThe Group has undrawn borrowing facilities of 2,000 of which 700 may be used only for future expansion.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "C. Cash and cash equivalents",
+            "page_number": 19,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## D. Segment information  \nCash flows from:",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "D. Segment information",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Segment A** **Segment B** **Total\nOperating activities 1,520 (140) 1,380  \nInvesting activities (640) 160 (480)  \nFinancing activities (570) (220) (790)  \n310 (200) 110",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "D. Segment information",
+            "Header 3": "Segment A** **Segment B** **Total",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## E. Reconciliation of liabilities arising from financing activities  \n**20X1** **Cash flows** **Non-cash changes** **20X2**  \n**New**\n**leases**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "E. Reconciliation of liabilities arising from financing activities",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Acquisition\nLong-term borrowings 1,040 250 200 \u2013 1,490  \nLease liabilities \u2013 (90) \u2013 900 810  \nLong-term debt 1,040 160 200 900 2,300",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "E. Reconciliation of liabilities arising from financing activities",
+            "Header 3": "Acquisition",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Alternative presentation (indirect method)  \nAs an alternative, in an indirect method statement of cash flows, operating profit before working capital changes is\nsometimes presented as follows:  \nRevenues excluding investment income 30,650  \nOperating expense excluding depreciation (26,910)  \nOperating profit before working capital changes 3,740",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Alternative presentation (indirect method)",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## B Statement of cash flows for a financial institution  \n1 The example shows only current period amounts. Comparative amounts for the preceding period are\nrequired to be presented in accordance with AASB 101 Presentation of Financial Statements.  \n2 The example is presented using the direct method.  \n**20X2**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "B Statement of cash flows for a financial institution",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from operating activities\nInterest and commission receipts 28,447  \nInterest payments (23,463)  \nRecoveries on loans previously written off 237  \nCash payments to employees and suppliers (997)  \n4,224  \n-----  **20X2**  \n_(Increase) decrease in operating assets:_  \nShort-term funds (650)  \nDeposits held for regulatory or monetary control purposes 234  \nFunds advanced to customers (288)  \nNet increase in credit card receivables (360)  \nOther short-term negotiable securities (120)  \n_Increase (decrease) in operating liabilities:_  \nDeposits from customers 600  \nNegotiable certificates of deposit (200)  \nNet cash from operating activities before income tax 3,440  \nIncome taxes paid (100)  \n_Net cash from operating activities_ 3,340",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "B Statement of cash flows for a financial institution",
+            "Header 3": "Cash flows from operating activities",
+            "page_number": 20,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from investing activities\nDisposal of subsidiary Y 50  \nDividends received 200  \nInterest received 300  \nProceeds from sales of non-dealing securities 1,200  \nPurchase of non-dealing securities (600)  \nPurchase of property, plant and equipment (500)  \n_Net cash from investing activities_ 650",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "B Statement of cash flows for a financial institution",
+            "Header 3": "Cash flows from investing activities",
+            "page_number": 21,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Cash flows from financing activities\nIssue of loan capital 1,000  \nIssue of preference shares by subsidiary undertaking 800  \nRepayment of long-term borrowings (200)  \nNet decrease in other borrowings (1,000)  \nDividends paid (400)  \n_Net cash from financing activities_ 200  \nEffects of exchange rate changes on cash and cash\nequivalents 600  \n**Net increase in cash and cash equivalents** 4,790  \n**Cash and cash equivalents at beginning of period** 4,050  \n**Cash and cash equivalents at end of period** 8,840  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "B Statement of cash flows for a financial institution",
+            "Header 3": "Cash flows from financing activities",
+            "page_number": 21,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## C Reconciliation of liabilities arising from financing activities  \n1 This example illustrates one possible way of providing the disclosures required by paragraphs 44A\u201344E.  \n2 The example shows only current period amounts. Corresponding amounts for the preceding period are\nrequired to be presented in accordance with AASB 101 Presentation of Financial Statements.  \n**20X1** **Cash**\n**flows**",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "C Reconciliation of liabilities arising from financing activities",
+            "page_number": 22,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "### Non-cash changes** **20X2  \n**Acquisition** **Foreign**\n**exchange**\n**movement**  \n**Fair value**\n**changes**  \nLong-term borrowings 22,000 (1,000) \u2013 \u2013 \u2013 21,000  \nShort-term borrowings 10,000 (500) \u2013 200 \u2013 9,700  \nLease liabilities 4,000 (800) 300 \u2013 \u2013 3,500  \nAssets held to hedge\nlong-term borrowings (675) 150 \u2013 \u2013 (25) (550)  \nTotal liabilities from\nfinancing activities 35,325 (2,150) 300 200 (25) 33,650  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "C Reconciliation of liabilities arising from financing activities",
+            "Header 3": "Non-cash changes** **20X2",
+            "page_number": 22,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 107 Statement of Cash Flows (as amended)  \n_Compilation details are not part of AASB 107._  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2024. It takes into account\namendments up to and including 22 June 2023 and was prepared on 15 November 2023 by the staff of the Australian\nAccounting Standards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 107 (August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Compilation details Accounting Standard AASB 107 Statement of Cash Flows (as amended)",
+            "page_number": 23,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 107|7 Aug 2015|F2015L01538|31 Dec 2015|(beginning) 1 Jan 2016|see (a) below|\n|AASB 16|23 Feb 2016|F2016L00233|31 Dec 2018|(beginning) 1 Jan 2019|see (b) below|\n|AASB 2016-2|23 Mar 2016|F2016L00395|31 Dec 2016|(beginning) 1 Jan 2017|see (c) below|\n|AASB 17|19 Jul 2017|F2017L01184|31 Dec 2022|(beginning) 1 Jan 2023|see (d) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (e) below|\n|AASB 2023-1|22 Jun 2023|F2023L00953|31 Dec 2023|(beginning) 1 Jan 2024|see (f) below|  \n(a) Entities may elect to apply this Standard to periods beginning on or after 1 January 2014 but before 1 January 2016.  \n(b) Entities may elect to apply this Standard to periods beginning before 1 January 2019, provided that AASB 15 _Revenue from_\n_Contracts with Customers is also applied to the same period._  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 January 2017.  \n(d) Entities may elect to apply this Standard to annual periods beginning before 1 January 2023, provided that AASB 9 _Financial_\n_Instruments is also applied on or before the date of initial application of AASB 17. (AASB 17 was amended prior to its mandatory_\napplication by various amending Standards, including AASB 2022-8 Amendments to Australian Accounting Standards \u2013 Insurance\n_Contracts: Consequential Amendments, made by the AASB on 15 December 2022.)_  \n(e) Entities may elect to apply this Standard to annual periods beginning before 1 January 2021.  \n(f) Entities may elect to apply this Standard to annual periods beginning before 1 January 2024.",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Table of Standards",
+            "page_number": 23,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Table of amendments to Standard  \n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|---|---|---|\n|14|amended|AASB 17 [page 76]|\n|17|amended|AASB 16 [page 47]|\n|44|amended|AASB 16 [page 47]|\n|44A-44E (and preceding heading)|added|AASB 2016-2 [page 5]|\n|44F-44H (and preceding heading)|added|AASB 2023-1 [page 5]|\n|Aus52.1|repealed|Legislation Act 2003, s. 48D|\n|53 (preceding heading)|amended|AASB 2023-1 [page 6]|\n|Aus58.1|renumbered|AASB 16 [page 47]|\n|Aus58.2|renumbered|AASB 16 [page 47]|\n|59|added|AASB 16 [page 47]|\n|60|added|AASB 2016-2 [page 6]|\n|61|added|AASB 17 [page 76]|\n|62-63|added|AASB 2023-1 [page 6]|\n|AusA1|amended|AASB 2016-2 [page 6]|\n|Appendix A|replaced|AASB 1060 [page 61]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Table of amendments to Standard",
+            "page_number": 23,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Table of amendments to guidance  \n|Illustrative example A|amended amended|AASB 2016-2 [page 6] AASB 16 [page 47]|\n|---|---|---|\n|Illustrative example C|added|AASB 2016-2 [page 7]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Table of amendments to guidance",
+            "page_number": 24,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 7 text  \n_Deleted IAS 7 text is not part of AASB 107._  \n2 This Standard supersedes IAS 7 Statement of Changes in Financial Position, approved in July 1977.  \n3 \u2026 Accordingly, this Standard requires all entities to present a statement of cash flows.  \n[the last sentence of the paragraph]  \n54 IAS 27 (as amended in 2008) amended paragraphs 39\u201342 and added paragraphs 42A and 42B. An entity\nshall apply those amendments for annual periods beginning on or after 1 July 2009. If an entity applies\nIAS 27 (amended 2008) for an earlier period, the amendments shall be applied for that earlier period. The\namendments shall be applied retrospectively.  \n55 Paragraph 14 was amended by _Improvements to IFRSs issued in May 2008. An entity shall apply that_\namendment for annual periods beginning on or after 1 January 2009. Earlier application is permitted. If an\nentity applies the amendment for an earlier period it shall disclose that fact and apply paragraph 68A of\nIAS 16.  \n56 Paragraph 16 was amended by _Improvements to IFRSs issued in April 2009. An entity shall apply that_\namendment for annual periods beginning on or after 1 January 2010. Earlier application is permitted. If an\nentity applies the amendment for an earlier period it shall disclose that fact.  \n57 IFRS 10 and IFRS 11 Joint Arrangements, issued in May 2011, amended paragraphs 37, 38 and 42B and\ndeleted paragraph 50(b). An entity shall apply those amendments when it applies IFRS 10 and IFRS 11.  \n58 _Investment Entities_ (Amendments to IFRS 10, IFRS 12 and IAS 27), issued in October 2012, amended\nparagraphs 42A and 42B and added paragraph 40A. An entity shall apply those amendments for annual\nperiods beginning on or after 1 January 2014. Earlier application of Investment Entities is permitted. If an\nentity applies those amendments earlier it shall also apply all amendments included in Investment Entities at\nthe same time.  \n-----  ",
+        "metadata": {
+            "Header 1": "Statement of Cash Flows",
+            "Header 2": "Deleted IAS 7 text",
+            "page_number": 25,
+            "file_name": "AASB107 Statement of Cash Flows"
+        }
+    }
+]

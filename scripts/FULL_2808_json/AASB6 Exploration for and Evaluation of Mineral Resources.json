@@ -1,0 +1,288 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 6**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "# Exploration for and Evaluation of Mineral Resources  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. Earlier application is permitted\nfor annual periods beginning on or after 1 January 2014 but before 1 July 2021. It incorporates relevant amendments\nmade up to and including 6 March 2020.  \nPrepared on 8 June 2021 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 2  \nCompilation date: 30 June 2021  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "page_number": 0,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2021  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The National Director, Australian Accounting Standards Board, PO Box 204,\nCollins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce for commercial purposes outside Australia should be addressed to the IFRS Foundation at\nwww.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IFRS 6  \n**ACCOUNTING STANDARD**\nAASB 6 EXPLORATION FOR AND EVALUATION OF MINERAL RESOURCES\nOBJECTIVE\nSCOPE  \n**RECOGNITION OF EXPLORATION AND EVALUATION ASSETS**\nTemporary exemption from AASB 108 paragraphs 11 and 12\n_from paragraph_\nTreatment of exploration and evaluation expenditures** **Aus7.1  \n**MEASUREMENT OF EXPLORATION AND EVALUATION ASSETS**\nMeasurement at recognition** **8\nElements of cost of exploration and evaluation assets** **9\nMeasurement after recognition** **12\nChanges in accounting policies** **13  \n**PRESENTATION**\nClassification of exploration and evaluation assets** **15\nReclassification of exploration and evaluation assets** **17  \n**IMPAIRMENT**\nRecognition and measurement** **18\nSpecifying the level at which exploration and evaluation assets are assessed for impairment** **21\nDISCLOSURE** **23\nEFFECTIVE DATE** **26\nTRANSITIONAL PROVISIONS** **27  \n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus27.2  \n**APPENDICES**\n**A Defined terms**\n**B Australian defined terms**\n**C Australian simplified disclosures for Tier 2 entities**\nCOMPILATION DETAILS  \n**AVAILABLE ON THE AASB WEBSITE**\nBasis for Conclusions on IFRS 6\nAustralian Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources (as amended) is set\nout in paragraphs 1 \u2013 Aus27.2 and Appendices A \u2013 C. All the paragraphs have equal authority. Paragraphs in bold\n**type state the main principles. Terms defined in this Standard are in italics the first time they appear in the Standard.**\nAASB 6 is to be read in the context of other Australian Accounting Standards, including AASB 1048 Interpretation of\n_Standards, which identifies the Australian Accounting Interpretations, and AASB 1057_ _Application of Australian_\n_Accounting Standards. In the absence of explicit guidance, AASB 108 Accounting Policies, Changes in Accounting_\n_Estimates and Errors provides a basis for selecting and applying accounting policies._  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IFRS 6  \nAASB 6 Exploration for and Evaluation of Mineral Resources as amended incorporates IFRS 6 Exploration for and\n_Evaluation of Mineral Resources as issued and amended by the International Accounting Standards Board (IASB)._\nAustralian-specific paragraphs (which are not included in IFRS 6) are identified with the prefix \u201cAus\u201d. Paragraphs\nthat apply only to not-for-profit entities begin by identifying their limited applicability.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Comparison with IFRS 6",
+            "page_number": 3,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 6 also comply with IFRS 6.  \nNot-for-profit entities\u2019 compliance with IFRS 6 will depend on whether any \u201cAus\u201d paragraphs that specifically apply\nto not-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with\nIFRS 6.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 6  \nThe Australian Accounting Standards Board made Accounting Standard AASB 6 Exploration for and Evaluation of\n_Mineral Resources under section 334 of the Corporations Act 2001 on 7 August 2015._  \nThis compiled version of AASB 6 applies to annual periods beginning on or after 1 July 2021. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 6 March 2020 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Accounting Standard AASB 6",
+            "page_number": 4,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources  \nObjective  \n1 The objective of this Standard is to specify the financial reporting for the exploration for and evaluation of\n_mineral resources._  \nAusCF1 AusCF paragraphs included in this Standard apply only to:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nSuch entities are referred to as \u2018AusCF entities\u2019. For AusCF entities, the term \u2018reporting entity\u2019 is\ndefined in AASB 1057 _Application of Australian Accounting Standards and Statement of_\nAccounting Concepts SAC 1 _Definition of the Reporting Entity also applies. For-profit entities_\napplying the Conceptual Framework for Financial Reporting (as set out in paragraph Aus1.1 of\nthe Conceptual Framework) shall not apply AusCF paragraphs.  \n2 In particular, the Standard requires:  \n(a) limited improvements to existing accounting practices for _exploration and evaluation_\n_expenditures._  \n(b) entities that recognise _exploration and evaluation assets to assess such assets for impairment in_\naccordance with this Standard and measure any impairment in accordance with AASB 136\n_Impairment of Assets._  \n(c) disclosures that identify and explain the amounts in the entity\u2019s financial statements arising from\nthe exploration for and evaluation of mineral resources and help users of those financial\nstatements understand the amount, timing and certainty of future cash flows from any exploration\nand evaluation assets recognised.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources",
+            "page_number": 4,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n3 An entity shall apply the Standard to exploration and evaluation expenditures that it incurs.  \n4 The Standard does not address other aspects of accounting by entities engaged in the exploration for and\nevaluation of mineral resources.  \n5 An entity shall not apply the Standard to expenditures incurred:  \n(a) before the exploration for and evaluation of mineral resources, such as expenditures incurred\nbefore the entity has obtained the legal rights to explore a specific area.  \n(b) after the technical feasibility and commercial viability of extracting a mineral resource are\ndemonstrable.  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Recognition of exploration and evaluation assets  \nTemporary exemption from AASB 108 paragraphs 11 and 12  \n6 When developing its accounting policies, an entity recognising exploration and evaluation assets shall apply\nparagraph 10 of AASB 108 _Accounting Policies, Changes in Accounting Estimates and Errors and_\nparagraphs Aus7.1 and Aus7.2 below.  \n7 Paragraphs 11 and 12 of AASB 108 specify sources of authoritative requirements and guidance that\nmanagement is required to consider in developing an accounting policy for an item if no Standard applies\nspecifically to that item. Subject to paragraphs 9 and 10 below, this Standard exempts an entity from\napplying those paragraphs to its accounting policies for the recognition and measurement of exploration and\nevaluation assets.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Recognition of exploration and evaluation assets",
+            "page_number": 5,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Treatment of exploration and evaluation expenditures  \nAus7.1 An entity\u2019s accounting policy for the treatment of its exploration and evaluation expenditures\nshall be in accordance with the following requirements. For each _area of interest, expenditures_\nincurred in the exploration for and evaluation of mineral resources shall be:  \n(a) expensed as incurred; or  \n(b) partially or fully capitalised, and recognised as an exploration and evaluation asset if the  \nrequirements of paragraph Aus7.2 are satisfied.  \nAn entity shall make this decision separately for each area of interest.  \nAus7.2 An exploration and evaluation asset shall only be recognised in relation to an area of interest if\nthe following conditions are satisfied:  \n(a) the rights to tenure of the area of interest are current; and  \n(b) at least one of the following conditions is also met:  \n(i) the exploration and evaluation expenditures are expected to be recouped\nthrough successful development and exploitation of the area of interest, or\nalternatively, by its sale; and  \n(ii) exploration and evaluation activities in the area of interest have not at the end\nof the reporting period reached a stage which permits a reasonable\nassessment of the existence or otherwise of _economically recoverable_\n_reserves, and active and significant operations in, or in relation to, the area of_\ninterest are continuing.  \nAus7.3 An area of interest refers to an individual geological area whereby the presence of a mineral\ndeposit or an oil or natural gas field is considered favourable or has been proved to exist. It is\ncommon for an area of interest to contract in size progressively, as exploration and evaluation\nlead towards the identification of a mineral deposit or an oil or natural gas field, which may prove\nto contain economically recoverable reserves. When this happens during the exploration for and\nevaluation of mineral resources, exploration and evaluation expenditures are still included in the\ncost of the exploration and evaluation asset notwithstanding that the size of the area of interest\nmay contract as the exploration and evaluation operations progress. In most cases, an area of\ninterest will comprise a single mine or deposit or a separate oil or gas field.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Treatment of exploration and evaluation expenditures",
+            "page_number": 5,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Measurement of exploration and evaluation assets  \nMeasurement at recognition  \n**8** **Exploration and evaluation assets shall be measured at cost.**",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Measurement of exploration and evaluation assets",
+            "page_number": 5,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Elements of cost of exploration and evaluation assets  \n9 An entity shall determine an accounting policy specifying which expenditures are recognised as exploration\nand evaluation assets and apply the policy consistently. In making this determination, an entity considers\nthe degree to which the expenditure can be associated with finding specific mineral resources. The  \n-----  following are examples of expenditures that might be included in the initial measurement of exploration and\nevaluation assets (the list is not exhaustive):  \n(a) acquisition of rights to explore;  \n(b) topographical, geological, geochemical and geophysical studies;  \n(c) exploratory drilling;  \n(d) trenching;  \n(e) sampling; and  \n(f) activities in relation to evaluating the technical feasibility and commercial viability of extracting a\nmineral resource.  \nAus9.1 In accordance with paragraph 9, where an entity recognises exploration and evaluation assets,\ndirect and indirect costs associated with the exploration for and evaluation of mineral resources\nand which specifically relate to an area of interest are allocated to that area of interest. In making\nthis allocation, no distinction is drawn between costs incurred within the entity and the cost of\nservices performed by outside contractors or consultants on behalf of the entity.  \nAus9.2 The costs of acquiring leases or other rights of tenure in the area of interest are included in the\ncost of the exploration and evaluation asset if they are acquired as part of the exploration for and\nevaluation of mineral resources.  \nAus9.3 Indirect costs that are included in the cost of an exploration and evaluation asset include, among\nother things, charges for depreciation of equipment used in exploration and evaluation activities.  \nAus9.4 General and administrative costs are allocated to, and included in, the cost of an exploration and\nevaluation asset, but only to the extent that those costs can be related directly to operational\nactivities in the area of interest to which the exploration and evaluation asset relates. In all other\ncases, these costs are expensed as incurred. For example, general and administrative costs such as\ndirectors\u2019 fees, secretarial and share registry expenses, and salaries and other expenses of general\nmanagement are recognised as expenses when incurred since they are only indirectly related to\noperational activities.  \n10 Expenditures related to the development of mineral resources shall not be recognised as exploration and\nevaluation assets. The _Conceptual Framework for Financial Reporting (as identified in AASB 1048_\n_Interpretation of Standards) and AASB 138 Intangible Assets provide guidance on the recognition of assets_\narising from development.  \nAusCF10 Notwithstanding paragraph 10, in respect of AusCF entities, expenditures related to the\ndevelopment of mineral resources shall not be recognised as exploration and evaluation assets.\nThe _Framework for the Preparation and Presentation of Financial Statements (as identified in_\nAASB 1048 Interpretation of Standards) and AASB 138 Intangible Assets provide guidance on\nthe recognition of assets arising from development.  \n11 In accordance with AASB 137 _Provisions, Contingent Liabilities and Contingent Assets an entity_\nrecognises any obligations for removal and restoration that are incurred during a particular period as a\nconsequence of having undertaken the exploration for and evaluation of mineral resources.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Elements of cost of exploration and evaluation assets",
+            "page_number": 5,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Measurement after recognition  \n12 After recognition, an entity shall apply either the cost model or the revaluation model to the exploration and\nevaluation assets. If the revaluation model is applied (either the model in AASB 116 Property, Plant and\n_Equipment or the model in AASB 138) it shall be consistent with the classification of the assets (see_\nparagraph 15).",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Measurement after recognition",
+            "page_number": 6,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Changes in accounting policies  \n**13** **An entity may change its accounting policies for exploration and evaluation expenditures if the**\n**change makes the financial statements more relevant to the economic decision-making needs of users**\n**and no less reliable, or more reliable and no less relevant to those needs. An entity shall judge**\n**relevance and reliability using the criteria in AASB 108.**  \nAus13.1 Notwithstanding paragraph 13, any change in an entity\u2019s accounting policy for exploration and\nevaluation expenditures shall also remain in accordance with paragraphs Aus7.1 and Aus7.2.  \n-----  14 To justify changing its accounting policies for exploration and evaluation expenditures, an entity shall\ndemonstrate that the change brings its financial statements closer to meeting the criteria in AASB 108, but\nthe change need not achieve full compliance with those criteria.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Changes in accounting policies",
+            "page_number": 6,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Presentation  \nClassification of exploration and evaluation assets  \n15 An entity shall classify exploration and evaluation assets as tangible or intangible according to the nature of\nthe assets acquired and apply the classification consistently.  \n16 Some exploration and evaluation assets are treated as intangible (eg drilling rights), whereas others are\ntangible (eg vehicles and drilling rigs). To the extent that a tangible asset is consumed in developing an\nintangible asset, the amount reflecting that consumption is part of the cost of the intangible asset. However,\nusing a tangible asset to develop an intangible asset does not change a tangible asset into an intangible asset.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Presentation",
+            "page_number": 7,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Reclassification of exploration and evaluation assets  \n17 An exploration and evaluation asset shall no longer be classified as such when the technical feasibility and\ncommercial viability of extracting a mineral resource are demonstrable. Exploration and evaluation assets\nshall be assessed for impairment, and any impairment loss recognised, before reclassification.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Reclassification of exploration and evaluation assets",
+            "page_number": 7,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Impairment  \nRecognition and measurement  \n**18** **Exploration and evaluation assets shall be assessed for impairment when facts and circumstances**\n**suggest that the carrying amount of an exploration and evaluation asset may exceed its recoverable**\n**amount. When facts and circumstances suggest that the carrying amount exceeds the recoverable**\n**amount, an entity shall measure, present and disclose any resulting impairment loss in accordance**\n**with AASB 136, except as provided by paragraph 21 below.**  \n19 For the purposes of exploration and evaluation assets only, paragraph 20 of this Standard shall be applied\nrather than paragraphs 8\u201317 of AASB 136 when identifying an exploration and evaluation asset that may be\nimpaired. Paragraph 20 uses the term \u2018assets\u2019 but applies equally to separate exploration and evaluation\nassets or a cash-generating unit.  \n20 One or more of the following facts and circumstances indicate that an entity should test exploration and\nevaluation assets for impairment (the list is not exhaustive):  \n(a) the period for which the entity has the right to explore in the specific area has expired during the\nperiod or will expire in the near future, and is not expected to be renewed.  \n(b) substantive expenditure on further exploration for and evaluation of mineral resources in the\nspecific area is neither budgeted nor planned.  \n(c) exploration for and evaluation of mineral resources in the specific area have not led to the\ndiscovery of commercially viable quantities of mineral resources and the entity has decided to\ndiscontinue such activities in the specific area.  \n(d) sufficient data exist to indicate that, although a development in the specific area is likely to\nproceed, the carrying amount of the exploration and evaluation asset is unlikely to be recovered in\nfull from successful development or by sale.  \nIn any such case, or similar cases, the entity shall perform an impairment test in accordance with\nAASB 136. Any impairment loss is recognised as an expense in accordance with AASB 136.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Impairment",
+            "page_number": 7,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Specifying the level at which exploration and evaluation assets are assessed for impairment  \n**21** **An entity shall determine an accounting policy for allocating exploration and evaluation assets to**\n**cash-generating units or groups of cash-generating units for the purpose of assessing such assets for**\n**impairment. Each cash-generating unit or group of units to which an exploration and evaluation asset**  \n-----  **is allocated shall not be larger than an operating segment determined in accordance with AASB 8**\n**_Operating Segments._**  \n22 The level identified by the entity for the purposes of testing exploration and evaluation assets for\nimpairment may comprise one or more cash-generating units.  \nAus22.1 Notwithstanding paragraphs 21 and 22, the level identified by the entity for the purposes of\ntesting exploration and evaluation assets for impairment shall be no larger than the area of interest\nto which the exploration and evaluation asset relates.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Specifying the level at which exploration and evaluation assets are assessed for impairment",
+            "page_number": 7,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Disclosure  \n**23** **An entity shall disclose information that identifies and explains the amounts recognised in its**\n**financial statements arising from the exploration for and evaluation of mineral resources.**  \n24 To comply with paragraph 23, an entity shall disclose:  \n(a) its accounting policies for exploration and evaluation expenditures including the recognition of\nexploration and evaluation assets.  \n(b) the amounts of assets, liabilities, income and expense and operating and investing cash flows\narising from the exploration for and evaluation of mineral resources.  \nAus24.1 In addition to the disclosure required by paragraph 24(b), an entity that recognises exploration\nand evaluation assets for any of its areas of interest shall, in disclosing the amounts of those\nassets, provide an explanation that recoverability of the carrying amount of the exploration and\nevaluation assets is dependent on successful development and commercial exploitation, or\nalternatively, sale of the respective areas of interest.  \n25 An entity shall treat exploration and evaluation assets as a separate class of assets and make the disclosures\nrequired by either AASB 116 or AASB 138 consistent with how the assets are classified.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Disclosure",
+            "page_number": 8,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Effective date  \n26 An entity shall apply this Standard for annual periods beginning on or after 1 January 2016. Earlier\napplication is encouraged for periods beginning on or after 1 January 2014 but before 1 January 2016. If an\nentity applies the Standard for a period beginning before 1 January 2016, it shall disclose that fact.  \n26A AASB 2019-1 _Amendments to Australian Accounting Standards \u2013 References to the Conceptual_\n_Framework, issued in 2019, added AusCF paragraphs and amended paragraph 10. An entity shall apply the_\namendments for annual periods beginning on or after 1 January 2020. Earlier application is permitted if at\nthe same time an entity also applies all other amendments made by AASB 2019-1. An entity shall apply the\namendments to AASB 6 retrospectively in accordance with AASB 108 _Accounting Policies, Changes in_\n_Accounting Estimates and Errors. However, if an entity determines that retrospective application would be_\nimpracticable or would involve undue cost or effort, it shall apply the amendments to AASB 6 by reference\nto paragraphs 23\u201328, 50\u201353 and 54F of AASB 108.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Effective date",
+            "page_number": 8,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Transitional provisions  \n27 If it is impracticable to apply a particular requirement of paragraph 18 to comparative information that\nrelates to annual periods beginning before 1 January 2005, an entity shall disclose that fact. AASB 108\nexplains the term \u2018impracticable\u2019.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Transitional provisions",
+            "page_number": 8,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus27.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 8,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus27.2 This Standard repeals AASB 6 _Exploration for and Evaluation of Mineral Resources issued in_\nDecember 2004. Despite the repeal, after the time this Standard starts to apply under section 334\nof the Corporations Act (either generally or in relation to an individual entity), the repealed  \n-----  Standard continues to apply in relation to any period ending before that time as if the repeal had\nnot occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.]  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 8,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Defined terms  \n_This appendix is an integral part of the Standard._",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Appendix A Defined terms",
+            "page_number": 10,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "### Exploration and evaluation expenditures recognised as assets in accordance with\nthe entity\u2019s accounting policy.  \nExpenditures incurred by an entity in connection with the **exploration for and**\n**evaluation of mineral resources** before the technical feasibility and commercial\nviability of extracting a mineral resource are demonstrable.  \nThe search for mineral resources, including minerals, oil, natural gas and similar nonregenerative resources after the entity has obtained legal rights to explore in a specific\narea, as well as the determination of the technical feasibility and commercial viability\nof extracting the mineral resource.  \n**exploration and**\n**evaluation assets**  \n**exploration and**\n**evaluation expenditures**  \n**exploration for and**\n**evaluation of mineral**\n**resources**  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Appendix A Defined terms",
+            "Header 3": "Exploration and evaluation expenditures recognised as assets in accordance with",
+            "page_number": 10,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Appendix B Australian defined terms  \n_This appendix is an integral part of the Standard._  \n**area of interest** An individual geological area which is considered to constitute a favourable\nenvironment for the presence of a mineral deposit or an oil or natural gas field, or has\nbeen proved to contain such a deposit or field.  \n**economically recoverable**\n**reserves**  \nThe estimated quantity of product in an **area of interest that can be expected to be**\nprofitably extracted, processed and sold under current and foreseeable economic\nconditions  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Appendix B Australian defined terms",
+            "page_number": 11,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Appendix C Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusC1** **Paragraphs 23\u201325 do not apply to entities preparing general purpose financial statements**\n**that apply AASB 1060** **_General Purpose Financial Statements \u2013 Simplified Disclosures for_**\n**_For-Profit and Not-for-Profit Tier 2 Entities._**  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Appendix C Australian simplified disclosures for Tier 2 entities",
+            "page_number": 12,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources (as amended)  \n_Compilation details are not part of AASB 6._  \nThis compiled Standard applies to annual periods beginning on or after 1 July 2021. It takes into account amendments\nup to and including 6 March 2020 and was prepared on 8 June 2021 by the staff of the Australian Accounting\nStandards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of AASB 6\n(August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Compilation details Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources (as amended)",
+            "page_number": 13,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 6|7 Aug 2015|F2015L01608|31 Dec 2015|(beginning) 1 Jan 2016|see (a) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (b) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (c) below|  \n(a) Entities may elect to apply this Standard to annual periods beginning on or after 1 January 2014 but before 1 January 2016.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|AusCF1|added|AASB 2019-1 [page 10]|\n|10|amended|AASB 2019-1 [page 10]|\n|AusCF10|added|AASB 2019-1 [page 10]|\n|26A|added|AASB 2019-1 [page 10]|\n|Aus27.1|repealed|Legislation Act 2003, s. 48D|\n|Appendix C|added|AASB 1060 [page 58]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Exploration for and Evaluation of Mineral Resources",
+            "Header 2": "Table of Standards",
+            "page_number": 13,
+            "file_name": "AASB6 Exploration for and Evaluation of Mineral Resources"
+        }
+    }
+]

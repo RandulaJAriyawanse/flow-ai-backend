@@ -232,7 +232,7 @@ def get_pdf_splits(file):
         #     doc.page_content = f"##{doc.metadata['Header 2']} \n{doc.page_content}"
 
     documents_serializable = [document_to_dict_2(doc) for doc in md_splits]
-    with open(f"scripts/1808_json/{file[:-4]}.json", "w") as f:
+    with open(f"scripts/FULL_2808_json/{file[:-4]}.json", "w") as f:
         json.dump(documents_serializable, f, indent=4)
 
     # text_splitter = RecursiveCharacterTextSplitter(chunk_size=1024, chunk_overlap=200)
@@ -259,7 +259,7 @@ def create_vectorstore():
                 embedding=OpenAIEmbeddings(model="text-embedding-3-large"),
                 documents=splits,
                 connection=connection_string,
-                collection_name="AASB_1908",
+                collection_name="AASB_FULL_2808",
                 pre_delete_collection=False,
             )
             print("success: ", file)

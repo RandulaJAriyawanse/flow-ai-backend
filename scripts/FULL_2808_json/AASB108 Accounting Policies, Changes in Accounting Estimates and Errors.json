@@ -1,0 +1,340 @@
+[
+    {
+        "page_content=": "**Compiled AASB Standard** **AASB 108**",
+        "metadata": {
+            "page_number": 0,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "# Accounting Policies, Changes in Accounting Estimates and Errors  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023. Earlier application is\npermitted for annual periods beginning after 24 July 2014 but before 1 January 2023. It incorporates relevant\namendments made up to and including 30 March 2021.  \nPrepared on 6 February 2023 by the staff of the Australian Accounting Standards Board.  \nCompilation no. 3  \nCompilation date: 31 December 2022  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "page_number": 0,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Obtaining copies of Accounting Standards  \nCompiled versions of Standards, original Standards and amending Standards (see Compilation Details) are available\non the AASB website: www.aasb.gov.au.  \nAustralian Accounting Standards Board\nPO Box 204\nCollins Street West\nVictoria  8007\nAUSTRALIA  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nWebsite: www.aasb.gov.au",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Obtaining copies of Accounting Standards",
+            "page_number": 1,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Other enquiries  \nPhone: (03) 9617 7600  \nE-mail: standard@aasb.gov.au  \nCOPYRIGHT  \n\u00a9 Commonwealth of Australia 2023  \nThis compiled AASB Standard contains IFRS Foundation copyright material. Reproduction within Australia in\nunaltered form (retaining this notice) is permitted for personal and non-commercial use subject to the inclusion of an\nacknowledgment of the source. Requests and enquiries concerning reproduction and rights for commercial purposes\nwithin Australia should be addressed to The Managing Director, Australian Accounting Standards Board, PO Box\n204, Collins Street West, Victoria 8007.  \nAll existing rights in this material are reserved outside Australia. Reproduction outside Australia in unaltered form\n(retaining this notice) is permitted for personal and non-commercial use only. Further information and requests for\nauthorisation to reproduce IFRS Foundation copyright material for commercial purposes outside Australia should be\naddressed to the IFRS Foundation at www.ifrs.org.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Other enquiries",
+            "page_number": 1,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Contents  \nCOMPARISON WITH IAS 8  \n**ACCOUNTING STANDARD**\nAASB 108 ACCOUNTING POLICIES, CHANGES IN ACCOUNTING ESTIMATES AND ERRORS\n_from paragraph_\nOBJECTIVE** **1\nSCOPE** **3\nDEFINITIONS** **5  \n**ACCOUNTING POLICIES**\nSelection and application of accounting policies** **7\nConsistency of accounting policies** **13\nChanges in accounting policies** **14\nApplying changes in accounting policies 19  \nRetrospective application 22  \nLimitations on retrospective application 23  \nDisclosure 28\nACCOUNTING ESTIMATES** **32\nChanges in accounting estimates** **34\nApplying changes in accounting estimates 36  \nDisclosure 39\nERRORS** **41\nLimitations on retrospective restatement** **43\nDisclosure of prior period errors** **49  \n**IMPRACTICABILITY IN RESPECT OF RETROSPECTIVE APPLICATION AND**\nRETROSPECTIVE RESTATEMENT** **50\nEFFECTIVE DATE AND TRANSITION** **54  \n**WITHDRAWAL OF OTHER PRONOUNCEMENTS**\n**COMMENCEMENT OF THE LEGISLATIVE INSTRUMENT**\nWITHDRAWAL OF AASB PRONOUNCEMENTS** **Aus56.2  \n**APPENDIX**\n**A Australian simplified disclosures for Tier 2 entities**\n**COMPILATION DETAILS**\nDELETED IAS 8 TEXT  \n**AVAILABLE ON THE AASB WEBSITE**\n**Implementation Guidance on IAS 8**\nBasis for Conclusions on IAS 8\nAustralian Accounting Standard AASB 108 _Accounting Policies, Changes in Accounting Estimates and Errors_ (as\namended) is set out in paragraphs 1 \u2013 Aus56.2 and Appendix A. All the paragraphs have equal authority. Paragraphs\nin **bold type state the main principles. AASB 108 is to be read in the context of other Australian Accounting**\nStandards, including AASB 1048 _Interpretation of Standards, which identifies the Australian Accounting_\nInterpretations, and AASB 1057 Application of Australian Accounting Standards.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Contents",
+            "page_number": 2,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Comparison with IAS 8  \nAASB 108 _Accounting Policies, Changes in Accounting Estimates and Errors as amended incorporates IAS 8_\n_Accounting Policies, Changes in Accounting Estimates and Errors as issued and amended by the International_\nAccounting Standards Board (IASB). Australian-specific paragraphs (which are not included in IAS 8) are identified\nwith the prefix \u201cAus\u201d. Paragraphs that apply only to not-for-profit entities begin by identifying their limited\napplicability.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Comparison with IAS 8",
+            "page_number": 3,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Tier 1  \nFor-profit entities complying with AASB 108 also comply with IAS 8.  \nNot-for-profit entities\u2019 compliance with IAS 8 will depend on whether any \u201cAus\u201d paragraphs that specifically apply to\nnot-for-profit entities provide additional guidance or contain applicable requirements that are inconsistent with IAS 8.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Tier 1",
+            "page_number": 3,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Tier 2  \nEntities preparing general purpose financial statements under Australian Accounting Standards \u2013 Simplified\nDisclosures (Tier 2) will not be in compliance with IFRS Standards.  \nAASB 1053 Application of Tiers of Australian Accounting Standards explains the two tiers of reporting requirements.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Tier 2",
+            "page_number": 3,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 108  \nThe Australian Accounting Standards Board made Accounting Standard AASB 108 Accounting Policies, Changes in\n_Accounting Estimates and Errors under section 334 of the Corporations Act 2001 on 7 August 2015._  \nThis compiled version of AASB 108 applies to annual periods beginning on or after 1 January 2023. It incorporates\nrelevant amendments contained in other AASB Standards made by the AASB up to and including 30 March 2021 (see\nCompilation Details).",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Accounting Standard AASB 108",
+            "page_number": 4,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Accounting Standard AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors  \nObjective  \n1 The objective of this Standard is to prescribe the criteria for selecting and changing accounting policies,\ntogether with the accounting treatment and disclosure of changes in accounting policies, changes in\naccounting estimates and corrections of errors. The Standard is intended to enhance the relevance and\nreliability of an entity\u2019s financial statements, and the comparability of those financial statements over time\nand with the financial statements of other entities.  \nAusCF1 AusCF paragraphs and footnotes included in this Standard apply only to:  \n(a) not-for-profit entities; and  \n(b) for-profit entities that are not applying the _Conceptual Framework for Financial_\n_Reporting (as identified in AASB 1048 Interpretation of Standards)._  \nSuch entities are referred to as \u2018AusCF entities\u2019. For AusCF entities, the term \u2018reporting entity\u2019 is\ndefined in AASB 1057 _Application of Australian Accounting Standards and Statement of_\nAccounting Concepts SAC 1 _Definition of the Reporting Entity also applies. For-profit entities_\napplying the Conceptual Framework for Financial Reporting (as set out in paragraph Aus1.1 of\nthe Conceptual Framework) shall not apply AusCF paragraphs or footnotes.  \n2 Disclosure requirements for accounting policies, except those for changes in accounting policies, are set out\nin AASB 101 Presentation of Financial Statements.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Accounting Standard AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors",
+            "page_number": 4,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Scope  \n**3** **This Standard shall be applied in selecting and applying accounting policies, and accounting for**\n**changes in accounting policies, changes in accounting estimates and corrections of prior period**\n**errors.**  \n4 The tax effects of corrections of prior period errors and of retrospective adjustments made to apply changes\nin accounting policies are accounted for and disclosed in accordance with AASB 112 Income Taxes.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Scope",
+            "page_number": 4,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Definitions  \n**5** **The following terms are used in this Standard with the meanings specified:**  \n**_Accounting estimates are monetary amounts in financial statements that are subject to measurement_**\n**uncertainty.**  \n**_Accounting policies are the specific principles, bases, conventions, rules and practices applied by an_**\n**entity in preparing and presenting financial statements.**  \n**_Material is defined in paragraph 7 of AASB 101 and is used in this Standard with the same meaning._**  \n**_Prior period errors are omissions from, and misstatements in, the entity\u2019s financial statements for one_**\n**or more prior periods arising from a failure to use, or misuse of, reliable information that:**  \n**(a)** **was available when financial statements for those periods were authorised for issue; and**  \n-----  **(b)** **could reasonably be expected to have been obtained and taken into account in the**\n**preparation and presentation of those financial statements.**  \n**Such errors include the effects of mathematical mistakes, mistakes in applying accounting policies,**\n**oversights or misinterpretations of facts, and fraud.**  \n**_Retrospective application is applying a new accounting policy to transactions, other events and_**\n**conditions as if that policy had always been applied.**  \n**_Retrospective restatement is correcting the recognition, measurement_** **and disclosure of amounts of**\n**elements of financial statements as if a prior period error had never occurred.**  \n**_Impracticable Applying a requirement is impracticable when the entity cannot apply it after making_**\n**every reasonable effort to do so. For a particular prior period, it is impracticable to apply a change in**\n**an accounting policy retrospectively or to make a retrospective restatement to correct an error if:**  \n**(a)** **the effects of the retrospective application or retrospective restatement are not**\n**determinable;**  \n**(b)** **the retrospective application or retrospective restatement requires assumptions about what**\n**management\u2019s intent would have been in that period; or**  \n**(c)** **the retrospective application or retrospective restatement requires significant estimates of**\n**amounts and it is impossible to distinguish objectively information about those estimates**\n**that:**  \n**(i)** **provides evidence of circumstances that existed on the date(s) as at which those**\n**amounts are to be recognised, measured or disclosed; and**  \n**(ii)** **would have been available when the financial statements for that prior period**\n**were authorised for issue from other information.**  \n**_Prospective application of a change in accounting policy and of recognising the effect of a change in an_**\n**accounting estimate, respectively, are:**  \n**(a)** **applying the new accounting policy to transactions, other events and conditions occurring**\n**after the date as at which the policy is changed; and**  \n**(b)** **recognising the effect of the change in the accounting estimate in the current and future**\n**periods affected by the change.**  \n6 [Deleted]",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Definitions",
+            "page_number": 4,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Accounting policies  \nSelection and application of accounting policies  \n**7** **When an Australian Accounting Standard[1] specifically applies to a transaction, other event or**\n**condition, the accounting policy or policies applied to that item shall be determined by applying the**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Accounting policies",
+            "page_number": 5,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Standard.\n8 Australian Accounting Standards set out accounting policies that the AASB has concluded result in\nfinancial statements containing relevant and reliable information about the transactions, other events and\nconditions to which they apply. Those policies need not be applied when the effect of applying them is\nimmaterial. However, it is inappropriate to make, or leave uncorrected, immaterial departures from\nAustralian Accounting Standards to achieve a particular presentation of an entity\u2019s financial position,\nfinancial performance or cash flows.  \n9 Australian Accounting Standards are accompanied by guidance to assist entities in applying their\nrequirements. All such guidance states whether it is an integral part of Australian Accounting Standards.\nGuidance that is an integral part of the Australian Accounting Standards is mandatory. Guidance that is not\nan integral part of the Australian Accounting Standards does not contain requirements for financial\nstatements.  \n1 [Aus] The term \u2018Australian Accounting Standards\u2019 refers to Standards (including Interpretations) made by the AASB that apply to any  \nreporting period beginning on or after 1 January 2005. In this context, the term encompasses Australian Accounting Standards \u2013\nSimplified Disclosures, which some entities are permitted to apply in accordance with AASB 1053 _Application of Tiers of Australian_\n_Accounting Standards in preparing general purpose financial statements._  \n-----  **10** **In the absence of an Australian Accounting Standard that specifically applies to a transaction, other**\n**event or condition, management shall use its judgement in developing and applying an accounting**\n**policy that results in information that is:**  \n**(a)** **relevant to the economic decision-making needs of users; and**  \n**(b)** **reliable, in that the financial statements:**  \n**(i)** **represent faithfully the financial position, financial performance and cash flows of**\n**the entity;**  \n**(ii)** **reflect the economic substance of transactions, other events and conditions, and**\n**not merely the legal form;**  \n**(iii)** **are neutral, ie free from bias;**  \n**(iv)** **are prudent;** **and**  \n**(v)** **are complete in all material respects.**  \n**11** **In making the judgement described in paragraph 10, management shall refer to, and consider the**\n**applicability of, the following sources in descending order:**  \n**(a)** **the requirements in Australian Accounting Standards dealing with similar and related**\n**issues; and**  \n**(b)** **the definitions, recognition criteria and measurement concepts for assets, liabilities, income**\n**and expenses in the Conceptual Framework for Financial Reporting (Conceptual Framework)**\n**(as identified in AASB 1048 Interpretation of Standards).[2]**  \n**AusCF11** **Notwithstanding paragraph 11, in respect of AusCF entities, in making the judgement**\n**described in paragraph 10, management shall refer to, and consider the applicability of, the**\n**following sources in descending order:**  \n**(a)** **the requirements in Australian Accounting Standards dealing with similar and**\n**related issues; and**  \n**(b)** **the definitions, recognition criteria and measurement concepts for assets,**\n**liabilities, income and expenses in the Framework[AusCF2].**  \n**12** **In making the judgement described in paragraph 10, management may also consider the most recent**\n**pronouncements of other standard-setting bodies that use a similar conceptual framework to develop**\n**accounting standards, other accounting literature and accepted industry practices, to the extent that**\n**these do not conflict with the sources in paragraph 11.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Accounting policies",
+            "Header 3": "Standard.",
+            "page_number": 5,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Consistency of accounting policies  \n**13** **An entity shall select and apply its accounting policies consistently for similar transactions, other**\n**events and conditions, unless an Australian Accounting Standard specifically requires or permits**\n**categorisation of items for which different policies may be appropriate. If an Australian Accounting**\n**Standard requires or permits such categorisation, an appropriate accounting policy shall be selected**\n**and applied consistently to each category.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Consistency of accounting policies",
+            "page_number": 6,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Changes in accounting policies  \n**14** **An entity shall change an accounting policy only if the change:**  \n**(a)** **is required by an Australian Accounting Standard; or**  \n**(b)** **results in the financial statements providing reliable and more relevant information about**\n**the effects of transactions, other events or conditions on the entity\u2019s financial position,**\n**financial performance or cash flows.**  \n15 Users of financial statements need to be able to compare the financial statements of an entity over time to\nidentify trends in its financial position, financial performance and cash flows. Therefore, the same\naccounting policies are applied within each period and from one period to the next unless a change in\naccounting policy meets one of the criteria in paragraph 14.  \n2 Paragraph 54G explains how this requirement is amended for regulatory account balances.\nAusCF2 In December 2013 the AASB amended the Framework for the Preparation and Presentation of Financial Statements (as identified  \nin AASB 1048 Interpretation of Standards).  \n-----  **16** **The following are not changes in accounting policies:**  \n**(a)** **the application of an accounting policy for transactions, other events or conditions that**\n**differ in substance from those previously occurring; and**  \n**(b)** **the application of a new accounting policy for transactions, other events or conditions that**\n**did not occur previously or were immaterial.**  \n**17** **The initial application of a policy to revalue assets in accordance with AASB 116 Property, Plant and**\n**_Equipment or AASB 138_** **_Intangible Assets is a change in an accounting policy to be dealt with as a_**\n**revaluation in accordance with AASB 116 or AASB 138, rather than in accordance with this**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting policies",
+            "page_number": 6,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Standard.\n18 Paragraphs 19\u201331 do not apply to the change in accounting policy described in paragraph 17.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting policies",
+            "Header 3": "Standard.",
+            "page_number": 7,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Applying changes in accounting policies  \n**19** **Subject to paragraph 23:**  \n**(a)** **an entity shall account for a change in accounting policy resulting from the initial**\n**application of an Australian Accounting Standard in accordance with the specific**\n**transitional provisions, if any, in that Australian Accounting Standard; and**  \n**(b)** **when an entity changes an accounting policy upon initial application of an Australian**\n**Accounting Standard that does not include specific transitional provisions applying to that**\n**change, or changes an accounting policy voluntarily, it shall apply the change**\n**retrospectively.**  \n20 For the purpose of this Standard, early application of an Australian Accounting Standard is not a voluntary\nchange in accounting policy.  \n21 In the absence of an Australian Accounting Standard that specifically applies to a transaction, other event or\ncondition, management may, in accordance with paragraph 12, apply an accounting policy from the most\nrecent pronouncements of other standard-setting bodies that use a similar conceptual framework to develop\naccounting standards. If, following an amendment of such a pronouncement, the entity chooses to change an\naccounting policy, that change is accounted for and disclosed as a voluntary change in accounting policy.  \n_Retrospective application_  \n**22** **Subject to paragraph 23, when a change in accounting policy is applied retrospectively in accordance**\n**with paragraph 19(a) or (b), the entity shall adjust the opening balance of each affected component of**\n**equity for the earliest prior period presented and the other comparative amounts disclosed for each**\n**prior period presented as if the new accounting policy had always been applied.**  \n_Limitations on retrospective application_  \n**23** **When retrospective application is required by paragraph 19(a) or (b), a change in accounting policy**\n**shall be applied retrospectively except to the extent that it is impracticable to determine either the**\n**period-specific effects or the cumulative effect of the change.**  \n**24** **When it is impracticable to determine the period-specific effects of changing an accounting policy on**\n**comparative information for one or more prior periods presented, the entity shall apply the new**\n**accounting policy to the carrying amounts of assets and liabilities as at the beginning of the earliest**\n**period for which retrospective application is practicable, which may be the current period, and shall**\n**make a corresponding adjustment to the opening balance of each affected component of equity for**\n**that period.**  \n**25** **When it is impracticable to determine the cumulative effect, at the beginning of the current period, of**\n**applying a new accounting policy to all prior periods, the entity shall adjust the comparative**\n**information to apply the new accounting policy prospectively from the earliest date practicable.**  \n26 When an entity applies a new accounting policy retrospectively, it applies the new accounting policy to\ncomparative information for prior periods as far back as is practicable. Retrospective application to a prior\nperiod is not practicable unless it is practicable to determine the cumulative effect on the amounts in both\nthe opening and closing statements of financial position for that period. The amount of the resulting\nadjustment relating to periods before those presented in the financial statements is made to the opening\nbalance of each affected component of equity of the earliest prior period presented. Usually the adjustment\nis made to retained earnings. However, the adjustment may be made to another component of equity (for  \n-----  example, to comply with an Australian Accounting Standard). Any other information about prior periods,\nsuch as historical summaries of financial data, is also adjusted as far back as is practicable.  \n27 When it is impracticable for an entity to apply a new accounting policy retrospectively, because it cannot\ndetermine the cumulative effect of applying the policy to all prior periods, the entity, in accordance with\nparagraph 25, applies the new policy prospectively from the start of the earliest period practicable. It\ntherefore disregards the portion of the cumulative adjustment to assets, liabilities and equity arising before\nthat date. Changing an accounting policy is permitted even if it is impracticable to apply the policy\nprospectively for any prior period. Paragraphs 50\u201353 provide guidance on when it is impracticable to apply\na new accounting policy to one or more prior periods.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting policies",
+            "Header 3": "Applying changes in accounting policies",
+            "page_number": 7,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Disclosure  \n**28** **When initial application of an Australian Accounting Standard has an effect on the current period or**\n**any prior period, would have such an effect except that it is impracticable to determine the amount of**\n**the adjustment, or might have an effect on future periods, an entity shall disclose:**  \n**(a)** **the title of the Australian Accounting Standard;**  \n**(b)** **when applicable, that the change in accounting policy is made in accordance with its**\n**transitional provisions;**  \n**(c)** **the nature of the change in accounting policy;**  \n**(d)** **when applicable, a description of the transitional provisions;**  \n**(e)** **when applicable, the transitional provisions that might have an effect on future periods;**  \n**(f)** **for the current period and each prior period presented, to the extent practicable, the**\n**amount of the adjustment:**  \n**(i)** **for each financial statement line item affected; and**  \n**(ii)** **if AASB 133** **_Earnings per Share applies to the entity, for basic and diluted_**\n**earnings per share;**  \n**(g)** **the amount of the adjustment relating to periods before those presented, to the extent**\n**practicable; and**  \n**(h)** **if retrospective application required by paragraph 19(a) or (b) is impracticable for a**\n**particular prior period, or for periods before those presented, the circumstances that led to**\n**the existence of that condition and a description of how and from when the change in**\n**accounting policy has been applied.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting policies",
+            "Header 3": "Disclosure",
+            "page_number": 8,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Financial statements of subsequent periods need not repeat these disclosures.  \n**29** **When a voluntary change in accounting policy has an effect on the current period or any prior**\n**period, would have an effect on that period except that it is impracticable to determine the amount of**\n**the adjustment, or might have an effect on future periods, an entity shall disclose:**  \n**(a)** **the nature of the change in accounting policy;**  \n**(b)** **the reasons why applying the new accounting policy provides reliable and more relevant**\n**information;**  \n**(c)** **for the current period and each prior period presented, to the extent practicable, the**\n**amount of the adjustment:**  \n**(i)** **for each financial statement line item affected; and**  \n**(ii)** **if AASB 133 applies to the entity, for basic and diluted earnings per share;**  \n**(d)** **the amount of the adjustment relating to periods before those presented, to the extent**\n**practicable; and**  \n**(e)** **if retrospective application is impracticable for a particular prior period, or for periods**\n**before those presented, the circumstances that led to the existence of that condition and a**\n**description of how and from when the change in accounting policy has been applied.**  \n### Financial statements of subsequent periods need not repeat these disclosures.  \n**30** **When an entity has not applied a new Australian Accounting Standard that has been issued but is not**\n**yet effective, the entity shall disclose:**  \n**(a)** **this fact; and**  \n-----  **(b)** **known or reasonably estimable information relevant to assessing the possible impact that**\n**application of the new Australian Accounting Standard will have on the entity\u2019s financial**\n**statements in the period of initial application.**  \n31 In complying with paragraph 30, an entity considers disclosing:  \n(a) the title of the new Australian Accounting Standard;  \n(b) the nature of the impending change or changes in accounting policy;  \n(c) the date by which application of the Australian Accounting Standard is required;  \n(d) the date as at which it plans to apply the Australian Accounting Standard initially; and  \n(e) either:  \n(i) a discussion of the impact that initial application of the Australian Accounting Standard\nis expected to have on the entity\u2019s financial statements; or  \n(ii) if that impact is not known or reasonably estimable, a statement to that effect.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting policies",
+            "Header 3": "Financial statements of subsequent periods need not repeat these disclosures.",
+            "page_number": 8,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Accounting estimates  \n32 An accounting policy may require items in financial statements to be measured in a way that involves\nmeasurement uncertainty \u2013 that is, the accounting policy may require such items to be measured at\nmonetary amounts that cannot be observed directly and must instead be estimated. In such a case, an entity\ndevelops an accounting estimate to achieve the objective set out by the accounting policy. Developing\naccounting estimates involves the use of judgements or assumptions based on the latest available, reliable\ninformation. Examples of accounting estimates include:  \n(a) a loss allowance for expected credit losses, applying AASB 9 Financial Instruments;  \n(b) the net realisable value of an item of inventory, applying AASB 102 Inventories;  \n(c) the fair value of an asset or liability, applying AASB 13 Fair Value Measurement;  \n(d) the depreciation expense for an item of property, plant and equipment, applying AASB 116; and  \n(e) a provision for warranty obligations, applying AASB 137 _Provisions, Contingent Liabilities and_\n_Contingent Assets._  \n32A An entity uses measurement techniques and inputs to develop an accounting estimate. Measurement\ntechniques include estimation techniques (for example, techniques used to measure a loss allowance for\nexpected credit losses applying AASB 9) and valuation techniques (for example, techniques used to\nmeasure the fair value of an asset or liability applying AASB 13).  \n32B The term \u2018estimate\u2019 in Australian Accounting Standards sometimes refers to an estimate that is not an\naccounting estimate as defined in this Standard. For example, it sometimes refers to an input used in\ndeveloping accounting estimates.  \n33 The use of reasonable estimates is an essential part of the preparation of financial statements and does not\nundermine their reliability.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Accounting estimates",
+            "page_number": 9,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Changes in accounting estimates  \n34 An entity may need to change an accounting estimate if changes occur in the circumstances on which the\naccounting estimate was based or as a result of new information, new developments or more experience. By\nits nature, a change in an accounting estimate does not relate to prior periods and is not the correction of an\nerror.  \n34A The effects on an accounting estimate of a change in an input or a change in a measurement technique are\nchanges in accounting estimates unless they result from the correction of prior period errors.  \n35 A change in the measurement basis applied is a change in an accounting policy, and is not a change in an\naccounting estimate. When it is difficult to distinguish a change in an accounting policy from a change in an\naccounting estimate, the change is treated as a change in an accounting estimate.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting estimates",
+            "page_number": 9,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Applying changes in accounting estimates  \n**36** **The effect of a change in an accounting estimate, other than a change to which paragraph 37 applies,**\n**shall be recognised prospectively by including it in profit or loss in:**  \n-----  **(a)** **the period of the change, if the change affects that period only; or**  \n**(b)** **the period of the change and future periods, if the change affects both.**  \n**37** **To the extent that a change in an accounting estimate gives rise to changes in assets and liabilities, or**\n**relates to an item of equity, it shall be recognised by adjusting the carrying amount of the related**\n**asset, liability or equity item in the period of the change.**  \n38 Prospective recognition of the effect of a change in an accounting estimate means that the change is applied\nto transactions, other events and conditions from the date of that change. A change in an accounting\nestimate may affect only the current period\u2019s profit or loss, or the profit or loss of both the current period\nand future periods. For example, a change in a loss allowance for expected credit losses affects only the\ncurrent period\u2019s profit or loss and therefore is recognised in the current period. However, a change in the\nestimated useful life of, or the expected pattern of consumption of the future economic benefits embodied\nin, a depreciable asset affects depreciation expense for the current period and for each future period during\nthe asset\u2019s remaining useful life. In both cases, the effect of the change relating to the current period is\nrecognised as income or expense in the current period. The effect, if any, on future periods is recognised as\nincome or expense in those future periods.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting estimates",
+            "Header 3": "Applying changes in accounting estimates",
+            "page_number": 9,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Disclosure  \n**39** **An entity shall disclose the nature and amount of a change in an accounting estimate that has an**\n**effect in the current period or is expected to have an effect in future periods, except for the disclosure**\n**of the effect on future periods when it is impracticable to estimate that effect.**  \n**40** **If the amount of the effect in future periods is not disclosed because estimating it is impracticable, an**\n**entity shall disclose that fact.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Changes in accounting estimates",
+            "Header 3": "Disclosure",
+            "page_number": 10,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Errors  \n41 Errors can arise in respect of the recognition, measurement, presentation or disclosure of elements of\nfinancial statements. Financial statements do not comply with Australian Accounting Standards if they\ncontain either material errors or immaterial errors made intentionally to achieve a particular presentation of\nan entity\u2019s financial position, financial performance or cash flows. Potential current period errors\ndiscovered in that period are corrected before the financial statements are authorised for issue. However,\nmaterial errors are sometimes not discovered until a subsequent period, and these prior period errors are\ncorrected in the comparative information presented in the financial statements for that subsequent period\n(see paragraphs 42\u201347).  \n**42** **Subject to paragraph 43, an entity shall correct material prior period errors retrospectively in the**\n**first set of financial statements authorised for issue after their discovery by:**  \n**(a)** **restating the comparative amounts for the prior period(s) presented in which the error**\n**occurred; or**  \n**(b)** **if the error occurred before the earliest prior period presented, restating the opening**\n**balances of assets, liabilities and equity for the earliest prior period presented.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Errors",
+            "page_number": 10,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Limitations on retrospective restatement  \n**43** **A prior period error shall be corrected by retrospective restatement except to the extent that it is**\n**impracticable to determine either the period-specific effects or the cumulative effect of the error.**  \n**44** **When it is impracticable to determine the period-specific effects of an error on comparative**\n**information for one or more prior periods presented, the entity shall restate the opening balances of**\n**assets, liabilities and equity for the earliest period for which retrospective restatement is practicable**\n**(which may be the current period).**  \n**45** **When it is impracticable to determine the cumulative effect, at the beginning of the current period, of**\n**an error on all prior periods, the entity shall restate the comparative information to correct the error**\n**prospectively from the earliest date practicable.**  \n46 The correction of a prior period error is excluded from profit or loss for the period in which the error is\ndiscovered. Any information presented about prior periods, including any historical summaries of financial\ndata, is restated as far back as is practicable.  \n47 When it is impracticable to determine the amount of an error (eg a mistake in applying an accounting\npolicy) for all prior periods, the entity, in accordance with paragraph 45, restates the comparative  \n-----  information prospectively from the earliest date practicable. It therefore disregards the portion of the\ncumulative restatement of assets, liabilities and equity arising before that date. Paragraphs 50\u201353 provide\nguidance on when it is impracticable to correct an error for one or more prior periods.  \n48 Corrections of errors are distinguished from changes in accounting estimates. Accounting estimates by their\nnature are approximations that may need changing as additional information becomes known. For example,\nthe gain or loss recognised on the outcome of a contingency is not the correction of an error.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Limitations on retrospective restatement",
+            "page_number": 10,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Disclosure of prior period errors  \n**49** **In applying paragraph 42, an entity shall disclose the following:**  \n**(a)** **the nature of the prior period error;**  \n**(b)** **for each prior period presented, to the extent practicable, the amount of the correction:**  \n**(i)** **for each financial statement line item affected; and**  \n**(ii)** **if AASB 133 applies to the entity, for basic and diluted earnings per share;**  \n**(c)** **the amount of the correction at the beginning of the earliest prior period presented; and**  \n**(d)** **if retrospective restatement is impracticable** **for a particular prior period, the circumstances**\n**that led to the existence of that condition and a description of how and from when the error**\n**has been corrected.**",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Disclosure of prior period errors",
+            "page_number": 11,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "### Financial statements of subsequent periods need not repeat these disclosures.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Disclosure of prior period errors",
+            "Header 3": "Financial statements of subsequent periods need not repeat these disclosures.",
+            "page_number": 11,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Impracticability in respect of retrospective application and retrospective restatement  \n50 In some circumstances, it is impracticable to adjust comparative information for one or more prior periods\nto achieve comparability with the current period. For example, data may not have been collected in the prior\nperiod(s) in a way that allows either retrospective application of a new accounting policy (including, for the\npurpose of paragraphs 51\u201353, its prospective application to prior periods) or retrospective restatement to\ncorrect a prior period error, and it may be impracticable to recreate the information.  \n51 It is frequently necessary to make estimates in applying an accounting policy to elements of financial\nstatements recognised or disclosed in respect of transactions, other events or conditions. Estimation is\ninherently subjective, and estimates may be developed after the reporting period. Developing estimates is\npotentially more difficult when retrospectively applying an accounting policy or making a retrospective\nrestatement to correct a prior period error, because of the longer period of time that might have passed since\nthe affected transaction, other event or condition occurred. However, the objective of estimates related to\nprior periods remains the same as for estimates made in the current period, namely, for the estimate to\nreflect the circumstances that existed when the transaction, other event or condition occurred.  \n52 Therefore, retrospectively applying a new accounting policy or correcting a prior period error requires\ndistinguishing information that  \n(a) provides evidence of circumstances that existed on the date(s) as at which the transaction, other\nevent or condition occurred, and  \n(b) would have been available when the financial statements for that prior period were authorised for\nissue  \nfrom other information. For some types of estimates (eg a fair value measurement that uses significant\nunobservable inputs), it is impracticable to distinguish these types of information. When retrospective\napplication or retrospective restatement would require making a significant estimate for which it is\nimpossible to distinguish these two types of information, it is impracticable to apply the new accounting\npolicy or correct the prior period error retrospectively.  \n53 Hindsight should not be used when applying a new accounting policy to, or correcting amounts for, a prior\nperiod, either in making assumptions about what management\u2019s intentions would have been in a prior\nperiod or estimating the amounts recognised, measured or disclosed in a prior period. For example, when an\nentity corrects a prior period error in calculating its liability for employees\u2019 accumulated sick leave in\naccordance with AASB 119 _Employee Benefits, it disregards information about an unusually severe_\ninfluenza season during the next period that became available after the financial statements for the prior\nperiod were authorised for issue. The fact that significant estimates are frequently required when amending  \n-----  comparative information presented for prior periods does not prevent reliable adjustment or correction of\nthe comparative information.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Impracticability in respect of retrospective application and retrospective restatement",
+            "page_number": 11,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Effective date and transition  \n54 An entity shall apply this Standard for annual periods beginning on or after 1 January 2018. Earlier\napplication is encouraged for periods beginning after 24 July 2014 but before 1 January 2018. If an entity\napplies this Standard for a period beginning before 1 January 2018, it shall disclose that fact.  \n54A [Deleted]  \n54B [Deleted]  \n54C [Deleted by the AASB]  \n54D [Deleted]  \n54E AASB 2010-7 Amendments to Australian Accounting Standards arising from AASB 9 (December 2010) (as\namended) amended the previous version of this Standard as follows: amended paragraph 53 and deleted\nparagraph 54A. Paragraph 54B, added by AASB 2010-7, was deleted by AASB 2014-1 _Amendments to_\n_Australian Accounting Standards. Paragraph 54D, added by AASB 2014-1, was deleted by AASB 2014-7_\n_Amendments to Australian Accounting Standards arising from AASB 9 (December 2014). An entity shall_\napply those amendments when it applies AASB 9.  \n54F AASB 2019-1 _Amendments to Australian Accounting Standards \u2013 References to the Conceptual_\n_Framework, issued in 2019, added AusCF paragraphs and amended paragraph 11(b). An entity shall apply_\nthose amendments for annual periods beginning on or after 1 January 2020. Earlier application is permitted\nif at the same time an entity also applies all other amendments made by AASB 2019-1. An entity shall\napply paragraph 11 retrospectively in accordance with this Standard. However, if an entity determines that\nretrospective application would be impracticable or would involve undue cost or effort, it shall apply\nparagraph 11 by reference to paragraphs 23\u201328 of this Standard. If retrospective application of any\namendment in AASB 2019-1 would involve undue cost or effort, an entity shall, in applying paragraphs 23\u2013\n28 of this Standard, read any reference except in the last sentence of paragraph 27 to \u2018is impracticable\u2019 as\n\u2018involves undue cost or effort\u2019 and any reference to \u2018practicable\u2019 as \u2018possible without undue cost or effort\u2019.  \n54G If an entity does not apply AASB 14 Regulatory Deferral Accounts, the entity shall, in applying paragraph\n11(b) to regulatory account balances, continue to refer to, and consider the applicability of, the definitions,\nrecognition criteria, and measurement concepts in the Framework for the Preparation and Presentation of\n_Financial Statements[3] instead of those in the Conceptual Framework. A regulatory account balance is the_\nbalance of any expense (or income) account that is not recognised as an asset or a liability in accordance\nwith other applicable Australian Accounting Standards but is included, or is expected to be included, by the\nrate regulator in establishing the rate(s) that can be charged to customers. A rate regulator is an authorised\nbody that is empowered by statute or regulation to establish the rate or a range of rates that bind an entity.\nThe rate regulator may be a third-party body or a related party of the entity, including the entity\u2019s own\ngoverning board, if that body is required by statute or regulation to set rates both in the interest of the\ncustomers and to ensure the overall financial viability of the entity.  \n54H AASB 2018-7 Amendments to Australian Accounting Standards \u2013 Definition of Material, issued in\nDecember 2018, amended paragraph 7 of AASB 101 and paragraph 5 of AASB 108, and deleted paragraph\n6 of AASB 108. An entity shall apply those amendments prospectively for annual periods beginning on or\nafter 1 January 2020. Earlier application is permitted. If an entity applies those amendments for an earlier\nperiod, it shall disclose that fact.  \n54I AASB 2021-2 _Amendments to Australian Accounting Standards \u2013 Disclosure of Accounting Policies and_\n_Definition of Accounting Estimates, issued in March 2021, amended paragraphs 5, 32, 34, 38 and 48 and_\nadded paragraphs 32A, 32B and 34A. An entity shall apply these amendments for annual reporting periods\nbeginning on or after 1 January 2023. Earlier application is permitted. An entity shall apply the amendments\nto changes in accounting estimates and changes in accounting policies that occur on or after the beginning\nof the first annual reporting period in which it applies the amendments.  \n3 The reference is to the Framework for the Preparation and Presentation of Financial Statements adopted by the AASB in 2004.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Effective date and transition",
+            "page_number": 12,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of other pronouncements  \n55\u2013\n56 [Deleted by the AASB]",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Withdrawal of other pronouncements",
+            "page_number": 13,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Commencement of the legislative instrument  \nAus56.1 [Repealed]",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Commencement of the legislative instrument",
+            "page_number": 13,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Withdrawal of AASB pronouncements  \nAus56.2 This Standard repeals AASB 108 _Accounting Policies, Changes in Accounting Estimates and_\n_Errors issued in July 2004. Despite the repeal, after the time this Standard starts to apply under_\nsection 334 of the Corporations Act (either generally or in relation to an individual entity), the\nrepealed Standard continues to apply in relation to any period ending before that time as if the\nrepeal had not occurred.  \n[Note: When this Standard applies under section 334 of the Corporations Act (either generally or\nin relation to an individual entity), it supersedes the application of the repealed Standard.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Withdrawal of AASB pronouncements",
+            "page_number": 13,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Appendix A Australian simplified disclosures for Tier 2 entities  \n_This appendix is an integral part of the Standard._  \n**AusA1** **Paragraphs 28\u201331, 39\u201340 and 49 do not apply to entities preparing general purpose**\n**financial statements that apply AASB 1060** **_General Purpose Financial Statements \u2013_**\n**_Simplified Disclosures for For-Profit and Not-for-Profit Tier 2 Entities._**  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Appendix A Australian simplified disclosures for Tier 2 entities",
+            "page_number": 14,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Compilation details Accounting Standard AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors (as amended)  \n_Compilation details are not part of AASB 108._  \nThis compiled Standard applies to annual periods beginning on or after 1 January 2023. It takes into account\namendments up to and including 30 March 2021 and was prepared on 6 February 2023 by the staff of the Australian\nAccounting Standards Board (AASB).  \nThis compilation is not a separate Accounting Standard made by the AASB. Instead, it is a representation of\nAASB 108 (August 2015) as amended by other Accounting Standards, which are listed in the table below.",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Compilation details Accounting Standard AASB 108 Accounting Policies, Changes in Accounting Estimates and Errors (as amended)",
+            "page_number": 15,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Table of Standards  \n|Standard|Date made|FRL identifier|Commence- ment date|Effective date (annual periods \u2026 on or after \u2026)|Application, saving or transitional provisions|\n|---|---|---|---|---|---|\n|AASB 108|7 Aug 2015|F2015L01565|31 Dec 2017|(beginning) 1 Jan 2018|see (a) below|\n|AASB 2018-7|18 Dec 2018|F2019L00021|31 Dec 2019|(beginning) 1 Jan 2020|see (b) below|\n|AASB 2019-1|21 May 2019|F2019L00966|31 Dec 2019|(beginning) 1 Jan 2020|see (b) below|\n|AASB 1060|6 Mar 2020|F2020L00288|30 Jun 2021|(beginning) 1 Jul 2021|see (c) below|\n|AASB 2021-2|30 Mar 2021|F2021L00471|31 Dec 2022|(beginning) 1 Jan 2023|see (d) below|  \n(a) Entities may elect to apply this Standard to annual periods beginning after 24 July 2014 but before 1 January 2018.  \n(b) Entities may elect to apply this Standard to annual periods beginning before 1 January 2020.  \n(c) Entities may elect to apply this Standard to annual periods beginning before 1 July 2021.  \n(d) Entities may elect to apply this Standard to annual periods beginning before 1 January 2023.  \n|Table of amendments|Col2|Col3|\n|---|---|---|\n|Paragraph affected|How affected|By \u2026 [paragraph/page]|\n|AusCF1|added|AASB 2019-1 [page 18]|\n|5|amended amended|AASB 2018-7 [page 7] AASB 2021-2 [page 8]|\n|6|deleted|AASB 2018-7 [page 7]|\n|7|amended|AASB 1060 [page 61]|\n|11|amended|AASB 2019-1 [page 18]|\n|AusCF11|added|AASB 2019-1 [page 18]|\n|32 (and preceding heading)|amended|AASB 2021-2 [page 8]|\n|32A-32B|added|AASB 2021-2 [page 8]|\n|34 (preceding heading)|added|AASB 2021-2 [page 8]|\n|34|amended|AASB 2021-2 [page 8]|\n|34A|added|AASB 2021-2 [page 9]|\n|36 (preceding heading)|added|AASB 2021-2 [page 9]|\n|38|amended|AASB 2021-2 [page 9]|\n|39 (preceding heading)|amended|AASB 2021-2 [page 9]|\n|48|amended|AASB 2021-2 [page 9]|\n|54 (and preceding heading)|amended|AASB 2019-1 [page 18]|\n|54F-54G|added|AASB 2019-1 [page 18]|\n|54H|added|AASB 2018-7 [page 7]|\n|54I|added|AASB 2021-2 [page 9]|\n|Aus56.1|repealed|Legislation Act 2003, s. 48D|\n|Appendix A|replaced|AASB 1060 [page 61]|  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Table of Standards",
+            "page_number": 15,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    },
+    {
+        "page_content=": "## Deleted IAS 8 text  \n_Deleted IAS 8 text is not part of AASB 108._  \n54C IFRS 13 Fair Value Measurement, issued in May 2011, amended paragraph 52. An entity shall apply that\namendment when it applies IFRS 13.  \n55 This Standard supersedes IAS 8 _Net Profit or Loss for the Period, Fundamental Errors and Changes in_\n_Accounting Policies, revised in 1993._  \n56 This Standard supersedes the following Interpretations:  \n(a) SIC-2 Consistency\u2014Capitalisation of Borrowing Costs; and  \n(b) SIC-18 Consistency\u2014Alternative Methods.  \n-----  ",
+        "metadata": {
+            "Header 1": "Accounting Policies, Changes in Accounting Estimates and Errors",
+            "Header 2": "Deleted IAS 8 text",
+            "page_number": 16,
+            "file_name": "AASB108 Accounting Policies, Changes in Accounting Estimates and Errors"
+        }
+    }
+]
