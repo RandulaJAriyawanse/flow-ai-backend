@@ -136,6 +136,10 @@ async def get_answer(question: str, user_id):
                     "name": chunk["name"],
                     "data": content_final["data"],
                 }
+                # temporarily
+                if tool_content["name"] == "get_AASB_information":
+                    for doc in tool_content["data"]:
+                        doc["page_content"] = ""
     if tool_content:
         yield tool_content
     print("Full get answer time: ", time.time() - st)
