@@ -130,7 +130,7 @@
 
 # def create_vectorstore(user_id, file, file_name, pdf_store_id):
 #     # parser = LlamaParse(
-#     #     api_key="llx-f3z3xAVeycZDYauOLi9Gzo0H9RgXJn54xFIGE2uR3OG6Kzba",
+#     #     api_key="",
 #     #     result_type="markdown",
 #     #     use_vendor_multimodal_model=True,
 #     #     vendor_multimodal_model_name="openai-gpt-4o-mini",
