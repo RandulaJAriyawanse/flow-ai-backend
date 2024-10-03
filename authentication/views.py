@@ -21,6 +21,7 @@ def login(request):
     - 404 NOT FOUND: If user is not found or password is incorrect.
     - 500 INTERNAL SERVER ERROR: For server errors.
     """
+    print("Login...")
     try:
         user = get_object_or_404(User, email=request.data["email"])
         print("Login...")
@@ -103,6 +104,7 @@ def guest(request):
     """
     Automatically creates a unique user for each login request and returns user details and a token.
     """
+    print("Guest login...")
     try:
         unique_username = (
             f"guest_{uuid.uuid4().hex[:8]}_{int(datetime.now().timestamp())}"

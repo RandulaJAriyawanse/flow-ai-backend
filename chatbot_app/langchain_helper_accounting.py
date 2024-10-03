@@ -4,15 +4,18 @@ from .utils import get_env
 from .models import ChatHistory, UserChats
 from langgraph.graph import StateGraph
 from langgraph.graph.message import AnyMessage, add_messages
+from langchain_core.runnables import Runnable, RunnableConfig
 from typing import TypedDict, Annotated
 from asgiref.sync import sync_to_async
+from chatbot_app.llm_tools.rag import get_AASB_information
+from chatbot_app.llm_tools.user_rag import get_user_file_information
+from chatbot_app.llm_tools.xero_tools.xero import get_invoices, get_single_invoice
 from langgraph.prebuilt import ToolNode, tools_condition
 from datetime import datetime
 import json
 import time
 import environ
 import os
-from chatbot_app.llm_tools.api_tools.api_call import get_data
 
 OPENAI_API_KEY = get_env("OPENAI_API_KEY")
 OPENAI_MODEL = get_env("OPENAI_MODEL")
@@ -24,10 +27,6 @@ os.environ["LANGCHAIN_ENDPOINT"] = get_env("LANGCHAIN_ENDPOINT")
 os.environ["LANGCHAIN_API_KEY"] = get_env("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_PROJECT"] = get_env("LANGCHAIN_PROJECT")
 os.environ["LANGCHAIN_CALLBACKS_BACKGROUND"] = get_env("LANGCHAIN_CALLBACKS_BACKGROUND")
-
-
-class State(TypedDict):
-    messages: Annotated[list[AnyMessage], add_messages]
 
 
 async def get_message_history(user_id):
@@ -46,45 +45,62 @@ async def get_message_history(user_id):
     return history_data
 
 
-def create_graph(state):
-    llm = ChatOpenAI(
-        model=OPENAI_MODEL,
-        api_key=OPENAI_API_KEY,
-        temperature=TEMPERATURE,
-        # max_tokens=MAX_TOKEN,
-        # streaming=True,
+def create_graph(pdf_store_id):
+    class State(TypedDict):
+        messages: Annotated[list[AnyMessage], add_messages]
+
+    class Assistant:
+        def __init__(self, runnable: Runnable):
+            self.runnable = runnable
+
+        def __call__(self, state: State):
+            while True:
+                result = self.runnable.invoke(state)
+                break
+            return {"messages": result}
+
+    file_upload_message = (
+        "\nThe user has also uploaded a file that they may be querying about"
+        if pdf_store_id
+        else ""
     )
 
     prompt = ChatPromptTemplate.from_messages(
         [
             (
                 "system",
-                "You are a helpful assistant that has access to tools to answer the user's question"
-                "\n\nFor reference the time now is {time}",
+                "You are a helpful assistant that has access to a tool to answer any accounting related questions."
+                # "\nIf the question has the term 'AASB' in it, make sure to rephrase the question to remove the term before passing the question as an argument to the tool."
+                # "\nUse the get_invoices tool to get information about the user's invoices."
+                # "\nNote, you currently only have access to invoices in Xero"
+                # f"{file_upload_message}"
+                "\nFor reference, the date and time now is {time}",
             ),
             ("placeholder", "{messages}"),
         ]
     ).partial(time=datetime.now())
 
-    tools = [get_data]
-    chain = prompt | llm.bind_tools(tools, tool_choice="get_data")
+    model = ChatOpenAI(
+        model=OPENAI_MODEL,
+        api_key=OPENAI_API_KEY,
+        temperature=TEMPERATURE,
+        # max_tokens=MAX_TOKEN,
+        streaming=True,
+    )
 
-    def first_assistant(state: State):
-        return {"messages": [chain.invoke(state)]}
-
-    def final_assistant(state: State):
-        return {"messages": [llm.invoke(state["messages"])]}
-
-    builder = StateGraph(state)
-    builder.add_node("assistant", first_assistant)
+    tools = [get_AASB_information]  # , get_invoices, get_single_invoice]
+    if pdf_store_id:
+        tools.append(get_user_file_information)
+    chain = prompt | model.bind_tools(tools)
+    builder = StateGraph(State)
+    builder.add_node("assistant", Assistant(chain))
     builder.add_node("tools", ToolNode(tools))
-    builder.add_node("final_assistant", final_assistant)
     builder.set_entry_point("assistant")
     builder.add_conditional_edges(
         "assistant",
         tools_condition,
     )
-    builder.add_edge("tools", "final_assistant")
+    builder.add_edge("tools", "assistant")
     graph = builder.compile()
     return graph
 
@@ -94,12 +110,12 @@ async def get_answer(question: str, user_id, pdf_store_id=None):
     history_data = await get_message_history(user_id)
     history_data.append(("user", question))
 
-    chain = create_graph(State)
+    chain = create_graph(pdf_store_id)
     tool_content = None
 
     config = {
         "configurable": {
-            "question": question,
+            "pdf_store_id": pdf_store_id,
         }
     }
     response = chain.astream_events(

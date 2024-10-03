@@ -75,9 +75,6 @@ async def get_invoices(
             }
             simplified_results.append(simplified_item)
 
-        # if company:
-        #     query += f" for account {company}"
-
         simplified_results = [
             item for item in simplified_results if item["Type"] == "ACCREC"
         ]

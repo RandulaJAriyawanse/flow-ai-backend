@@ -1,6 +1,5 @@
 from django.urls import path
-
-from .views import ChatBot, get_documents
+from .views import ChatBot, get_documents, get_user_documents, FileUploadView
 
 
 def trigger_error(request):
@@ -15,5 +14,11 @@ urlpatterns = [
         ChatBot.delete_chat_history,
         name="delete_chathistory",
     ),
+    path(
+        "user_documents/<int:user_id>/",
+        get_user_documents,
+        name="get-user-documents",
+    ),
+    path("upload/<int:user_id>/", FileUploadView.as_view(), name="file-upload"),
     path("sentry-debug/", trigger_error),
 ]
