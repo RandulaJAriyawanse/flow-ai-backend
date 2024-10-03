@@ -33,6 +33,7 @@
 # db_password = get_env("DATABASE_PASSWORD")
 # db_host = get_env("DATABASE_HOST")
 # db_port = get_env("DATABASE_PORT")
+# LLAMAINDEX_API_KEY = get_env("OPENAI_API_KEY")
 
 # connection_string = (
 #     f"{db_engine}://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
@@ -130,7 +131,7 @@
 
 # def create_vectorstore(user_id, file, file_name, pdf_store_id):
 #     # parser = LlamaParse(
-#     #     api_key="",
+#     #     api_key=LLAMAINDEX_API_KEY,
 #     #     result_type="markdown",
 #     #     use_vendor_multimodal_model=True,
 #     #     vendor_multimodal_model_name="openai-gpt-4o-mini",
